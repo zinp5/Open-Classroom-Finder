@@ -1,0 +1,5258 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Basic concepts of accounting; interpreting and using financial statements; understanding accounting principles.",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0900",
+                "building": "Teaching and Learning Complex",
+                "description": "Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "03211"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00198"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MGT 011A A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "46892",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Elementary Accounting",
+            "subjectDesc": "Management",
+            "courseNum": "011A",
+            "hidCRN": "46892",
+            "crn": "46892",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Bains",
+                "instructorName": "M. Bains",
+                "firstName": "Muneet",
+                "instructorEmail": "mbains@ucdavis.edu",
+                "fullName": "Muneet Bains"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Basic concepts of accounting; interpreting and using financial statements; understanding accounting principles.",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1310",
+                "building": "Veihmeyer Hall",
+                "description": "Discussion",
+                "buildingCode": "VEIMYR",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00116"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00198"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MGT 011A A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "46893",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Elementary Accounting",
+            "subjectDesc": "Management",
+            "courseNum": "011A",
+            "hidCRN": "46893",
+            "crn": "46893",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Bains",
+                "instructorName": "M. Bains",
+                "firstName": "Muneet",
+                "instructorEmail": "mbains@ucdavis.edu",
+                "fullName": "Muneet Bains"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Basic concepts of accounting; interpreting and using financial statements; understanding accounting principles.",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1410",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00267"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00198"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MGT 011A A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "46894",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Elementary Accounting",
+            "subjectDesc": "Management",
+            "courseNum": "011A",
+            "hidCRN": "46894",
+            "crn": "46894",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Bains",
+                "instructorName": "M. Bains",
+                "firstName": "Muneet",
+                "instructorEmail": "mbains@ucdavis.edu",
+                "fullName": "Muneet Bains"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Basic concepts of accounting; interpreting and using financial statements; understanding accounting principles.",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1000",
+                "building": "Teaching and Learning Complex",
+                "description": "Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "03211"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00198"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MGT 011A A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "46895",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Elementary Accounting",
+            "subjectDesc": "Management",
+            "courseNum": "011A",
+            "hidCRN": "46895",
+            "crn": "46895",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Bains",
+                "instructorName": "M. Bains",
+                "firstName": "Muneet",
+                "instructorEmail": "mbains@ucdavis.edu",
+                "fullName": "Muneet Bains"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Basic concepts of accounting; interpreting and using financial statements; understanding accounting principles.",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1100",
+                "building": "Teaching and Learning Complex",
+                "description": "Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "03212"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00198"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MGT 011A A05",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A05",
+            "printCRN": "46896",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Elementary Accounting",
+            "subjectDesc": "Management",
+            "courseNum": "011A",
+            "hidCRN": "46896",
+            "crn": "46896",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Bains",
+                "instructorName": "M. Bains",
+                "firstName": "Muneet",
+                "instructorEmail": "mbains@ucdavis.edu",
+                "fullName": "Muneet Bains"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Basic concepts of accounting; interpreting and using financial statements; understanding accounting principles.",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1210",
+                "building": "Hutchison Hall",
+                "description": "Discussion",
+                "buildingCode": "HUTCH",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00102"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00198"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MGT 011A A06",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A06",
+            "printCRN": "46897",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Elementary Accounting",
+            "subjectDesc": "Management",
+            "courseNum": "011A",
+            "hidCRN": "46897",
+            "crn": "46897",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Bains",
+                "instructorName": "M. Bains",
+                "firstName": "Muneet",
+                "instructorEmail": "mbains@ucdavis.edu",
+                "fullName": "Muneet Bains"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Basic concepts of accounting; interpreting and using financial statements; understanding accounting principles.",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1100",
+                "building": "Physics Building",
+                "description": "Discussion",
+                "buildingCode": "PHYSIC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00148"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00198"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MGT 011A A07",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A07",
+            "printCRN": "46898",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Elementary Accounting",
+            "subjectDesc": "Management",
+            "courseNum": "011A",
+            "hidCRN": "46898",
+            "crn": "46898",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Bains",
+                "instructorName": "M. Bains",
+                "firstName": "Muneet",
+                "instructorEmail": "mbains@ucdavis.edu",
+                "fullName": "Muneet Bains"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Basic concepts of accounting; interpreting and using financial statements; understanding accounting principles.",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1210",
+                "building": "Wickson Hall",
+                "description": "Discussion",
+                "buildingCode": "WICKSN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01038"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00198"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MGT 011A A08",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A08",
+            "printCRN": "46899",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Elementary Accounting",
+            "subjectDesc": "Management",
+            "courseNum": "011A",
+            "hidCRN": "46899",
+            "crn": "46899",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Bains",
+                "instructorName": "M. Bains",
+                "firstName": "Muneet",
+                "instructorEmail": "mbains@ucdavis.edu",
+                "fullName": "Muneet Bains"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Basic concepts of accounting; interpreting and using financial statements; understanding accounting principles.",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0900",
+                "building": "Hart Hall",
+                "description": "Discussion",
+                "buildingCode": "HART",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01128"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00198"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MGT 011A B01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "B01",
+            "printCRN": "46900",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Elementary Accounting",
+            "subjectDesc": "Management",
+            "courseNum": "011A",
+            "hidCRN": "46900",
+            "crn": "46900",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Bains",
+                "instructorName": "M. Bains",
+                "firstName": "Muneet",
+                "instructorEmail": "mbains@ucdavis.edu",
+                "fullName": "Muneet Bains"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Basic concepts of accounting; interpreting and using financial statements; understanding accounting principles.",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1000",
+                "building": "Teaching and Learning Complex",
+                "description": "Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "03212"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00198"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MGT 011A B02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "B02",
+            "printCRN": "46901",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Elementary Accounting",
+            "subjectDesc": "Management",
+            "courseNum": "011A",
+            "hidCRN": "46901",
+            "crn": "46901",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Bains",
+                "instructorName": "M. Bains",
+                "firstName": "Muneet",
+                "instructorEmail": "mbains@ucdavis.edu",
+                "fullName": "Muneet Bains"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Basic concepts of accounting; interpreting and using financial statements; understanding accounting principles.",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1100",
+                "building": "Storer Hall",
+                "description": "Discussion",
+                "buildingCode": "STORER",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01344"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00198"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MGT 011A B03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "B03",
+            "printCRN": "46902",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Elementary Accounting",
+            "subjectDesc": "Management",
+            "courseNum": "011A",
+            "hidCRN": "46902",
+            "crn": "46902",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Bains",
+                "instructorName": "M. Bains",
+                "firstName": "Muneet",
+                "instructorEmail": "mbains@ucdavis.edu",
+                "fullName": "Muneet Bains"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Basic concepts of accounting; interpreting and using financial statements; understanding accounting principles.",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1210",
+                "building": "Veihmeyer Hall",
+                "description": "Discussion",
+                "buildingCode": "VEIMYR",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00116"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00198"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MGT 011A B04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "B04",
+            "printCRN": "46903",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Elementary Accounting",
+            "subjectDesc": "Management",
+            "courseNum": "011A",
+            "hidCRN": "46903",
+            "crn": "46903",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Bains",
+                "instructorName": "M. Bains",
+                "firstName": "Muneet",
+                "instructorEmail": "mbains@ucdavis.edu",
+                "fullName": "Muneet Bains"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Basic concepts of accounting; interpreting and using financial statements; understanding accounting principles.",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1310",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00229"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00198"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MGT 011A B05",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "B05",
+            "printCRN": "46904",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Elementary Accounting",
+            "subjectDesc": "Management",
+            "courseNum": "011A",
+            "hidCRN": "46904",
+            "crn": "46904",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Bains",
+                "instructorName": "M. Bains",
+                "firstName": "Muneet",
+                "instructorEmail": "mbains@ucdavis.edu",
+                "fullName": "Muneet Bains"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Basic concepts of accounting; interpreting and using financial statements; understanding accounting principles.",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1410",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00003"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00198"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MGT 011A B06",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "B06",
+            "printCRN": "46905",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Elementary Accounting",
+            "subjectDesc": "Management",
+            "courseNum": "011A",
+            "hidCRN": "46905",
+            "crn": "46905",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Bains",
+                "instructorName": "M. Bains",
+                "firstName": "Muneet",
+                "instructorEmail": "mbains@ucdavis.edu",
+                "fullName": "Muneet Bains"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Basic concepts of accounting; interpreting and using financial statements; understanding accounting principles.",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1410",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00229"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00198"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MGT 011A B07",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "B07",
+            "printCRN": "46906",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Elementary Accounting",
+            "subjectDesc": "Management",
+            "courseNum": "011A",
+            "hidCRN": "46906",
+            "crn": "46906",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Bains",
+                "instructorName": "M. Bains",
+                "firstName": "Muneet",
+                "instructorEmail": "mbains@ucdavis.edu",
+                "fullName": "Muneet Bains"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Basic concepts of accounting; interpreting and using financial statements; understanding accounting principles.",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1510",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00267"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00198"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MGT 011A B08",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "B08",
+            "printCRN": "46907",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Elementary Accounting",
+            "subjectDesc": "Management",
+            "courseNum": "011A",
+            "hidCRN": "46907",
+            "crn": "46907",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Bains",
+                "instructorName": "M. Bains",
+                "firstName": "Muneet",
+                "instructorEmail": "mbains@ucdavis.edu",
+                "fullName": "Muneet Bains"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Theory of product costing; Analyzing the role and impact of accounting information on decision making; planning and performance evaluation. ",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": " MGT 011A"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0850",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0800",
+                "building": "Hart Hall",
+                "description": "Discussion",
+                "buildingCode": "HART",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01120"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1340",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00198"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MGT 011B A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "46908",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Elementary Accounting",
+            "subjectDesc": "Management",
+            "courseNum": "011B",
+            "hidCRN": "46908",
+            "crn": "46908",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Zern",
+                "instructorName": "C. Zern",
+                "firstName": "Colleen",
+                "instructorEmail": "cozern@ucdavis.edu",
+                "fullName": "Colleen Zern"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Theory of product costing; Analyzing the role and impact of accounting information on decision making; planning and performance evaluation. ",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": " MGT 011A"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0900",
+                "building": "Hart Hall",
+                "description": "Discussion",
+                "buildingCode": "HART",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01120"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1340",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00198"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MGT 011B A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "46909",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Elementary Accounting",
+            "subjectDesc": "Management",
+            "courseNum": "011B",
+            "hidCRN": "46909",
+            "crn": "46909",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Zern",
+                "instructorName": "C. Zern",
+                "firstName": "Colleen",
+                "instructorEmail": "cozern@ucdavis.edu",
+                "fullName": "Colleen Zern"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Theory of product costing; Analyzing the role and impact of accounting information on decision making; planning and performance evaluation. ",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": " MGT 011A"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1000",
+                "building": "Physics Building",
+                "description": "Discussion",
+                "buildingCode": "PHYSIC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00140"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1340",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00198"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MGT 011B A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "46910",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Elementary Accounting",
+            "subjectDesc": "Management",
+            "courseNum": "011B",
+            "hidCRN": "46910",
+            "crn": "46910",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Zern",
+                "instructorName": "C. Zern",
+                "firstName": "Colleen",
+                "instructorEmail": "cozern@ucdavis.edu",
+                "fullName": "Colleen Zern"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Theory of product costing; Analyzing the role and impact of accounting information on decision making; planning and performance evaluation. ",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": " MGT 011A"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1100",
+                "building": "Teaching and Learning Complex",
+                "description": "Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01214"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1340",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00198"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MGT 011B A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "46911",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Elementary Accounting",
+            "subjectDesc": "Management",
+            "courseNum": "011B",
+            "hidCRN": "46911",
+            "crn": "46911",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Zern",
+                "instructorName": "C. Zern",
+                "firstName": "Colleen",
+                "instructorEmail": "cozern@ucdavis.edu",
+                "fullName": "Colleen Zern"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Theory of product costing; Analyzing the role and impact of accounting information on decision making; planning and performance evaluation. ",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": " MGT 011A"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1210",
+                "building": "Hoagland Hall",
+                "description": "Discussion",
+                "buildingCode": "HOAGLD",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00168"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1340",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00198"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MGT 011B A05",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A05",
+            "printCRN": "46912",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Elementary Accounting",
+            "subjectDesc": "Management",
+            "courseNum": "011B",
+            "hidCRN": "46912",
+            "crn": "46912",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Zern",
+                "instructorName": "C. Zern",
+                "firstName": "Colleen",
+                "instructorEmail": "cozern@ucdavis.edu",
+                "fullName": "Colleen Zern"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Theory of product costing; Analyzing the role and impact of accounting information on decision making; planning and performance evaluation. ",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": " MGT 011A"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1310",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00267"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1340",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00198"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MGT 011B A06",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A06",
+            "printCRN": "46913",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Elementary Accounting",
+            "subjectDesc": "Management",
+            "courseNum": "011B",
+            "hidCRN": "46913",
+            "crn": "46913",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Zern",
+                "instructorName": "C. Zern",
+                "firstName": "Colleen",
+                "instructorEmail": "cozern@ucdavis.edu",
+                "fullName": "Colleen Zern"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Theory of product costing; Analyzing the role and impact of accounting information on decision making; planning and performance evaluation. ",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": " MGT 011A"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1310",
+                "building": "Hart Hall",
+                "description": "Discussion",
+                "buildingCode": "HART",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01120"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1340",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00198"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MGT 011B A07",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A07",
+            "printCRN": "46914",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Elementary Accounting",
+            "subjectDesc": "Management",
+            "courseNum": "011B",
+            "hidCRN": "46914",
+            "crn": "46914",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Zern",
+                "instructorName": "C. Zern",
+                "firstName": "Colleen",
+                "instructorEmail": "cozern@ucdavis.edu",
+                "fullName": "Colleen Zern"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Theory of product costing; Analyzing the role and impact of accounting information on decision making; planning and performance evaluation. ",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": " MGT 011A"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1410",
+                "building": "Hart Hall",
+                "description": "Discussion",
+                "buildingCode": "HART",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01120"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1340",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00198"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MGT 011B A08",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A08",
+            "printCRN": "46915",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Elementary Accounting",
+            "subjectDesc": "Management",
+            "courseNum": "011B",
+            "hidCRN": "46915",
+            "crn": "46915",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Zern",
+                "instructorName": "C. Zern",
+                "firstName": "Colleen",
+                "instructorEmail": "cozern@ucdavis.edu",
+                "fullName": "Colleen Zern"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Survey of major life financial decisions (e.g., career choice, consumption v. saving, investments, mortgages, insurance) and how decision-making biases (e.g., overconfidence, present bias, limited attention) can lead to suboptimal choice. Draws on research from economics, psychology, and sociology.",
+            "creditLimit": "",
+            "ge3": "QL,SS",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Walker Hall",
+                "description": "Lecture",
+                "buildingCode": "WALKER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01310"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "MGT 012Y 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "46916",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Navigating Life\u2019s Financial Decisions",
+            "subjectDesc": "Management",
+            "courseNum": "012Y",
+            "hidCRN": "46916",
+            "crn": "46916",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Virrey",
+                "instructorName": "J. Virrey",
+                "firstName": "Justin",
+                "instructorEmail": "jvirrey@ucdavis.edu",
+                "fullName": "Justin Virrey"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Open to all undergraduates, but is primarily intended for lower division students.  ",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "1210",
+                "building": "Olson Hall",
+                "description": "Variable",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "VAR",
+                "room": "00147"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "MGT 098",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "001",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study",
+            "subjectDesc": "Management",
+            "courseNum": "098",
+            "hidCRN": "084BCFC8E9",
+            "crn": "55967",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Virrey",
+                "instructorName": "J. Virrey",
+                "firstName": "Justin",
+                "instructorEmail": "jvirrey@ucdavis.edu",
+                "fullName": "Justin Virrey"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Develops an understanding of the supply and demand of accounting information. Topics include the generation and processing of accounting information, the examination of accounting information by auditors, and the use of accounting information by capital markets and tax authorities. ",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " MGT 011A C- or better;  MGT 011B C- or better;  must have C- or better in all prerequisite courses. "
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0900",
+                "building": "Wickson Hall",
+                "description": "Discussion",
+                "buildingCode": "WICKSN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01038"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00006"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MGT 101 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "46917",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Sources & Uses of Accounting Information",
+            "subjectDesc": "Management",
+            "courseNum": "101",
+            "hidCRN": "46917",
+            "crn": "46917",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Zern",
+                "instructorName": "C. Zern",
+                "firstName": "Colleen",
+                "instructorEmail": "cozern@ucdavis.edu",
+                "fullName": "Colleen Zern"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Develops an understanding of the supply and demand of accounting information. Topics include the generation and processing of accounting information, the examination of accounting information by auditors, and the use of accounting information by capital markets and tax authorities. ",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " MGT 011A C- or better;  MGT 011B C- or better;  must have C- or better in all prerequisite courses. "
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1000",
+                "building": "Veihmeyer Hall",
+                "description": "Discussion",
+                "buildingCode": "VEIMYR",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00116"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00006"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MGT 101 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "46918",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Sources & Uses of Accounting Information",
+            "subjectDesc": "Management",
+            "courseNum": "101",
+            "hidCRN": "46918",
+            "crn": "46918",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Zern",
+                "instructorName": "C. Zern",
+                "firstName": "Colleen",
+                "instructorEmail": "cozern@ucdavis.edu",
+                "fullName": "Colleen Zern"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Develops an understanding of the supply and demand of accounting information. Topics include the generation and processing of accounting information, the examination of accounting information by auditors, and the use of accounting information by capital markets and tax authorities. ",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " MGT 011A C- or better;  MGT 011B C- or better;  must have C- or better in all prerequisite courses. "
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1000",
+                "building": "Wickson Hall",
+                "description": "Discussion",
+                "buildingCode": "WICKSN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01038"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00006"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MGT 101 A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "46919",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Sources & Uses of Accounting Information",
+            "subjectDesc": "Management",
+            "courseNum": "101",
+            "hidCRN": "46919",
+            "crn": "46919",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Zern",
+                "instructorName": "C. Zern",
+                "firstName": "Colleen",
+                "instructorEmail": "cozern@ucdavis.edu",
+                "fullName": "Colleen Zern"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Develops an understanding of the supply and demand of accounting information. Topics include the generation and processing of accounting information, the examination of accounting information by auditors, and the use of accounting information by capital markets and tax authorities. ",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " MGT 011A C- or better;  MGT 011B C- or better;  must have C- or better in all prerequisite courses. "
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1100",
+                "building": "Wickson Hall",
+                "description": "Discussion",
+                "buildingCode": "WICKSN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01038"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00006"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MGT 101 A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "46920",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Sources & Uses of Accounting Information",
+            "subjectDesc": "Management",
+            "courseNum": "101",
+            "hidCRN": "46920",
+            "crn": "46920",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Zern",
+                "instructorName": "C. Zern",
+                "firstName": "Colleen",
+                "instructorEmail": "cozern@ucdavis.edu",
+                "fullName": "Colleen Zern"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Finishes the Intermediate Financial Accounting series by examining in depth the accounting for contracts related to pensions and leases. Preparation of the statement of cash flows and footnote disclosures.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " MGT 105"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1210",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00163"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "02215"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MGT 107 B01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "B01",
+            "printCRN": "46925",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Intermediate Financial Accounting III",
+            "subjectDesc": "Management",
+            "courseNum": "107",
+            "hidCRN": "46925",
+            "crn": "46925",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Mello",
+                "instructorName": "K. Mello",
+                "firstName": "Kevin",
+                "instructorEmail": "krmello@ucdavis.edu",
+                "fullName": "Kevin Mello"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Finishes the Intermediate Financial Accounting series by examining in depth the accounting for contracts related to pensions and leases. Preparation of the statement of cash flows and footnote disclosures.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " MGT 105"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1210",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00205"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "02215"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MGT 107 B02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "B02",
+            "printCRN": "46926",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Intermediate Financial Accounting III",
+            "subjectDesc": "Management",
+            "courseNum": "107",
+            "hidCRN": "46926",
+            "crn": "46926",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Mello",
+                "instructorName": "K. Mello",
+                "firstName": "Kevin",
+                "instructorEmail": "krmello@ucdavis.edu",
+                "fullName": "Kevin Mello"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Finishes the Intermediate Financial Accounting series by examining in depth the accounting for contracts related to pensions and leases. Preparation of the statement of cash flows and footnote disclosures.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " MGT 105"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1310",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00007"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "02215"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MGT 107 B03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "B03",
+            "printCRN": "46927",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Intermediate Financial Accounting III",
+            "subjectDesc": "Management",
+            "courseNum": "107",
+            "hidCRN": "46927",
+            "crn": "46927",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Mello",
+                "instructorName": "K. Mello",
+                "firstName": "Kevin",
+                "instructorEmail": "krmello@ucdavis.edu",
+                "fullName": "Kevin Mello"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Finishes the Intermediate Financial Accounting series by examining in depth the accounting for contracts related to pensions and leases. Preparation of the statement of cash flows and footnote disclosures.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " MGT 105"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1310",
+                "building": "Hart Hall",
+                "description": "Discussion",
+                "buildingCode": "HART",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01128"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "02215"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MGT 107 B04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "B04",
+            "printCRN": "46928",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Intermediate Financial Accounting III",
+            "subjectDesc": "Management",
+            "courseNum": "107",
+            "hidCRN": "46928",
+            "crn": "46928",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Mello",
+                "instructorName": "K. Mello",
+                "firstName": "Kevin",
+                "instructorEmail": "krmello@ucdavis.edu",
+                "fullName": "Kevin Mello"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Develop an analytical framework to manage and monitor business systems concerned with operational, human, and organizational interactions. Introduction to computer hardware, systems software, and information systems. Management of information technology and the impact of information systems on modern management.",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00006"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0900",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00141"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MGT 120 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "46929",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Managing & Using Information Technology",
+            "subjectDesc": "Management",
+            "courseNum": "120",
+            "hidCRN": "46929",
+            "crn": "46929",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Aram",
+                "instructorName": "C. Aram",
+                "firstName": "Cyrus",
+                "instructorEmail": "cjaram@ucdavis.edu",
+                "fullName": "Cyrus Aram"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Develop an analytical framework to manage and monitor business systems concerned with operational, human, and organizational interactions. Introduction to computer hardware, systems software, and information systems. Management of information technology and the impact of information systems on modern management.",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00006"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1000",
+                "building": "Bainer Hall",
+                "description": "Discussion",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01132"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MGT 120 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "46930",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Managing & Using Information Technology",
+            "subjectDesc": "Management",
+            "courseNum": "120",
+            "hidCRN": "46930",
+            "crn": "46930",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Aram",
+                "instructorName": "C. Aram",
+                "firstName": "Cyrus",
+                "instructorEmail": "cjaram@ucdavis.edu",
+                "fullName": "Cyrus Aram"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Develop an analytical framework to manage and monitor business systems concerned with operational, human, and organizational interactions. Introduction to computer hardware, systems software, and information systems. Management of information technology and the impact of information systems on modern management.",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00006"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0900",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00141"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MGT 120 A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "46931",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Managing & Using Information Technology",
+            "subjectDesc": "Management",
+            "courseNum": "120",
+            "hidCRN": "46931",
+            "crn": "46931",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Aram",
+                "instructorName": "C. Aram",
+                "firstName": "Cyrus",
+                "instructorEmail": "cjaram@ucdavis.edu",
+                "fullName": "Cyrus Aram"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Develop an analytical framework to manage and monitor business systems concerned with operational, human, and organizational interactions. Introduction to computer hardware, systems software, and information systems. Management of information technology and the impact of information systems on modern management.",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00006"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1000",
+                "building": "Wickson Hall",
+                "description": "Discussion",
+                "buildingCode": "WICKSN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01020"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MGT 120 A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "46932",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Managing & Using Information Technology",
+            "subjectDesc": "Management",
+            "courseNum": "120",
+            "hidCRN": "46932",
+            "crn": "46932",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Aram",
+                "instructorName": "C. Aram",
+                "firstName": "Cyrus",
+                "instructorEmail": "cjaram@ucdavis.edu",
+                "fullName": "Cyrus Aram"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Concepts/methods used to structure and finance new business ventures. Topics include evaluating the net social (financial) benefit of new investment projects; raising venture capital; the role of the venture capitalist; and the choice of organizational structure in new ventures.",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": " MGT 011A;  (STA 013 or STA 013Y)"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 20:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1210",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00003"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2130",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1840",
+                "building": "Remote Instruction",
+                "description": "Lecture",
+                "buildingCode": "REMOTE",
+                "saturday": false,
+                "type": "LEC",
+                "room": "000000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MGT 160 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "46947",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Financing New Business Ventures",
+            "subjectDesc": "Management",
+            "courseNum": "160",
+            "hidCRN": "46947",
+            "crn": "46947",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Perelman",
+                "instructorName": "G. Perelman",
+                "firstName": "Gregory",
+                "instructorEmail": "gperelman@ucdavis.edu",
+                "fullName": "Gregory Perelman"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Concepts/methods used to structure and finance new business ventures. Topics include evaluating the net social (financial) benefit of new investment projects; raising venture capital; the role of the venture capitalist; and the choice of organizational structure in new ventures.",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": " MGT 011A;  (STA 013 or STA 013Y)"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 20:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1210",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00251"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2130",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1840",
+                "building": "Remote Instruction",
+                "description": "Lecture",
+                "buildingCode": "REMOTE",
+                "saturday": false,
+                "type": "LEC",
+                "room": "000000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MGT 160 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "46948",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Financing New Business Ventures",
+            "subjectDesc": "Management",
+            "courseNum": "160",
+            "hidCRN": "46948",
+            "crn": "46948",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Perelman",
+                "instructorName": "G. Perelman",
+                "firstName": "Gregory",
+                "instructorEmail": "gperelman@ucdavis.edu",
+                "fullName": "Gregory Perelman"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Concepts/methods used to structure and finance new business ventures. Topics include evaluating the net social (financial) benefit of new investment projects; raising venture capital; the role of the venture capitalist; and the choice of organizational structure in new ventures.",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": " MGT 011A;  (STA 013 or STA 013Y)"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 20:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1310",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00003"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2130",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1840",
+                "building": "Remote Instruction",
+                "description": "Lecture",
+                "buildingCode": "REMOTE",
+                "saturday": false,
+                "type": "LEC",
+                "room": "000000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MGT 160 A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "46949",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Financing New Business Ventures",
+            "subjectDesc": "Management",
+            "courseNum": "160",
+            "hidCRN": "46949",
+            "crn": "46949",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Perelman",
+                "instructorName": "G. Perelman",
+                "firstName": "Gregory",
+                "instructorEmail": "gperelman@ucdavis.edu",
+                "fullName": "Gregory Perelman"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Concepts/methods used to structure and finance new business ventures. Topics include evaluating the net social (financial) benefit of new investment projects; raising venture capital; the role of the venture capitalist; and the choice of organizational structure in new ventures.",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": " MGT 011A;  (STA 013 or STA 013Y)"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 20:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1310",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00251"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2130",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1840",
+                "building": "Remote Instruction",
+                "description": "Lecture",
+                "buildingCode": "REMOTE",
+                "saturday": false,
+                "type": "LEC",
+                "room": "000000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MGT 160 A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "46950",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Financing New Business Ventures",
+            "subjectDesc": "Management",
+            "courseNum": "160",
+            "hidCRN": "46950",
+            "crn": "46950",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Perelman",
+                "instructorName": "G. Perelman",
+                "firstName": "Gregory",
+                "instructorEmail": "gperelman@ucdavis.edu",
+                "fullName": "Gregory Perelman"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Covers the design of cost accounting systems, the preparation of financial budgets and forecasts, cost analysis, and the use of cost and other financial data to motivate and evaluate the performance of business units and managers.",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": " MGT 011A;  MGT 011B;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1410",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00167"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2000",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1710",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00126"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MGT 170 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "46951",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Management Accounting & Control",
+            "subjectDesc": "Management",
+            "courseNum": "170",
+            "hidCRN": "46951",
+            "crn": "46951",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Lynch",
+                "instructorName": "C. Lynch",
+                "firstName": "Christopher",
+                "instructorEmail": "ctlynch@ucdavis.edu",
+                "fullName": "Christopher Lynch"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Covers the design of cost accounting systems, the preparation of financial budgets and forecasts, cost analysis, and the use of cost and other financial data to motivate and evaluate the performance of business units and managers.",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": " MGT 011A;  MGT 011B;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1410",
+                "building": "Bainer Hall",
+                "description": "Discussion",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01134"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2000",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1710",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00126"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MGT 170 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "46952",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Management Accounting & Control",
+            "subjectDesc": "Management",
+            "courseNum": "170",
+            "hidCRN": "46952",
+            "crn": "46952",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Lynch",
+                "instructorName": "C. Lynch",
+                "firstName": "Christopher",
+                "instructorEmail": "ctlynch@ucdavis.edu",
+                "fullName": "Christopher Lynch"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Covers the design of cost accounting systems, the preparation of financial budgets and forecasts, cost analysis, and the use of cost and other financial data to motivate and evaluate the performance of business units and managers.",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": " MGT 011A;  MGT 011B;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1510",
+                "building": "Bainer Hall",
+                "description": "Discussion",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01134"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2000",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1710",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00126"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MGT 170 A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "46953",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Management Accounting & Control",
+            "subjectDesc": "Management",
+            "courseNum": "170",
+            "hidCRN": "46953",
+            "crn": "46953",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Lynch",
+                "instructorName": "C. Lynch",
+                "firstName": "Christopher",
+                "instructorEmail": "ctlynch@ucdavis.edu",
+                "fullName": "Christopher Lynch"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Covers the design of cost accounting systems, the preparation of financial budgets and forecasts, cost analysis, and the use of cost and other financial data to motivate and evaluate the performance of business units and managers.",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": " MGT 011A;  MGT 011B;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1510",
+                "building": "Hart Hall",
+                "description": "Discussion",
+                "buildingCode": "HART",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01116"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2000",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1710",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00126"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MGT 170 A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "46954",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Management Accounting & Control",
+            "subjectDesc": "Management",
+            "courseNum": "170",
+            "hidCRN": "46954",
+            "crn": "46954",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Lynch",
+                "instructorName": "C. Lynch",
+                "firstName": "Christopher",
+                "instructorEmail": "ctlynch@ucdavis.edu",
+                "fullName": "Christopher Lynch"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Open to all undergraduates, but primarily intended for upper division students.  ",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "",
+                "startTime": "",
+                "building": "",
+                "description": "",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "MGT 198",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study",
+            "subjectDesc": "Management",
+            "courseNum": "198",
+            "hidCRN": "0948CFCBE7",
+            "crn": "46959",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "",
+                "instructorName": ". ",
+                "firstName": "",
+                "instructorEmail": "",
+                "fullName": " "
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to law and legal process in the United States. Sources of law. Structure and operation of courts, federal-state relationships, fundamentals of administrative law, fundamentals of business law.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Completion of administration core requirements or petition with consent of instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "",
+                "building": "",
+                "description": "Lecture",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LEC",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "MGT 215 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "46960",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Business Law",
+            "subjectDesc": "Management",
+            "courseNum": "215",
+            "hidCRN": "46960",
+            "crn": "46960",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Harrington",
+                "instructorName": "J. Harrington",
+                "firstName": "Jane",
+                "instructorEmail": "jharring@ucdavis.edu",
+                "fullName": "Jane Harrington"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Combines lectures, cases and homework to teach students tools and skills necessary to analyze pricing situations, make pricing decisions, and implement them, in a systematic manner. ",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " MGT 204 or MGB 204 or MGP 204"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "",
+                "building": "",
+                "description": "Lecture/Discussion",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LED",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "MGT 234 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56326",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Pricing",
+            "subjectDesc": "Management",
+            "courseNum": "234",
+            "hidCRN": "56326",
+            "crn": "56326",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Catlin",
+                "instructorName": "J. Catlin",
+                "firstName": "Jesse",
+                "instructorEmail": "jrcat@ucdavis.edu",
+                "fullName": "Jesse Catlin"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Contemporary and emerging issues in finance. Application of modern techniques of finance to business problems. Use of appropriate electronic database and research techniques.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Completion of all first-year graduate courses at the Graduate School of Management or the equivalent. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "E",
+                "startTime": "",
+                "building": "",
+                "description": "Seminar",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "SEM",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "MGT 292 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56327",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Topics in Finance",
+            "subjectDesc": "Management",
+            "courseNum": "292",
+            "hidCRN": "56327",
+            "crn": "56327",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Dolan",
+                "instructorName": "E. Dolan",
+                "firstName": "Eamonn",
+                "instructorEmail": "efdolan@ucdavis.edu",
+                "fullName": "Eamonn Dolan"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Strategic management of organizations, including analysis of industries, firm resources and capabilities and corporate strategy. Strategy formulation, implementation and strategic decision-making. Firm and industry life cycles and change. Analysis of organizational design and structure including differentiation and integration. ",
+            "creditLimit": "Not open for credit to students who have taken MGT 201B, MGP 201B, MGB 201B or MGV 201BV. ",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "",
+                "building": "",
+                "description": "Lecture",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LEC",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MGT 401B 002",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "002",
+            "printCRN": "56333",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Organizational Strategy & Structure",
+            "subjectDesc": "Management",
+            "courseNum": "401B",
+            "hidCRN": "56333",
+            "crn": "56333",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Damaraju",
+                "instructorName": "N. Damaraju",
+                "firstName": "Naga Lakshmi",
+                "instructorEmail": "ndamaraju@ucdavis.edu",
+                "fullName": "Naga Lakshmi Damaraju"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Corporate financial policy and investment management. Covers capital budgeting, optimal financial structure, cost-of-capital determination, risk measurement. Develops basic valuation principles for investments with long-lived and risky cash-flows, and extends these to derivative securities, asset portfolios, investment management and hedging.",
+            "creditLimit": "Not open for credit for students who have taken MGT 205, MGP 205, MGB 205 or MGV 205V. ",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "",
+                "building": "",
+                "description": "Lecture",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LEC",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MGT 405 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56334",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Financial Theory & Policy",
+            "subjectDesc": "Management",
+            "courseNum": "405",
+            "hidCRN": "56334",
+            "crn": "56334",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Yang",
+                "instructorName": "K. Yang",
+                "firstName": "Keer",
+                "instructorEmail": "kkeyang@ucdavis.edu",
+                "fullName": "Keer Yang"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Principles of strategic leadership and how to apply them. Includes a deep awareness of individual personalities, strengths, and values, and a clear understanding of organizational strategy and vision.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "",
+                "building": "",
+                "description": "Lecture",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LEC",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "MGT 410 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56313",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Strategic Leadership",
+            "subjectDesc": "Management",
+            "courseNum": "410",
+            "hidCRN": "56313",
+            "crn": "56313",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Pontikes",
+                "instructorName": "E. Pontikes",
+                "firstName": "Elizabeth",
+                "instructorEmail": "egpontikes@ucdavis.edu",
+                "fullName": "Elizabeth Pontikes"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Elements of design for strategy discovery and how to incorporate them into established firms. Lessons uncovered through case-based analysis, hands-on exercises, lectures, video, and theoretical analysis comparing different perspectives.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "",
+                "building": "",
+                "description": "Lecture",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LEC",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "MGT 411 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56314",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Strategic Change",
+            "subjectDesc": "Management",
+            "courseNum": "411",
+            "hidCRN": "56314",
+            "crn": "56314",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Pontikes",
+                "instructorName": "E. Pontikes",
+                "firstName": "Elizabeth",
+                "instructorEmail": "egpontikes@ucdavis.edu",
+                "fullName": "Elizabeth Pontikes"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Second of a two-part course sequence which is designed to empower emerging leaders with the skills necessary to build and guide effective teams, embodying a leadership style that is anchored in shared responsibility and values-based decision-making.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " MGT 417A or MGP 417A or MGB 417A or MGV 417A"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "",
+                "building": "",
+                "description": "Lecture",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LEC",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "MGT 417B 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56328",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Collaborative Leadership 2",
+            "subjectDesc": "Management",
+            "courseNum": "417B",
+            "hidCRN": "56328",
+            "crn": "56328",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Hsu",
+                "instructorName": "G. Hsu",
+                "firstName": "Greta",
+                "instructorEmail": "grhsu@ucdavis.edu",
+                "fullName": "Greta Hsu"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Students will learn practical business consulting skills which will help apply strategy theories in the workplace. Students will learn and practice tools to frame and analyze problems, conduct research, communicate findings and navigate client relationships. ",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "",
+                "building": "",
+                "description": "Lecture",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LEC",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "MGT 419 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "46986",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Business Strategy Consulting Skills",
+            "subjectDesc": "Management",
+            "courseNum": "419",
+            "hidCRN": "46986",
+            "crn": "46986",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Wilson",
+                "instructorName": "K. Wilson",
+                "firstName": "Kelly",
+                "instructorEmail": "kelwilson@ucdavis.edu",
+                "fullName": "Kelly Wilson"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to derivative securities and other forms of financial innovation.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "WVL",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "MGT 436V 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56441",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Derivative Securities",
+            "subjectDesc": "Management",
+            "courseNum": "436V",
+            "hidCRN": "56441",
+            "crn": "56441",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Maruster",
+                "instructorName": "S. Maruster",
+                "firstName": "Sorin",
+                "instructorEmail": "smaruster@ucdavis.edu",
+                "fullName": "Sorin Maruster"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Overview of the requirements, issues, and tools involved in marketing of products and services via lectures, case studies, and a hands-on, quarter-long competitive simulation.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " MGT 404 or MGP 404 or MGB 404"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "",
+                "building": "",
+                "description": "Lecture",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LEC",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MGT 445 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56335",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Product Management",
+            "subjectDesc": "Management",
+            "courseNum": "445",
+            "hidCRN": "56335",
+            "crn": "56335",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Lowe",
+                "instructorName": "M. Lowe",
+                "firstName": "Marc",
+                "instructorEmail": "mdlowe@ucdavis.edu",
+                "fullName": "Marc Lowe"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Provides a framework for thinking about technology competition and strategy. ",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " MGT 403A or MGP 403A or MGB 403A;  MGT 402A or MGP 402A or MGB 402A"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "",
+                "building": "",
+                "description": "Lecture",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LEC",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MGT 450 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56336",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Technology Competition & Strategy ",
+            "subjectDesc": "Management",
+            "courseNum": "450",
+            "hidCRN": "56336",
+            "crn": "56336",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Bhargava",
+                "instructorName": "H. Bhargava",
+                "firstName": "Hemant",
+                "instructorEmail": "hkbhargava@ucdavis.edu",
+                "fullName": "Hemant Bhargava"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Explore the management of operations as applied to manufacturing, as well as services provided both inside & outside the organization. Develop an understanding of how uncertainty affects planning & delivery by looking at fundamental models of operations.",
+            "creditLimit": "Not open for credit to students who have taken MGT 252, MGP 252, MGB 252 or MGV 252V. ",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "",
+                "building": "",
+                "description": "Lecture",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LEC",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MGT 452 002",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "002",
+            "printCRN": "56337",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Managing for Operational Excellence",
+            "subjectDesc": "Management",
+            "courseNum": "452",
+            "hidCRN": "56337",
+            "crn": "56337",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Loupos",
+                "instructorName": "P. Loupos",
+                "firstName": "Panteleimon",
+                "instructorEmail": "ploupos@ucdavis.edu",
+                "fullName": "Panteleimon Loupos"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Study valuation techniques in applied settings, study a variety of investment decisions, and analyze how capital structure considerations play a role in firm\u2019s investment policies. ",
+            "creditLimit": "Not open for credit to students who have taken MGT 260, MGP 260 or MGB 260. ",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " MGT 205 or MGP 205 or MGB 205"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "",
+                "building": "",
+                "description": "Lecture",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LEC",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "MGT 460A 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "46994",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Corporate Finance: Fundamentals",
+            "subjectDesc": "Management",
+            "courseNum": "460A",
+            "hidCRN": "46994",
+            "crn": "46994",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Marquez",
+                "instructorName": "R. Marquez",
+                "firstName": "Robert",
+                "instructorEmail": "rsmarquez@ucdavis.edu",
+                "fullName": "Robert Marquez"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Advanced course in corporate finance that builds on 460A, with an aim to extend knowledge of the theory and practice of corporate finance.",
+            "creditLimit": "Not open for students who have taken MGT 260, MGP 260 or MGB 260. ",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " MGT 460A or MGB 460A;  MGP 460A"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "",
+                "building": "",
+                "description": "Lecture",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LEC",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "MGT 460B 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "46995",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Corporate Finance: Advanced Topics",
+            "subjectDesc": "Management",
+            "courseNum": "460B",
+            "hidCRN": "46995",
+            "crn": "46995",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Marquez",
+                "instructorName": "R. Marquez",
+                "firstName": "Robert",
+                "instructorEmail": "rsmarquez@ucdavis.edu",
+                "fullName": "Robert Marquez"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Comprehensive understanding of how accounting information is generated. Gain the knowledge and skills needed to make crucial adjustments to accounting data, enhancing the quality of their decisions.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " MGT 400A or MGB 400A or MGP 400A"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "",
+                "building": "",
+                "description": "Lecture",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LEC",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "MGT 472 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56312",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Financial Statement Analysis",
+            "subjectDesc": "Management",
+            "courseNum": "472",
+            "hidCRN": "56312",
+            "crn": "56312",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Tseng",
+                "instructorName": "A. Tseng",
+                "firstName": "Ayung",
+                "instructorEmail": "atseng@ucdavis.edu",
+                "fullName": "Ayung Tseng"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Covers the evolution of \u201ctraditional\u201d finance methods; including the disruptions and innovations that have transformed: how companies and consumers access funds (borrowing); how new technologies change real estate markets; how FinTech companies changed the payment services; and how cryptocurrencies challenge traditional fiat money.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "",
+                "building": "",
+                "description": "Lecture",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LEC",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "MGT 478 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56315",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Financial Technology",
+            "subjectDesc": "Management",
+            "courseNum": "478",
+            "hidCRN": "56315",
+            "crn": "56315",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Yang",
+                "instructorName": "K. Yang",
+                "firstName": "Keer",
+                "instructorEmail": "kkeyang@ucdavis.edu",
+                "fullName": "Keer Yang"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Provides opportunity for students to gain experience in applying business methodologies previously acquired in other GSM courses.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Sponsorship of a GSM Academic Senate faculty member; approval of graduate advisor."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "",
+                "building": "",
+                "description": "Lecture/Discussion",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LED",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "MGT 490 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "46998",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Topics in Business",
+            "subjectDesc": "Management",
+            "courseNum": "490",
+            "hidCRN": "46998",
+            "crn": "46998",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Charnsupharindr",
+                "instructorName": "D. Charnsupharindr",
+                "firstName": "Doy",
+                "instructorEmail": "charnsupharindr@ucdavis.edu",
+                "fullName": "Doy Charnsupharindr"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Advanced topics in general management. Varied topics to cover more extensively issues discussed in the MBA core such business writing, management, organizational behavior, business communications, development, finance and workplace processes.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "",
+                "building": "",
+                "description": "Lecture",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LEC",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "MGT 490B 003",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "003",
+            "printCRN": "47001",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Topics in General Management-Extended ",
+            "subjectDesc": "Management",
+            "courseNum": "490B",
+            "hidCRN": "47001",
+            "crn": "47001",
+            "subjectCode": "MGT"
+        },
+        "instructor": [
+            {
+                "lastName": "Vaidya",
+                "instructorName": "H. Vaidya",
+                "firstName": "Hemant",
+                "instructorEmail": "hvaidya@ucdavis.edu",
+                "fullName": "Hemant Vaidya"
+            }
+        ]
+    }
+]

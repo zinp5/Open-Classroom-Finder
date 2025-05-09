@@ -1,0 +1,868 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to primary health care concepts essential to the care of common medical and surgical conditions. Various organ systems and specialty areas each quarter: Musculoskeletal medicine, Rheumatology, Neurology and Psychiatry.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " PAS 251B C or better;  PAS 271B C or better;  PAS 410B C or better;  Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "",
+                "building": "",
+                "description": "Lecture/Discussion",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LED",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 7,
+            "reservedSeating": false,
+            "shortDesc": "PAS 251C 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "49137",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Primary Health Care",
+            "subjectDesc": "Physician Assistant Studies",
+            "courseNum": "251C",
+            "hidCRN": "49137",
+            "crn": "49137",
+            "subjectCode": "PAS"
+        },
+        "instructor": [
+            {
+                "lastName": "Sandholdt",
+                "instructorName": "C. Sandholdt",
+                "firstName": "Cara",
+                "instructorEmail": "csandholdt@ucdavis.edu",
+                "fullName": "Cara Sandholdt"
+            },
+            {
+                "lastName": "Sebat",
+                "instructorName": "N. Sebat",
+                "firstName": "Nitsa",
+                "instructorEmail": "eesebat@ucdavis.edu",
+                "fullName": "Nitsa Sebat"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Health care concepts specific and essential to the care of men, women, and transgender populations. Unique aspects of preventive care and treatment of conditions specific to these populations.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " PAS 251B C or better;  PAS 271B C or better;  PAS 410B C or better;  Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "",
+                "building": "",
+                "description": "Lecture/Discussion",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LED",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "PAS 251D 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "49138",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Gender and Transgender Health",
+            "subjectDesc": "Physician Assistant Studies",
+            "courseNum": "251D",
+            "hidCRN": "49138",
+            "crn": "49138",
+            "subjectCode": "PAS"
+        },
+        "instructor": [
+            {
+                "lastName": "Shauer",
+                "instructorName": "M. Shauer",
+                "firstName": "Marla",
+                "instructorEmail": "mjshauer@ucdavis.edu",
+                "fullName": "Marla Shauer"
+            },
+            {
+                "lastName": "Touw",
+                "instructorName": "M. Touw",
+                "firstName": "Michelle",
+                "instructorEmail": "mtouw@ucdavis.edu",
+                "fullName": "Michelle Touw"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Pharmacology series aligned with pathophysiology and physical exam skills courses. Variable content each quarter. Different organ systems and specialty areas across the lifespan. ",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " PAS 271B C or better;  PAS 251B C or better;  PAS 410B C or better;  Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "",
+                "building": "",
+                "description": "Lecture/Discussion",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LED",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "PAS 271C 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "49139",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Advanced Pharmacology",
+            "subjectDesc": "Physician Assistant Studies",
+            "courseNum": "271C",
+            "hidCRN": "49139",
+            "crn": "49139",
+            "subjectCode": "PAS"
+        },
+        "instructor": [
+            {
+                "lastName": "Luu",
+                "instructorName": "B. Luu",
+                "firstName": "Brent",
+                "instructorEmail": "brluu@ucdavis.edu",
+                "fullName": "Brent Luu"
+            },
+            {
+                "lastName": "Gibson",
+                "instructorName": "R. Gibson",
+                "firstName": "Rebecca",
+                "instructorEmail": "rgibson@ucdavis.edu",
+                "fullName": "Rebecca Gibson"
+            },
+            {
+                "lastName": "Sankaran-Walters",
+                "instructorName": "S. Sankaran-Walters",
+                "firstName": "Sumathi",
+                "instructorEmail": "ssankaran@ucdavis.edu",
+                "fullName": "Sumathi Sankaran-Walters"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Five-week clinical rotation under the supervision of an appropriate community-based family medicine provider per accreditation requirements.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " PAS 251E C+ or better;  PAS 251F C+ or better;  PAS 410D C+ or better"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "O",
+                "startTime": "",
+                "building": "",
+                "description": "Clinic",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "CLI",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "PAS 450 001",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "001",
+            "printCRN": "49148",
+            "unitsHigh": 16,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Supervised Clinical Practice Experience - Family Medicine",
+            "subjectDesc": "Physician Assistant Studies",
+            "courseNum": "450",
+            "hidCRN": "49148",
+            "crn": "49148",
+            "subjectCode": "PAS"
+        },
+        "instructor": [
+            {
+                "lastName": "Hanks",
+                "instructorName": "K. Hanks",
+                "firstName": "Kathryn",
+                "instructorEmail": "klhanks@ucdavis.edu",
+                "fullName": "Kathryn Hanks"
+            },
+            {
+                "lastName": "Touw",
+                "instructorName": "M. Touw",
+                "firstName": "Michelle",
+                "instructorEmail": "mtouw@ucdavis.edu",
+                "fullName": "Michelle Touw"
+            },
+            {
+                "lastName": "Thetford",
+                "instructorName": "T. Thetford",
+                "firstName": "Teresa",
+                "instructorEmail": "tathetford@ucdavis.edu",
+                "fullName": "Teresa Thetford"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Five-week clinical rotation under the supervision of an appropriate community-based pediatric medicine provider per accreditation requirements.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " PAS 251E C+ or better;  PAS 251F C+ or better;  PAS 410D C+ or better"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "O",
+                "startTime": "",
+                "building": "",
+                "description": "Clinic",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "CLI",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "PAS 451 001",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "001",
+            "printCRN": "49149",
+            "unitsHigh": 16,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Supervised Clinical Practice Experience - Pediatrics",
+            "subjectDesc": "Physician Assistant Studies",
+            "courseNum": "451",
+            "hidCRN": "49149",
+            "crn": "49149",
+            "subjectCode": "PAS"
+        },
+        "instructor": [
+            {
+                "lastName": "Hanks",
+                "instructorName": "K. Hanks",
+                "firstName": "Kathryn",
+                "instructorEmail": "klhanks@ucdavis.edu",
+                "fullName": "Kathryn Hanks"
+            },
+            {
+                "lastName": "Touw",
+                "instructorName": "M. Touw",
+                "firstName": "Michelle",
+                "instructorEmail": "mtouw@ucdavis.edu",
+                "fullName": "Michelle Touw"
+            },
+            {
+                "lastName": "Thetford",
+                "instructorName": "T. Thetford",
+                "firstName": "Teresa",
+                "instructorEmail": "tathetford@ucdavis.edu",
+                "fullName": "Teresa Thetford"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Five-week clinical rotation under the supervision of an appropriate community-based women\u2019s health and prenatal care provider per accreditation requirements.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " PAS 251E C+ or better;  PAS 251F C+ or better;  PAS 410D C+ or better"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "O",
+                "startTime": "",
+                "building": "",
+                "description": "Clinic",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "CLI",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "PAS 452 001",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "001",
+            "printCRN": "49150",
+            "unitsHigh": 16,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Supervised Clinical Practice Experience - Women's Health",
+            "subjectDesc": "Physician Assistant Studies",
+            "courseNum": "452",
+            "hidCRN": "49150",
+            "crn": "49150",
+            "subjectCode": "PAS"
+        },
+        "instructor": [
+            {
+                "lastName": "Hanks",
+                "instructorName": "K. Hanks",
+                "firstName": "Kathryn",
+                "instructorEmail": "klhanks@ucdavis.edu",
+                "fullName": "Kathryn Hanks"
+            },
+            {
+                "lastName": "Touw",
+                "instructorName": "M. Touw",
+                "firstName": "Michelle",
+                "instructorEmail": "mtouw@ucdavis.edu",
+                "fullName": "Michelle Touw"
+            },
+            {
+                "lastName": "Thetford",
+                "instructorName": "T. Thetford",
+                "firstName": "Teresa",
+                "instructorEmail": "tathetford@ucdavis.edu",
+                "fullName": "Teresa Thetford"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Five-week clinical rotation under the supervision of an appropriate community-based psychiatrist, psychiatric/mental health provider per accreditation requirements.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " PAS 251E C+ or better;  PAS 251F C+ or better;  PAS 410D C+ or better"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "O",
+                "startTime": "",
+                "building": "",
+                "description": "Clinic",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "CLI",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "PAS 453 001",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "001",
+            "printCRN": "49151",
+            "unitsHigh": 16,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Supervised Clinical Practice Experience - Mental Health",
+            "subjectDesc": "Physician Assistant Studies",
+            "courseNum": "453",
+            "hidCRN": "49151",
+            "crn": "49151",
+            "subjectCode": "PAS"
+        },
+        "instructor": [
+            {
+                "lastName": "Hanks",
+                "instructorName": "K. Hanks",
+                "firstName": "Kathryn",
+                "instructorEmail": "klhanks@ucdavis.edu",
+                "fullName": "Kathryn Hanks"
+            },
+            {
+                "lastName": "Touw",
+                "instructorName": "M. Touw",
+                "firstName": "Michelle",
+                "instructorEmail": "mtouw@ucdavis.edu",
+                "fullName": "Michelle Touw"
+            },
+            {
+                "lastName": "Thetford",
+                "instructorName": "T. Thetford",
+                "firstName": "Teresa",
+                "instructorEmail": "tathetford@ucdavis.edu",
+                "fullName": "Teresa Thetford"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Five-week clinical rotation under the supervision of an appropriate emergency medicine provider per accreditation requirements.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " PAS 251E C+ or better;  PAS 251F C+ or better;  PAS 410D C+ or better"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "O",
+                "startTime": "",
+                "building": "",
+                "description": "Clinic",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "CLI",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "PAS 454 001",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "001",
+            "printCRN": "49152",
+            "unitsHigh": 16,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Supervised Clinical Practice Experience - Emergency Medicine",
+            "subjectDesc": "Physician Assistant Studies",
+            "courseNum": "454",
+            "hidCRN": "49152",
+            "crn": "49152",
+            "subjectCode": "PAS"
+        },
+        "instructor": [
+            {
+                "lastName": "Hanks",
+                "instructorName": "K. Hanks",
+                "firstName": "Kathryn",
+                "instructorEmail": "klhanks@ucdavis.edu",
+                "fullName": "Kathryn Hanks"
+            },
+            {
+                "lastName": "Touw",
+                "instructorName": "M. Touw",
+                "firstName": "Michelle",
+                "instructorEmail": "mtouw@ucdavis.edu",
+                "fullName": "Michelle Touw"
+            },
+            {
+                "lastName": "Thetford",
+                "instructorName": "T. Thetford",
+                "firstName": "Teresa",
+                "instructorEmail": "tathetford@ucdavis.edu",
+                "fullName": "Teresa Thetford"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Five-week clinical experience under the supervision of an appropriate surgical provider per accreditation requirements.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " PAS 251E C+ or better;  PAS 251F C+ or better;  PAS 410D C+ or better"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "O",
+                "startTime": "",
+                "building": "",
+                "description": "Clinic",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "CLI",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "PAS 455 001",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "001",
+            "printCRN": "49153",
+            "unitsHigh": 16,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Supervised Clinical Practice Experience - Inpatient Surgery",
+            "subjectDesc": "Physician Assistant Studies",
+            "courseNum": "455",
+            "hidCRN": "49153",
+            "crn": "49153",
+            "subjectCode": "PAS"
+        },
+        "instructor": [
+            {
+                "lastName": "Hanks",
+                "instructorName": "K. Hanks",
+                "firstName": "Kathryn",
+                "instructorEmail": "klhanks@ucdavis.edu",
+                "fullName": "Kathryn Hanks"
+            },
+            {
+                "lastName": "Touw",
+                "instructorName": "M. Touw",
+                "firstName": "Michelle",
+                "instructorEmail": "mtouw@ucdavis.edu",
+                "fullName": "Michelle Touw"
+            },
+            {
+                "lastName": "Thetford",
+                "instructorName": "T. Thetford",
+                "firstName": "Teresa",
+                "instructorEmail": "tathetford@ucdavis.edu",
+                "fullName": "Teresa Thetford"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Five-week clinical rotation under the supervision of an appropriate internal medicine provider per accreditation requirements.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " PAS 251E C+ or better;  PAS 251F C+ or better;  PAS 410D C+ or better"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "O",
+                "startTime": "",
+                "building": "",
+                "description": "Clinic",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "CLI",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "PAS 456 001",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "001",
+            "printCRN": "49154",
+            "unitsHigh": 16,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Supervised Clinical Practice Experience - Internal Medicine",
+            "subjectDesc": "Physician Assistant Studies",
+            "courseNum": "456",
+            "hidCRN": "49154",
+            "crn": "49154",
+            "subjectCode": "PAS"
+        },
+        "instructor": [
+            {
+                "lastName": "Hanks",
+                "instructorName": "K. Hanks",
+                "firstName": "Kathryn",
+                "instructorEmail": "klhanks@ucdavis.edu",
+                "fullName": "Kathryn Hanks"
+            },
+            {
+                "lastName": "Touw",
+                "instructorName": "M. Touw",
+                "firstName": "Michelle",
+                "instructorEmail": "mtouw@ucdavis.edu",
+                "fullName": "Michelle Touw"
+            },
+            {
+                "lastName": "Thetford",
+                "instructorName": "T. Thetford",
+                "firstName": "Teresa",
+                "instructorEmail": "tathetford@ucdavis.edu",
+                "fullName": "Teresa Thetford"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Five-week selective rotations available to accommodate student interest and/or accommodate a student\u2019s clinical deficits identified by the program.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " PAS 251E C+ or better;  PAS 251F C+ or better;  PAS 410D C+ or better;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "O",
+                "startTime": "",
+                "building": "",
+                "description": "Clinic",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "CLI",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "PAS 459 001",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "001",
+            "printCRN": "49155",
+            "unitsHigh": 16,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Supervised Clinical Practice Experience - Other Specialties",
+            "subjectDesc": "Physician Assistant Studies",
+            "courseNum": "459",
+            "hidCRN": "49155",
+            "crn": "49155",
+            "subjectCode": "PAS"
+        },
+        "instructor": [
+            {
+                "lastName": "Thatcher",
+                "instructorName": "E. Thatcher",
+                "firstName": "Emily",
+                "instructorEmail": "ethatcher@ucdavis.edu",
+                "fullName": "Emily Thatcher"
+            },
+            {
+                "lastName": "Touw",
+                "instructorName": "M. Touw",
+                "firstName": "Michelle",
+                "instructorEmail": "mtouw@ucdavis.edu",
+                "fullName": "Michelle Touw"
+            },
+            {
+                "lastName": "Thetford",
+                "instructorName": "T. Thetford",
+                "firstName": "Teresa",
+                "instructorEmail": "tathetford@ucdavis.edu",
+                "fullName": "Teresa Thetford"
+            }
+        ]
+    }
+]

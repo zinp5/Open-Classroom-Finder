@@ -1,0 +1,4174 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to the study of language; its nature, diversity, and structure.",
+            "creditLimit": "",
+            "ge3": "AH,SS",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1710",
+                "building": "Wickson Hall",
+                "description": "Discussion",
+                "buildingCode": "WICKSN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01038"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Scrub Oak Auditorium",
+                "description": "Lecture",
+                "buildingCode": "SCRBOK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00160"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "LIN 001 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "56408",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Linguistics",
+            "subjectDesc": "Linguistics",
+            "courseNum": "001",
+            "hidCRN": "56408",
+            "crn": "56408",
+            "subjectCode": "LIN"
+        },
+        "instructor": [
+            {
+                "lastName": "Rud",
+                "instructorName": "J. Rud",
+                "firstName": "Jeremy",
+                "instructorEmail": "jarud@ucdavis.edu",
+                "fullName": "Jeremy Rud"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to the study of language; its nature, diversity, and structure.",
+            "creditLimit": "",
+            "ge3": "AH,SS",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1900",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1810",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00261"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Scrub Oak Auditorium",
+                "description": "Lecture",
+                "buildingCode": "SCRBOK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00160"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "LIN 001 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "56409",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Linguistics",
+            "subjectDesc": "Linguistics",
+            "courseNum": "001",
+            "hidCRN": "56409",
+            "crn": "56409",
+            "subjectCode": "LIN"
+        },
+        "instructor": [
+            {
+                "lastName": "Rud",
+                "instructorName": "J. Rud",
+                "firstName": "Jeremy",
+                "instructorEmail": "jarud@ucdavis.edu",
+                "fullName": "Jeremy Rud"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to the study of language; its nature, diversity, and structure.",
+            "creditLimit": "",
+            "ge3": "AH,SS",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Scrub Oak Auditorium",
+                "description": "Lecture",
+                "buildingCode": "SCRBOK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00160"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0850",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0800",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00001"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "LIN 001 A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "56410",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Linguistics",
+            "subjectDesc": "Linguistics",
+            "courseNum": "001",
+            "hidCRN": "56410",
+            "crn": "56410",
+            "subjectCode": "LIN"
+        },
+        "instructor": [
+            {
+                "lastName": "Rud",
+                "instructorName": "J. Rud",
+                "firstName": "Jeremy",
+                "instructorEmail": "jarud@ucdavis.edu",
+                "fullName": "Jeremy Rud"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to the study of language; its nature, diversity, and structure.",
+            "creditLimit": "",
+            "ge3": "AH,SS",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0850",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0800",
+                "building": "Social Science & Humanities",
+                "description": "Discussion",
+                "buildingCode": "SOCSCI",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00080"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Scrub Oak Auditorium",
+                "description": "Lecture",
+                "buildingCode": "SCRBOK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00160"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "LIN 001 A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "56411",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Linguistics",
+            "subjectDesc": "Linguistics",
+            "courseNum": "001",
+            "hidCRN": "56411",
+            "crn": "56411",
+            "subjectCode": "LIN"
+        },
+        "instructor": [
+            {
+                "lastName": "Rud",
+                "instructorName": "J. Rud",
+                "firstName": "Jeremy",
+                "instructorEmail": "jarud@ucdavis.edu",
+                "fullName": "Jeremy Rud"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to the study of language; its nature, diversity, and structure.",
+            "creditLimit": "",
+            "ge3": "AH,SS",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0900",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00001"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Scrub Oak Auditorium",
+                "description": "Lecture",
+                "buildingCode": "SCRBOK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00160"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "LIN 001 A06",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A06",
+            "printCRN": "56415",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Linguistics",
+            "subjectDesc": "Linguistics",
+            "courseNum": "001",
+            "hidCRN": "56415",
+            "crn": "56415",
+            "subjectCode": "LIN"
+        },
+        "instructor": [
+            {
+                "lastName": "Rud",
+                "instructorName": "J. Rud",
+                "firstName": "Jeremy",
+                "instructorEmail": "jarud@ucdavis.edu",
+                "fullName": "Jeremy Rud"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to the study of language; its nature, diversity, and structure.",
+            "creditLimit": "",
+            "ge3": "AH,SS",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1100",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00207"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Scrub Oak Auditorium",
+                "description": "Lecture",
+                "buildingCode": "SCRBOK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00160"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "LIN 001 A07",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A07",
+            "printCRN": "56416",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Linguistics",
+            "subjectDesc": "Linguistics",
+            "courseNum": "001",
+            "hidCRN": "56416",
+            "crn": "56416",
+            "subjectCode": "LIN"
+        },
+        "instructor": [
+            {
+                "lastName": "Rud",
+                "instructorName": "J. Rud",
+                "firstName": "Jeremy",
+                "instructorEmail": "jarud@ucdavis.edu",
+                "fullName": "Jeremy Rud"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to the study of language; its nature, diversity, and structure.",
+            "creditLimit": "Students may not take both LIN 001 and LIN 001Y for credit.  ",
+            "ge3": "AH,SS",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0850",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "0800",
+                "building": "Social Science & Humanities",
+                "description": "Discussion",
+                "buildingCode": "SOCSCI",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00090"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "LIN 001Y A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "44396",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Linguistics",
+            "subjectDesc": "Linguistics",
+            "courseNum": "001Y",
+            "hidCRN": "44396",
+            "crn": "44396",
+            "subjectCode": "LIN"
+        },
+        "instructor": [
+            {
+                "lastName": "Zellou",
+                "instructorName": "G. Zellou",
+                "firstName": "Georgia",
+                "instructorEmail": "gzellou@ucdavis.edu",
+                "fullName": "Georgia Zellou"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to the study of language; its nature, diversity, and structure.",
+            "creditLimit": "Students may not take both LIN 001 and LIN 001Y for credit.  ",
+            "ge3": "AH,SS",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "0900",
+                "building": "Social Science & Humanities",
+                "description": "Discussion",
+                "buildingCode": "SOCSCI",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00090"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "LIN 001Y A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "44397",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Linguistics",
+            "subjectDesc": "Linguistics",
+            "courseNum": "001Y",
+            "hidCRN": "44397",
+            "crn": "44397",
+            "subjectCode": "LIN"
+        },
+        "instructor": [
+            {
+                "lastName": "Zellou",
+                "instructorName": "G. Zellou",
+                "firstName": "Georgia",
+                "instructorEmail": "gzellou@ucdavis.edu",
+                "fullName": "Georgia Zellou"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to the study of language; its nature, diversity, and structure.",
+            "creditLimit": "Students may not take both LIN 001 and LIN 001Y for credit.  ",
+            "ge3": "AH,SS",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1710",
+                "building": "Social Science & Humanities",
+                "description": "Discussion",
+                "buildingCode": "SOCSCI",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00090"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "LIN 001Y A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "44398",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Linguistics",
+            "subjectDesc": "Linguistics",
+            "courseNum": "001Y",
+            "hidCRN": "44398",
+            "crn": "44398",
+            "subjectCode": "LIN"
+        },
+        "instructor": [
+            {
+                "lastName": "Zellou",
+                "instructorName": "G. Zellou",
+                "firstName": "Georgia",
+                "instructorEmail": "gzellou@ucdavis.edu",
+                "fullName": "Georgia Zellou"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to the study of language; its nature, diversity, and structure.",
+            "creditLimit": "Students may not take both LIN 001 and LIN 001Y for credit.  ",
+            "ge3": "AH,SS",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1900",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1810",
+                "building": "Social Science & Humanities",
+                "description": "Discussion",
+                "buildingCode": "SOCSCI",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00090"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "LIN 001Y A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "44399",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Linguistics",
+            "subjectDesc": "Linguistics",
+            "courseNum": "001Y",
+            "hidCRN": "44399",
+            "crn": "44399",
+            "subjectCode": "LIN"
+        },
+        "instructor": [
+            {
+                "lastName": "Zellou",
+                "instructorName": "G. Zellou",
+                "firstName": "Georgia",
+                "instructorEmail": "gzellou@ucdavis.edu",
+                "fullName": "Georgia Zellou"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to the study of language; its nature, diversity, and structure.",
+            "creditLimit": "Students may not take both LIN 001 and LIN 001Y for credit.  ",
+            "ge3": "AH,SS",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1710",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00201"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "LIN 001Y A05",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A05",
+            "printCRN": "44400",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Linguistics",
+            "subjectDesc": "Linguistics",
+            "courseNum": "001Y",
+            "hidCRN": "44400",
+            "crn": "44400",
+            "subjectCode": "LIN"
+        },
+        "instructor": [
+            {
+                "lastName": "Zellou",
+                "instructorName": "G. Zellou",
+                "firstName": "Georgia",
+                "instructorEmail": "gzellou@ucdavis.edu",
+                "fullName": "Georgia Zellou"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to the study of language; its nature, diversity, and structure.",
+            "creditLimit": "Students may not take both LIN 001 and LIN 001Y for credit.  ",
+            "ge3": "AH,SS",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1900",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1810",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00201"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "LIN 001Y A06",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A06",
+            "printCRN": "44401",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Linguistics",
+            "subjectDesc": "Linguistics",
+            "courseNum": "001Y",
+            "hidCRN": "44401",
+            "crn": "44401",
+            "subjectCode": "LIN"
+        },
+        "instructor": [
+            {
+                "lastName": "Zellou",
+                "instructorName": "G. Zellou",
+                "firstName": "Georgia",
+                "instructorEmail": "gzellou@ucdavis.edu",
+                "fullName": "Georgia Zellou"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to the study of language; its nature, diversity, and structure.",
+            "creditLimit": "Students may not take both LIN 001 and LIN 001Y for credit.  ",
+            "ge3": "AH,SS",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": ""
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0850",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0800",
+                "building": "Social Science & Humanities",
+                "description": "Discussion",
+                "buildingCode": "SOCSCI",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00090"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "LIN 001Y A07",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A07",
+            "printCRN": "44402",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Linguistics",
+            "subjectDesc": "Linguistics",
+            "courseNum": "001Y",
+            "hidCRN": "44402",
+            "crn": "44402",
+            "subjectCode": "LIN"
+        },
+        "instructor": [
+            {
+                "lastName": "Zellou",
+                "instructorName": "G. Zellou",
+                "firstName": "Georgia",
+                "instructorEmail": "gzellou@ucdavis.edu",
+                "fullName": "Georgia Zellou"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to the study of language; its nature, diversity, and structure.",
+            "creditLimit": "Students may not take both LIN 001 and LIN 001Y for credit.  ",
+            "ge3": "AH,SS",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": ""
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0900",
+                "building": "Social Science & Humanities",
+                "description": "Discussion",
+                "buildingCode": "SOCSCI",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00090"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "LIN 001Y A08",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A08",
+            "printCRN": "44403",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Linguistics",
+            "subjectDesc": "Linguistics",
+            "courseNum": "001Y",
+            "hidCRN": "44403",
+            "crn": "44403",
+            "subjectCode": "LIN"
+        },
+        "instructor": [
+            {
+                "lastName": "Zellou",
+                "instructorName": "G. Zellou",
+                "firstName": "Georgia",
+                "instructorEmail": "gzellou@ucdavis.edu",
+                "fullName": "Georgia Zellou"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to the study of language; its nature, diversity, and structure.",
+            "creditLimit": "Students may not take both LIN 001 and LIN 001Y for credit.  ",
+            "ge3": "AH,SS",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1710",
+                "building": "Teaching and Learning Complex",
+                "description": "Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "03211"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "LIN 001Y A09",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A09",
+            "printCRN": "44404",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Linguistics",
+            "subjectDesc": "Linguistics",
+            "courseNum": "001Y",
+            "hidCRN": "44404",
+            "crn": "44404",
+            "subjectCode": "LIN"
+        },
+        "instructor": [
+            {
+                "lastName": "Zellou",
+                "instructorName": "G. Zellou",
+                "firstName": "Georgia",
+                "instructorEmail": "gzellou@ucdavis.edu",
+                "fullName": "Georgia Zellou"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to the study of language; its nature, diversity, and structure.",
+            "creditLimit": "Students may not take both LIN 001 and LIN 001Y for credit.  ",
+            "ge3": "AH,SS",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1900",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1810",
+                "building": "Teaching and Learning Complex",
+                "description": "Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "03211"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "LIN 001Y A10",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A10",
+            "printCRN": "44405",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Linguistics",
+            "subjectDesc": "Linguistics",
+            "courseNum": "001Y",
+            "hidCRN": "44405",
+            "crn": "44405",
+            "subjectCode": "LIN"
+        },
+        "instructor": [
+            {
+                "lastName": "Zellou",
+                "instructorName": "G. Zellou",
+                "firstName": "Georgia",
+                "instructorEmail": "gzellou@ucdavis.edu",
+                "fullName": "Georgia Zellou"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to the study of language; its nature, diversity, and structure.",
+            "creditLimit": "Students may not take both LIN 001 and LIN 001Y for credit.  ",
+            "ge3": "AH,SS",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1510",
+                "building": "Social Science & Humanities",
+                "description": "Discussion",
+                "buildingCode": "SOCSCI",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00090"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "LIN 001Y A11",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A11",
+            "printCRN": "44406",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Linguistics",
+            "subjectDesc": "Linguistics",
+            "courseNum": "001Y",
+            "hidCRN": "44406",
+            "crn": "44406",
+            "subjectCode": "LIN"
+        },
+        "instructor": [
+            {
+                "lastName": "Zellou",
+                "instructorName": "G. Zellou",
+                "firstName": "Georgia",
+                "instructorEmail": "gzellou@ucdavis.edu",
+                "fullName": "Georgia Zellou"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to the study of language; its nature, diversity, and structure.",
+            "creditLimit": "Students may not take both LIN 001 and LIN 001Y for credit.  ",
+            "ge3": "AH,SS",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1610",
+                "building": "Social Science & Humanities",
+                "description": "Discussion",
+                "buildingCode": "SOCSCI",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00090"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "LIN 001Y A12",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A12",
+            "printCRN": "44407",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Linguistics",
+            "subjectDesc": "Linguistics",
+            "courseNum": "001Y",
+            "hidCRN": "44407",
+            "crn": "44407",
+            "subjectCode": "LIN"
+        },
+        "instructor": [
+            {
+                "lastName": "Zellou",
+                "instructorName": "G. Zellou",
+                "firstName": "Georgia",
+                "instructorEmail": "gzellou@ucdavis.edu",
+                "fullName": "Georgia Zellou"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Language as a social phenomenon. Topics include linguistic diversity, language policy, language and identity, language and social structure, speech communities and social networks, the effect of social factors on language variation, linguistic consequences of language contact.",
+            "creditLimit": "",
+            "ge3": "DD,SS,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0900",
+                "building": "Bainer Hall",
+                "description": "Discussion",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01134"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1640",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00106"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "LIN 006 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "55815",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Language & Society",
+            "subjectDesc": "Linguistics",
+            "courseNum": "006",
+            "hidCRN": "55815",
+            "crn": "55815",
+            "subjectCode": "LIN"
+        },
+        "instructor": [
+            {
+                "lastName": "Rud",
+                "instructorName": "J. Rud",
+                "firstName": "Jeremy",
+                "instructorEmail": "jarud@ucdavis.edu",
+                "fullName": "Jeremy Rud"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Language as a social phenomenon. Topics include linguistic diversity, language policy, language and identity, language and social structure, speech communities and social networks, the effect of social factors on language variation, linguistic consequences of language contact.",
+            "creditLimit": "",
+            "ge3": "DD,SS,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1000",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00001"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1640",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00106"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "LIN 006 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "55816",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Language & Society",
+            "subjectDesc": "Linguistics",
+            "courseNum": "006",
+            "hidCRN": "55816",
+            "crn": "55816",
+            "subjectCode": "LIN"
+        },
+        "instructor": [
+            {
+                "lastName": "Rud",
+                "instructorName": "J. Rud",
+                "firstName": "Jeremy",
+                "instructorEmail": "jarud@ucdavis.edu",
+                "fullName": "Jeremy Rud"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Language as a social phenomenon. Topics include linguistic diversity, language policy, language and identity, language and social structure, speech communities and social networks, the effect of social factors on language variation, linguistic consequences of language contact.",
+            "creditLimit": "",
+            "ge3": "DD,SS,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1640",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00106"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1710",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00227"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "LIN 006 A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "55817",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Language & Society",
+            "subjectDesc": "Linguistics",
+            "courseNum": "006",
+            "hidCRN": "55817",
+            "crn": "55817",
+            "subjectCode": "LIN"
+        },
+        "instructor": [
+            {
+                "lastName": "Rud",
+                "instructorName": "J. Rud",
+                "firstName": "Jeremy",
+                "instructorEmail": "jarud@ucdavis.edu",
+                "fullName": "Jeremy Rud"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Language as a social phenomenon. Topics include linguistic diversity, language policy, language and identity, language and social structure, speech communities and social networks, the effect of social factors on language variation, linguistic consequences of language contact.",
+            "creditLimit": "",
+            "ge3": "DD,SS,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1640",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00106"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1900",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1810",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00233"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "LIN 006 A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "55818",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Language & Society",
+            "subjectDesc": "Linguistics",
+            "courseNum": "006",
+            "hidCRN": "55818",
+            "crn": "55818",
+            "subjectCode": "LIN"
+        },
+        "instructor": [
+            {
+                "lastName": "Rud",
+                "instructorName": "J. Rud",
+                "firstName": "Jeremy",
+                "instructorEmail": "jarud@ucdavis.edu",
+                "fullName": "Jeremy Rud"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed group study of topic in English as a Second Language (ESL).",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "LIN 096",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study in English as a Second Language",
+            "subjectDesc": "Linguistics",
+            "courseNum": "096",
+            "hidCRN": "094AC2CEE6",
+            "crn": "44408",
+            "subjectCode": "LIN"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Intended for lower division students.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "LIN 098",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study",
+            "subjectDesc": "Linguistics",
+            "courseNum": "098",
+            "hidCRN": "094AC2CCEA",
+            "crn": "44424",
+            "subjectCode": "LIN"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Survey of present-day English grammar as informed by contemporary linguistic theories. The major syntactic structures of English; their variation across dialects, styles, and registers; their development; and their usefulness in describing the conventions of English.",
+            "creditLimit": "",
+            "ge3": "AH",
+            "crossListing": "ENL 106, UWP 106.",
+            "prereq": " LIN 001 or LIN 001Y or ENG 003 or UWP 001 or UWP 001V or UWP 001Y;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0900",
+                "building": "Shields Library",
+                "description": "Discussion",
+                "buildingCode": "SHLDS",
+                "saturday": false,
+                "type": "DIS",
+                "room": "0090B"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1340",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00119"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "LIN 106 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "56306",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "English Grammar",
+            "subjectDesc": "Linguistics",
+            "courseNum": "106",
+            "hidCRN": "56306",
+            "crn": "56306",
+            "subjectCode": "LIN"
+        },
+        "instructor": [
+            {
+                "lastName": "Ferris",
+                "instructorName": "D. Ferris",
+                "firstName": "Dana",
+                "instructorEmail": "drferris@ucdavis.edu",
+                "fullName": "Dana Ferris"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Survey of present-day English grammar as informed by contemporary linguistic theories. The major syntactic structures of English; their variation across dialects, styles, and registers; their development; and their usefulness in describing the conventions of English.",
+            "creditLimit": "",
+            "ge3": "AH",
+            "crossListing": "ENL 106, UWP 106.",
+            "prereq": " LIN 001 or LIN 001Y or ENG 003 or UWP 001 or UWP 001V or UWP 001Y;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1000",
+                "building": "Shields Library",
+                "description": "Discussion",
+                "buildingCode": "SHLDS",
+                "saturday": false,
+                "type": "DIS",
+                "room": "0090B"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1340",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00119"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "LIN 106 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "56308",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "English Grammar",
+            "subjectDesc": "Linguistics",
+            "courseNum": "106",
+            "hidCRN": "56308",
+            "crn": "56308",
+            "subjectCode": "LIN"
+        },
+        "instructor": [
+            {
+                "lastName": "Ferris",
+                "instructorName": "D. Ferris",
+                "firstName": "Dana",
+                "instructorEmail": "drferris@ucdavis.edu",
+                "fullName": "Dana Ferris"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Survey of present-day English grammar as informed by contemporary linguistic theories. The major syntactic structures of English; their variation across dialects, styles, and registers; their development; and their usefulness in describing the conventions of English.",
+            "creditLimit": "",
+            "ge3": "AH",
+            "crossListing": "ENL 106, UWP 106.",
+            "prereq": " LIN 001 or LIN 001Y or ENG 003 or UWP 001 or UWP 001V or UWP 001Y;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1100",
+                "building": "Shields Library",
+                "description": "Discussion",
+                "buildingCode": "SHLDS",
+                "saturday": false,
+                "type": "DIS",
+                "room": "0090B"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1340",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00119"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "LIN 106 A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "56310",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "English Grammar",
+            "subjectDesc": "Linguistics",
+            "courseNum": "106",
+            "hidCRN": "56310",
+            "crn": "56310",
+            "subjectCode": "LIN"
+        },
+        "instructor": [
+            {
+                "lastName": "Ferris",
+                "instructorName": "D. Ferris",
+                "firstName": "Dana",
+                "instructorEmail": "drferris@ucdavis.edu",
+                "fullName": "Dana Ferris"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Detailed examination of articulatory and acoustic phonetics.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " LIN 001 recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1120",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1000",
+                "building": "Hoagland Hall",
+                "description": "Lecture",
+                "buildingCode": "HOAGLD",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00113"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1130",
+                "building": "Hoagland Hall",
+                "description": "Discussion",
+                "buildingCode": "HOAGLD",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00113"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "LIN 112 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "55819",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Phonetics",
+            "subjectDesc": "Linguistics",
+            "courseNum": "112",
+            "hidCRN": "55819",
+            "crn": "55819",
+            "subjectCode": "LIN"
+        },
+        "instructor": [
+            {
+                "lastName": "Vonessen",
+                "instructorName": "J. Vonessen",
+                "firstName": "Jules",
+                "instructorEmail": "jsvonessen@ucdavis.edu",
+                "fullName": "Jules Vonessen"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to the analysis of word structure and the relation of word structure to the lexicon and other grammatical components.",
+            "creditLimit": "",
+            "ge3": "AH",
+            "crossListing": "",
+            "prereq": " LIN 103A, 103B recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0900",
+                "building": "Kerr Hall",
+                "description": "Discussion",
+                "buildingCode": "KERR",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00293"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1100",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00202"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "LIN 121 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "56304",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Morphology",
+            "subjectDesc": "Linguistics",
+            "courseNum": "121",
+            "hidCRN": "56304",
+            "crn": "56304",
+            "subjectCode": "LIN"
+        },
+        "instructor": [
+            {
+                "lastName": "Aranovich",
+                "instructorName": "R. Aranovich",
+                "firstName": "Raul",
+                "instructorEmail": "raranovich@ucdavis.edu",
+                "fullName": "Raul Aranovich"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to the analysis of word structure and the relation of word structure to the lexicon and other grammatical components.",
+            "creditLimit": "",
+            "ge3": "AH",
+            "crossListing": "",
+            "prereq": " LIN 103A, 103B recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1210",
+                "building": "Kerr Hall",
+                "description": "Discussion",
+                "buildingCode": "KERR",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00293"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1100",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00202"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "LIN 121 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "56305",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Morphology",
+            "subjectDesc": "Linguistics",
+            "courseNum": "121",
+            "hidCRN": "56305",
+            "crn": "56305",
+            "subjectCode": "LIN"
+        },
+        "instructor": [
+            {
+                "lastName": "Aranovich",
+                "instructorName": "R. Aranovich",
+                "firstName": "Raul",
+                "instructorEmail": "raranovich@ucdavis.edu",
+                "fullName": "Raul Aranovich"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to syntactic theory, primarily through the examination of a major theory of syntax, emphasizing theoretical reasoning, argumentation, and problems of theory building in syntax.",
+            "creditLimit": "",
+            "ge3": "AH",
+            "crossListing": "",
+            "prereq": " LIN 103B recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1000",
+                "building": "Teaching and Learning Complex",
+                "description": "Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "03210"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00230"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "LIN 131 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "55820",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Syntactic Theory",
+            "subjectDesc": "Linguistics",
+            "courseNum": "131",
+            "hidCRN": "55820",
+            "crn": "55820",
+            "subjectCode": "LIN"
+        },
+        "instructor": [
+            {
+                "lastName": "Aranovich",
+                "instructorName": "R. Aranovich",
+                "firstName": "Raul",
+                "instructorEmail": "raranovich@ucdavis.edu",
+                "fullName": "Raul Aranovich"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to syntactic theory, primarily through the examination of a major theory of syntax, emphasizing theoretical reasoning, argumentation, and problems of theory building in syntax.",
+            "creditLimit": "",
+            "ge3": "AH",
+            "crossListing": "",
+            "prereq": " LIN 103B recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1100",
+                "building": "Teaching and Learning Complex",
+                "description": "Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "03210"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00230"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "LIN 131 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "55821",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Syntactic Theory",
+            "subjectDesc": "Linguistics",
+            "courseNum": "131",
+            "hidCRN": "55821",
+            "crn": "55821",
+            "subjectCode": "LIN"
+        },
+        "instructor": [
+            {
+                "lastName": "Aranovich",
+                "instructorName": "R. Aranovich",
+                "firstName": "Raul",
+                "instructorEmail": "raranovich@ucdavis.edu",
+                "fullName": "Raul Aranovich"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Description and methods of the historical study of language, including the comparative method and internal reconstruction; sound change, morphological change, syntactic change, semantic change.",
+            "creditLimit": "",
+            "ge3": "AH",
+            "crossListing": "",
+            "prereq": " LIN 103A recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1210",
+                "building": "Giedt",
+                "description": "Discussion",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01007"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1640",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "03215"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "LIN 151 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "55822",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Historical Linguistics",
+            "subjectDesc": "Linguistics",
+            "courseNum": "151",
+            "hidCRN": "55822",
+            "crn": "55822",
+            "subjectCode": "LIN"
+        },
+        "instructor": [
+            {
+                "lastName": "Hawkins",
+                "instructorName": "J. Hawkins",
+                "firstName": "John",
+                "instructorEmail": "jhawkins@ucdavis.edu",
+                "fullName": "John Hawkins"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Description and methods of the historical study of language, including the comparative method and internal reconstruction; sound change, morphological change, syntactic change, semantic change.",
+            "creditLimit": "",
+            "ge3": "AH",
+            "crossListing": "",
+            "prereq": " LIN 103A recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1310",
+                "building": "Giedt",
+                "description": "Discussion",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01007"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1640",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "03215"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "LIN 151 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "55823",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Historical Linguistics",
+            "subjectDesc": "Linguistics",
+            "courseNum": "151",
+            "hidCRN": "55823",
+            "crn": "55823",
+            "subjectCode": "LIN"
+        },
+        "instructor": [
+            {
+                "lastName": "Hawkins",
+                "instructorName": "J. Hawkins",
+                "firstName": "John",
+                "instructorEmail": "jhawkins@ucdavis.edu",
+                "fullName": "John Hawkins"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to psychological issues relating to the implementation\nof language and linguistic structure during speech production and comprehension and to the implications of research in psychology and related fields for linguistic theory.",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": " (LIN 001 or LIN 001Y);  LIN 103A, LIN 103B recommended. "
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1210",
+                "building": "Teaching and Learning Complex",
+                "description": "Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01212"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01212"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "LIN 171 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "55824",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Psycholinguistics",
+            "subjectDesc": "Linguistics",
+            "courseNum": "171",
+            "hidCRN": "55824",
+            "crn": "55824",
+            "subjectCode": "LIN"
+        },
+        "instructor": [
+            {
+                "lastName": "Morgan",
+                "instructorName": "E. Morgan",
+                "firstName": "Emily",
+                "instructorEmail": "eimorgan@ucdavis.edu",
+                "fullName": "Emily Morgan"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Understanding the nature of language through computer modeling of linguistic abilities.  Relationships between human cognition and computer representations of cognitive processing.",
+            "creditLimit": "Not open for credit to students who have taken LIN 007.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  LIN 001 or LIN 001Y recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1340",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00126"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0850",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0800",
+                "building": "Bainer Hall",
+                "description": "Discussion",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01128"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "LIN 177 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "44461",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Computational Linguistics",
+            "subjectDesc": "Linguistics",
+            "courseNum": "177",
+            "hidCRN": "44461",
+            "crn": "44461",
+            "subjectCode": "LIN"
+        },
+        "instructor": [
+            {
+                "lastName": "Sagae",
+                "instructorName": "K. Sagae",
+                "firstName": "Kenji",
+                "instructorEmail": "sagae@ucdavis.edu",
+                "fullName": "Kenji Sagae"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Understanding the nature of language through computer modeling of linguistic abilities.  Relationships between human cognition and computer representations of cognitive processing.",
+            "creditLimit": "Not open for credit to students who have taken LIN 007.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  LIN 001 or LIN 001Y recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1340",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00126"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1000",
+                "building": "Giedt",
+                "description": "Discussion",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01007"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "LIN 177 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "44462",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Computational Linguistics",
+            "subjectDesc": "Linguistics",
+            "courseNum": "177",
+            "hidCRN": "44462",
+            "crn": "44462",
+            "subjectCode": "LIN"
+        },
+        "instructor": [
+            {
+                "lastName": "Sagae",
+                "instructorName": "K. Sagae",
+                "firstName": "Kenji",
+                "instructorEmail": "sagae@ucdavis.edu",
+                "fullName": "Kenji Sagae"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Understanding the nature of language through computer modeling of linguistic abilities.  Relationships between human cognition and computer representations of cognitive processing.",
+            "creditLimit": "Not open for credit to students who have taken LIN 007.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  LIN 001 or LIN 001Y recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1410",
+                "building": "Bainer Hall",
+                "description": "Discussion",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01128"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1340",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00126"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "LIN 177 A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "44463",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Computational Linguistics",
+            "subjectDesc": "Linguistics",
+            "courseNum": "177",
+            "hidCRN": "44463",
+            "crn": "44463",
+            "subjectCode": "LIN"
+        },
+        "instructor": [
+            {
+                "lastName": "Sagae",
+                "instructorName": "K. Sagae",
+                "firstName": "Kenji",
+                "instructorEmail": "sagae@ucdavis.edu",
+                "fullName": "Kenji Sagae"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Understanding the nature of language through computer modeling of linguistic abilities.  Relationships between human cognition and computer representations of cognitive processing.",
+            "creditLimit": "Not open for credit to students who have taken LIN 007.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  LIN 001 or LIN 001Y recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1510",
+                "building": "Bainer Hall",
+                "description": "Discussion",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01128"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1340",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00126"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "LIN 177 A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "44464",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Computational Linguistics",
+            "subjectDesc": "Linguistics",
+            "courseNum": "177",
+            "hidCRN": "44464",
+            "crn": "44464",
+            "subjectCode": "LIN"
+        },
+        "instructor": [
+            {
+                "lastName": "Sagae",
+                "instructorName": "K. Sagae",
+                "firstName": "Kenji",
+                "instructorEmail": "sagae@ucdavis.edu",
+                "fullName": "Kenji Sagae"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Internship applying linguistic-related skills to a fieldwork project in areas such as media, law, or industry, in approved organizations or institutions. Maximum of 4 units applicable toward major.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " LIN 001 or LIN 001Y;  Or equivalent course; consent of instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "I",
+                "startTime": "",
+                "building": "",
+                "description": "Internship",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "INT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "LIN 192",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Internship in Linguistics",
+            "subjectDesc": "Linguistics",
+            "courseNum": "192",
+            "hidCRN": "094AC2C8E8",
+            "crn": "44466",
+            "subjectCode": "LIN"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Guided research, under the direction of a faculty member approved by the Program Director, leading to a senior honors thesis.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Open only to linguistics majors of senior standing who qualify for Honors Program. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "LIN 194H",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Study for Honors Students",
+            "subjectDesc": "Linguistics",
+            "courseNum": "194H",
+            "hidCRN": "094AC2C9EF",
+            "crn": "44471",
+            "subjectCode": "LIN"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Leading of small voluntary discussion groups affiliated with one of the department's regular courses.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Upper division standing and consent of department chairperson. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "T",
+                "startTime": "",
+                "building": "",
+                "description": "Tutorial",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "TUT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "LIN 197T",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 4,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Tutoring in Linguistics",
+            "subjectDesc": "Linguistics",
+            "courseNum": "197T",
+            "hidCRN": "094AC2C7EF",
+            "crn": "44491",
+            "subjectCode": "LIN"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed group study.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "LIN 198",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study",
+            "subjectDesc": "Linguistics",
+            "courseNum": "198",
+            "hidCRN": "094AC3CEE8",
+            "crn": "44506",
+            "subjectCode": "LIN"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special study for advanced undergraduates.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "LIN 199",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Study for Advanced Undergraduates",
+            "subjectDesc": "Linguistics",
+            "courseNum": "199",
+            "hidCRN": "094AC3CCEC",
+            "crn": "44522",
+            "subjectCode": "LIN"
+        },
+        "instructor": [
+            {
+                "lastName": "Ferreira",
+                "instructorName": "F. Ferreira",
+                "firstName": "Fernanda",
+                "instructorEmail": "fferreira@ucdavis.edu",
+                "fullName": "Fernanda Ferreira"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to research activity of faculty in the Graduate Group in Linguistics and guest speakers.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "E",
+                "startTime": "1500",
+                "building": "Kerr Hall",
+                "description": "Seminar",
+                "buildingCode": "KERR",
+                "saturday": false,
+                "type": "SEM",
+                "room": "00273"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "LIN 201 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "44532",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Proseminar",
+            "subjectDesc": "Linguistics",
+            "courseNum": "201",
+            "hidCRN": "44532",
+            "crn": "44532",
+            "subjectCode": "LIN"
+        },
+        "instructor": [
+            {
+                "lastName": "Zellou",
+                "instructorName": "G. Zellou",
+                "firstName": "Georgia",
+                "instructorEmail": "gzellou@ucdavis.edu",
+                "fullName": "Georgia Zellou"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Advanced study of current problems in linguistic theory and methodology. ",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "E",
+                "startTime": "1510",
+                "building": "Kerr Hall",
+                "description": "Seminar",
+                "buildingCode": "KERR",
+                "saturday": false,
+                "type": "SEM",
+                "room": "00273"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "LIN 205C 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55825",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Topics in Linguistic Theory & Methods",
+            "subjectDesc": "Linguistics",
+            "courseNum": "205C",
+            "hidCRN": "55825",
+            "crn": "55825",
+            "subjectCode": "LIN"
+        },
+        "instructor": [
+            {
+                "lastName": "Morgan",
+                "instructorName": "E. Morgan",
+                "firstName": "Emily",
+                "instructorEmail": "eimorgan@ucdavis.edu",
+                "fullName": "Emily Morgan"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Advanced critical exploration of contemporary theories of linguistic semantics.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " LIN 141;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Kerr Hall",
+                "description": "Lecture",
+                "buildingCode": "KERR",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00273"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "LIN 241 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55827",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Advanced Syntactic Theory & Analysis",
+            "subjectDesc": "Linguistics",
+            "courseNum": "241",
+            "hidCRN": "55827",
+            "crn": "55827",
+            "subjectCode": "LIN"
+        },
+        "instructor": [
+            {
+                "lastName": "Jasbi",
+                "instructorName": "M. Jasbi",
+                "firstName": "Masoud",
+                "instructorEmail": "jasbi@ucdavis.edu",
+                "fullName": "Masoud Jasbi"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Cross-linguistic comparison and typology, including word order, morphological typology, complex clauses, semantic categories and their grammaticalization, and applications of typology to language acquisition.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "E",
+                "startTime": "1410",
+                "building": "Kerr Hall",
+                "description": "Seminar",
+                "buildingCode": "KERR",
+                "saturday": false,
+                "type": "SEM",
+                "room": "00273"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "LIN 250 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55826",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Principles of Typological Linguistics",
+            "subjectDesc": "Linguistics",
+            "courseNum": "250",
+            "hidCRN": "55826",
+            "crn": "55826",
+            "subjectCode": "LIN"
+        },
+        "instructor": [
+            {
+                "lastName": "Hawkins",
+                "instructorName": "J. Hawkins",
+                "firstName": "John",
+                "instructorEmail": "jhawkins@ucdavis.edu",
+                "fullName": "John Hawkins"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Teaching classes for ESL graduate students. Aiding the ESL undergraduate composition classes; tutoring foreign graduate student Teaching Assistants in pronunciation. Does not fulfill requirement toward the M.A. degree.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " LIN 300 or LIN 301 or LIN 302 { can be concurrent };  and Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "O",
+                "startTime": "",
+                "building": "",
+                "description": "Clinic",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "CLI",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "LIN 297T",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 4,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "English as a Second Language Teaching/Tutoring",
+            "subjectDesc": "Linguistics",
+            "courseNum": "297T",
+            "hidCRN": "094AC3CDEB",
+            "crn": "44535",
+            "subjectCode": "LIN"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed group study.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Graduate standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "LIN 298",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study",
+            "subjectDesc": "Linguistics",
+            "courseNum": "298",
+            "hidCRN": "094AC3CDE6",
+            "crn": "44538",
+            "subjectCode": "LIN"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Research.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "LIN 299",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research",
+            "subjectDesc": "Linguistics",
+            "courseNum": "299",
+            "hidCRN": "094AC3CBEC",
+            "crn": "44552",
+            "subjectCode": "LIN"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Teaching assistant training.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Graduate standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "LIN 396",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 4,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Teaching Assistant Training Practicum",
+            "subjectDesc": "Linguistics",
+            "courseNum": "396",
+            "hidCRN": "094AC3C9ED",
+            "crn": "44573",
+            "subjectCode": "LIN"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    }
+]

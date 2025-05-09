@@ -1,0 +1,484 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Explores decision support systems for medical application. Topics include medical decision making, uncertainty, review of existing decision support systems, knowledge engineering, data mining, and knowledge based systems.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "",
+                "building": "",
+                "description": "Lecture/Discussion",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LED",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MHI 207 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "47063",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Decision Support Systems",
+            "subjectDesc": "Health Informatics",
+            "courseNum": "207",
+            "hidCRN": "47063",
+            "crn": "47063",
+            "subjectCode": "MHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Shankar",
+                "instructorName": "P. Shankar",
+                "firstName": "Prabhu",
+                "instructorEmail": "rvpshankar@ucdavis.edu",
+                "fullName": "Prabhu Shankar"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Landscape, technologies, and policies involved in data acquisition, storage and analysis in digital and connected health and consumer health informatics. Models of digital health data monitoring, including clinical, mobile health and telehealth, and theories relevant to health and information behavior by consumers and patients. Design, acquisition and analysis of data in the personal and consumer health ecosystem. ",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "",
+                "building": "",
+                "description": "Lecture",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LEC",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MHI 209N 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "47064",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Consumer Digital Health",
+            "subjectDesc": "Health Informatics",
+            "courseNum": "209N",
+            "hidCRN": "47064",
+            "crn": "47064",
+            "subjectCode": "MHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Kim",
+                "instructorName": "K. Kim",
+                "firstName": "Katherine",
+                "instructorEmail": "kathykim@ucdavis.edu",
+                "fullName": "Katherine Kim"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Critical thinking about basic concepts in computer security and privacy.  How the computer security and privacy impact health informatics, ranging from electronic health records to telemedicine to remote, virtual surgery.\n",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " MHI 210;  MHI 202;  MHI 209"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "",
+                "building": "",
+                "description": "Lecture",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LEC",
+                "room": ""
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "8",
+                "startTime": "",
+                "building": "",
+                "description": "Term Project",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "PRJ",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MHI 212 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "47065",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Computer Security in Health Informatics",
+            "subjectDesc": "Health Informatics",
+            "courseNum": "212",
+            "hidCRN": "47065",
+            "crn": "47065",
+            "subjectCode": "MHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Peisert",
+                "instructorName": "S. Peisert",
+                "firstName": "Sean",
+                "instructorEmail": "speisert@ucdavis.edu",
+                "fullName": "Sean Peisert"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Critical thinking about basic concepts in computer security and privacy.  How the computer security and privacy impact health informatics, ranging from electronic health records to telemedicine to remote, virtual surgery.\n",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " MHI 210;  MHI 202;  MHI 209"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "",
+                "startTime": "",
+                "building": "",
+                "description": "",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MHI 212 002",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "002",
+            "printCRN": "47066",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Computer Security in Health Informatics",
+            "subjectDesc": "Health Informatics",
+            "courseNum": "212",
+            "hidCRN": "47066",
+            "crn": "47066",
+            "subjectCode": "MHI"
+        },
+        "instructor": [
+            {
+                "lastName": "",
+                "instructorName": ". ",
+                "firstName": "",
+                "instructorEmail": "",
+                "fullName": " "
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Discussion of current graduate research and topics in Medical Informatics. Oral presentations of individual study.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "E",
+                "startTime": "1210",
+                "building": "Teaching and Learning Complex",
+                "description": "Seminar",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "SEM",
+                "room": "03213"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "MHI 290 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "47067",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Seminar in Medical Informatics",
+            "subjectDesc": "Health Informatics",
+            "courseNum": "290",
+            "hidCRN": "47067",
+            "crn": "47067",
+            "subjectCode": "MHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Carroll",
+                "instructorName": "M. Carroll",
+                "firstName": "Mark",
+                "instructorEmail": "mjcarroll@ucdavis.edu",
+                "fullName": "Mark Carroll"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed reading and discussion on select topics. ",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Graduate student in good academic standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "1115",
+                "building": "Education Building",
+                "description": "Variable",
+                "buildingCode": "EDBLDG",
+                "saturday": false,
+                "type": "VAR",
+                "room": "02206"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "MHI 298",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "001",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Group Study in Health Informatics",
+            "subjectDesc": "Health Informatics",
+            "courseNum": "298",
+            "hidCRN": "0949C6C8E7",
+            "crn": "47069",
+            "subjectCode": "MHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Carroll",
+                "instructorName": "M. Carroll",
+                "firstName": "Mark",
+                "instructorEmail": "mjcarroll@ucdavis.edu",
+                "fullName": "Mark Carroll"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Independent research in Health Informatics.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "MHI 299",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research in Health Informatics",
+            "subjectDesc": "Health Informatics",
+            "courseNum": "299",
+            "hidCRN": "0949C6C9EF",
+            "crn": "47071",
+            "subjectCode": "MHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Khan",
+                "instructorName": "I. Khan",
+                "firstName": "Imran",
+                "instructorEmail": "ihkhan@ucdavis.edu",
+                "fullName": "Imran Khan"
+            }
+        ]
+    }
+]

@@ -1,0 +1,174 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Current scientific literature related to Maternal & Child Nutrition in adult education settings. Topics include methods and theories of adult education and critical thinking skills related to research evaluation.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Graduate standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2000",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "E",
+                "startTime": "1810",
+                "building": "Meyer Hall",
+                "description": "Seminar",
+                "buildingCode": "MEYER",
+                "saturday": false,
+                "type": "SEM",
+                "room": "01131"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "MCN 264A",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Current Topics in Maternal & Child Nutrition: Principles of Adult Education",
+            "subjectDesc": "Maternal and Child Nutrition",
+            "courseNum": "264A",
+            "hidCRN": "084BC3CCE9",
+            "crn": "55527",
+            "subjectCode": "MCN"
+        },
+        "instructor": [
+            {
+                "lastName": "Economides",
+                "instructorName": "S. Economides",
+                "firstName": "Sharon",
+                "instructorEmail": "seconomides@ucdavis.edu",
+                "fullName": "Sharon Economides"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Applied concepts in breastfeeding support and human lactation management. Development of breastfeeding care plans that address problems encountered by lactating parents and their infants. Emphasis on evidence-based practice, professional guidelines, and professional standards of practice for lactation consultants.  ",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " MCN 260 B or better;  MCN 261 B or better;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2000",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1810",
+                "building": "Meyer Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "MEYER",
+                "saturday": false,
+                "type": "LED",
+                "room": "01135"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "%",
+                "startTime": "",
+                "building": "",
+                "description": "World Wide Web Electronic Dis",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "WED",
+                "room": ""
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "WVL",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MCN 265Y",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Applied Principles of Lactation Management",
+            "subjectDesc": "Maternal and Child Nutrition",
+            "courseNum": "265Y",
+            "hidCRN": "084BC3CCE6",
+            "crn": "55528",
+            "subjectCode": "MCN"
+        },
+        "instructor": [
+            {
+                "lastName": "Nommsen-Rivers",
+                "instructorName": "L. Nommsen-Rivers",
+                "firstName": "Laurie",
+                "instructorEmail": "lnrivers@ucdavis.edu",
+                "fullName": "Laurie Nommsen-Rivers"
+            }
+        ]
+    }
+]

@@ -1,0 +1,332 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to university life. Topics include transition to academic and campus life; academic expectations and the skills to meet them; campus resources; social and professional development; assistance in choice of major, and academic planning.\n",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "G",
+                "startTime": "1210",
+                "building": "Olson Hall",
+                "description": "Discussion Laboratory",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "D/L",
+                "room": "00217"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "LTS 001 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "44591",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "First Year Engagement: Student Success in Letters & Science ",
+            "subjectDesc": "College of Letters & Science",
+            "courseNum": "001",
+            "hidCRN": "44591",
+            "crn": "44591",
+            "subjectCode": "LTS"
+        },
+        "instructor": [
+            {
+                "lastName": "McClain",
+                "instructorName": "J. McClain",
+                "firstName": "James",
+                "instructorEmail": "jsmcclain@ucdavis.edu",
+                "fullName": "James McClain"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to university life. Topics include transition to academic and campus life; academic expectations and the skills to meet them; campus resources; social and professional development; assistance in choice of major, and academic planning.\n",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "G",
+                "startTime": "1210",
+                "building": "Olson Hall",
+                "description": "Discussion Laboratory",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "D/L",
+                "room": "00251"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "LTS 001 002",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "002",
+            "printCRN": "44592",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "First Year Engagement: Student Success in Letters & Science ",
+            "subjectDesc": "College of Letters & Science",
+            "courseNum": "001",
+            "hidCRN": "44592",
+            "crn": "44592",
+            "subjectCode": "LTS"
+        },
+        "instructor": [
+            {
+                "lastName": "McClain",
+                "instructorName": "J. McClain",
+                "firstName": "James",
+                "instructorEmail": "jsmcclain@ucdavis.edu",
+                "fullName": "James McClain"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to university life. Topics include transition to academic and campus life; academic expectations and the skills to meet them; campus resources; social and professional development; assistance in choice of major, and academic planning.\n",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "G",
+                "startTime": "1210",
+                "building": "Hickey Gymnasium",
+                "description": "Discussion Laboratory",
+                "buildingCode": "H GYM",
+                "saturday": false,
+                "type": "D/L",
+                "room": "00290"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "LTS 001 003",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "003",
+            "printCRN": "44593",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "First Year Engagement: Student Success in Letters & Science ",
+            "subjectDesc": "College of Letters & Science",
+            "courseNum": "001",
+            "hidCRN": "44593",
+            "crn": "44593",
+            "subjectCode": "LTS"
+        },
+        "instructor": [
+            {
+                "lastName": "McClain",
+                "instructorName": "J. McClain",
+                "firstName": "James",
+                "instructorEmail": "jsmcclain@ucdavis.edu",
+                "fullName": "James McClain"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to university life. Topics include transition to academic and campus life; academic expectations and the skills to meet them; campus resources; social and professional development; assistance in choice of major, and academic planning.\n",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "G",
+                "startTime": "1210",
+                "building": "Wellman Hall",
+                "description": "Discussion Laboratory",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "D/L",
+                "room": "00233"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "LTS 001 004",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "004",
+            "printCRN": "56712",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "First Year Engagement: Student Success in Letters & Science ",
+            "subjectDesc": "College of Letters & Science",
+            "courseNum": "001",
+            "hidCRN": "56712",
+            "crn": "56712",
+            "subjectCode": "LTS"
+        },
+        "instructor": [
+            {
+                "lastName": "McClain",
+                "instructorName": "J. McClain",
+                "firstName": "James",
+                "instructorEmail": "jsmcclain@ucdavis.edu",
+                "fullName": "James McClain"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed group study.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "",
+                "startTime": "",
+                "building": "",
+                "description": "",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "LTS 098",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "006",
+            "printCRN": "@",
+            "unitsHigh": 4,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study",
+            "subjectDesc": "College of Letters & Science",
+            "courseNum": "098",
+            "hidCRN": "094AC3C7E8",
+            "crn": "44596",
+            "subjectCode": "LTS"
+        },
+        "instructor": [
+            {
+                "lastName": "",
+                "instructorName": ". ",
+                "firstName": "",
+                "instructorEmail": "",
+                "fullName": " "
+            }
+        ]
+    }
+]

@@ -1,0 +1,894 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Design and analysis of engineering experiments with emphasis on measurement standards, data analysis, regressions and general and detailed uncertainty analysis, including statistical treatment of experimental data intervals, propagation of bias and precision errors, correlated bias approximations, and using jitter programs.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " EME 108;  EME 109"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "03212"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1340",
+                "building": "Teaching and Learning Complex",
+                "description": "Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "03212"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MAE 207 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55628",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Engineering Experimentation & Uncertainty Analysis",
+            "subjectDesc": "Engineering Mechanical & Aero",
+            "courseNum": "207",
+            "hidCRN": "55628",
+            "crn": "55628",
+            "subjectCode": "MAE"
+        },
+        "instructor": [
+            {
+                "lastName": "Gronbech Jensen",
+                "instructorName": "N. Gronbech Jensen",
+                "firstName": "Niels",
+                "instructorEmail": "ngjensen@ucdavis.edu",
+                "fullName": "Niels Gronbech Jensen"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Modeling and analysis methodology for composite structures including response and failure. Laminated plate bending theory. Introduction to failure processes. Includes discussion of aerospace structural analysis.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " ENG 104;  Or equivalent."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Bainer Hall",
+                "description": "Lecture",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01070"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1340",
+                "building": "Bainer Hall",
+                "description": "Discussion",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01070"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MAE 237 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "44604",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Analysis & Design of Composite Structures",
+            "subjectDesc": "Engineering Mechanical & Aero",
+            "courseNum": "237",
+            "hidCRN": "44604",
+            "crn": "44604",
+            "subjectCode": "MAE"
+        },
+        "instructor": [
+            {
+                "lastName": "La Saponara",
+                "instructorName": "V. La Saponara",
+                "firstName": "Valeria",
+                "instructorEmail": "vlasaponara@ucdavis.edu",
+                "fullName": "Valeria La Saponara"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Survey of biodevice design from engineering and biological perspectives; micro-/nano-fabrication techniques; surface science and mass transport; essential biological processes and models; proposal development skills on merging aforementioned themes. ",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "ECH 245, EMS 245, EEC 245.",
+            "prereq": " Graduate standing or consent of instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1410",
+                "building": "Bainer Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "LED",
+                "room": "01062"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MAE 245 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55626",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Micro- & Nano-Technology in Life Sciences",
+            "subjectDesc": "Engineering Mechanical & Aero",
+            "courseNum": "245",
+            "hidCRN": "55626",
+            "crn": "55626",
+            "subjectCode": "MAE"
+        },
+        "instructor": [
+            {
+                "lastName": "Seker",
+                "instructorName": "E. Seker",
+                "firstName": "Erkin",
+                "instructorEmail": "eseker@ucdavis.edu",
+                "fullName": "Erkin Seker"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Develops the mathematical theory underlying growth, structure and function of networks with applications to physical, social, biological and engineered systems. Topics include network growth, resilience, epidemiology, phase transitions, software and algorithms, routing and search control, cascading failures.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "ECS 253.",
+            "prereq": " MAT 022A;  MAT 022B;  (STA 013 or STA 013Y or STA 120);  Experience with computer software, or consent of instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "1410",
+                "building": "Giedt",
+                "description": "Lecture/Discussion",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LED",
+                "room": "01006"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MAE 253 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55630",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Network Theory & Applications",
+            "subjectDesc": "Engineering Mechanical & Aero",
+            "courseNum": "253",
+            "hidCRN": "55630",
+            "crn": "55630",
+            "subjectCode": "MAE"
+        },
+        "instructor": [
+            {
+                "lastName": "D'souza",
+                "instructorName": "R. D'souza",
+                "firstName": "Raissa",
+                "instructorEmail": "rmdsouza@ucdavis.edu",
+                "fullName": "Raissa D'souza"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Simulation of manufacturing workflow with emphasis on various machining simulation/modeling techniques including advanced manufacturing technologies, intelligent machine tools, measuring instrument for manufacturing, pre- and post- manufacturing process measurement and design of experimentation for manufacturing engineers.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " EME 050 C- or better"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1000",
+                "building": "Bainer Hall",
+                "description": "Lecture",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01070"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1100",
+                "building": "Bainer Hall",
+                "description": "Discussion",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01070"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MAE 257 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56082",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Advanced Manufacturing",
+            "subjectDesc": "Engineering Mechanical & Aero",
+            "courseNum": "257",
+            "hidCRN": "56082",
+            "crn": "56082",
+            "subjectCode": "MAE"
+        },
+        "instructor": [
+            {
+                "lastName": "Soshi",
+                "instructorName": "M. Soshi",
+                "firstName": "Masakazu",
+                "instructorEmail": "msoshi@ucdavis.edu",
+                "fullName": "Masakazu Soshi"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Advanced vehicle design for fuel economy, performance, and low emissions, considering regulations, societal demands and manufacturability. Analysis and verification of computer design and control of vehicle systems in real vehicle tests. Advanced engine concepts.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " EME 150B;  graduate standing in Mechanical and Aeronautical Engineering. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00233"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1510",
+                "building": "Wellman Hall",
+                "description": "Laboratory",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00233"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MAE 258 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55629",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Hybrid Electric Vehicle System Theory & Design",
+            "subjectDesc": "Engineering Mechanical & Aero",
+            "courseNum": "258",
+            "hidCRN": "55629",
+            "crn": "55629",
+            "subjectCode": "MAE"
+        },
+        "instructor": [
+            {
+                "lastName": "Park",
+                "instructorName": "J. Park",
+                "firstName": "Jae Wan",
+                "instructorEmail": "jwpark@ucdavis.edu",
+                "fullName": "Jae Wan Park"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to numerical methods for solution of fluid flow problems. Discretization techniques and solution algorithms. Finite difference solutions to classical model equations pertinent to wave phenomena, diffusion phenomena, or equilibrium. Application to the incompressible and compressible Navier-Stokes equations.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " ENG 103;  ENG 105;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1120",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1000",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00125"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1130",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00125"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MAE 263 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55631",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Computational Aerodynamics & Fluid Dynamics",
+            "subjectDesc": "Engineering Mechanical & Aero",
+            "courseNum": "263",
+            "hidCRN": "55631",
+            "crn": "55631",
+            "subjectCode": "MAE"
+        },
+        "instructor": [
+            {
+                "lastName": "Badrya",
+                "instructorName": "C. Badrya",
+                "firstName": "Camli",
+                "instructorEmail": "cbadrya@ucdavis.edu",
+                "fullName": "Camli Badrya"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Current topics in engineering including developments in mechanical and aeronautical engineering with presentations by students, faculty, and visitors.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1610",
+                "building": "Bainer Hall",
+                "description": "Discussion",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01062"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "MAE 297 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "44660",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "SEMINAR",
+            "subjectDesc": "Engineering Mechanical & Aero",
+            "courseNum": "297",
+            "hidCRN": "44660",
+            "crn": "44660",
+            "subjectCode": "MAE"
+        },
+        "instructor": [
+            {
+                "lastName": "Kong",
+                "instructorName": "Z. Kong",
+                "firstName": "Zhaodan",
+                "instructorEmail": "zdkong@ucdavis.edu",
+                "fullName": "Zhaodan Kong"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Group study.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "MAE 298",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "001",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Group Study",
+            "subjectDesc": "Engineering Mechanical & Aero",
+            "courseNum": "298",
+            "hidCRN": "094AC0C8EC",
+            "crn": "44662",
+            "subjectCode": "MAE"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Group study.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "V",
+                "startTime": "1210",
+                "building": "Teaching and Learning Complex",
+                "description": "Variable",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "VAR",
+                "room": "03211"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "MAE 298",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "002",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Group Study",
+            "subjectDesc": "Engineering Mechanical & Aero",
+            "courseNum": "298",
+            "hidCRN": "094AC0C8ED",
+            "crn": "44663",
+            "subjectCode": "MAE"
+        },
+        "instructor": [
+            {
+                "lastName": "Lin",
+                "instructorName": "X. Lin",
+                "firstName": "Xinfan",
+                "instructorEmail": "lxflin@ucdavis.edu",
+                "fullName": "Xinfan Lin"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Research.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "MAE 299",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research",
+            "subjectDesc": "Engineering Mechanical & Aero",
+            "courseNum": "299",
+            "hidCRN": "094AC0C8E9",
+            "crn": "44667",
+            "subjectCode": "MAE"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Teaching assistant training.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Graduate standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "MAE 396",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 4,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Teaching Assistant Training Practicum",
+            "subjectDesc": "Engineering Mechanical & Aero",
+            "courseNum": "396",
+            "hidCRN": "094AC1CCEE",
+            "crn": "44720",
+            "subjectCode": "MAE"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    }
+]

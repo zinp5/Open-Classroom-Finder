@@ -1,0 +1,860 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Basic military tactical theories and their application at the individual and squad level. Military tactical operations and basic military first aid.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Lower division standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1100",
+                "building": "Hickey Gymnasium",
+                "description": "Lecture",
+                "buildingCode": "H GYM",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00123"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "MSC 013 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "47488",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Basic Military Operations",
+            "subjectDesc": "Military Science",
+            "courseNum": "013",
+            "hidCRN": "47488",
+            "crn": "47488",
+            "subjectCode": "MSC"
+        },
+        "instructor": [
+            {
+                "lastName": "Dugger",
+                "instructorName": "A. Dugger",
+                "firstName": "Alan",
+                "instructorEmail": "adugger@ucdavis.edu",
+                "fullName": "Alan Dugger"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Basic military tactical theories and their application at the individual and squad level. Military tactical operations and basic military first aid.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Lower division standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Hickey Gymnasium",
+                "description": "Lecture",
+                "buildingCode": "H GYM",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00123"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "MSC 013 002",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "002",
+            "printCRN": "47489",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Basic Military Operations",
+            "subjectDesc": "Military Science",
+            "courseNum": "013",
+            "hidCRN": "47489",
+            "crn": "47489",
+            "subjectCode": "MSC"
+        },
+        "instructor": [
+            {
+                "lastName": "Dugger",
+                "instructorName": "A. Dugger",
+                "firstName": "Alan",
+                "instructorEmail": "adugger@ucdavis.edu",
+                "fullName": "Alan Dugger"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Basic military tactical theories and their application at the individual and squad level. Military tactical operations and basic military first aid.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Lower division standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1310",
+                "building": "Hickey Gymnasium",
+                "description": "Lecture",
+                "buildingCode": "H GYM",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00123"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "MSC 013 003",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "003",
+            "printCRN": "47490",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Basic Military Operations",
+            "subjectDesc": "Military Science",
+            "courseNum": "013",
+            "hidCRN": "47490",
+            "crn": "47490",
+            "subjectCode": "MSC"
+        },
+        "instructor": [
+            {
+                "lastName": "Dugger",
+                "instructorName": "A. Dugger",
+                "firstName": "Alan",
+                "instructorEmail": "adugger@ucdavis.edu",
+                "fullName": "Alan Dugger"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Development of skills required for promotion to junior non-commissioned officer level. Chain of command from company through individual levels. Interrelationship of squad and platoon organizations.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Lower division standing.  "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1510",
+                "building": "Hickey Gymnasium",
+                "description": "Laboratory",
+                "buildingCode": "H GYM",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00123"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 0.5,
+            "reservedSeating": false,
+            "shortDesc": "MSC 014C 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "47491",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Military Leadership Skills",
+            "subjectDesc": "Military Science",
+            "courseNum": "014C",
+            "hidCRN": "47491",
+            "crn": "47491",
+            "subjectCode": "MSC"
+        },
+        "instructor": [
+            {
+                "lastName": "Dugger",
+                "instructorName": "A. Dugger",
+                "firstName": "Alan",
+                "instructorEmail": "adugger@ucdavis.edu",
+                "fullName": "Alan Dugger"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Application of the nine Principles of War to key battles in American and World history. Tactics on a strategic and operational level. Evaluation of leadership and decision-making processes of key leaders.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " MSC 022B;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Hickey Gymnasium",
+                "description": "Lecture",
+                "buildingCode": "H GYM",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00123"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "MSC 021 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "47492",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Military History, Study of Battles",
+            "subjectDesc": "Military Science",
+            "courseNum": "021",
+            "hidCRN": "47492",
+            "crn": "47492",
+            "subjectCode": "MSC"
+        },
+        "instructor": [
+            {
+                "lastName": "Peterson",
+                "instructorName": "J. Peterson",
+                "firstName": "Jesse",
+                "instructorEmail": "jbpeterson@ucdavis.edu",
+                "fullName": "Jesse Peterson"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Application of the nine Principles of War to key battles in American and World history. Tactics on a strategic and operational level. Evaluation of leadership and decision-making processes of key leaders.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " MSC 022B;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1000",
+                "building": "Hickey Gymnasium",
+                "description": "Lecture",
+                "buildingCode": "H GYM",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00123"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "MSC 021 002",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "002",
+            "printCRN": "47493",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Military History, Study of Battles",
+            "subjectDesc": "Military Science",
+            "courseNum": "021",
+            "hidCRN": "47493",
+            "crn": "47493",
+            "subjectCode": "MSC"
+        },
+        "instructor": [
+            {
+                "lastName": "Peterson",
+                "instructorName": "J. Peterson",
+                "firstName": "Jesse",
+                "instructorEmail": "jbpeterson@ucdavis.edu",
+                "fullName": "Jesse Peterson"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Develop and practice personal military leadership skills in extensive supervised leadership labs. Begin with drill and ceremony, land navigation and individual movement techniques. Cadets perform basic military skills, improve on troop leading procedures and lead subordinates in tactical situations.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " MSC 014A;  MSC 014B;  MSC 014C;  MSC 021 { can be concurrent };  or Consent of Instructor.  MSC 021 required concurrently. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1510",
+                "building": "Hickey Gymnasium",
+                "description": "Laboratory",
+                "buildingCode": "H GYM",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00123"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 0.5,
+            "reservedSeating": false,
+            "shortDesc": "MSC 024C 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "47494",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Individual Military Leadership Skills",
+            "subjectDesc": "Military Science",
+            "courseNum": "024C",
+            "hidCRN": "47494",
+            "crn": "47494",
+            "subjectCode": "MSC"
+        },
+        "instructor": [
+            {
+                "lastName": "Peterson",
+                "instructorName": "J. Peterson",
+                "firstName": "Jesse",
+                "instructorEmail": "jbpeterson@ucdavis.edu",
+                "fullName": "Jesse Peterson"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Leadership and management in organizational context. Team dynamics, leadership styles, professional ethics, development of a leadership framework. Management skills for planning, decision making, and organizing developed through definition of problems, development of courses of action, implementation of solutions.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Upper division standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0750",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0600",
+                "building": "Hickey Gymnasium",
+                "description": "Lecture",
+                "buildingCode": "H GYM",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00123"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "MSC 131 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "47495",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Military Leadership & Management",
+            "subjectDesc": "Military Science",
+            "courseNum": "131",
+            "hidCRN": "47495",
+            "crn": "47495",
+            "subjectCode": "MSC"
+        },
+        "instructor": [
+            {
+                "lastName": "Tauzer",
+                "instructorName": "B. Tauzer",
+                "firstName": "Bryan",
+                "instructorEmail": "bjtauzer@ucdavis.edu",
+                "fullName": "Bryan Tauzer"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Leadership and management in organizational context. Team dynamics, leadership styles, professional ethics, development of a leadership framework. Management skills for planning, decision making, and organizing developed through definition of problems, development of courses of action, implementation of solutions.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Upper division standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Hickey Gymnasium",
+                "description": "Lecture",
+                "buildingCode": "H GYM",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00123"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "MSC 131 002",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "002",
+            "printCRN": "47496",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Military Leadership & Management",
+            "subjectDesc": "Military Science",
+            "courseNum": "131",
+            "hidCRN": "47496",
+            "crn": "47496",
+            "subjectCode": "MSC"
+        },
+        "instructor": [
+            {
+                "lastName": "",
+                "instructorName": ". ",
+                "firstName": "",
+                "instructorEmail": "",
+                "fullName": " "
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Small unit tactical operations are taught, serve as basis for students exploration, development.  Serve in variety of leadership roles in which leadership attributes, skills, actions are closely assessed and developed while they are faced with series of problem solving exercises.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " MSC 132B;  or Consent of Instructor.  Upper division standing."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1510",
+                "building": "Hickey Gymnasium",
+                "description": "Laboratory",
+                "buildingCode": "H GYM",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00123"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 0.5,
+            "reservedSeating": false,
+            "shortDesc": "MSC 134C 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "47497",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Adaptive Tactical Leadership",
+            "subjectDesc": "Military Science",
+            "courseNum": "134C",
+            "hidCRN": "47497",
+            "crn": "47497",
+            "subjectCode": "MSC"
+        },
+        "instructor": [
+            {
+                "lastName": "Tauzer",
+                "instructorName": "B. Tauzer",
+                "firstName": "Bryan",
+                "instructorEmail": "bjtauzer@ucdavis.edu",
+                "fullName": "Bryan Tauzer"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Direct influence of leaders on individual motivation and group processes. The complexities of balancing moral, legal, and ethical obligations while applying fundamental business principles in determining the best possible outcome from competing solutions.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Upper division standing."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Hickey Gymnasium",
+                "description": "Lecture",
+                "buildingCode": "H GYM",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00123"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "MSC 141 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "47498",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Ethical Leadership",
+            "subjectDesc": "Military Science",
+            "courseNum": "141",
+            "hidCRN": "47498",
+            "crn": "47498",
+            "subjectCode": "MSC"
+        },
+        "instructor": [
+            {
+                "lastName": "Ottenwalter",
+                "instructorName": "J. Ottenwalter",
+                "firstName": "Justin",
+                "instructorEmail": "jjottenwalter@ucdavis.edu",
+                "fullName": "Justin Ottenwalter"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Enhancement of student leadership performance through practical application.  Small unit military tactical operations as the basis for student exploration and development.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " MSC 143;  or Consent of Instructor.  Upper division standing."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1510",
+                "building": "Hickey Gymnasium",
+                "description": "Laboratory",
+                "buildingCode": "H GYM",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00123"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 0.5,
+            "reservedSeating": false,
+            "shortDesc": "MSC 144C 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "47499",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Military Training Leadership Skills",
+            "subjectDesc": "Military Science",
+            "courseNum": "144C",
+            "hidCRN": "47499",
+            "crn": "47499",
+            "subjectCode": "MSC"
+        },
+        "instructor": [
+            {
+                "lastName": "Ottenwalter",
+                "instructorName": "J. Ottenwalter",
+                "firstName": "Justin",
+                "instructorEmail": "jjottenwalter@ucdavis.edu",
+                "fullName": "Justin Ottenwalter"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Intensive examination of one or more special problems in military science. Possible areas of study include leadership dimensions, principles of war, air-land battle imperatives, military strategy, the operational art and professional ethics.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " MSC 131;  MSC 132A;  MSC 132B;  MSC 141;  MSC 142;  MSC 143;  Consent of department chair."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "J",
+                "startTime": "",
+                "building": "",
+                "description": "Independent Study",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "IND",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "MSC 191 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "47500",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Studies in Military Science",
+            "subjectDesc": "Military Science",
+            "courseNum": "191",
+            "hidCRN": "47500",
+            "crn": "47500",
+            "subjectCode": "MSC"
+        },
+        "instructor": [
+            {
+                "lastName": "Ottenwalter",
+                "instructorName": "J. Ottenwalter",
+                "firstName": "Justin",
+                "instructorEmail": "jjottenwalter@ucdavis.edu",
+                "fullName": "Justin Ottenwalter"
+            }
+        ]
+    }
+]

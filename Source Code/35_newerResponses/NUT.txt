@@ -1,0 +1,3135 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Exploration of current applications and controversies in nutrition. Rread scientific journal articles and write summaries, as well as give brief oral presentations. Topics change to reflect current interests and issues.",
+            "creditLimit": "",
+            "ge3": "OL,SE,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1340",
+                "building": "Physics Building",
+                "description": "Discussion",
+                "buildingCode": "PHYSIC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00148"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "NUT 011 002",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "002",
+            "printCRN": "48574",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Current Topics & Controversies in Nutrition",
+            "subjectDesc": "Nutrition",
+            "courseNum": "011",
+            "hidCRN": "48574",
+            "crn": "48574",
+            "subjectCode": "NUT"
+        },
+        "instructor": [
+            {
+                "lastName": "Zivkovic",
+                "instructorName": "A. Zivkovic",
+                "firstName": "Angela",
+                "instructorEmail": "amzivkovic@ucdavis.edu",
+                "fullName": "Angela Zivkovic"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Exploration of current applications and controversies in nutrition. Rread scientific journal articles and write summaries, as well as give brief oral presentations. Topics change to reflect current interests and issues.",
+            "creditLimit": "",
+            "ge3": "OL,SE,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1210",
+                "building": "Physics Building",
+                "description": "Discussion",
+                "buildingCode": "PHYSIC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00148"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "NUT 011 003",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "003",
+            "printCRN": "48575",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Current Topics & Controversies in Nutrition",
+            "subjectDesc": "Nutrition",
+            "courseNum": "011",
+            "hidCRN": "48575",
+            "crn": "48575",
+            "subjectCode": "NUT"
+        },
+        "instructor": [
+            {
+                "lastName": "Zivkovic",
+                "instructorName": "A. Zivkovic",
+                "firstName": "Angela",
+                "instructorEmail": "amzivkovic@ucdavis.edu",
+                "fullName": "Angela Zivkovic"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Exploration of current applications and controversies in nutrition. Rread scientific journal articles and write summaries, as well as give brief oral presentations. Topics change to reflect current interests and issues.",
+            "creditLimit": "",
+            "ge3": "OL,SE,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1510",
+                "building": "Giedt",
+                "description": "Discussion",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01007"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "NUT 011 004",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "004",
+            "printCRN": "48576",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Current Topics & Controversies in Nutrition",
+            "subjectDesc": "Nutrition",
+            "courseNum": "011",
+            "hidCRN": "48576",
+            "crn": "48576",
+            "subjectCode": "NUT"
+        },
+        "instructor": [
+            {
+                "lastName": "Zivkovic",
+                "instructorName": "A. Zivkovic",
+                "firstName": "Angela",
+                "instructorEmail": "amzivkovic@ucdavis.edu",
+                "fullName": "Angela Zivkovic"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Exploration of current applications and controversies in nutrition. Rread scientific journal articles and write summaries, as well as give brief oral presentations. Topics change to reflect current interests and issues.",
+            "creditLimit": "",
+            "ge3": "OL,SE,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1510",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00203"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "NUT 011 005",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "005",
+            "printCRN": "48577",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Current Topics & Controversies in Nutrition",
+            "subjectDesc": "Nutrition",
+            "courseNum": "011",
+            "hidCRN": "48577",
+            "crn": "48577",
+            "subjectCode": "NUT"
+        },
+        "instructor": [
+            {
+                "lastName": "Zivkovic",
+                "instructorName": "A. Zivkovic",
+                "firstName": "Angela",
+                "instructorEmail": "amzivkovic@ucdavis.edu",
+                "fullName": "Angela Zivkovic"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Exploration of current applications and controversies in nutrition. Rread scientific journal articles and write summaries, as well as give brief oral presentations. Topics change to reflect current interests and issues.",
+            "creditLimit": "",
+            "ge3": "OL,SE,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1340",
+                "building": "Social Science & Humanities",
+                "description": "Discussion",
+                "buildingCode": "SOCSCI",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00080"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "NUT 011 006",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "006",
+            "printCRN": "48578",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Current Topics & Controversies in Nutrition",
+            "subjectDesc": "Nutrition",
+            "courseNum": "011",
+            "hidCRN": "48578",
+            "crn": "48578",
+            "subjectCode": "NUT"
+        },
+        "instructor": [
+            {
+                "lastName": "Zivkovic",
+                "instructorName": "A. Zivkovic",
+                "firstName": "Angela",
+                "instructorEmail": "amzivkovic@ucdavis.edu",
+                "fullName": "Angela Zivkovic"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Exploration of current applications and controversies in nutrition. Rread scientific journal articles and write summaries, as well as give brief oral presentations. Topics change to reflect current interests and issues.",
+            "creditLimit": "",
+            "ge3": "OL,SE,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1340",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00109"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "NUT 011 007",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "007",
+            "printCRN": "48579",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Current Topics & Controversies in Nutrition",
+            "subjectDesc": "Nutrition",
+            "courseNum": "011",
+            "hidCRN": "48579",
+            "crn": "48579",
+            "subjectCode": "NUT"
+        },
+        "instructor": [
+            {
+                "lastName": "Zivkovic",
+                "instructorName": "A. Zivkovic",
+                "firstName": "Angela",
+                "instructorEmail": "amzivkovic@ucdavis.edu",
+                "fullName": "Angela Zivkovic"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Exploration of current applications and controversies in nutrition. Rread scientific journal articles and write summaries, as well as give brief oral presentations. Topics change to reflect current interests and issues.",
+            "creditLimit": "",
+            "ge3": "OL,SE,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1210",
+                "building": "Storer Hall",
+                "description": "Discussion",
+                "buildingCode": "STORER",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01342"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "NUT 011 008",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "008",
+            "printCRN": "48580",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Current Topics & Controversies in Nutrition",
+            "subjectDesc": "Nutrition",
+            "courseNum": "011",
+            "hidCRN": "48580",
+            "crn": "48580",
+            "subjectCode": "NUT"
+        },
+        "instructor": [
+            {
+                "lastName": "Zivkovic",
+                "instructorName": "A. Zivkovic",
+                "firstName": "Angela",
+                "instructorEmail": "amzivkovic@ucdavis.edu",
+                "fullName": "Angela Zivkovic"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Exploration of current applications and controversies in nutrition. Rread scientific journal articles and write summaries, as well as give brief oral presentations. Topics change to reflect current interests and issues.",
+            "creditLimit": "",
+            "ge3": "OL,SE,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1510",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00203"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "NUT 011 009",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "009",
+            "printCRN": "48581",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Current Topics & Controversies in Nutrition",
+            "subjectDesc": "Nutrition",
+            "courseNum": "011",
+            "hidCRN": "48581",
+            "crn": "48581",
+            "subjectCode": "NUT"
+        },
+        "instructor": [
+            {
+                "lastName": "Zivkovic",
+                "instructorName": "A. Zivkovic",
+                "firstName": "Angela",
+                "instructorEmail": "amzivkovic@ucdavis.edu",
+                "fullName": "Angela Zivkovic"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Exploration of current applications and controversies in nutrition. Rread scientific journal articles and write summaries, as well as give brief oral presentations. Topics change to reflect current interests and issues.",
+            "creditLimit": "",
+            "ge3": "OL,SE,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1510",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00003"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "NUT 011 010",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "010",
+            "printCRN": "48582",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Current Topics & Controversies in Nutrition",
+            "subjectDesc": "Nutrition",
+            "courseNum": "011",
+            "hidCRN": "48582",
+            "crn": "48582",
+            "subjectCode": "NUT"
+        },
+        "instructor": [
+            {
+                "lastName": "Zivkovic",
+                "instructorName": "A. Zivkovic",
+                "firstName": "Angela",
+                "instructorEmail": "amzivkovic@ucdavis.edu",
+                "fullName": "Angela Zivkovic"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Individual study for undergraduates.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "NUT 099",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Individual Study for Undergraduates",
+            "subjectDesc": "Nutrition",
+            "courseNum": "099",
+            "hidCRN": "0946C3C6ED",
+            "crn": "48583",
+            "subjectCode": "NUT"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Unique nutrient needs of people in different stages of the life cycle, including pregnant and lactating women, infants, children, adolescents, adults and the elderly. Physiological changes and conditions that influence nutrient needs, factors that influence food choices and appropriate dietary recommendations, and recent research are discussed.  ",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " (BIS 103 or ABI 103);  NUT 111AY;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1340",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00206"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "NUT 105 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "48610",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Nutrition through the Life Cycle",
+            "subjectDesc": "Nutrition",
+            "courseNum": "105",
+            "hidCRN": "48610",
+            "crn": "48610",
+            "subjectCode": "NUT"
+        },
+        "instructor": [
+            {
+                "lastName": "Hall",
+                "instructorName": "A. Hall",
+                "firstName": "Andrew",
+                "instructorEmail": "aghall@ucdavis.edu",
+                "fullName": "Andrew Hall"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Critical analysis of the development of nutritional recommendations for humans. Topics include: history of modern recommendations, development of the Recommended Dietary Allowance (RDA) and other food guides; the Dietary Reference Intakes (DRI); administrative structure of regulatory agencies pertinent to nutrition recommendations; introduction to scientific methods used to determine the recommendations; food labeling laws; nutrition recommendations in other countries and cultures.",
+            "creditLimit": "Not open for credit to students who have completed NUT 111.",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " (CHE 008B or CHE 118B or CHE 128B);  NUT 111AY;  NPB 101 recommended"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Hunt",
+                "description": "Lecture",
+                "buildingCode": "HUNT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00100"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "NUT 111B 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "48611",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Recommendations & Standards for Human Nutrition",
+            "subjectDesc": "Nutrition",
+            "courseNum": "111B",
+            "hidCRN": "48611",
+            "crn": "48611",
+            "subjectCode": "NUT"
+        },
+        "instructor": [
+            {
+                "lastName": "Au",
+                "instructorName": "L. Au",
+                "firstName": "Lauren",
+                "instructorEmail": "leau@ucdavis.edu",
+                "fullName": "Lauren Au"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Methods of human nutritional assessment, including dietary, anthropometric, biochemical methods. Principles of precision, accuracy, and interpretation of results for individuals and populations.",
+            "creditLimit": "",
+            "ge3": "QL,SE",
+            "crossListing": "",
+            "prereq": " ((ABI 102,  ABI 103) or (BIS 102,  BIS 103));  NUT 111AY;  (STA 013 or STA 013Y or PLS 120)"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "C",
+                "startTime": "1310",
+                "building": "Meyer Hall",
+                "description": "Laboratory",
+                "buildingCode": "MEYER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01131"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "02215"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "NUT 112 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "48612",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Nutritional Assessment",
+            "subjectDesc": "Nutrition",
+            "courseNum": "112",
+            "hidCRN": "48612",
+            "crn": "48612",
+            "subjectCode": "NUT"
+        },
+        "instructor": [
+            {
+                "lastName": "Engle-Stone",
+                "instructorName": "R. Engle-Stone",
+                "firstName": "Reina",
+                "instructorEmail": "renglestone@ucdavis.edu",
+                "fullName": "Reina Engle-Stone"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Methods of human nutritional assessment, including dietary, anthropometric, biochemical methods. Principles of precision, accuracy, and interpretation of results for individuals and populations.",
+            "creditLimit": "",
+            "ge3": "QL,SE",
+            "crossListing": "",
+            "prereq": " ((ABI 102,  ABI 103) or (BIS 102,  BIS 103));  NUT 111AY;  (STA 013 or STA 013Y or PLS 120)"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1410",
+                "building": "Meyer Hall",
+                "description": "Laboratory",
+                "buildingCode": "MEYER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01131"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "02215"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "NUT 112 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "48613",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Nutritional Assessment",
+            "subjectDesc": "Nutrition",
+            "courseNum": "112",
+            "hidCRN": "48613",
+            "crn": "48613",
+            "subjectCode": "NUT"
+        },
+        "instructor": [
+            {
+                "lastName": "Joyce",
+                "instructorName": "C. Joyce",
+                "firstName": "Caroline",
+                "instructorEmail": "cjoy@ucdavis.edu",
+                "fullName": "Caroline Joyce"
+            },
+            {
+                "lastName": "Engle-Stone",
+                "instructorName": "R. Engle-Stone",
+                "firstName": "Reina",
+                "instructorEmail": "renglestone@ucdavis.edu",
+                "fullName": "Reina Engle-Stone"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Methods of human nutritional assessment, including dietary, anthropometric, biochemical methods. Principles of precision, accuracy, and interpretation of results for individuals and populations.",
+            "creditLimit": "",
+            "ge3": "QL,SE",
+            "crossListing": "",
+            "prereq": " ((ABI 102,  ABI 103) or (BIS 102,  BIS 103));  NUT 111AY;  (STA 013 or STA 013Y or PLS 120)"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "02215"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1310",
+                "building": "Meyer Hall",
+                "description": "Laboratory",
+                "buildingCode": "MEYER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01131"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "NUT 112 A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "48614",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Nutritional Assessment",
+            "subjectDesc": "Nutrition",
+            "courseNum": "112",
+            "hidCRN": "48614",
+            "crn": "48614",
+            "subjectCode": "NUT"
+        },
+        "instructor": [
+            {
+                "lastName": "Joyce",
+                "instructorName": "C. Joyce",
+                "firstName": "Caroline",
+                "instructorEmail": "cjoy@ucdavis.edu",
+                "fullName": "Caroline Joyce"
+            },
+            {
+                "lastName": "Engle-Stone",
+                "instructorName": "R. Engle-Stone",
+                "firstName": "Reina",
+                "instructorEmail": "renglestone@ucdavis.edu",
+                "fullName": "Reina Engle-Stone"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Methods of human nutritional assessment, including dietary, anthropometric, biochemical methods. Principles of precision, accuracy, and interpretation of results for individuals and populations.",
+            "creditLimit": "",
+            "ge3": "QL,SE",
+            "crossListing": "",
+            "prereq": " ((ABI 102,  ABI 103) or (BIS 102,  BIS 103));  NUT 111AY;  (STA 013 or STA 013Y or PLS 120)"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "02215"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1900",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1610",
+                "building": "Meyer Hall",
+                "description": "Laboratory",
+                "buildingCode": "MEYER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01131"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "NUT 112 A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "48615",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Nutritional Assessment",
+            "subjectDesc": "Nutrition",
+            "courseNum": "112",
+            "hidCRN": "48615",
+            "crn": "48615",
+            "subjectCode": "NUT"
+        },
+        "instructor": [
+            {
+                "lastName": "Joyce",
+                "instructorName": "C. Joyce",
+                "firstName": "Caroline",
+                "instructorEmail": "cjoy@ucdavis.edu",
+                "fullName": "Caroline Joyce"
+            },
+            {
+                "lastName": "Engle-Stone",
+                "instructorName": "R. Engle-Stone",
+                "firstName": "Reina",
+                "instructorEmail": "renglestone@ucdavis.edu",
+                "fullName": "Reina Engle-Stone"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Methods of human nutritional assessment, including dietary, anthropometric, biochemical methods. Principles of precision, accuracy, and interpretation of results for individuals and populations.",
+            "creditLimit": "",
+            "ge3": "QL,SE",
+            "crossListing": "",
+            "prereq": " ((ABI 102,  ABI 103) or (BIS 102,  BIS 103));  NUT 111AY;  (STA 013 or STA 013Y or PLS 120)"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1250",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1000",
+                "building": "Meyer Hall",
+                "description": "Laboratory",
+                "buildingCode": "MEYER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01131"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "02215"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "NUT 112 A06",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A06",
+            "printCRN": "48617",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Nutritional Assessment",
+            "subjectDesc": "Nutrition",
+            "courseNum": "112",
+            "hidCRN": "48617",
+            "crn": "48617",
+            "subjectCode": "NUT"
+        },
+        "instructor": [
+            {
+                "lastName": "Joyce",
+                "instructorName": "C. Joyce",
+                "firstName": "Caroline",
+                "instructorEmail": "cjoy@ucdavis.edu",
+                "fullName": "Caroline Joyce"
+            },
+            {
+                "lastName": "Engle-Stone",
+                "instructorName": "R. Engle-Stone",
+                "firstName": "Reina",
+                "instructorEmail": "renglestone@ucdavis.edu",
+                "fullName": "Reina Engle-Stone"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Comparative differences among animals in digestion and metabolism of nutrients. Nutrient composition of feeds, digestive systems, digestion, absorption, feeding strategies.",
+            "creditLimit": "",
+            "ge3": "OL,QL,SE,SL,VL,WE",
+            "crossListing": "",
+            "prereq": " CHE 008B or CHE 118B;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1610",
+                "building": "Storer Hall",
+                "description": "Lecture",
+                "buildingCode": "STORER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01322"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1350",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1100",
+                "building": "Meyer Hall",
+                "description": "Laboratory",
+                "buildingCode": "MEYER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01420"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "NUT 115 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "48618",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Animal Nutrition",
+            "subjectDesc": "Nutrition",
+            "courseNum": "115",
+            "hidCRN": "48618",
+            "crn": "48618",
+            "subjectCode": "NUT"
+        },
+        "instructor": [
+            {
+                "lastName": "Nichols",
+                "instructorName": "K. Nichols",
+                "firstName": "Kelly",
+                "instructorEmail": "knichols@ucdavis.edu",
+                "fullName": "Kelly Nichols"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Comparative differences among animals in digestion and metabolism of nutrients. Nutrient composition of feeds, digestive systems, digestion, absorption, feeding strategies.",
+            "creditLimit": "",
+            "ge3": "OL,QL,SE,SL,VL,WE",
+            "crossListing": "",
+            "prereq": " CHE 008B or CHE 118B;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1610",
+                "building": "Storer Hall",
+                "description": "Lecture",
+                "buildingCode": "STORER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01322"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1410",
+                "building": "Meyer Hall",
+                "description": "Laboratory",
+                "buildingCode": "MEYER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01420"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "NUT 115 A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "48619",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Animal Nutrition",
+            "subjectDesc": "Nutrition",
+            "courseNum": "115",
+            "hidCRN": "48619",
+            "crn": "48619",
+            "subjectCode": "NUT"
+        },
+        "instructor": [
+            {
+                "lastName": "Nichols",
+                "instructorName": "K. Nichols",
+                "firstName": "Kelly",
+                "instructorEmail": "knichols@ucdavis.edu",
+                "fullName": "Kelly Nichols"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Comparative differences among animals in digestion and metabolism of nutrients. Nutrient composition of feeds, digestive systems, digestion, absorption, feeding strategies.",
+            "creditLimit": "",
+            "ge3": "OL,QL,SE,SL,VL,WE",
+            "crossListing": "",
+            "prereq": " CHE 008B or CHE 118B;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1610",
+                "building": "Storer Hall",
+                "description": "Lecture",
+                "buildingCode": "STORER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01322"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0800",
+                "building": "Meyer Hall",
+                "description": "Laboratory",
+                "buildingCode": "MEYER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01420"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "NUT 115 A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "48620",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Animal Nutrition",
+            "subjectDesc": "Nutrition",
+            "courseNum": "115",
+            "hidCRN": "48620",
+            "crn": "48620",
+            "subjectCode": "NUT"
+        },
+        "instructor": [
+            {
+                "lastName": "Nichols",
+                "instructorName": "K. Nichols",
+                "firstName": "Kelly",
+                "instructorEmail": "knichols@ucdavis.edu",
+                "fullName": "Kelly Nichols"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Comparative differences among animals in digestion and metabolism of nutrients. Nutrient composition of feeds, digestive systems, digestion, absorption, feeding strategies.",
+            "creditLimit": "",
+            "ge3": "OL,QL,SE,SL,VL,WE",
+            "crossListing": "",
+            "prereq": " CHE 008B or CHE 118B;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1610",
+                "building": "Storer Hall",
+                "description": "Lecture",
+                "buildingCode": "STORER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01322"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1350",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1100",
+                "building": "Meyer Hall",
+                "description": "Laboratory",
+                "buildingCode": "MEYER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01420"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "NUT 115 A05",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A05",
+            "printCRN": "48621",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Animal Nutrition",
+            "subjectDesc": "Nutrition",
+            "courseNum": "115",
+            "hidCRN": "48621",
+            "crn": "48621",
+            "subjectCode": "NUT"
+        },
+        "instructor": [
+            {
+                "lastName": "Nichols",
+                "instructorName": "K. Nichols",
+                "firstName": "Kelly",
+                "instructorEmail": "knichols@ucdavis.edu",
+                "fullName": "Kelly Nichols"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Comparative differences among animals in digestion and metabolism of nutrients. Nutrient composition of feeds, digestive systems, digestion, absorption, feeding strategies.",
+            "creditLimit": "",
+            "ge3": "OL,QL,SE,SL,VL,WE",
+            "crossListing": "",
+            "prereq": " CHE 008B or CHE 118B;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1610",
+                "building": "Storer Hall",
+                "description": "Lecture",
+                "buildingCode": "STORER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01322"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1410",
+                "building": "Meyer Hall",
+                "description": "Laboratory",
+                "buildingCode": "MEYER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01420"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "NUT 115 A06",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A06",
+            "printCRN": "48622",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Animal Nutrition",
+            "subjectDesc": "Nutrition",
+            "courseNum": "115",
+            "hidCRN": "48622",
+            "crn": "48622",
+            "subjectCode": "NUT"
+        },
+        "instructor": [
+            {
+                "lastName": "Nichols",
+                "instructorName": "K. Nichols",
+                "firstName": "Kelly",
+                "instructorEmail": "knichols@ucdavis.edu",
+                "fullName": "Kelly Nichols"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Comparative differences among animals in digestion and metabolism of nutrients. Nutrient composition of feeds, digestive systems, digestion, absorption, feeding strategies.",
+            "creditLimit": "",
+            "ge3": "OL,QL,SE,SL,VL,WE",
+            "crossListing": "",
+            "prereq": " CHE 008B or CHE 118B;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1610",
+                "building": "Storer Hall",
+                "description": "Lecture",
+                "buildingCode": "STORER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01322"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0800",
+                "building": "Meyer Hall",
+                "description": "Laboratory",
+                "buildingCode": "MEYER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01420"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "NUT 115 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "48623",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Animal Nutrition",
+            "subjectDesc": "Nutrition",
+            "courseNum": "115",
+            "hidCRN": "48623",
+            "crn": "48623",
+            "subjectCode": "NUT"
+        },
+        "instructor": [
+            {
+                "lastName": "Nichols",
+                "instructorName": "K. Nichols",
+                "firstName": "Kelly",
+                "instructorEmail": "knichols@ucdavis.edu",
+                "fullName": "Kelly Nichols"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Experiments in current nutritional problems. Experimental design:students choose project and, independently or in groups of two-three, design a protocol, complete the project, and report findings.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  NUT 111AV, NUT 111AY, NUT 111B or NUT 114 recommended."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "",
+                "building": "",
+                "description": "Laboratory",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LAB",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "NUT 130",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Experiments in Nutrition: Design & Execution",
+            "subjectDesc": "Nutrition",
+            "courseNum": "130",
+            "hidCRN": "0946C0CCEA",
+            "crn": "48624",
+            "subjectCode": "NUT"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Foundational principles of nutrition, nutrient composition of feed ingredients, digestive systems of domestic and exotic animals, nutrient digestibility and absorption, nutrient metabolism.",
+            "creditLimit": "",
+            "ge3": "SE,SL,WE",
+            "crossListing": "",
+            "prereq": " ABI 103;  (NUT 115 or NUT 116A or NUT 116B);  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1510",
+                "building": "Everson Hall",
+                "description": "Discussion",
+                "buildingCode": "EVERSN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00176"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Medical Science C",
+                "description": "Lecture",
+                "buildingCode": "MDSC C",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00180"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "NUT 141 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "48657",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Comparative Animal Nutrition & Metabolism",
+            "subjectDesc": "Nutrition",
+            "courseNum": "141",
+            "hidCRN": "48657",
+            "crn": "48657",
+            "subjectCode": "NUT"
+        },
+        "instructor": [
+            {
+                "lastName": "Liu",
+                "instructorName": "Y. Liu",
+                "firstName": "Yanhong",
+                "instructorEmail": "yahliu@ucdavis.edu",
+                "fullName": "Yanhong Liu"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Discussion of human nutrition problems. Each term will involve a different emphasis among experimental, clinical, and dietetic problems of community, national and international scope.",
+            "creditLimit": "",
+            "ge3": "OL,SE,VL",
+            "crossListing": "",
+            "prereq": " (NUT 111AV or NUT 111AY);  NUT 111B"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "E",
+                "startTime": "1100",
+                "building": "Meyer Hall",
+                "description": "Seminar",
+                "buildingCode": "MEYER",
+                "saturday": false,
+                "type": "SEM",
+                "room": "01135"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "NUT 190 002",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "002",
+            "printCRN": "48659",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Proseminar in Nutrition",
+            "subjectDesc": "Nutrition",
+            "courseNum": "190",
+            "hidCRN": "48659",
+            "crn": "48659",
+            "subjectCode": "NUT"
+        },
+        "instructor": [
+            {
+                "lastName": "Haj",
+                "instructorName": "F. Haj",
+                "firstName": "Fawaz",
+                "instructorEmail": "fghaj@ucdavis.edu",
+                "fullName": "Fawaz Haj"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Discussion of human nutrition problems. Each term will involve a different emphasis among experimental, clinical, and dietetic problems of community, national and international scope.",
+            "creditLimit": "",
+            "ge3": "OL,SE,VL",
+            "crossListing": "",
+            "prereq": " (NUT 111AV or NUT 111AY);  NUT 111B"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "E",
+                "startTime": "1100",
+                "building": "Meyer Hall",
+                "description": "Seminar",
+                "buildingCode": "MEYER",
+                "saturday": false,
+                "type": "SEM",
+                "room": "01135"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "NUT 190 003",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "003",
+            "printCRN": "48660",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Proseminar in Nutrition",
+            "subjectDesc": "Nutrition",
+            "courseNum": "190",
+            "hidCRN": "48660",
+            "crn": "48660",
+            "subjectCode": "NUT"
+        },
+        "instructor": [
+            {
+                "lastName": "Haj",
+                "instructorName": "F. Haj",
+                "firstName": "Fawaz",
+                "instructorEmail": "fghaj@ucdavis.edu",
+                "fullName": "Fawaz Haj"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Discussion of human nutrition problems. Each term will involve a different emphasis among experimental, clinical, and dietetic problems of community, national and international scope.",
+            "creditLimit": "",
+            "ge3": "OL,SE,VL",
+            "crossListing": "",
+            "prereq": " (NUT 111AV or NUT 111AY);  NUT 111B"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "E",
+                "startTime": "1210",
+                "building": "Meyer Hall",
+                "description": "Seminar",
+                "buildingCode": "MEYER",
+                "saturday": false,
+                "type": "SEM",
+                "room": "01135"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "NUT 190 004",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "004",
+            "printCRN": "48661",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Proseminar in Nutrition",
+            "subjectDesc": "Nutrition",
+            "courseNum": "190",
+            "hidCRN": "48661",
+            "crn": "48661",
+            "subjectCode": "NUT"
+        },
+        "instructor": [
+            {
+                "lastName": "Haj",
+                "instructorName": "F. Haj",
+                "firstName": "Fawaz",
+                "instructorEmail": "fghaj@ucdavis.edu",
+                "fullName": "Fawaz Haj"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to research findings and methods in nutrition. Presentation and discussion of research by faculty and students.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Upper division standing in Nutrition or related biological science. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "",
+                "building": "",
+                "description": "Discussion",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "DIS",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "NUT 190C",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Nutrition Research Conference",
+            "subjectDesc": "Nutrition",
+            "courseNum": "190C",
+            "hidCRN": "0946C0C8EC",
+            "crn": "48662",
+            "subjectCode": "NUT"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Work experience on or off campus in practical application of nutrition, supervised by a faculty member.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  One upper division course in nutrition. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "I",
+                "startTime": "",
+                "building": "",
+                "description": "Internship",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "INT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "NUT 192",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Internship",
+            "subjectDesc": "Nutrition",
+            "courseNum": "192",
+            "hidCRN": "0946C0C9E9",
+            "crn": "48677",
+            "subjectCode": "NUT"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Tutoring of students in nutrition courses, assistance with discussion groups or laboratory sections, weekly conference with instructor in charge of course: written evaluations.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Nutrition Science, Clinical Nutrition or related major. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "T",
+                "startTime": "",
+                "building": "",
+                "description": "Tutorial",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "TUT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "NUT 197T",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 2,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Tutoring in Nutrition",
+            "subjectDesc": "Nutrition",
+            "courseNum": "197T",
+            "hidCRN": "0946C1CFEE",
+            "crn": "48710",
+            "subjectCode": "NUT"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed group study.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "NUT 198",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study",
+            "subjectDesc": "Nutrition",
+            "courseNum": "198",
+            "hidCRN": "0946C1CCE6",
+            "crn": "48728",
+            "subjectCode": "NUT"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special study for advanced undergraduates.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "NUT 199",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Study for Advanced Undergraduates",
+            "subjectDesc": "Nutrition",
+            "courseNum": "199",
+            "hidCRN": "0946C1CAED",
+            "crn": "48743",
+            "subjectCode": "NUT"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Intervention programs to prevent or ameliorate nutritional problems in low-income populations. Planning, implementing, and evaluating nutrition intervention programs.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " NUT 219A"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Meyer Hall",
+                "description": "Lecture",
+                "buildingCode": "MEYER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "03208"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "NUT 219B 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55893",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "International Nutrition",
+            "subjectDesc": "Nutrition",
+            "courseNum": "219B",
+            "hidCRN": "55893",
+            "crn": "55893",
+            "subjectCode": "NUT"
+        },
+        "instructor": [
+            {
+                "lastName": "Stewart",
+                "instructorName": "C. Stewart",
+                "firstName": "Christine",
+                "instructorEmail": "cpstewart@ucdavis.edu",
+                "fullName": "Christine Stewart"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Student-selected projects to enhance laboratory skills. Independently, or in groups of two-three students, design a protocol, carry out the project, analyze the results and report the findings.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  NUT 201, NUT 202, NUT 203, NUT 204, or the equivalent recommended. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "",
+                "building": "",
+                "description": "Laboratory",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LAB",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "NUT 230",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Experiments in Nutrition: Design & Execution",
+            "subjectDesc": "Nutrition",
+            "courseNum": "230",
+            "hidCRN": "0946C1C6EE",
+            "crn": "48780",
+            "subjectCode": "NUT"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Comprehensive study of the biochemical, nutritional and physiological mechanisms controlling food intake, body composition and energy expenditure. Subject matter will be approached through lectures and discussions where students and staff will critically evaluate the literature.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1410",
+                "building": "Meyer Hall",
+                "description": "Discussion",
+                "buildingCode": "MEYER",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01138"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Meyer Hall",
+                "description": "Lecture",
+                "buildingCode": "MEYER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01138"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "NUT 253 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55526",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Control of Energy Balance & Body Weight",
+            "subjectDesc": "Nutrition",
+            "courseNum": "253",
+            "hidCRN": "55526",
+            "crn": "55526",
+            "subjectCode": "NUT"
+        },
+        "instructor": [
+            {
+                "lastName": "Ramsey",
+                "instructorName": "J. Ramsey",
+                "firstName": "Jon",
+                "instructorEmail": "jjramsey@ucdavis.edu",
+                "fullName": "Jon Ramsey"
+            },
+            {
+                "lastName": "Havel",
+                "instructorName": "P. Havel",
+                "firstName": "Peter",
+                "instructorEmail": "pjhavel@ucdavis.edu",
+                "fullName": "Peter Havel"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Major professors lead research discussions with their graduate students.\nResearch papers are reviewed and project proposals presented and evaluated. Format will combine seminar and discussion style.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Graduate standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "",
+                "building": "",
+                "description": "Discussion",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "DIS",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "NUT 290C",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research Conference",
+            "subjectDesc": "Nutrition",
+            "courseNum": "290C",
+            "hidCRN": "0946CECCEA",
+            "crn": "48824",
+            "subjectCode": "NUT"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Advanced topics in nutrition research. Multiple sections may be taken concurrently for credit.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Second-year graduate standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "E",
+                "startTime": "1210",
+                "building": "Meyer Hall",
+                "description": "Seminar",
+                "buildingCode": "MEYER",
+                "saturday": false,
+                "type": "SEM",
+                "room": "01138"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "NUT 291 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "48887",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Advanced Nutrition Seminar",
+            "subjectDesc": "Nutrition",
+            "courseNum": "291",
+            "hidCRN": "48887",
+            "crn": "48887",
+            "subjectCode": "NUT"
+        },
+        "instructor": [
+            {
+                "lastName": "Stewart",
+                "instructorName": "C. Stewart",
+                "firstName": "Christine",
+                "instructorEmail": "cpstewart@ucdavis.edu",
+                "fullName": "Christine Stewart"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Advanced topics in nutrition research. Multiple sections may be taken concurrently for credit.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Second-year graduate standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "E",
+                "startTime": "1210",
+                "building": "Meyer Hall",
+                "description": "Seminar",
+                "buildingCode": "MEYER",
+                "saturday": false,
+                "type": "SEM",
+                "room": "01138"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "NUT 291 002",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "002",
+            "printCRN": "48888",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Advanced Nutrition Seminar",
+            "subjectDesc": "Nutrition",
+            "courseNum": "291",
+            "hidCRN": "48888",
+            "crn": "48888",
+            "subjectCode": "NUT"
+        },
+        "instructor": [
+            {
+                "lastName": "Zhang",
+                "instructorName": "G. Zhang",
+                "firstName": "Guodong",
+                "instructorEmail": "gdzhang@ucdavis.edu",
+                "fullName": "Guodong Zhang"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Practical experience in teaching nutrition at the university level; curriculum design and evaluation; preparation and presentation of material. Assistance in laboratories, discussion sections, and evaluation of student work.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Graduate standing in nutrition or consent of instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "T",
+                "startTime": "",
+                "building": "",
+                "description": "Tutorial",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "TUT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "NUT 297T",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 3,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Supervised Teaching in Nutrition",
+            "subjectDesc": "Nutrition",
+            "courseNum": "297T",
+            "hidCRN": "0946CEC6E7",
+            "crn": "48889",
+            "subjectCode": "NUT"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Group study.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "NUT 298",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Group Study",
+            "subjectDesc": "Nutrition",
+            "courseNum": "298",
+            "hidCRN": "0946CFCFEE",
+            "crn": "48910",
+            "subjectCode": "NUT"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Research.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "NUT 299",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research",
+            "subjectDesc": "Nutrition",
+            "courseNum": "299",
+            "hidCRN": "0946CFCCE9",
+            "crn": "48927",
+            "subjectCode": "NUT"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Research.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2100",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "1910",
+                "building": "Meyer Hall",
+                "description": "Variable",
+                "buildingCode": "MEYER",
+                "saturday": false,
+                "type": "VAR",
+                "room": "01131"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "NUT 299",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "037",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research",
+            "subjectDesc": "Nutrition",
+            "courseNum": "299",
+            "hidCRN": "0946CFCAEB",
+            "crn": "48945",
+            "subjectCode": "NUT"
+        },
+        "instructor": [
+            {
+                "lastName": "Nommsen-Rivers",
+                "instructorName": "L. Nommsen-Rivers",
+                "firstName": "Laurie",
+                "instructorEmail": "lnrivers@ucdavis.edu",
+                "fullName": "Laurie Nommsen-Rivers"
+            }
+        ]
+    }
+]

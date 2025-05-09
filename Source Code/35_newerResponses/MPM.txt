@@ -1,0 +1,247 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduce one health topics emphasizing relationships between environmental, animal and human health. Topics include ecosystem change and impacts on animals and humans, cross-species disease transmission and approaches for addressing critical data gaps to inform ecosystem health and disease prevention.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1100",
+                "building": "Gladys Valley Hall",
+                "description": "Lecture",
+                "buildingCode": "VALLEY",
+                "saturday": false,
+                "type": "LEC",
+                "room": "02020"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1210",
+                "building": "Gladys Valley Hall",
+                "description": "Discussion",
+                "buildingCode": "VALLEY",
+                "saturday": false,
+                "type": "DIS",
+                "room": "02020"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2.5,
+            "reservedSeating": false,
+            "shortDesc": "MPM 201 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56195",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Emerging Issues at the Interface of Animal, Human, & Ecosystem Health",
+            "subjectDesc": "VM Preventive Veterinary Med",
+            "courseNum": "201",
+            "hidCRN": "56195",
+            "crn": "56195",
+            "subjectCode": "MPM"
+        },
+        "instructor": [
+            {
+                "lastName": "Johnson",
+                "instructorName": "C. Johnson",
+                "firstName": "Christine",
+                "instructorEmail": "ckjohnson@ucdavis.edu",
+                "fullName": "Christine Johnson"
+            },
+            {
+                "lastName": "Conlon",
+                "instructorName": "K. Conlon",
+                "firstName": "Kathryn",
+                "instructorEmail": "kcconlon@ucdavis.edu",
+                "fullName": "Kathryn Conlon"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Continuation of MPM 203. Selecting the best regression equation, conditional logistic regression, Poisson regression, survival analysis, analysis of time dependent variation and trends. Microcomputer applications in population medicine to reinforce principles that are taught in lecture.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "",
+                "building": "",
+                "description": "Laboratory",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LAB",
+                "room": ""
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Gladys Valley Hall",
+                "description": "Lecture",
+                "buildingCode": "VALLEY",
+                "saturday": false,
+                "type": "LEC",
+                "room": "02020"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MPM 204 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "47456",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Medical Statistics III",
+            "subjectDesc": "VM Preventive Veterinary Med",
+            "courseNum": "204",
+            "hidCRN": "47456",
+            "crn": "47456",
+            "subjectCode": "MPM"
+        },
+        "instructor": [
+            {
+                "lastName": "Pandit",
+                "instructorName": "P. Pandit",
+                "firstName": "Pranav",
+                "instructorEmail": "pspandit@ucdavis.edu",
+                "fullName": "Pranav Pandit"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Planning, critical analysis, ethics, and written and oral communication of veterinary research.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " MPVM standing in the School of Veterinary Medicine or consent of instructor."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "",
+                "building": "",
+                "description": "Lecture",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LEC",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "MPM 408B",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Veterinary Research: Planning & Reporting ",
+            "subjectDesc": "VM Preventive Veterinary Med",
+            "courseNum": "408B",
+            "hidCRN": "0949C2CBE9",
+            "crn": "47457",
+            "subjectCode": "MPM"
+        },
+        "instructor": [
+            {
+                "lastName": "Christopher",
+                "instructorName": "M. Christopher",
+                "firstName": "Mary",
+                "instructorEmail": "mmchristopher@ucdavis.edu",
+                "fullName": "Mary Christopher"
+            }
+        ]
+    }
+]

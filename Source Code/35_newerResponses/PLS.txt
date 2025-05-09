@@ -1,0 +1,4607 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to the art and science of using and growing flowers to harness the power that is represented by their aesthetic beauty. Handling, production, arranging, breeding and marketing of flowers. Emphasis on potted plants and cut-flowers.",
+            "creditLimit": "",
+            "ge3": "AH,SE",
+            "crossListing": "",
+            "prereq": " High school biology."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "%",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Electronic Dis",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WED",
+                "room": "00000"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "PLS 006V 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "50834",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Flower Power; Art & Science of Flowers & Their Uses",
+            "subjectDesc": "Plant Science",
+            "courseNum": "006V",
+            "hidCRN": "50834",
+            "crn": "50834",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "Khanday",
+                "instructorName": "I. Khanday",
+                "firstName": "Imtiyaz",
+                "instructorEmail": "khanday@ucdavis.edu",
+                "fullName": "Imtiyaz Khanday"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Coffee used as a case study to examine biological, ecological and social factors influencing sustainability of farming systems and how food production systems impact human well-being.\n",
+            "creditLimit": "",
+            "ge3": "SE,SS,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "%",
+                "startTime": "1100",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Electronic Dis",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WED",
+                "room": "00000"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "PLS 007V A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "50835",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Just Coffee: The Biology, Ecology & Socioeconomic Impacts of the World's Favorite Drink",
+            "subjectDesc": "Plant Science",
+            "courseNum": "007V",
+            "hidCRN": "50835",
+            "crn": "50835",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "Crump",
+                "instructorName": "A. Crump",
+                "firstName": "Amanda",
+                "instructorEmail": "acrump@ucdavis.edu",
+                "fullName": "Amanda Crump"
+            },
+            {
+                "lastName": "Brown",
+                "instructorName": "P. Brown",
+                "firstName": "Patrick",
+                "instructorEmail": "phbrown@ucdavis.edu",
+                "fullName": "Patrick Brown"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Coffee used as a case study to examine biological, ecological and social factors influencing sustainability of farming systems and how food production systems impact human well-being.\n",
+            "creditLimit": "",
+            "ge3": "SE,SS,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "%",
+                "startTime": "1210",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Electronic Dis",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WED",
+                "room": "00000"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "PLS 007V A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "50836",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Just Coffee: The Biology, Ecology & Socioeconomic Impacts of the World's Favorite Drink",
+            "subjectDesc": "Plant Science",
+            "courseNum": "007V",
+            "hidCRN": "50836",
+            "crn": "50836",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "Crump",
+                "instructorName": "A. Crump",
+                "firstName": "Amanda",
+                "instructorEmail": "acrump@ucdavis.edu",
+                "fullName": "Amanda Crump"
+            },
+            {
+                "lastName": "Brown",
+                "instructorName": "P. Brown",
+                "firstName": "Patrick",
+                "instructorEmail": "phbrown@ucdavis.edu",
+                "fullName": "Patrick Brown"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Coffee used as a case study to examine biological, ecological and social factors influencing sustainability of farming systems and how food production systems impact human well-being.\n",
+            "creditLimit": "",
+            "ge3": "SE,SS,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "%",
+                "startTime": "1310",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Electronic Dis",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WED",
+                "room": "00000"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "PLS 007V A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "50837",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Just Coffee: The Biology, Ecology & Socioeconomic Impacts of the World's Favorite Drink",
+            "subjectDesc": "Plant Science",
+            "courseNum": "007V",
+            "hidCRN": "50837",
+            "crn": "50837",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "Crump",
+                "instructorName": "A. Crump",
+                "firstName": "Amanda",
+                "instructorEmail": "acrump@ucdavis.edu",
+                "fullName": "Amanda Crump"
+            },
+            {
+                "lastName": "Brown",
+                "instructorName": "P. Brown",
+                "firstName": "Patrick",
+                "instructorEmail": "phbrown@ucdavis.edu",
+                "fullName": "Patrick Brown"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Coffee used as a case study to examine biological, ecological and social factors influencing sustainability of farming systems and how food production systems impact human well-being.\n",
+            "creditLimit": "",
+            "ge3": "SE,SS,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "%",
+                "startTime": "1610",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Electronic Dis",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WED",
+                "room": "00000"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "PLS 007V A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "50838",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Just Coffee: The Biology, Ecology & Socioeconomic Impacts of the World's Favorite Drink",
+            "subjectDesc": "Plant Science",
+            "courseNum": "007V",
+            "hidCRN": "50838",
+            "crn": "50838",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "Crump",
+                "instructorName": "A. Crump",
+                "firstName": "Amanda",
+                "instructorEmail": "acrump@ucdavis.edu",
+                "fullName": "Amanda Crump"
+            },
+            {
+                "lastName": "Brown",
+                "instructorName": "P. Brown",
+                "firstName": "Patrick",
+                "instructorEmail": "phbrown@ucdavis.edu",
+                "fullName": "Patrick Brown"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Coffee used as a case study to examine biological, ecological and social factors influencing sustainability of farming systems and how food production systems impact human well-being.\n",
+            "creditLimit": "",
+            "ge3": "SE,SS,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "%",
+                "startTime": "1710",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Electronic Dis",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WED",
+                "room": "00000"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "PLS 007V A05",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A05",
+            "printCRN": "50839",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Just Coffee: The Biology, Ecology & Socioeconomic Impacts of the World's Favorite Drink",
+            "subjectDesc": "Plant Science",
+            "courseNum": "007V",
+            "hidCRN": "50839",
+            "crn": "50839",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "Crump",
+                "instructorName": "A. Crump",
+                "firstName": "Amanda",
+                "instructorEmail": "acrump@ucdavis.edu",
+                "fullName": "Amanda Crump"
+            },
+            {
+                "lastName": "Brown",
+                "instructorName": "P. Brown",
+                "firstName": "Patrick",
+                "instructorEmail": "phbrown@ucdavis.edu",
+                "fullName": "Patrick Brown"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Coffee used as a case study to examine biological, ecological and social factors influencing sustainability of farming systems and how food production systems impact human well-being.\n",
+            "creditLimit": "",
+            "ge3": "SE,SS,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "%",
+                "startTime": "1210",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Electronic Dis",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WED",
+                "room": "00000"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "PLS 007V A06",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A06",
+            "printCRN": "50840",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Just Coffee: The Biology, Ecology & Socioeconomic Impacts of the World's Favorite Drink",
+            "subjectDesc": "Plant Science",
+            "courseNum": "007V",
+            "hidCRN": "50840",
+            "crn": "50840",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "Crump",
+                "instructorName": "A. Crump",
+                "firstName": "Amanda",
+                "instructorEmail": "acrump@ucdavis.edu",
+                "fullName": "Amanda Crump"
+            },
+            {
+                "lastName": "Brown",
+                "instructorName": "P. Brown",
+                "firstName": "Patrick",
+                "instructorEmail": "phbrown@ucdavis.edu",
+                "fullName": "Patrick Brown"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Coffee used as a case study to examine biological, ecological and social factors influencing sustainability of farming systems and how food production systems impact human well-being.\n",
+            "creditLimit": "",
+            "ge3": "SE,SS,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "%",
+                "startTime": "1310",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Electronic Dis",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WED",
+                "room": "00000"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "PLS 007V A07",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A07",
+            "printCRN": "50841",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Just Coffee: The Biology, Ecology & Socioeconomic Impacts of the World's Favorite Drink",
+            "subjectDesc": "Plant Science",
+            "courseNum": "007V",
+            "hidCRN": "50841",
+            "crn": "50841",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "Crump",
+                "instructorName": "A. Crump",
+                "firstName": "Amanda",
+                "instructorEmail": "acrump@ucdavis.edu",
+                "fullName": "Amanda Crump"
+            },
+            {
+                "lastName": "Brown",
+                "instructorName": "P. Brown",
+                "firstName": "Patrick",
+                "instructorEmail": "phbrown@ucdavis.edu",
+                "fullName": "Patrick Brown"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Coffee used as a case study to examine biological, ecological and social factors influencing sustainability of farming systems and how food production systems impact human well-being.\n",
+            "creditLimit": "",
+            "ge3": "SE,SS,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "%",
+                "startTime": "1410",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Electronic Dis",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WED",
+                "room": "00000"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "PLS 007V A08",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A08",
+            "printCRN": "50842",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Just Coffee: The Biology, Ecology & Socioeconomic Impacts of the World's Favorite Drink",
+            "subjectDesc": "Plant Science",
+            "courseNum": "007V",
+            "hidCRN": "50842",
+            "crn": "50842",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "Crump",
+                "instructorName": "A. Crump",
+                "firstName": "Amanda",
+                "instructorEmail": "acrump@ucdavis.edu",
+                "fullName": "Amanda Crump"
+            },
+            {
+                "lastName": "Brown",
+                "instructorName": "P. Brown",
+                "firstName": "Patrick",
+                "instructorEmail": "phbrown@ucdavis.edu",
+                "fullName": "Patrick Brown"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Dependence of human societies on plant and plant products. Plants as resources for food, fiber, health, enjoyment and environmental services. Sustainable uses of plants for food production, raw materials, bioenergy, and environmental conservation. Global population growth and future food supplies.",
+            "creditLimit": "Not open for credit to students who have complete PLB 012. (Former PLB 012.)",
+            "ge3": "SE,SS,WE",
+            "crossListing": "SAS 012.",
+            "prereq": " High school biology. "
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1000",
+                "building": "Walker Hall",
+                "description": "Lecture",
+                "buildingCode": "WALKER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01320"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "PLS 012 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "50851",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Plants & Society",
+            "subjectDesc": "Plant Science",
+            "courseNum": "012",
+            "hidCRN": "50851",
+            "crn": "50851",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "Brown",
+                "instructorName": "P. Brown",
+                "firstName": "Patrick James",
+                "instructorEmail": "pjbrown@ucdavis.edu",
+                "fullName": "Patrick James Brown"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Concepts of computing and applications using personal computers, spreadsheets, database management, word processing and communications.",
+            "creditLimit": "",
+            "ge3": "SE,VL",
+            "crossListing": "",
+            "prereq": " High school algebra. "
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "G",
+                "startTime": "1410",
+                "building": "Hutchison Hall",
+                "description": "Discussion Laboratory",
+                "buildingCode": "HUTCH",
+                "saturday": false,
+                "type": "D/L",
+                "room": "00073"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1710",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01020"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "PLS 021 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "50852",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Application of Computers in Technology",
+            "subjectDesc": "Plant Science",
+            "courseNum": "021",
+            "hidCRN": "50852",
+            "crn": "50852",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "Sellu",
+                "instructorName": "G. Sellu",
+                "firstName": "George",
+                "instructorEmail": "gssellu@ucdavis.edu",
+                "fullName": "George Sellu"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Concepts of computing and applications using personal computers, spreadsheets, database management, word processing and communications.",
+            "creditLimit": "",
+            "ge3": "SE,VL",
+            "crossListing": "",
+            "prereq": " High school algebra. "
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "G",
+                "startTime": "1610",
+                "building": "Hutchison Hall",
+                "description": "Discussion Laboratory",
+                "buildingCode": "HUTCH",
+                "saturday": false,
+                "type": "D/L",
+                "room": "00073"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1710",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01020"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "PLS 021 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "50853",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Application of Computers in Technology",
+            "subjectDesc": "Plant Science",
+            "courseNum": "021",
+            "hidCRN": "50853",
+            "crn": "50853",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "Sellu",
+                "instructorName": "G. Sellu",
+                "firstName": "George",
+                "instructorEmail": "gssellu@ucdavis.edu",
+                "fullName": "George Sellu"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Concepts of computing and applications using personal computers, spreadsheets, database management, word processing and communications.",
+            "creditLimit": "",
+            "ge3": "SE,VL",
+            "crossListing": "",
+            "prereq": " High school algebra. "
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "G",
+                "startTime": "1000",
+                "building": "Hutchison Hall",
+                "description": "Discussion Laboratory",
+                "buildingCode": "HUTCH",
+                "saturday": false,
+                "type": "D/L",
+                "room": "00073"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1710",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01020"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "PLS 021 A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "50854",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Application of Computers in Technology",
+            "subjectDesc": "Plant Science",
+            "courseNum": "021",
+            "hidCRN": "50854",
+            "crn": "50854",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "Sellu",
+                "instructorName": "G. Sellu",
+                "firstName": "George",
+                "instructorEmail": "gssellu@ucdavis.edu",
+                "fullName": "George Sellu"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Concepts of computing and applications using personal computers, spreadsheets, database management, word processing and communications.",
+            "creditLimit": "",
+            "ge3": "SE,VL",
+            "crossListing": "",
+            "prereq": " High school algebra. "
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "G",
+                "startTime": "1510",
+                "building": "Hutchison Hall",
+                "description": "Discussion Laboratory",
+                "buildingCode": "HUTCH",
+                "saturday": false,
+                "type": "D/L",
+                "room": "00073"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1710",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01020"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "PLS 021 A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "50855",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Application of Computers in Technology",
+            "subjectDesc": "Plant Science",
+            "courseNum": "021",
+            "hidCRN": "50855",
+            "crn": "50855",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "Sellu",
+                "instructorName": "G. Sellu",
+                "firstName": "George",
+                "instructorEmail": "gssellu@ucdavis.edu",
+                "fullName": "George Sellu"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Concepts of computing and applications using personal computers, spreadsheets, database management, word processing and communications.",
+            "creditLimit": "",
+            "ge3": "SE,VL",
+            "crossListing": "",
+            "prereq": " High school algebra. "
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1710",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01020"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "G",
+                "startTime": "1210",
+                "building": "Hutchison Hall",
+                "description": "Discussion Laboratory",
+                "buildingCode": "HUTCH",
+                "saturday": false,
+                "type": "D/L",
+                "room": "00073"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "PLS 021 A05",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A05",
+            "printCRN": "50856",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Application of Computers in Technology",
+            "subjectDesc": "Plant Science",
+            "courseNum": "021",
+            "hidCRN": "50856",
+            "crn": "50856",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "Sellu",
+                "instructorName": "G. Sellu",
+                "firstName": "George",
+                "instructorEmail": "gssellu@ucdavis.edu",
+                "fullName": "George Sellu"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Concepts of computing and applications using personal computers, spreadsheets, database management, word processing and communications.",
+            "creditLimit": "",
+            "ge3": "SE,VL",
+            "crossListing": "",
+            "prereq": " High school algebra. "
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "G",
+                "startTime": "1210",
+                "building": "Olson Hall",
+                "description": "Discussion Laboratory",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "D/L",
+                "room": "00021"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1710",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01020"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "PLS 021 A06",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A06",
+            "printCRN": "50857",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Application of Computers in Technology",
+            "subjectDesc": "Plant Science",
+            "courseNum": "021",
+            "hidCRN": "50857",
+            "crn": "50857",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "Sellu",
+                "instructorName": "G. Sellu",
+                "firstName": "George",
+                "instructorEmail": "gssellu@ucdavis.edu",
+                "fullName": "George Sellu"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Concepts of computing and applications using personal computers, spreadsheets, database management, word processing and communications.",
+            "creditLimit": "",
+            "ge3": "SE,VL",
+            "crossListing": "",
+            "prereq": " High school algebra. "
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "G",
+                "startTime": "1410",
+                "building": "Hutchison Hall",
+                "description": "Discussion Laboratory",
+                "buildingCode": "HUTCH",
+                "saturday": false,
+                "type": "D/L",
+                "room": "00073"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1710",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01020"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "PLS 021 A07",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A07",
+            "printCRN": "50858",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Application of Computers in Technology",
+            "subjectDesc": "Plant Science",
+            "courseNum": "021",
+            "hidCRN": "50858",
+            "crn": "50858",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "Sellu",
+                "instructorName": "G. Sellu",
+                "firstName": "George",
+                "instructorEmail": "gssellu@ucdavis.edu",
+                "fullName": "George Sellu"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Concepts of computing and applications using personal computers, spreadsheets, database management, word processing and communications.",
+            "creditLimit": "",
+            "ge3": "SE,VL",
+            "crossListing": "",
+            "prereq": " High school algebra. "
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "G",
+                "startTime": "1000",
+                "building": "Olson Hall",
+                "description": "Discussion Laboratory",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "D/L",
+                "room": "00021"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1710",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01020"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "PLS 021 A08",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A08",
+            "printCRN": "50859",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Application of Computers in Technology",
+            "subjectDesc": "Plant Science",
+            "courseNum": "021",
+            "hidCRN": "50859",
+            "crn": "50859",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "Sellu",
+                "instructorName": "G. Sellu",
+                "firstName": "George",
+                "instructorEmail": "gssellu@ucdavis.edu",
+                "fullName": "George Sellu"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Concepts of computing and applications using personal computers, spreadsheets, database management, word processing and communications.",
+            "creditLimit": "",
+            "ge3": "SE,VL",
+            "crossListing": "",
+            "prereq": " High school algebra. "
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "G",
+                "startTime": "1210",
+                "building": "Olson Hall",
+                "description": "Discussion Laboratory",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "D/L",
+                "room": "00021"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1710",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01020"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "PLS 021 A09",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A09",
+            "printCRN": "50860",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Application of Computers in Technology",
+            "subjectDesc": "Plant Science",
+            "courseNum": "021",
+            "hidCRN": "50860",
+            "crn": "50860",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "Sellu",
+                "instructorName": "G. Sellu",
+                "firstName": "George",
+                "instructorEmail": "gssellu@ucdavis.edu",
+                "fullName": "George Sellu"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Concepts of computing and applications using personal computers, spreadsheets, database management, word processing and communications.",
+            "creditLimit": "",
+            "ge3": "SE,VL",
+            "crossListing": "",
+            "prereq": " High school algebra. "
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1710",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01020"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "G",
+                "startTime": "1000",
+                "building": "Olson Hall",
+                "description": "Discussion Laboratory",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "D/L",
+                "room": "00021"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "PLS 021 A10",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A10",
+            "printCRN": "50861",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Application of Computers in Technology",
+            "subjectDesc": "Plant Science",
+            "courseNum": "021",
+            "hidCRN": "50861",
+            "crn": "50861",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "Sellu",
+                "instructorName": "G. Sellu",
+                "firstName": "George",
+                "instructorEmail": "gssellu@ucdavis.edu",
+                "fullName": "George Sellu"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Concepts of computing and applications using personal computers, spreadsheets, database management, word processing and communications. ",
+            "creditLimit": "",
+            "ge3": "SE,VL",
+            "crossListing": "",
+            "prereq": " High school algebra."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "%",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Electronic Dis",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WED",
+                "room": "00000"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "PLS 021V A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "50862",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Application of Computers in Technology",
+            "subjectDesc": "Plant Science",
+            "courseNum": "021V",
+            "hidCRN": "50862",
+            "crn": "50862",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "Sellu",
+                "instructorName": "G. Sellu",
+                "firstName": "George",
+                "instructorEmail": "gssellu@ucdavis.edu",
+                "fullName": "George Sellu"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Principles and practices of organic production of annual crops.  Including organic crops, soil, and pest management, cover cropping, composting, seeding, transplanting, irrigation, harvesting and marketing.",
+            "creditLimit": "Not open for credit to students who have completed AMR 049. (Former AMR 049.)",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Bowley",
+                "description": "Lecture",
+                "buildingCode": "BOWLEY",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00101"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1610",
+                "building": "Bowley",
+                "description": "Discussion",
+                "buildingCode": "BOWLEY",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00101"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "PLS 049 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "50864",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Organic Crop Production Practices",
+            "subjectDesc": "Plant Science",
+            "courseNum": "049",
+            "hidCRN": "50864",
+            "crn": "50864",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "Zhang",
+                "instructorName": "X. Zhang",
+                "firstName": "Xiaofei",
+                "instructorEmail": "xfczhang@ucdavis.edu",
+                "fullName": "Xiaofei Zhang"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Work experience on or off campus in subject areas pertaining to plant and environmental sciences.  Internship supervised by a faculty member.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "I",
+                "startTime": "",
+                "building": "",
+                "description": "Internship",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "INT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "PLS 092",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Internship",
+            "subjectDesc": "Plant Science",
+            "courseNum": "092",
+            "hidCRN": "084ECEC8EB",
+            "crn": "50865",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed group study.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Primarily for lower division students. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "PLS 098",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study",
+            "subjectDesc": "Plant Science",
+            "courseNum": "098",
+            "hidCRN": "084ECFCAEE",
+            "crn": "50940",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special study for undergraduates.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Primarily for lower division students. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "PLS 099",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Study for Undergraduates",
+            "subjectDesc": "Plant Science",
+            "courseNum": "099",
+            "hidCRN": "084ECFCAED",
+            "crn": "50943",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Principles of plant interactions with their physical and biological environments and their acquisition of the resources needed for growth and reproduction. Emphasis on how management practices and environmental conditions affect crop productivity.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " PLS 100A;  Or the equivalent of PLS 100A."
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1000",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "03214"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "PLS 100C 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "51018",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Environmental Interactions of Cultivated Plants",
+            "subjectDesc": "Plant Science",
+            "courseNum": "100C",
+            "hidCRN": "51018",
+            "crn": "51018",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "Volder",
+                "instructorName": "A. Volder",
+                "firstName": "Astrid",
+                "instructorEmail": "avolder@ucdavis.edu",
+                "fullName": "Astrid Volder"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Techniques and instruments used to study plant interactions with their physical and biological environments, including light responses, transpiration, microclimatology, nutrient availability and utilization, biomass accumulation. Quantitative methods and modeling are emphasized.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " PLS 100C { can be concurrent }"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "G",
+                "startTime": "1310",
+                "building": "Bowley",
+                "description": "Discussion Laboratory",
+                "buildingCode": "BOWLEY",
+                "saturday": false,
+                "type": "D/L",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "PLS 100CL 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "51019",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Environmental Interactions of Cultivated Plants Laboratory",
+            "subjectDesc": "Plant Science",
+            "courseNum": "100CL",
+            "hidCRN": "51019",
+            "crn": "51019",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "Shackel",
+                "instructorName": "K. Shackel",
+                "firstName": "Kenneth",
+                "instructorEmail": "kashackel@ucdavis.edu",
+                "fullName": "Kenneth Shackel"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to quantitative approaches for collecting, analyzing, and interpreting environmental data used in plant sciences research. Remote sensing data for estimating plant structure, function and water status, spatial and temporal aspects of data, data science and machine learning, synthesizing complex, high-dimensional data.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " (PLS 021 C or better { can be concurrent } or PLS 021V C or better { can be concurrent });  PLS 120 C or better;  PHY 007A;  PHY 007B;  PHY 007C;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "8",
+                "startTime": "",
+                "building": "",
+                "description": "Term Project",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "PRJ",
+                "room": ""
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1510",
+                "building": "Wellman Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LED",
+                "room": "00229"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "PLS 124 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56185",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Digital Agriculture",
+            "subjectDesc": "Plant Science",
+            "courseNum": "124",
+            "hidCRN": "56185",
+            "crn": "56185",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "Magney",
+                "instructorName": "T. Magney",
+                "firstName": "Troy",
+                "instructorEmail": "tmagney@ucdavis.edu",
+                "fullName": "Troy Magney"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Diversity, phylogeny, and taxonomy of lycophytes, ferns, and seed plants (gymnosperms and angiosperms), emphasizing relationships and distinguishing characteristics of families and genera represented in the California flora. Principles and methods of phylogeny reconstruction, classification, and plant nomenclature. Practice identifying plants to species using taxonomic keys.\n\n",
+            "creditLimit": "No credit if student has taken PLB/PLS 102 or EVE/PLB 108.\n",
+            "ge3": "SE,VL",
+            "crossListing": "EVE 127, PLB 127.",
+            "prereq": " BIS 002C or PLS 002;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1530",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00126"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1530",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1240",
+                "building": "Katherine Esau Science Hall",
+                "description": "Laboratory",
+                "buildingCode": "ESAU",
+                "saturday": false,
+                "type": "LAB",
+                "room": "03067"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "PLS 127 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "51020",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Systematics of Vascular Plants",
+            "subjectDesc": "Plant Science",
+            "courseNum": "127",
+            "hidCRN": "51020",
+            "crn": "51020",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "Potter",
+                "instructorName": "D. Potter",
+                "firstName": "Daniel",
+                "instructorEmail": "dpotter@ucdavis.edu",
+                "fullName": "Daniel Potter"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Diversity, phylogeny, and taxonomy of lycophytes, ferns, and seed plants (gymnosperms and angiosperms), emphasizing relationships and distinguishing characteristics of families and genera represented in the California flora. Principles and methods of phylogeny reconstruction, classification, and plant nomenclature. Practice identifying plants to species using taxonomic keys.\n\n",
+            "creditLimit": "No credit if student has taken PLB/PLS 102 or EVE/PLB 108.\n",
+            "ge3": "SE,VL",
+            "crossListing": "EVE 127, PLB 127.",
+            "prereq": " BIS 002C or PLS 002;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1530",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00126"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1530",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1240",
+                "building": "Katherine Esau Science Hall",
+                "description": "Laboratory",
+                "buildingCode": "ESAU",
+                "saturday": false,
+                "type": "LAB",
+                "room": "03075"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "PLS 127 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "51021",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Systematics of Vascular Plants",
+            "subjectDesc": "Plant Science",
+            "courseNum": "127",
+            "hidCRN": "51021",
+            "crn": "51021",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "Potter",
+                "instructorName": "D. Potter",
+                "firstName": "Daniel",
+                "instructorEmail": "dpotter@ucdavis.edu",
+                "fullName": "Daniel Potter"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Diversity, phylogeny, and taxonomy of lycophytes, ferns, and seed plants (gymnosperms and angiosperms), emphasizing relationships and distinguishing characteristics of families and genera represented in the California flora. Principles and methods of phylogeny reconstruction, classification, and plant nomenclature. Practice identifying plants to species using taxonomic keys.\n\n",
+            "creditLimit": "No credit if student has taken PLB/PLS 102 or EVE/PLB 108.\n",
+            "ge3": "SE,VL",
+            "crossListing": "EVE 127, PLB 127.",
+            "prereq": " BIS 002C or PLS 002;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1530",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00126"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1830",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1540",
+                "building": "Katherine Esau Science Hall",
+                "description": "Laboratory",
+                "buildingCode": "ESAU",
+                "saturday": false,
+                "type": "LAB",
+                "room": "03067"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "PLS 127 A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "51022",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Systematics of Vascular Plants",
+            "subjectDesc": "Plant Science",
+            "courseNum": "127",
+            "hidCRN": "51022",
+            "crn": "51022",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "Potter",
+                "instructorName": "D. Potter",
+                "firstName": "Daniel",
+                "instructorEmail": "dpotter@ucdavis.edu",
+                "fullName": "Daniel Potter"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Diversity, phylogeny, and taxonomy of lycophytes, ferns, and seed plants (gymnosperms and angiosperms), emphasizing relationships and distinguishing characteristics of families and genera represented in the California flora. Principles and methods of phylogeny reconstruction, classification, and plant nomenclature. Practice identifying plants to species using taxonomic keys.\n\n",
+            "creditLimit": "No credit if student has taken PLB/PLS 102 or EVE/PLB 108.\n",
+            "ge3": "SE,VL",
+            "crossListing": "EVE 127, PLB 127.",
+            "prereq": " BIS 002C or PLS 002;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1530",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00126"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1830",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1540",
+                "building": "Katherine Esau Science Hall",
+                "description": "Laboratory",
+                "buildingCode": "ESAU",
+                "saturday": false,
+                "type": "LAB",
+                "room": "03075"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "PLS 127 A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "51023",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Systematics of Vascular Plants",
+            "subjectDesc": "Plant Science",
+            "courseNum": "127",
+            "hidCRN": "51023",
+            "crn": "51023",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "Potter",
+                "instructorName": "D. Potter",
+                "firstName": "Daniel",
+                "instructorEmail": "dpotter@ucdavis.edu",
+                "fullName": "Daniel Potter"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Principles and practices of managing grazing; grazing plan development; setting goals, herbivore nutritional demand, animal unit equivalents, determining ecological carrying capacities and stocking rate, livestock spatial and temporal distribution and grazing systems, herbivore \u2013 plant \u2013 soil interactions, livestock \u2013 wildlife interactions, conservation grazing practices, and the economics of grazing management.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " BIS 002B or BIS 002C or PLS 002 or SSC 010 or ANS 001 or WFC 010 or ESP 001;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "0900",
+                "building": "Bowley",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "BOWLEY",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00105"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "",
+                "building": "",
+                "description": "Lecture/Discussion",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LED",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "PLS 136Y 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56045",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Management of Grazed Ecosystems",
+            "subjectDesc": "Plant Science",
+            "courseNum": "136Y",
+            "hidCRN": "56045",
+            "crn": "56045",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "Tate",
+                "instructorName": "K. Tate",
+                "firstName": "Kenneth",
+                "instructorEmail": "kwtate@ucdavis.edu",
+                "fullName": "Kenneth Tate"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Ecology, distribution, and species of California's plant communities. Environmental forces that determine these communities, the threats they face, and their conservation and restoration opportunities.",
+            "creditLimit": "Not open for credit to students who have completed PLB 147. (Former PLB 147.)",
+            "ge3": "SE,VL",
+            "crossListing": "",
+            "prereq": " PLS 002 or BIS 002C"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1210",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture/Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LED",
+                "room": "03215"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "PLS 147 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "51024",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "California Plant Communities",
+            "subjectDesc": "Plant Science",
+            "courseNum": "147",
+            "hidCRN": "51024",
+            "crn": "51024",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "Funk",
+                "instructorName": "J. Funk",
+                "firstName": "Jennifer",
+                "instructorEmail": "funk@ucdavis.edu",
+                "fullName": "Jennifer Funk"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Visits to many of northern California's plant communities, from the north coast to the Central Valley to the Sierras. Discussion of community ecology and hands-on identification of species. Two Saturday and two three-day field trips required.",
+            "creditLimit": "Not open for credit to students who have completed PLB 147. (Former PLB 147.)",
+            "ge3": "SE,VL",
+            "crossListing": "",
+            "prereq": " (PLS 002 or BIS 002C);  PLS 147 { can be concurrent };  Concurrent or previous enrollment in PLS 147."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "G",
+                "startTime": "",
+                "building": "",
+                "description": "Discussion Laboratory",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "D/L",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "PLS 147L 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "51025",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "California Plant Communities Field Study",
+            "subjectDesc": "Plant Science",
+            "courseNum": "147L",
+            "hidCRN": "51025",
+            "crn": "51025",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "Funk",
+                "instructorName": "J. Funk",
+                "firstName": "Jennifer",
+                "instructorEmail": "funk@ucdavis.edu",
+                "fullName": "Jennifer Funk"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Interdisciplinary analysis of agricultural production and food systems with primary emphasis on biophysical processes. General concepts governing the functioning of temperate and tropical agroecosystems in relation to resource availability, ecological sustainability, and socio-economic viability. Comparative ecological analyses of agroecosystems.",
+            "creditLimit": "Not open for credit to students who have completed AMR 150. (Former AMR 150.)",
+            "ge3": "OL,SE,SL",
+            "crossListing": "",
+            "prereq": " SSC 010;  CHE 002A;  (PLS 002 or BIS 001C or BIS 002C)"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1310",
+                "building": "Bowley",
+                "description": "Lecture",
+                "buildingCode": "BOWLEY",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00101"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1310",
+                "building": "Bowley",
+                "description": "Lecture",
+                "buildingCode": "BOWLEY",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00101"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1410",
+                "building": "Bowley",
+                "description": "Laboratory",
+                "buildingCode": "BOWLEY",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00101"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "PLS 150 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "51027",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Sustainability & Agroecosystem Management",
+            "subjectDesc": "Plant Science",
+            "courseNum": "150",
+            "hidCRN": "51027",
+            "crn": "51027",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "Gaudin",
+                "instructorName": "A. Gaudin",
+                "firstName": "Amelie",
+                "instructorEmail": "agaudin@ucdavis.edu",
+                "fullName": "Amelie Gaudin"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Interdisciplinary analysis of agricultural production and food systems with primary emphasis on biophysical processes. General concepts governing the functioning of temperate and tropical agroecosystems in relation to resource availability, ecological sustainability, and socio-economic viability. Comparative ecological analyses of agroecosystems.",
+            "creditLimit": "Not open for credit to students who have completed AMR 150. (Former AMR 150.)",
+            "ge3": "OL,SE,SL",
+            "crossListing": "",
+            "prereq": " SSC 010;  CHE 002A;  (PLS 002 or BIS 001C or BIS 002C)"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1310",
+                "building": "Bowley",
+                "description": "Lecture",
+                "buildingCode": "BOWLEY",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00101"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1310",
+                "building": "Bowley",
+                "description": "Lecture",
+                "buildingCode": "BOWLEY",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00101"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1410",
+                "building": "Bowley",
+                "description": "Laboratory",
+                "buildingCode": "BOWLEY",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00101"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "PLS 150 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "51028",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Sustainability & Agroecosystem Management",
+            "subjectDesc": "Plant Science",
+            "courseNum": "150",
+            "hidCRN": "51028",
+            "crn": "51028",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "Gaudin",
+                "instructorName": "A. Gaudin",
+                "firstName": "Amelie",
+                "instructorEmail": "agaudin@ucdavis.edu",
+                "fullName": "Amelie Gaudin"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Interdisciplinary analysis of agricultural production and food systems with primary emphasis on biophysical processes. General concepts governing the functioning of temperate and tropical agroecosystems in relation to resource availability, ecological sustainability, and socio-economic viability. Comparative ecological analyses of agroecosystems.",
+            "creditLimit": "Not open for credit to students who have completed AMR 150. (Former AMR 150.)",
+            "ge3": "OL,SE,SL",
+            "crossListing": "",
+            "prereq": " SSC 010;  CHE 002A;  (PLS 002 or BIS 001C or BIS 002C)"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1310",
+                "building": "Bowley",
+                "description": "Lecture",
+                "buildingCode": "BOWLEY",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00101"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1310",
+                "building": "Bowley",
+                "description": "Laboratory",
+                "buildingCode": "BOWLEY",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00101"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1410",
+                "building": "Bowley",
+                "description": "Laboratory",
+                "buildingCode": "BOWLEY",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00101"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "PLS 150 A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "51029",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Sustainability & Agroecosystem Management",
+            "subjectDesc": "Plant Science",
+            "courseNum": "150",
+            "hidCRN": "51029",
+            "crn": "51029",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "Gaudin",
+                "instructorName": "A. Gaudin",
+                "firstName": "Amelie",
+                "instructorEmail": "agaudin@ucdavis.edu",
+                "fullName": "Amelie Gaudin"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Principles and practices of propagating plants covering anatomical, physiological, and practical aspects.",
+            "creditLimit": "Not open for credit to students who have completed PLB 171. (Former PLB 171.)",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " PLS 002 or BIS 001C or BIS 002C"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1310",
+                "building": "Bowley",
+                "description": "Discussion",
+                "buildingCode": "BOWLEY",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00109"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1410",
+                "building": "Bowley",
+                "description": "Laboratory",
+                "buildingCode": "BOWLEY",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00109"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1100",
+                "building": "Environ. Horticult.",
+                "description": "Lecture",
+                "buildingCode": "ENHORT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00146"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "PLS 171 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "51031",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Principles & Practices of Plant Propagation",
+            "subjectDesc": "Plant Science",
+            "courseNum": "171",
+            "hidCRN": "51031",
+            "crn": "51031",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "Khanday",
+                "instructorName": "I. Khanday",
+                "firstName": "Imtiyaz",
+                "instructorEmail": "khanday@ucdavis.edu",
+                "fullName": "Imtiyaz Khanday"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Principles and practices of propagating plants covering anatomical, physiological, and practical aspects.",
+            "creditLimit": "Not open for credit to students who have completed PLB 171. (Former PLB 171.)",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " PLS 002 or BIS 001C or BIS 002C"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1310",
+                "building": "Bowley",
+                "description": "Discussion",
+                "buildingCode": "BOWLEY",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00109"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1410",
+                "building": "Bowley",
+                "description": "Laboratory",
+                "buildingCode": "BOWLEY",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00109"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1100",
+                "building": "Environ. Horticult.",
+                "description": "Lecture",
+                "buildingCode": "ENHORT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00146"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "PLS 171 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "51032",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Principles & Practices of Plant Propagation",
+            "subjectDesc": "Plant Science",
+            "courseNum": "171",
+            "hidCRN": "51032",
+            "crn": "51032",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "Khanday",
+                "instructorName": "I. Khanday",
+                "firstName": "Imtiyaz",
+                "instructorEmail": "khanday@ucdavis.edu",
+                "fullName": "Imtiyaz Khanday"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Overview of physiological and molecular processes related to the quality and safety of harvested crop products. Targeted approaches and technologies to improve/maintain crop quality and limit crop losses after harvest. Socioeconomic aspects of crop losses and food waste.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " BIS 002A;  PLS 002;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "H",
+                "startTime": "0900",
+                "building": "Mann",
+                "description": "Laboratory/Discussion",
+                "buildingCode": "MANN",
+                "saturday": false,
+                "type": "L/D",
+                "room": "00113"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1530",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Hart Hall",
+                "description": "Lecture",
+                "buildingCode": "HART",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01120"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "PLS 172 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55750",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Biology and Quality of Harvested Crops",
+            "subjectDesc": "Plant Science",
+            "courseNum": "172",
+            "hidCRN": "55750",
+            "crn": "55750",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "Blanco-Ulate",
+                "instructorName": "B. Blanco-Ulate",
+                "firstName": "Barbara",
+                "instructorEmail": "bblanco@ucdavis.edu",
+                "fullName": "Barbara Blanco-Ulate"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Preparation and review of a scientific proposal.  Problem definition, identification of objectives, literature survey, hypothesis generation, design of experiments, data analysis planning, proposal outline and preparation.",
+            "creditLimit": "",
+            "ge3": "SE,WE",
+            "crossListing": "BIT 188.",
+            "prereq": " Upper division standing. "
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1410",
+                "building": "Wellman Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LED",
+                "room": "00127"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "PLS 188 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "51033",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Undergraduate Research Proposal",
+            "subjectDesc": "Plant Science",
+            "courseNum": "188",
+            "hidCRN": "51033",
+            "crn": "51033",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "Kliebenstein",
+                "instructorName": "D. Kliebenstein",
+                "firstName": "Daniel",
+                "instructorEmail": "kliebenstein@ucdavis.edu",
+                "fullName": "Daniel Kliebenstein"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Work experience on or off campus in subject areas pertaining to plant and environmental sciences. Internship supervised by a faculty member.\n\t\n",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Completion of 84 units. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "I",
+                "startTime": "",
+                "building": "",
+                "description": "Internship",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "INT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "PLS 192",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Internship",
+            "subjectDesc": "Plant Science",
+            "courseNum": "192",
+            "hidCRN": "084FC6CDE8",
+            "crn": "51036",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Independent study of selected topics under the direction of a member or members of the staff. Completion will involve the writing of a senior thesis.    ",
+            "creditLimit": "",
+            "ge3": "SE,WE",
+            "crossListing": "",
+            "prereq": " Senior standing; overall GPA of 3.250 or higher and consent of master advisor."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "PLS 194H",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 2,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Senior Honors Thesis",
+            "subjectDesc": "Plant Science",
+            "courseNum": "194H",
+            "hidCRN": "084FC7CFEB",
+            "crn": "51115",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Leading small voluntary discussion or lab groups affiliated with one of the department's regular courses.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Upper division standing, completion of course being tutored or the equivalent. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "T",
+                "startTime": "",
+                "building": "",
+                "description": "Tutorial",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "TUT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "PLS 197T",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Tutoring in Plant Sciences",
+            "subjectDesc": "Plant Science",
+            "courseNum": "197T",
+            "hidCRN": "084FC4CEEB",
+            "crn": "51205",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed group study.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "PLS 198",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study",
+            "subjectDesc": "Plant Science",
+            "courseNum": "198",
+            "hidCRN": "084FC4CDEA",
+            "crn": "51234",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special study for advanced undergraduates.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "PLS 199",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Study for Advanced Undergraduates",
+            "subjectDesc": "Plant Science",
+            "courseNum": "199",
+            "hidCRN": "084FC5CCEA",
+            "crn": "51324",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Hands-on practice applying a wide range of field-oriented plant physiology equipment and techniques. Use of water relations techniques, gas exchange devices, and image analysis, with extensive focus on dataloggers and sensing. Training in field-based plant physiology techniques intended to help students design research projects and appreciate the value and limitations of new equipment.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Prior coursework in plant physiology such as PLS 100A, PLS 100CL, PLS 157, PLS 210, PLB 111 or similar."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1115",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "WR",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "G",
+                "startTime": "1000",
+                "building": "Plant&Environmental Sci Bldg",
+                "description": "Discussion Laboratory",
+                "buildingCode": "PLESC",
+                "saturday": false,
+                "type": "D/L",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "PLS 217 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "51414",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Field Techniques in Plant Physiology",
+            "subjectDesc": "Plant Science",
+            "courseNum": "217",
+            "hidCRN": "51414",
+            "crn": "51414",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "Gilbert",
+                "instructorName": "M. Gilbert",
+                "firstName": "Matthew",
+                "instructorEmail": "megilbert@ucdavis.edu",
+                "fullName": "Matthew Gilbert"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Philosophy, methods, and problems in developing improved plant species. Topics include: inbreeding, heterosis, progeny testing, breeding methodology, index selection, germplasm conservation, and breeding for stress resistance. Laboratories include tours of breeding facilities and calculation and interpretation of quantitative data.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " PLS 154;  PLS 205;  GGG 201D or ANG 107 recommended."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0850",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "0800",
+                "building": "Bowley",
+                "description": "Lecture",
+                "buildingCode": "BOWLEY",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00101"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "",
+                "building": "",
+                "description": "Laboratory",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LAB",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "PLS 222 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "51415",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Advanced Plant Breeding",
+            "subjectDesc": "Plant Science",
+            "courseNum": "222",
+            "hidCRN": "51415",
+            "crn": "51415",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "Brummer",
+                "instructorName": "C. Brummer",
+                "firstName": "Charlie",
+                "instructorEmail": "ecbrummer@ucdavis.edu",
+                "fullName": "Charlie Brummer"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "History, theory, and current practice of extension education. Role and skills needed of the extension educator. Pluralistic nature of extension education. Development of skills to create lasting change through outreach and communication in an extension education program.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Graduate standing; or consent of instructor."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1000",
+                "building": "Asmundson Hall",
+                "description": "Lecture",
+                "buildingCode": "ASMDSN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00242"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "PLS 240 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "51416",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Extension Education, Outreach & Science Communication",
+            "subjectDesc": "Plant Science",
+            "courseNum": "240",
+            "hidCRN": "51416",
+            "crn": "51416",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "Crump",
+                "instructorName": "A. Crump",
+                "firstName": "Amanda",
+                "instructorEmail": "acrump@ucdavis.edu",
+                "fullName": "Amanda Crump"
+            },
+            {
+                "lastName": "Sandoval Solis",
+                "instructorName": "S. Sandoval Solis",
+                "firstName": "Samuel",
+                "instructorEmail": "samsandoval@ucdavis.edu",
+                "fullName": "Samuel Sandoval Solis"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Topics of current interest related to Plant Sciences.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "PLS 290",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 2,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Seminar",
+            "subjectDesc": "Plant Science",
+            "courseNum": "290",
+            "hidCRN": "084FC2CFE9",
+            "crn": "51417",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Topics of current interest related to Plant Sciences.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "1210",
+                "building": "Plant&Environmental Sci Bldg",
+                "description": "Variable",
+                "buildingCode": "PLESC",
+                "saturday": false,
+                "type": "VAR",
+                "room": "03001"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "PLS 290",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "001",
+            "printCRN": "@",
+            "unitsHigh": 2,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Seminar",
+            "subjectDesc": "Plant Science",
+            "courseNum": "290",
+            "hidCRN": "084FC2CFE6",
+            "crn": "51418",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "Mesgaran",
+                "instructorName": "M. Mesgaran",
+                "firstName": "Mohsen",
+                "instructorEmail": "mbmesgaran@ucdavis.edu",
+                "fullName": "Mohsen Mesgaran"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Research conference.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "",
+                "building": "",
+                "description": "Discussion",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "DIS",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "PLS 290C",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research Conference",
+            "subjectDesc": "Plant Science",
+            "courseNum": "290C",
+            "hidCRN": "084FC2CAE9",
+            "crn": "51447",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Designed for graduate students who desire teaching experience but are not teaching assistants.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Graduate standing; completion of course to be tutored or the equivalent. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "T",
+                "startTime": "",
+                "building": "",
+                "description": "Tutorial",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "TUT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "PLS 297T",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Tutoring in Plant Sciences",
+            "subjectDesc": "Plant Science",
+            "courseNum": "297T",
+            "hidCRN": "084FC3CDE9",
+            "crn": "51537",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Group study.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "PLS 298",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Group Study",
+            "subjectDesc": "Plant Science",
+            "courseNum": "298",
+            "hidCRN": "084FC3CAE6",
+            "crn": "51548",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Research.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "PLS 299",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research",
+            "subjectDesc": "Plant Science",
+            "courseNum": "299",
+            "hidCRN": "084FC0CDE6",
+            "crn": "51638",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Teaching assistant training.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Graduate standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "PLS 396",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 4,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Teaching Assistant Training Practicum",
+            "subjectDesc": "Plant Science",
+            "courseNum": "396",
+            "hidCRN": "084FC1CCE6",
+            "crn": "51728",
+            "subjectCode": "PLS"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    }
+]

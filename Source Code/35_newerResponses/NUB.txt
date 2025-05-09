@@ -1,0 +1,88 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Integration of biochemical, physiological, and genetic aspects of nutrition in the context of clinical and epidemiological observations related to health and disease, including obesity and diabetes, cancer, vascular and neurodegenerative diseases, osteoporosis, and birth defects. Review and consideration of governmental.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1510",
+                "building": "Meyer Hall",
+                "description": "Discussion",
+                "buildingCode": "MEYER",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01135"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Meyer Hall",
+                "description": "Lecture",
+                "buildingCode": "MEYER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01135"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "NUB 210C 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "48568",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Advanced Nutrition III: Nutrition in Health & Disease",
+            "subjectDesc": "Nutritional Biology (Grad Grp)",
+            "courseNum": "210C",
+            "hidCRN": "48568",
+            "crn": "48568",
+            "subjectCode": "NUB"
+        },
+        "instructor": [
+            {
+                "lastName": "Zhang",
+                "instructorName": "G. Zhang",
+                "firstName": "Guodong",
+                "instructorEmail": "gdzhang@ucdavis.edu",
+                "fullName": "Guodong Zhang"
+            }
+        ]
+    }
+]

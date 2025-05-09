@@ -1,0 +1,5342 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Human movement from physiological, psychological, sociological, and historical perspectives. Biology and psychology of exercise across the human lifespan.",
+            "creditLimit": "Not open for credit to students who have taken EXB 010 or an upper division EXB or NPB course.",
+            "ge3": "SE,SL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "02010"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "NPB 011 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "48056",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Exercise & Fitness: Principles & Practice",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "011",
+            "hidCRN": "48056",
+            "crn": "48056",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "Kuo",
+                "instructorName": "T. Kuo",
+                "firstName": "Taiyi",
+                "instructorEmail": "tdkuo@ucdavis.edu",
+                "fullName": "Taiyi Kuo"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Research findings and methods in neurobiology, physiology, and/or behavior. Presentation and discussion of research by faculty and students.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " NPB 099 { can be concurrent };  and Consent of Instructor.  Lower division standing in Neurobiology, Physiology and Behavior or related biological science; NPB 099 required concurrently. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "",
+                "building": "",
+                "description": "Discussion",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "DIS",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "NPB 091C",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research Conference",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "091C",
+            "hidCRN": "0946C6CBE7",
+            "crn": "48059",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Work experience off and on campus in all subject areas offered in the\nDepartment of Neurobiology, Physiology, and Behavior. Internships supervised by a member of the faculty.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Lower division standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "I",
+                "startTime": "",
+                "building": "",
+                "description": "Internship",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "INT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "NPB 092",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Internship",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "092",
+            "hidCRN": "0946C6C8EE",
+            "crn": "48060",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed group study.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Lower division standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "NPB 098",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "098",
+            "hidCRN": "0946C6C8EF",
+            "crn": "48061",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special study for undergraduates.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Lower division standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "NPB 099",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Study for Undergraduates",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "099",
+            "hidCRN": "0946C6C8EC",
+            "crn": "48062",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Brains and nervous systems, neurons and neural circuits. Coordination of movement. Development of nervous systems. Vision, hearing, and feature extraction by the central nervous system. The cell biology of learning and memory. Perception, cognition, and disorders of the brain. ",
+            "creditLimit": "Not open for credit to students who have completed NPB 110B, NPB 112, NPB 160, NPB 161 or NPB 162, or NSC 221 or NSC 222.",
+            "ge3": "QL,SE",
+            "crossListing": "",
+            "prereq": " BIS 002A;  PHY 009A, PHY 009B or PHY 007A, PHY 007B recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1210",
+                "building": "Storer Hall",
+                "description": "Discussion",
+                "buildingCode": "STORER",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01344"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Storer Hall",
+                "description": "Lecture",
+                "buildingCode": "STORER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01322"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "NPB 100 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "48075",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Neurobiology",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "100",
+            "hidCRN": "48075",
+            "crn": "48075",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "Miller",
+                "instructorName": "L. Miller",
+                "firstName": "Lee",
+                "instructorEmail": "leemiller@ucdavis.edu",
+                "fullName": "Lee Miller"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Brains and nervous systems, neurons and neural circuits. Coordination of movement. Development of nervous systems. Vision, hearing, and feature extraction by the central nervous system. The cell biology of learning and memory. Perception, cognition, and disorders of the brain. ",
+            "creditLimit": "Not open for credit to students who have completed NPB 110B, NPB 112, NPB 160, NPB 161 or NPB 162, or NSC 221 or NSC 222.",
+            "ge3": "QL,SE",
+            "crossListing": "",
+            "prereq": " BIS 002A;  PHY 009A, PHY 009B or PHY 007A, PHY 007B recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1000",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00217"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Storer Hall",
+                "description": "Lecture",
+                "buildingCode": "STORER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01322"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "NPB 100 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "48076",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Neurobiology",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "100",
+            "hidCRN": "48076",
+            "crn": "48076",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "Miller",
+                "instructorName": "L. Miller",
+                "firstName": "Lee",
+                "instructorEmail": "leemiller@ucdavis.edu",
+                "fullName": "Lee Miller"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Brains and nervous systems, neurons and neural circuits. Coordination of movement. Development of nervous systems. Vision, hearing, and feature extraction by the central nervous system. The cell biology of learning and memory. Perception, cognition, and disorders of the brain. ",
+            "creditLimit": "Not open for credit to students who have completed NPB 110B, NPB 112, NPB 160, NPB 161 or NPB 162, or NSC 221 or NSC 222.",
+            "ge3": "QL,SE",
+            "crossListing": "",
+            "prereq": " BIS 002A;  PHY 009A, PHY 009B or PHY 007A, PHY 007B recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1100",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00217"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Storer Hall",
+                "description": "Lecture",
+                "buildingCode": "STORER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01322"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "NPB 100 A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "48077",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Neurobiology",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "100",
+            "hidCRN": "48077",
+            "crn": "48077",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "Miller",
+                "instructorName": "L. Miller",
+                "firstName": "Lee",
+                "instructorEmail": "leemiller@ucdavis.edu",
+                "fullName": "Lee Miller"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Brains and nervous systems, neurons and neural circuits. Coordination of movement. Development of nervous systems. Vision, hearing, and feature extraction by the central nervous system. The cell biology of learning and memory. Perception, cognition, and disorders of the brain. ",
+            "creditLimit": "Not open for credit to students who have completed NPB 110B, NPB 112, NPB 160, NPB 161 or NPB 162, or NSC 221 or NSC 222.",
+            "ge3": "QL,SE",
+            "crossListing": "",
+            "prereq": " BIS 002A;  PHY 009A, PHY 009B or PHY 007A, PHY 007B recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1310",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00107"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Storer Hall",
+                "description": "Lecture",
+                "buildingCode": "STORER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01322"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "NPB 100 A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "48078",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Neurobiology",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "100",
+            "hidCRN": "48078",
+            "crn": "48078",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "Miller",
+                "instructorName": "L. Miller",
+                "firstName": "Lee",
+                "instructorEmail": "leemiller@ucdavis.edu",
+                "fullName": "Lee Miller"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Brains and nervous systems, neurons and neural circuits. Coordination of movement. Development of nervous systems. Vision, hearing, and feature extraction by the central nervous system. The cell biology of learning and memory. Perception, cognition, and disorders of the brain. ",
+            "creditLimit": "Not open for credit to students who have completed NPB 110B, NPB 112, NPB 160, NPB 161 or NPB 162, or NSC 221 or NSC 222.",
+            "ge3": "QL,SE",
+            "crossListing": "",
+            "prereq": " BIS 002A;  PHY 009A, PHY 009B or PHY 007A, PHY 007B recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1510",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00103"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Storer Hall",
+                "description": "Lecture",
+                "buildingCode": "STORER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01322"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "NPB 100 A05",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A05",
+            "printCRN": "48079",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Neurobiology",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "100",
+            "hidCRN": "48079",
+            "crn": "48079",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "Miller",
+                "instructorName": "L. Miller",
+                "firstName": "Lee",
+                "instructorEmail": "leemiller@ucdavis.edu",
+                "fullName": "Lee Miller"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Brains and nervous systems, neurons and neural circuits. Coordination of movement. Development of nervous systems. Vision, hearing, and feature extraction by the central nervous system. The cell biology of learning and memory. Perception, cognition, and disorders of the brain. ",
+            "creditLimit": "Not open for credit to students who have completed NPB 110B, NPB 112, NPB 160, NPB 161 or NPB 162, or NSC 221 or NSC 222.",
+            "ge3": "QL,SE",
+            "crossListing": "",
+            "prereq": " BIS 002A;  PHY 009A, PHY 009B or PHY 007A, PHY 007B recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1410",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00105"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Storer Hall",
+                "description": "Lecture",
+                "buildingCode": "STORER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01322"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "NPB 100 A06",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A06",
+            "printCRN": "48080",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Neurobiology",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "100",
+            "hidCRN": "48080",
+            "crn": "48080",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "Miller",
+                "instructorName": "L. Miller",
+                "firstName": "Lee",
+                "instructorEmail": "leemiller@ucdavis.edu",
+                "fullName": "Lee Miller"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Experimental basis of neurobiology principles discussed in NPB 100. Topics include neurophysiology, sensory systems, motor systems, cellular neuroscience, cognitive neuroscience, and quantitative data analysis and modeling techniques. ",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " NPB 100 { can be concurrent } or NPB 110B { can be concurrent }"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1250",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1000",
+                "building": "Katherine Esau Science Hall",
+                "description": "Laboratory",
+                "buildingCode": "ESAU",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02012"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00106"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "NPB 100L A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "48081",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Neurobiology Laboratory",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "100L",
+            "hidCRN": "48081",
+            "crn": "48081",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "Caporale",
+                "instructorName": "N. Caporale",
+                "firstName": "Natalia",
+                "instructorEmail": "ncaporale@ucdavis.edu",
+                "fullName": "Natalia Caporale"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Experimental basis of neurobiology principles discussed in NPB 100. Topics include neurophysiology, sensory systems, motor systems, cellular neuroscience, cognitive neuroscience, and quantitative data analysis and modeling techniques. ",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " NPB 100 { can be concurrent } or NPB 110B { can be concurrent }"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1340",
+                "building": "Katherine Esau Science Hall",
+                "description": "Laboratory",
+                "buildingCode": "ESAU",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02012"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00106"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "NPB 100L A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "48082",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Neurobiology Laboratory",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "100L",
+            "hidCRN": "48082",
+            "crn": "48082",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "Caporale",
+                "instructorName": "N. Caporale",
+                "firstName": "Natalia",
+                "instructorEmail": "ncaporale@ucdavis.edu",
+                "fullName": "Natalia Caporale"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Experimental basis of neurobiology principles discussed in NPB 100. Topics include neurophysiology, sensory systems, motor systems, cellular neuroscience, cognitive neuroscience, and quantitative data analysis and modeling techniques. ",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " NPB 100 { can be concurrent } or NPB 110B { can be concurrent }"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2030",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1740",
+                "building": "Katherine Esau Science Hall",
+                "description": "Laboratory",
+                "buildingCode": "ESAU",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02012"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00106"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "NPB 100L A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "48083",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Neurobiology Laboratory",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "100L",
+            "hidCRN": "48083",
+            "crn": "48083",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "Caporale",
+                "instructorName": "N. Caporale",
+                "firstName": "Natalia",
+                "instructorEmail": "ncaporale@ucdavis.edu",
+                "fullName": "Natalia Caporale"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Systemic physiology with emphasis on aspects of human physiology. Functions of major organ systems, with the structure of those systems described as a basis for understanding the functions.  ",
+            "creditLimit": "Not open for credit to students who have completed NPB 110C.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " BIS 002A;  (CHE 002B or CHE 002BH);  PHY 001B or PHY 007C strongly recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": true,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MTWRF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Khaira Lecture Hall",
+                "description": "Lecture",
+                "buildingCode": "KHAIRA",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00123"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "NPB 101 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "48084",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Systemic Physiology",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "101",
+            "hidCRN": "48084",
+            "crn": "48084",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "Gomes",
+                "instructorName": "A. Gomes",
+                "firstName": "Aldrin",
+                "instructorEmail": "avgomes@ucdavis.edu",
+                "fullName": "Aldrin Gomes"
+            },
+            {
+                "lastName": "Hamada",
+                "instructorName": "F. Hamada",
+                "firstName": "Fumika",
+                "instructorEmail": "fnhamada@ucdavis.edu",
+                "fullName": "Fumika Hamada"
+            },
+            {
+                "lastName": "Furlow",
+                "instructorName": "J. Furlow",
+                "firstName": "John",
+                "instructorEmail": "jdfurlow@ucdavis.edu",
+                "fullName": "John Furlow"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Discussion and problem solving related to fundamental principles of systemic physiology as presented in NPB 101.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " NPB 101 { can be concurrent };  Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0830",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00207"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1.5,
+            "reservedSeating": false,
+            "shortDesc": "NPB 101D 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "48085",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Systemic Physiology Discussion",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "101D",
+            "hidCRN": "48085",
+            "crn": "48085",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "Caporale",
+                "instructorName": "N. Caporale",
+                "firstName": "Natalia",
+                "instructorEmail": "ncaporale@ucdavis.edu",
+                "fullName": "Natalia Caporale"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Discussion and problem solving related to fundamental principles of systemic physiology as presented in NPB 101.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " NPB 101 { can be concurrent };  Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1210",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00207"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1.5,
+            "reservedSeating": false,
+            "shortDesc": "NPB 101D 002",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "002",
+            "printCRN": "48086",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Systemic Physiology Discussion",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "101D",
+            "hidCRN": "48086",
+            "crn": "48086",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "Caporale",
+                "instructorName": "N. Caporale",
+                "firstName": "Natalia",
+                "instructorEmail": "ncaporale@ucdavis.edu",
+                "fullName": "Natalia Caporale"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Discussion and problem solving related to fundamental principles of systemic physiology as presented in NPB 101.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " NPB 101 { can be concurrent };  Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1210",
+                "building": "Bainer Hall",
+                "description": "Discussion",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01132"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1.5,
+            "reservedSeating": false,
+            "shortDesc": "NPB 101D 003",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "003",
+            "printCRN": "48087",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Systemic Physiology Discussion",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "101D",
+            "hidCRN": "48087",
+            "crn": "48087",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "Caporale",
+                "instructorName": "N. Caporale",
+                "firstName": "Natalia",
+                "instructorEmail": "ncaporale@ucdavis.edu",
+                "fullName": "Natalia Caporale"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Discussion and problem solving related to fundamental principles of systemic physiology as presented in NPB 101.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " NPB 101 { can be concurrent };  Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1340",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00207"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1.5,
+            "reservedSeating": false,
+            "shortDesc": "NPB 101D 004",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "004",
+            "printCRN": "48088",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Systemic Physiology Discussion",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "101D",
+            "hidCRN": "48088",
+            "crn": "48088",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "Caporale",
+                "instructorName": "N. Caporale",
+                "firstName": "Natalia",
+                "instructorEmail": "ncaporale@ucdavis.edu",
+                "fullName": "Natalia Caporale"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Discussion and problem solving related to fundamental principles of systemic physiology as presented in NPB 101.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " NPB 101 { can be concurrent };  Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1120",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1000",
+                "building": "Maria Manetti Shrem Art Hall",
+                "description": "Discussion",
+                "buildingCode": "MMSART",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00204"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1.5,
+            "reservedSeating": false,
+            "shortDesc": "NPB 101D 005",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "005",
+            "printCRN": "48089",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Systemic Physiology Discussion",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "101D",
+            "hidCRN": "48089",
+            "crn": "48089",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "Caporale",
+                "instructorName": "N. Caporale",
+                "firstName": "Natalia",
+                "instructorEmail": "ncaporale@ucdavis.edu",
+                "fullName": "Natalia Caporale"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Discussion and problem solving related to fundamental principles of systemic physiology as presented in NPB 101.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " NPB 101 { can be concurrent };  Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1340",
+                "building": "Bainer Hall",
+                "description": "Discussion",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01132"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1.5,
+            "reservedSeating": false,
+            "shortDesc": "NPB 101D 006",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "006",
+            "printCRN": "48090",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Systemic Physiology Discussion",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "101D",
+            "hidCRN": "48090",
+            "crn": "48090",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "Caporale",
+                "instructorName": "N. Caporale",
+                "firstName": "Natalia",
+                "instructorEmail": "ncaporale@ucdavis.edu",
+                "fullName": "Natalia Caporale"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Discussion and problem solving related to fundamental principles of systemic physiology as presented in NPB 101.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " NPB 101 { can be concurrent };  Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1430",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1310",
+                "building": "Maria Manetti Shrem Art Hall",
+                "description": "Discussion",
+                "buildingCode": "MMSART",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00204"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1.5,
+            "reservedSeating": false,
+            "shortDesc": "NPB 101D 007",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "007",
+            "printCRN": "48091",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Systemic Physiology Discussion",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "101D",
+            "hidCRN": "48091",
+            "crn": "48091",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "Caporale",
+                "instructorName": "N. Caporale",
+                "firstName": "Natalia",
+                "instructorEmail": "ncaporale@ucdavis.edu",
+                "fullName": "Natalia Caporale"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Discussion and problem solving related to fundamental principles of systemic physiology as presented in NPB 101.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " NPB 101 { can be concurrent };  Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1250",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1130",
+                "building": "Maria Manetti Shrem Art Hall",
+                "description": "Discussion",
+                "buildingCode": "MMSART",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00204"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1.5,
+            "reservedSeating": false,
+            "shortDesc": "NPB 101D 008",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "008",
+            "printCRN": "48092",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Systemic Physiology Discussion",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "101D",
+            "hidCRN": "48092",
+            "crn": "48092",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "Caporale",
+                "instructorName": "N. Caporale",
+                "firstName": "Natalia",
+                "instructorEmail": "ncaporale@ucdavis.edu",
+                "fullName": "Natalia Caporale"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Discussion and problem solving related to fundamental principles of systemic physiology as presented in NPB 101.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " NPB 101 { can be concurrent };  Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0900",
+                "building": "Bainer Hall",
+                "description": "Discussion",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01132"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1.5,
+            "reservedSeating": false,
+            "shortDesc": "NPB 101D 009",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "009",
+            "printCRN": "48093",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Systemic Physiology Discussion",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "101D",
+            "hidCRN": "48093",
+            "crn": "48093",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "Caporale",
+                "instructorName": "N. Caporale",
+                "firstName": "Natalia",
+                "instructorEmail": "ncaporale@ucdavis.edu",
+                "fullName": "Natalia Caporale"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Selected experiments to illustrate functional characteristics of organ systems discussed in NPB 101.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " ANS 100 or NPB 101 or NPB 110C"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0900",
+                "building": "Katherine Esau Science Hall",
+                "description": "Discussion",
+                "buildingCode": "ESAU",
+                "saturday": false,
+                "type": "DIS",
+                "room": "02011"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0900",
+                "building": "Katherine Esau Science Hall",
+                "description": "Laboratory",
+                "buildingCode": "ESAU",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02021"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "NPB 101L 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "48094",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Systemic Physiology Laboratory",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "101L",
+            "hidCRN": "48094",
+            "crn": "48094",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "Bautista",
+                "instructorName": "E. Bautista",
+                "firstName": "Erwin",
+                "instructorEmail": "eabautista@ucdavis.edu",
+                "fullName": "Erwin Bautista"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Selected experiments to illustrate functional characteristics of organ systems discussed in NPB 101.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " ANS 100 or NPB 101 or NPB 110C"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1310",
+                "building": "Katherine Esau Science Hall",
+                "description": "Discussion",
+                "buildingCode": "ESAU",
+                "saturday": false,
+                "type": "DIS",
+                "room": "02011"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1310",
+                "building": "Katherine Esau Science Hall",
+                "description": "Laboratory",
+                "buildingCode": "ESAU",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02021"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "NPB 101L 002",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "002",
+            "printCRN": "48095",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Systemic Physiology Laboratory",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "101L",
+            "hidCRN": "48095",
+            "crn": "48095",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "Bautista",
+                "instructorName": "E. Bautista",
+                "firstName": "Erwin",
+                "instructorEmail": "eabautista@ucdavis.edu",
+                "fullName": "Erwin Bautista"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Selected experiments to illustrate functional characteristics of organ systems discussed in NPB 101.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " ANS 100 or NPB 101 or NPB 110C"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1900",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1710",
+                "building": "Katherine Esau Science Hall",
+                "description": "Discussion",
+                "buildingCode": "ESAU",
+                "saturday": false,
+                "type": "DIS",
+                "room": "02011"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2000",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1710",
+                "building": "Katherine Esau Science Hall",
+                "description": "Laboratory",
+                "buildingCode": "ESAU",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02021"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "NPB 101L 003",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "003",
+            "printCRN": "48096",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Systemic Physiology Laboratory",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "101L",
+            "hidCRN": "48096",
+            "crn": "48096",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "Bautista",
+                "instructorName": "E. Bautista",
+                "firstName": "Erwin",
+                "instructorEmail": "eabautista@ucdavis.edu",
+                "fullName": "Erwin Bautista"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Selected experiments to illustrate functional characteristics of organ systems discussed in NPB 101.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " ANS 100 or NPB 101 or NPB 110C"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0900",
+                "building": "Katherine Esau Science Hall",
+                "description": "Discussion",
+                "buildingCode": "ESAU",
+                "saturday": false,
+                "type": "DIS",
+                "room": "02011"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0900",
+                "building": "Katherine Esau Science Hall",
+                "description": "Laboratory",
+                "buildingCode": "ESAU",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02021"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "NPB 101L 004",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "004",
+            "printCRN": "48097",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Systemic Physiology Laboratory",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "101L",
+            "hidCRN": "48097",
+            "crn": "48097",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "Bautista",
+                "instructorName": "E. Bautista",
+                "firstName": "Erwin",
+                "instructorEmail": "eabautista@ucdavis.edu",
+                "fullName": "Erwin Bautista"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Selected experiments to illustrate functional characteristics of organ systems discussed in NPB 101.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " ANS 100 or NPB 101 or NPB 110C"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1310",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00129"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1310",
+                "building": "Katherine Esau Science Hall",
+                "description": "Laboratory",
+                "buildingCode": "ESAU",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02021"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "NPB 101L 005",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "005",
+            "printCRN": "48098",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Systemic Physiology Laboratory",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "101L",
+            "hidCRN": "48098",
+            "crn": "48098",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "Bautista",
+                "instructorName": "E. Bautista",
+                "firstName": "Erwin",
+                "instructorEmail": "eabautista@ucdavis.edu",
+                "fullName": "Erwin Bautista"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Selected experiments to illustrate functional characteristics of organ systems discussed in NPB 101.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " ANS 100 or NPB 101 or NPB 110C"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0900",
+                "building": "Katherine Esau Science Hall",
+                "description": "Laboratory",
+                "buildingCode": "ESAU",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02021"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0900",
+                "building": "Katherine Esau Science Hall",
+                "description": "Discussion",
+                "buildingCode": "ESAU",
+                "saturday": false,
+                "type": "DIS",
+                "room": "02011"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "NPB 101L 006",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "006",
+            "printCRN": "48099",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Systemic Physiology Laboratory",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "101L",
+            "hidCRN": "48099",
+            "crn": "48099",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "Bautista",
+                "instructorName": "E. Bautista",
+                "firstName": "Erwin",
+                "instructorEmail": "eabautista@ucdavis.edu",
+                "fullName": "Erwin Bautista"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Selected experiments to illustrate functional characteristics of organ systems discussed in NPB 101.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " ANS 100 or NPB 101 or NPB 110C"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1310",
+                "building": "Katherine Esau Science Hall",
+                "description": "Laboratory",
+                "buildingCode": "ESAU",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02021"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1310",
+                "building": "Katherine Esau Science Hall",
+                "description": "Discussion",
+                "buildingCode": "ESAU",
+                "saturday": false,
+                "type": "DIS",
+                "room": "02011"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "NPB 101L 007",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "007",
+            "printCRN": "48100",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Systemic Physiology Laboratory",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "101L",
+            "hidCRN": "48100",
+            "crn": "48100",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "Bautista",
+                "instructorName": "E. Bautista",
+                "firstName": "Erwin",
+                "instructorEmail": "eabautista@ucdavis.edu",
+                "fullName": "Erwin Bautista"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Selected experiments to illustrate functional characteristics of organ systems discussed in NPB 101.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " ANS 100 or NPB 101 or NPB 110C"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0900",
+                "building": "Katherine Esau Science Hall",
+                "description": "Laboratory",
+                "buildingCode": "ESAU",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02021"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0900",
+                "building": "Katherine Esau Science Hall",
+                "description": "Discussion",
+                "buildingCode": "ESAU",
+                "saturday": false,
+                "type": "DIS",
+                "room": "02011"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "NPB 101L 008",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "008",
+            "printCRN": "48101",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Systemic Physiology Laboratory",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "101L",
+            "hidCRN": "48101",
+            "crn": "48101",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "Bautista",
+                "instructorName": "E. Bautista",
+                "firstName": "Erwin",
+                "instructorEmail": "eabautista@ucdavis.edu",
+                "fullName": "Erwin Bautista"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Selected experiments to illustrate functional characteristics of organ systems discussed in NPB 101.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " ANS 100 or NPB 101 or NPB 110C"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2000",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1710",
+                "building": "Katherine Esau Science Hall",
+                "description": "Laboratory",
+                "buildingCode": "ESAU",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02021"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1900",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1710",
+                "building": "Katherine Esau Science Hall",
+                "description": "Discussion",
+                "buildingCode": "ESAU",
+                "saturday": false,
+                "type": "DIS",
+                "room": "02011"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "NPB 101L 012",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "012",
+            "printCRN": "48105",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Systemic Physiology Laboratory",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "101L",
+            "hidCRN": "48105",
+            "crn": "48105",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "Bautista",
+                "instructorName": "E. Bautista",
+                "firstName": "Erwin",
+                "instructorEmail": "eabautista@ucdavis.edu",
+                "fullName": "Erwin Bautista"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Basic principles of behavioral organization in vertebrate and invertebrate animals. Underlying physiological and ethological mechanisms. The evolution of behavior, with special emphasis on behavior under natural conditions.",
+            "creditLimit": "Not open for credit to students who have completed NPB 155. (Former NPB 155.)",
+            "ge3": "SL",
+            "crossListing": "",
+            "prereq": " (BIS 001A,  BIS 001B,  BIS 001C) or (BIS 002A,  BIS 002B,  BIS 002C)"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Social Science & Humanities",
+                "description": "Lecture",
+                "buildingCode": "SOCSCI",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01100"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "NPB 102 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "48106",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Animal Behavior",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "102",
+            "hidCRN": "48106",
+            "crn": "48106",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "Calisi",
+                "instructorName": "R. Calisi",
+                "firstName": "Rebecca",
+                "instructorEmail": "rmcalisi@ucdavis.edu",
+                "fullName": "Rebecca Calisi"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Major concepts in cell biology with special emphasis on connections between cell biology and behavior. Includes: cellular metabolism, cellular sensing and signaling, membrane structure-function, molecular switches, electrical and chemical signaling, endocrine signaling, cell cycle and differentiation, cytoskeleton, and integrative examples.",
+            "creditLimit": "Credit limited to 3 units for students who have taken BIS 104.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " (BIS 002A,  BIS 002B);  (CHE 002B or CHE 003A);  PHY 007A and PHY 007B recommended; BIS 002C recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0900",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00163"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1310",
+                "building": "Shields Library",
+                "description": "Lecture",
+                "buildingCode": "SHLDS",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00167"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "NPB 110A A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "48108",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Foundations 1: From Molecules to Individuals ",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "110A",
+            "hidCRN": "48108",
+            "crn": "48108",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "Bautista",
+                "instructorName": "E. Bautista",
+                "firstName": "Erwin",
+                "instructorEmail": "eabautista@ucdavis.edu",
+                "fullName": "Erwin Bautista"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Major concepts in cell biology with special emphasis on connections between cell biology and behavior. Includes: cellular metabolism, cellular sensing and signaling, membrane structure-function, molecular switches, electrical and chemical signaling, endocrine signaling, cell cycle and differentiation, cytoskeleton, and integrative examples.",
+            "creditLimit": "Credit limited to 3 units for students who have taken BIS 104.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " (BIS 002A,  BIS 002B);  (CHE 002B or CHE 003A);  PHY 007A and PHY 007B recommended; BIS 002C recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1000",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00163"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1310",
+                "building": "Shields Library",
+                "description": "Lecture",
+                "buildingCode": "SHLDS",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00167"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "NPB 110A A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "48109",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Foundations 1: From Molecules to Individuals ",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "110A",
+            "hidCRN": "48109",
+            "crn": "48109",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "Bautista",
+                "instructorName": "E. Bautista",
+                "firstName": "Erwin",
+                "instructorEmail": "eabautista@ucdavis.edu",
+                "fullName": "Erwin Bautista"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Major concepts in cell biology with special emphasis on connections between cell biology and behavior. Includes: cellular metabolism, cellular sensing and signaling, membrane structure-function, molecular switches, electrical and chemical signaling, endocrine signaling, cell cycle and differentiation, cytoskeleton, and integrative examples.",
+            "creditLimit": "Credit limited to 3 units for students who have taken BIS 104.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " (BIS 002A,  BIS 002B);  (CHE 002B or CHE 003A);  PHY 007A and PHY 007B recommended; BIS 002C recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1100",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00163"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1310",
+                "building": "Shields Library",
+                "description": "Lecture",
+                "buildingCode": "SHLDS",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00167"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "NPB 110A A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "48110",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Foundations 1: From Molecules to Individuals ",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "110A",
+            "hidCRN": "48110",
+            "crn": "48110",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "Bautista",
+                "instructorName": "E. Bautista",
+                "firstName": "Erwin",
+                "instructorEmail": "eabautista@ucdavis.edu",
+                "fullName": "Erwin Bautista"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Core concepts of neurobiology including single-neuron biophysics, synapses and transmitters, neuronal development, motor systems, central pattern generation, neuronal circuits, intracellular signal transduction, sensory processing, multisensory integration, autonomic nervous system, neuromodulation, learning and memory, and higher cognition and disease.",
+            "creditLimit": "Credit limited to 2 units for students who have taken NPB 100.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " NPB 110A C- or better;  PHY 007A and PHY 007B recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1000",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00105"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Storer Hall",
+                "description": "Lecture",
+                "buildingCode": "STORER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01322"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "NPB 110B A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "48111",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Foundations 2: Neurobiology ",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "110B",
+            "hidCRN": "48111",
+            "crn": "48111",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "Sutter",
+                "instructorName": "M. Sutter",
+                "firstName": "Mitchell",
+                "instructorEmail": "mlsutter@ucdavis.edu",
+                "fullName": "Mitchell Sutter"
+            },
+            {
+                "lastName": "Chen",
+                "instructorName": "X. Chen",
+                "firstName": "Xiaomo",
+                "instructorEmail": "xmch@ucdavis.edu",
+                "fullName": "Xiaomo Chen"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Core concepts of neurobiology including single-neuron biophysics, synapses and transmitters, neuronal development, motor systems, central pattern generation, neuronal circuits, intracellular signal transduction, sensory processing, multisensory integration, autonomic nervous system, neuromodulation, learning and memory, and higher cognition and disease.",
+            "creditLimit": "Credit limited to 2 units for students who have taken NPB 100.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " NPB 110A C- or better;  PHY 007A and PHY 007B recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1100",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00105"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Storer Hall",
+                "description": "Lecture",
+                "buildingCode": "STORER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01322"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "NPB 110B A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "48112",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Foundations 2: Neurobiology ",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "110B",
+            "hidCRN": "48112",
+            "crn": "48112",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "Sutter",
+                "instructorName": "M. Sutter",
+                "firstName": "Mitchell",
+                "instructorEmail": "mlsutter@ucdavis.edu",
+                "fullName": "Mitchell Sutter"
+            },
+            {
+                "lastName": "Chen",
+                "instructorName": "X. Chen",
+                "firstName": "Xiaomo",
+                "instructorEmail": "xmch@ucdavis.edu",
+                "fullName": "Xiaomo Chen"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Core concepts of neurobiology including single-neuron biophysics, synapses and transmitters, neuronal development, motor systems, central pattern generation, neuronal circuits, intracellular signal transduction, sensory processing, multisensory integration, autonomic nervous system, neuromodulation, learning and memory, and higher cognition and disease.",
+            "creditLimit": "Credit limited to 2 units for students who have taken NPB 100.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " NPB 110A C- or better;  PHY 007A and PHY 007B recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1210",
+                "building": "Storer Hall",
+                "description": "Discussion",
+                "buildingCode": "STORER",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01342"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Storer Hall",
+                "description": "Lecture",
+                "buildingCode": "STORER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01322"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "NPB 110B A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "48113",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Foundations 2: Neurobiology ",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "110B",
+            "hidCRN": "48113",
+            "crn": "48113",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "Sutter",
+                "instructorName": "M. Sutter",
+                "firstName": "Mitchell",
+                "instructorEmail": "mlsutter@ucdavis.edu",
+                "fullName": "Mitchell Sutter"
+            },
+            {
+                "lastName": "Chen",
+                "instructorName": "X. Chen",
+                "firstName": "Xiaomo",
+                "instructorEmail": "xmch@ucdavis.edu",
+                "fullName": "Xiaomo Chen"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Core concepts of neurobiology including single-neuron biophysics, synapses and transmitters, neuronal development, motor systems, central pattern generation, neuronal circuits, intracellular signal transduction, sensory processing, multisensory integration, autonomic nervous system, neuromodulation, learning and memory, and higher cognition and disease.",
+            "creditLimit": "Credit limited to 2 units for students who have taken NPB 100.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " NPB 110A C- or better;  PHY 007A and PHY 007B recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1310",
+                "building": "Storer Hall",
+                "description": "Discussion",
+                "buildingCode": "STORER",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01342"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Storer Hall",
+                "description": "Lecture",
+                "buildingCode": "STORER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01322"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "NPB 110B A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "48114",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Foundations 2: Neurobiology ",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "110B",
+            "hidCRN": "48114",
+            "crn": "48114",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "Sutter",
+                "instructorName": "M. Sutter",
+                "firstName": "Mitchell",
+                "instructorEmail": "mlsutter@ucdavis.edu",
+                "fullName": "Mitchell Sutter"
+            },
+            {
+                "lastName": "Chen",
+                "instructorName": "X. Chen",
+                "firstName": "Xiaomo",
+                "instructorEmail": "xmch@ucdavis.edu",
+                "fullName": "Xiaomo Chen"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Core concepts of neurobiology including single-neuron biophysics, synapses and transmitters, neuronal development, motor systems, central pattern generation, neuronal circuits, intracellular signal transduction, sensory processing, multisensory integration, autonomic nervous system, neuromodulation, learning and memory, and higher cognition and disease.",
+            "creditLimit": "Credit limited to 2 units for students who have taken NPB 100.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " NPB 110A C- or better;  PHY 007A and PHY 007B recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1410",
+                "building": "Storer Hall",
+                "description": "Discussion",
+                "buildingCode": "STORER",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01342"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Storer Hall",
+                "description": "Lecture",
+                "buildingCode": "STORER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01322"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "NPB 110B A05",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A05",
+            "printCRN": "48115",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Foundations 2: Neurobiology ",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "110B",
+            "hidCRN": "48115",
+            "crn": "48115",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "Sutter",
+                "instructorName": "M. Sutter",
+                "firstName": "Mitchell",
+                "instructorEmail": "mlsutter@ucdavis.edu",
+                "fullName": "Mitchell Sutter"
+            },
+            {
+                "lastName": "Chen",
+                "instructorName": "X. Chen",
+                "firstName": "Xiaomo",
+                "instructorEmail": "xmch@ucdavis.edu",
+                "fullName": "Xiaomo Chen"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Focuses on the structure, function, and interactions of human and other animal organ systems in homeostasis and reproduction, and the response to perturbations of homeostasis; neural and endocrine signaling; skeletal muscle and movement; cardiovascular and respiratory systems; renal, digestive, immune, and reproductive physiology.",
+            "creditLimit": "Only 2 units for students who have taken NPB 101.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " NPB 110A C- or better;  PHY 007A;  PHY 007B and PHY 007C recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1000",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00125"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MTWR",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Peter A Rock Hall",
+                "description": "Lecture",
+                "buildingCode": "ROCK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00194"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "NPB 110C A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "48116",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Foundations 3: Physiology ",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "110C",
+            "hidCRN": "48116",
+            "crn": "48116",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "Tripp",
+                "instructorName": "B. Tripp",
+                "firstName": "Brie",
+                "instructorEmail": "btripp@ucdavis.edu",
+                "fullName": "Brie Tripp"
+            },
+            {
+                "lastName": "Usrey",
+                "instructorName": "W. Usrey",
+                "firstName": "W Martin",
+                "instructorEmail": "wmusrey@ucdavis.edu",
+                "fullName": "W Martin Usrey"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Focuses on the structure, function, and interactions of human and other animal organ systems in homeostasis and reproduction, and the response to perturbations of homeostasis; neural and endocrine signaling; skeletal muscle and movement; cardiovascular and respiratory systems; renal, digestive, immune, and reproductive physiology.",
+            "creditLimit": "Only 2 units for students who have taken NPB 101.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " NPB 110A C- or better;  PHY 007A;  PHY 007B and PHY 007C recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1410",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00227"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MTWR",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Peter A Rock Hall",
+                "description": "Lecture",
+                "buildingCode": "ROCK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00194"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "NPB 110C A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "48117",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Foundations 3: Physiology ",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "110C",
+            "hidCRN": "48117",
+            "crn": "48117",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "Tripp",
+                "instructorName": "B. Tripp",
+                "firstName": "Brie",
+                "instructorEmail": "btripp@ucdavis.edu",
+                "fullName": "Brie Tripp"
+            },
+            {
+                "lastName": "Usrey",
+                "instructorName": "W. Usrey",
+                "firstName": "W Martin",
+                "instructorEmail": "wmusrey@ucdavis.edu",
+                "fullName": "W Martin Usrey"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Focuses on the structure, function, and interactions of human and other animal organ systems in homeostasis and reproduction, and the response to perturbations of homeostasis; neural and endocrine signaling; skeletal muscle and movement; cardiovascular and respiratory systems; renal, digestive, immune, and reproductive physiology.",
+            "creditLimit": "Only 2 units for students who have taken NPB 101.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " NPB 110A C- or better;  PHY 007A;  PHY 007B and PHY 007C recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1310",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00227"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MTWR",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Peter A Rock Hall",
+                "description": "Lecture",
+                "buildingCode": "ROCK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00194"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "NPB 110C A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "48118",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Foundations 3: Physiology ",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "110C",
+            "hidCRN": "48118",
+            "crn": "48118",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "Tripp",
+                "instructorName": "B. Tripp",
+                "firstName": "Brie",
+                "instructorEmail": "btripp@ucdavis.edu",
+                "fullName": "Brie Tripp"
+            },
+            {
+                "lastName": "Usrey",
+                "instructorName": "W. Usrey",
+                "firstName": "W Martin",
+                "instructorEmail": "wmusrey@ucdavis.edu",
+                "fullName": "W Martin Usrey"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Focuses on the structure, function, and interactions of human and other animal organ systems in homeostasis and reproduction, and the response to perturbations of homeostasis; neural and endocrine signaling; skeletal muscle and movement; cardiovascular and respiratory systems; renal, digestive, immune, and reproductive physiology.",
+            "creditLimit": "Only 2 units for students who have taken NPB 101.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " NPB 110A C- or better;  PHY 007A;  PHY 007B and PHY 007C recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1100",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00125"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MTWR",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Peter A Rock Hall",
+                "description": "Lecture",
+                "buildingCode": "ROCK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00194"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "NPB 110C A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "48119",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Foundations 3: Physiology ",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "110C",
+            "hidCRN": "48119",
+            "crn": "48119",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "Tripp",
+                "instructorName": "B. Tripp",
+                "firstName": "Brie",
+                "instructorEmail": "btripp@ucdavis.edu",
+                "fullName": "Brie Tripp"
+            },
+            {
+                "lastName": "Usrey",
+                "instructorName": "W. Usrey",
+                "firstName": "W Martin",
+                "instructorEmail": "wmusrey@ucdavis.edu",
+                "fullName": "W Martin Usrey"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Focuses on the structure, function, and interactions of human and other animal organ systems in homeostasis and reproduction, and the response to perturbations of homeostasis; neural and endocrine signaling; skeletal muscle and movement; cardiovascular and respiratory systems; renal, digestive, immune, and reproductive physiology.",
+            "creditLimit": "Only 2 units for students who have taken NPB 101.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " NPB 110A C- or better;  PHY 007A;  PHY 007B and PHY 007C recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1210",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00227"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MTWR",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Peter A Rock Hall",
+                "description": "Lecture",
+                "buildingCode": "ROCK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00194"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "NPB 110C A05",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A05",
+            "printCRN": "48120",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Foundations 3: Physiology ",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "110C",
+            "hidCRN": "48120",
+            "crn": "48120",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "Tripp",
+                "instructorName": "B. Tripp",
+                "firstName": "Brie",
+                "instructorEmail": "btripp@ucdavis.edu",
+                "fullName": "Brie Tripp"
+            },
+            {
+                "lastName": "Usrey",
+                "instructorName": "W. Usrey",
+                "firstName": "W Martin",
+                "instructorEmail": "wmusrey@ucdavis.edu",
+                "fullName": "W Martin Usrey"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Focuses on the structure, function, and interactions of human and other animal organ systems in homeostasis and reproduction, and the response to perturbations of homeostasis; neural and endocrine signaling; skeletal muscle and movement; cardiovascular and respiratory systems; renal, digestive, immune, and reproductive physiology.",
+            "creditLimit": "Only 2 units for students who have taken NPB 101.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " NPB 110A C- or better;  PHY 007A;  PHY 007B and PHY 007C recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1610",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00027"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MTWR",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Peter A Rock Hall",
+                "description": "Lecture",
+                "buildingCode": "ROCK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00194"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "NPB 110C A06",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A06",
+            "printCRN": "48121",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Foundations 3: Physiology ",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "110C",
+            "hidCRN": "48121",
+            "crn": "48121",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "Tripp",
+                "instructorName": "B. Tripp",
+                "firstName": "Brie",
+                "instructorEmail": "btripp@ucdavis.edu",
+                "fullName": "Brie Tripp"
+            },
+            {
+                "lastName": "Usrey",
+                "instructorName": "W. Usrey",
+                "firstName": "W Martin",
+                "instructorEmail": "wmusrey@ucdavis.edu",
+                "fullName": "W Martin Usrey"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Focuses on the structure, function, and interactions of human and other animal organ systems in homeostasis and reproduction, and the response to perturbations of homeostasis; neural and endocrine signaling; skeletal muscle and movement; cardiovascular and respiratory systems; renal, digestive, immune, and reproductive physiology.",
+            "creditLimit": "Only 2 units for students who have taken NPB 101.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " NPB 110A C- or better;  PHY 007A;  PHY 007B and PHY 007C recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1100",
+                "building": "Wickson Hall",
+                "description": "Discussion",
+                "buildingCode": "WICKSN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01020"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MTWR",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Peter A Rock Hall",
+                "description": "Lecture",
+                "buildingCode": "ROCK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00194"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "NPB 110C A07",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A07",
+            "printCRN": "48122",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Foundations 3: Physiology ",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "110C",
+            "hidCRN": "48122",
+            "crn": "48122",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "Tripp",
+                "instructorName": "B. Tripp",
+                "firstName": "Brie",
+                "instructorEmail": "btripp@ucdavis.edu",
+                "fullName": "Brie Tripp"
+            },
+            {
+                "lastName": "Usrey",
+                "instructorName": "W. Usrey",
+                "firstName": "W Martin",
+                "instructorEmail": "wmusrey@ucdavis.edu",
+                "fullName": "W Martin Usrey"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Focuses on the structure, function, and interactions of human and other animal organ systems in homeostasis and reproduction, and the response to perturbations of homeostasis; neural and endocrine signaling; skeletal muscle and movement; cardiovascular and respiratory systems; renal, digestive, immune, and reproductive physiology.",
+            "creditLimit": "Only 2 units for students who have taken NPB 101.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " NPB 110A C- or better;  PHY 007A;  PHY 007B and PHY 007C recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0900",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00227"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MTWR",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Peter A Rock Hall",
+                "description": "Lecture",
+                "buildingCode": "ROCK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00194"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "NPB 110C A08",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A08",
+            "printCRN": "48123",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Foundations 3: Physiology ",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "110C",
+            "hidCRN": "48123",
+            "crn": "48123",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "Tripp",
+                "instructorName": "B. Tripp",
+                "firstName": "Brie",
+                "instructorEmail": "btripp@ucdavis.edu",
+                "fullName": "Brie Tripp"
+            },
+            {
+                "lastName": "Usrey",
+                "instructorName": "W. Usrey",
+                "firstName": "W Martin",
+                "instructorEmail": "wmusrey@ucdavis.edu",
+                "fullName": "W Martin Usrey"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Comparison of the neurobiology and physiology of mental health to the pathophysiology of mental illness. Causative factors of mental illness (e.g., genetic, social, environmental) through a neurobiology and pathophysiology lens (e.g., neurotransmission, neuroimmunology, nervous system malfunction).",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " NPB 100 C- or better or NPB 110B C- or better;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1340",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01007"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "NPB 143 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "48127",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Neurobiology & Pathophysiology of Mental Illness",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "143",
+            "hidCRN": "48127",
+            "crn": "48127",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "Tripp",
+                "instructorName": "B. Tripp",
+                "firstName": "Brie",
+                "instructorEmail": "btripp@ucdavis.edu",
+                "fullName": "Brie Tripp"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Normal regulation of blood glucose contrasted with dysfunction in diabetes. Types of diabetes, physiological consequences of diabetes, as well as current and future medications and treatments. ",
+            "creditLimit": "",
+            "ge3": "SE,SL,VL",
+            "crossListing": "",
+            "prereq": " NPB 110C or NPB 101"
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01006"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1100",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01006"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "NPB 154 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "48128",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Diabetes: Physiology & Management",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "154",
+            "hidCRN": "48128",
+            "crn": "48128",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "Van Der Meulen",
+                "instructorName": "T. Van Der Meulen",
+                "firstName": "Talitha",
+                "instructorEmail": "tvandermeulen@ucdavis.edu",
+                "fullName": "Talitha Van Der Meulen"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Concepts and techniques in systems neuroscience: e.g., measuring and manipulating neural activity, structure of neocortex, sensory processing, motor control, storage of information, neural codes, neural mechanisms underlying cognitive functions.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " NPB 100 or NPB 110B;  Or equivalent basic neuroscience training with consent of instructor."
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1530",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00202"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "1540",
+                "building": "Wellman Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LED",
+                "room": "00202"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "NPB 163 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "48130",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Systems Neuroscience",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "163",
+            "hidCRN": "48130",
+            "crn": "48130",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "Ditterich",
+                "instructorName": "J. Ditterich",
+                "firstName": "Jochen",
+                "instructorEmail": "jditterich@ucdavis.edu",
+                "fullName": "Jochen Ditterich"
+            },
+            {
+                "lastName": "Chen",
+                "instructorName": "X. Chen",
+                "firstName": "Xiaomo",
+                "instructorEmail": "xmch@ucdavis.edu",
+                "fullName": "Xiaomo Chen"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Interdisciplinary approach to speech perception with emphasis on functional neuroanatomy and behavior. Topics include auditory processing in time and space, intelligibility in noisy environments, visual speech, evolution of vocal communication, models of speech perception, development, and hearing impairment.",
+            "creditLimit": "",
+            "ge3": "SL",
+            "crossListing": "",
+            "prereq": " NPB 110B or NPB 100 or NPB 101;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1340",
+                "building": "Cruess Hall",
+                "description": "Lecture",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00107"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "NPB 165 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55666",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Neurobiology of Speech Perception",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "165",
+            "hidCRN": "55666",
+            "crn": "55666",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "Miller",
+                "instructorName": "L. Miller",
+                "firstName": "Lee",
+                "instructorEmail": "leemiller@ucdavis.edu",
+                "fullName": "Lee Miller"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Examination of brain disorders from a basic science perspective to gain insights into the mechanisms of their action. Genetic, molecular, cellular, circuit, and environmental basis of a variety of brain disorders. How insights about underlying mechanisms may lead to the development of improved therapies.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " NPB 110B or NPB 100;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01020"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "NPB 173 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "48131",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Neurobiology of Brain Disorders",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "173",
+            "hidCRN": "48131",
+            "crn": "48131",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "Hanks",
+                "instructorName": "T. Hanks",
+                "firstName": "Timothy",
+                "instructorEmail": "thanks@ucdavis.edu",
+                "fullName": "Timothy Hanks"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Research findings and methods in neurobiology, physiology, and/or behavior. Presentation and discussion of research by faculty and students.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " NPB 199 { can be concurrent };  and Consent of Instructor.  Upper division standing in Neurobiology, Physiology, and Behavior or related biological science; NPB 199 required concurrently. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "",
+                "building": "",
+                "description": "Discussion",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "DIS",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "NPB 190C",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research Conference",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "190C",
+            "hidCRN": "0946C7CDEC",
+            "crn": "48132",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Research findings and methods in neurobiology, physiology, and/or behavior. Presentation and discussion of research by faculty and students.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " NPB 199 { can be concurrent };  and Consent of Instructor.  Upper division standing in Neurobiology, Physiology, and Behavior or related biological science; NPB 199 required concurrently. "
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1210",
+                "building": "Facility Assigned by Instr.",
+                "description": "Discussion",
+                "buildingCode": "NOFAC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "NPB 190C 010",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "010",
+            "printCRN": "48143",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research Conference",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "190C",
+            "hidCRN": "48143",
+            "crn": "48143",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "Combes",
+                "instructorName": "S. Combes",
+                "firstName": "Stacey",
+                "instructorEmail": "sacombes@ucdavis.edu",
+                "fullName": "Stacey Combes"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Work experience off and on campus in all subject areas offered in neurobiology, physiology, & behavior.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Completion of 84 units. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "I",
+                "startTime": "",
+                "building": "",
+                "description": "Internship",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "INT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "NPB 192",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Internship",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "192",
+            "hidCRN": "0946C7CBE6",
+            "crn": "48158",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Honors project in Neurobiology, Physiology, and Behavior. Laboratory research on a specific question. Project is developed with the sponsoring faculty member and approved by the student\u2019s Honors Thesis Committee. Honors thesis to be submitted upon completion of the project.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Senior standing; minimum 3.500 GPA in courses counted toward major; approval by the master advisor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "",
+                "building": "",
+                "description": "Laboratory",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LAB",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "NPB 194HA",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Neurobiology, Physiology, & Behavior: Honors",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "194HA",
+            "hidCRN": "0946C7C8E9",
+            "crn": "48167",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Honors project in Neurobiology, Physiology, and Behavior. Laboratory research on a specific question. Project is developed with the sponsoring faculty member and approved by the student\u2019s Honors Thesis Committee. Honors thesis to be submitted upon completion of the project.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Senior standing; minimum 3.500 GPA in courses counted toward major; approval by the master advisor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "",
+                "building": "",
+                "description": "Laboratory",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LAB",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "NPB 194HB",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Neurobiology, Physiology & Behavior: Honors",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "194HB",
+            "hidCRN": "0946C7C9EE",
+            "crn": "48170",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Honors project in Neurobiology, Physiology, and Behavior. Laboratory research on a specific question. Project is developed with the sponsoring faculty member and approved by the student\u2019s Honors Thesis Committee. Honors thesis to be submitted upon completion of the project.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Senior standing; minimum 3.500 GPA in courses counted toward major; approval by the master advisor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "",
+                "building": "",
+                "description": "Laboratory",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LAB",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "NPB 194HB 003",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "003",
+            "printCRN": "56210",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Neurobiology, Physiology & Behavior: Honors",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "194HB",
+            "hidCRN": "56210",
+            "crn": "56210",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "Van Der Meulen",
+                "instructorName": "T. Van Der Meulen",
+                "firstName": "Talitha",
+                "instructorEmail": "tvandermeulen@ucdavis.edu",
+                "fullName": "Talitha Van Der Meulen"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Honors project in Neurobiology, Physiology, and Behavior. Laboratory research on a specific question. Project is developed with the sponsoring faculty member and approved by the student\u2019s Honors Thesis Committee. Honors thesis to be submitted upon completion of the project.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Senior standing; minimum 3.500 GPA in courses counted toward major; approval by the master advisor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "",
+                "building": "",
+                "description": "Laboratory",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LAB",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "NPB 194HC",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Neurobiology, Physiology, & Behavior: Honors",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "194HC",
+            "hidCRN": "0946C7C9ED",
+            "crn": "48173",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Assisting the instructor by tutoring students in one of the Department's regular courses.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Upper division standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "T",
+                "startTime": "",
+                "building": "",
+                "description": "Tutorial",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "TUT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "NPB 197T",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Tutoring in Neurobiology, Physiology, & Behavior",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "197T",
+            "hidCRN": "0946C7C9E6",
+            "crn": "48178",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed group study.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "NPB 198",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "198",
+            "hidCRN": "0946C7C6E8",
+            "crn": "48186",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special study for advanced undergraduates.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "NPB 199",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Study for Advanced Undergraduates",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "199",
+            "hidCRN": "0946C7C7EF",
+            "crn": "48191",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Critical presentation and discussion of the most influential advanced issues in neuroimaging, emphasizing fMRI design/analysis and the integration of fMRI with EEG/MEG.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "NSC 211, PSC 211.",
+            "prereq": " PSC 210;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "",
+                "building": "Off Campus",
+                "description": "Laboratory",
+                "buildingCode": "OFFCAM",
+                "saturday": false,
+                "type": "LAB",
+                "room": ""
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "E",
+                "startTime": "",
+                "building": "Off Campus",
+                "description": "Seminar",
+                "buildingCode": "OFFCAM",
+                "saturday": false,
+                "type": "SEM",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "NPB 211 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "48224",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Advanced Topics in Neuroimaging",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "211",
+            "hidCRN": "48224",
+            "crn": "48224",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "Miller",
+                "instructorName": "L. Miller",
+                "firstName": "Lee",
+                "instructorEmail": "leemiller@ucdavis.edu",
+                "fullName": "Lee Miller"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Neurological disorders, the effect of these disorders on learning, memory and plasticity, approved therapeutic options and current research designed to improve understanding and treatment of these diseases: (i) the clinical presentation, diagnostic criteria, and existing therapies, (ii) mechanistic studies in humans and animal models, and (iii) molecular pathways involved in the disease and approaches for drug discovery. ",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "PSC 271C, NSC 271C.",
+            "prereq": " NPB 271B or NSC 271B or PSC 271B"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1530",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1410",
+                "building": "Neurosciences Building",
+                "description": "Lecture/Discussion",
+                "buildingCode": "NEUBLG",
+                "saturday": false,
+                "type": "LED",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "NPB 271C 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "48226",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Translational Approaches to Learning, Memory, & Plasticity Disorders",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "271C",
+            "hidCRN": "48226",
+            "crn": "48226",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "Gurkoff",
+                "instructorName": "G. Gurkoff",
+                "firstName": "Gene",
+                "instructorEmail": "gggurkoff@ucdavis.edu",
+                "fullName": "Gene Gurkoff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Literature in visual Neuroscience.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "NSC 285.",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "E",
+                "startTime": "",
+                "building": "",
+                "description": "Seminar",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "SEM",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "NPB 285 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "48227",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Literature in Visual Neuroscience",
+            "subjectDesc": "Neurobiology,Physio & Behavior",
+            "courseNum": "285",
+            "hidCRN": "48227",
+            "crn": "48227",
+            "subjectCode": "NPB"
+        },
+        "instructor": [
+            {
+                "lastName": "",
+                "instructorName": ". ",
+                "firstName": "",
+                "instructorEmail": "",
+                "fullName": " "
+            }
+        ]
+    }
+]

@@ -1,0 +1,3144 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Primarily for lower division students.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "MIC 098",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study",
+            "subjectDesc": "Microbiology",
+            "courseNum": "098",
+            "hidCRN": "0949C7CCED",
+            "crn": "47123",
+            "subjectCode": "MIC"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special study for undergraduates.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "MIC 099",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Study for Undergraduates",
+            "subjectDesc": "Microbiology",
+            "courseNum": "099",
+            "hidCRN": "0949C7CDE7",
+            "crn": "47139",
+            "subjectCode": "MIC"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Essentials of microbial biology, emphasizing phylogeny, physiology, genetics, ecology, and pathogenesis. Interactions with other microbes, humans, and the biosphere. Uses of microbes in agriculture and biotechnology. May be taught abroad.",
+            "creditLimit": "Not open for credit to students who have completed MIC 101 or MIC 104.",
+            "ge3": "QL,SE,SL",
+            "crossListing": "",
+            "prereq": " (BIS 001A or BIS 002A);  CHE 002B { can be concurrent }"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1340",
+                "building": "Social Science & Humanities",
+                "description": "Lecture",
+                "buildingCode": "SOCSCI",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01100"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "MIC 102 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "47157",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introductory Microbiology",
+            "subjectDesc": "Microbiology",
+            "courseNum": "102",
+            "hidCRN": "47157",
+            "crn": "47157",
+            "subjectCode": "MIC"
+        },
+        "instructor": [
+            {
+                "lastName": "Markum",
+                "instructorName": "M. Markum",
+                "firstName": "Miriam",
+                "instructorEmail": "memarkum@ucdavis.edu",
+                "fullName": "Miriam Markum"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Essentials of microbial biology, emphasizing phylogeny, physiology, genetics, ecology, and pathogenesis. Interactions with other microbes, humans, and the biosphere. Uses of microbes in agriculture and biotechnology. May be taught abroad.",
+            "creditLimit": "Not open for credit to students who have completed MIC 101 or MIC 104.",
+            "ge3": "QL,SE,SL",
+            "crossListing": "",
+            "prereq": " (BIS 001A or BIS 002A);  CHE 002B { can be concurrent }"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1640",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00198"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "MIC 102 002",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "002",
+            "printCRN": "47158",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introductory Microbiology",
+            "subjectDesc": "Microbiology",
+            "courseNum": "102",
+            "hidCRN": "47158",
+            "crn": "47158",
+            "subjectCode": "MIC"
+        },
+        "instructor": [
+            {
+                "lastName": "Markum",
+                "instructorName": "M. Markum",
+                "firstName": "Miriam",
+                "instructorEmail": "memarkum@ucdavis.edu",
+                "fullName": "Miriam Markum"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to principles and laboratory methods employed in working with microorganisms. Designed for students requiring microbiology for professional school admission. May be taught abroad.",
+            "creditLimit": "Not open to students who completed MIC 101 before spring 2016, or who have completed MIC 102L or MIC 104L.",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " MIC 102 C- or better;  CHE 002B"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00198"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0900",
+                "building": "Katherine Esau Science Hall",
+                "description": "Laboratory",
+                "buildingCode": "ESAU",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02079"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "MIC 103L A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "47159",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introductory Microbiology Laboratory",
+            "subjectDesc": "Microbiology",
+            "courseNum": "103L",
+            "hidCRN": "47159",
+            "crn": "47159",
+            "subjectCode": "MIC"
+        },
+        "instructor": [
+            {
+                "lastName": "Mann",
+                "instructorName": "E. Mann",
+                "firstName": "Eric",
+                "instructorEmail": "erimann@ucdavis.edu",
+                "fullName": "Eric Mann"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to principles and laboratory methods employed in working with microorganisms. Designed for students requiring microbiology for professional school admission. May be taught abroad.",
+            "creditLimit": "Not open to students who completed MIC 101 before spring 2016, or who have completed MIC 102L or MIC 104L.",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " MIC 102 C- or better;  CHE 002B"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00198"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0900",
+                "building": "Katherine Esau Science Hall",
+                "description": "Laboratory",
+                "buildingCode": "ESAU",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02087"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "MIC 103L A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "47160",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introductory Microbiology Laboratory",
+            "subjectDesc": "Microbiology",
+            "courseNum": "103L",
+            "hidCRN": "47160",
+            "crn": "47160",
+            "subjectCode": "MIC"
+        },
+        "instructor": [
+            {
+                "lastName": "Mann",
+                "instructorName": "E. Mann",
+                "firstName": "Eric",
+                "instructorEmail": "erimann@ucdavis.edu",
+                "fullName": "Eric Mann"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to principles and laboratory methods employed in working with microorganisms. Designed for students requiring microbiology for professional school admission. May be taught abroad.",
+            "creditLimit": "Not open to students who completed MIC 101 before spring 2016, or who have completed MIC 102L or MIC 104L.",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " MIC 102 C- or better;  CHE 002B"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00198"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1310",
+                "building": "Katherine Esau Science Hall",
+                "description": "Laboratory",
+                "buildingCode": "ESAU",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02079"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "MIC 103L A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "47161",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introductory Microbiology Laboratory",
+            "subjectDesc": "Microbiology",
+            "courseNum": "103L",
+            "hidCRN": "47161",
+            "crn": "47161",
+            "subjectCode": "MIC"
+        },
+        "instructor": [
+            {
+                "lastName": "Mann",
+                "instructorName": "E. Mann",
+                "firstName": "Eric",
+                "instructorEmail": "erimann@ucdavis.edu",
+                "fullName": "Eric Mann"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to principles and laboratory methods employed in working with microorganisms. Designed for students requiring microbiology for professional school admission. May be taught abroad.",
+            "creditLimit": "Not open to students who completed MIC 101 before spring 2016, or who have completed MIC 102L or MIC 104L.",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " MIC 102 C- or better;  CHE 002B"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00198"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1310",
+                "building": "Katherine Esau Science Hall",
+                "description": "Laboratory",
+                "buildingCode": "ESAU",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02087"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "MIC 103L A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "47162",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introductory Microbiology Laboratory",
+            "subjectDesc": "Microbiology",
+            "courseNum": "103L",
+            "hidCRN": "47162",
+            "crn": "47162",
+            "subjectCode": "MIC"
+        },
+        "instructor": [
+            {
+                "lastName": "Mann",
+                "instructorName": "E. Mann",
+                "firstName": "Eric",
+                "instructorEmail": "erimann@ucdavis.edu",
+                "fullName": "Eric Mann"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to principles and laboratory methods employed in working with microorganisms. Designed for students requiring microbiology for professional school admission. May be taught abroad.",
+            "creditLimit": "Not open to students who completed MIC 101 before spring 2016, or who have completed MIC 102L or MIC 104L.",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " MIC 102 C- or better;  CHE 002B"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00198"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1310",
+                "building": "Katherine Esau Science Hall",
+                "description": "Laboratory",
+                "buildingCode": "ESAU",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02079"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "MIC 103L A05",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A05",
+            "printCRN": "47163",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introductory Microbiology Laboratory",
+            "subjectDesc": "Microbiology",
+            "courseNum": "103L",
+            "hidCRN": "47163",
+            "crn": "47163",
+            "subjectCode": "MIC"
+        },
+        "instructor": [
+            {
+                "lastName": "Mann",
+                "instructorName": "E. Mann",
+                "firstName": "Eric",
+                "instructorEmail": "erimann@ucdavis.edu",
+                "fullName": "Eric Mann"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to principles and laboratory methods employed in working with microorganisms. Designed for students requiring microbiology for professional school admission. May be taught abroad.",
+            "creditLimit": "Not open to students who completed MIC 101 before spring 2016, or who have completed MIC 102L or MIC 104L.",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " MIC 102 C- or better;  CHE 002B"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00198"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1310",
+                "building": "Katherine Esau Science Hall",
+                "description": "Laboratory",
+                "buildingCode": "ESAU",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02087"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "MIC 103L A06",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A06",
+            "printCRN": "47164",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introductory Microbiology Laboratory",
+            "subjectDesc": "Microbiology",
+            "courseNum": "103L",
+            "hidCRN": "47164",
+            "crn": "47164",
+            "subjectCode": "MIC"
+        },
+        "instructor": [
+            {
+                "lastName": "Mann",
+                "instructorName": "E. Mann",
+                "firstName": "Eric",
+                "instructorEmail": "erimann@ucdavis.edu",
+                "fullName": "Eric Mann"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to principles and laboratory methods employed in working with microorganisms. Designed for students requiring microbiology for professional school admission. May be taught abroad.",
+            "creditLimit": "Not open to students who completed MIC 101 before spring 2016, or who have completed MIC 102L or MIC 104L.",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " MIC 102 C- or better;  CHE 002B"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00198"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0900",
+                "building": "Katherine Esau Science Hall",
+                "description": "Laboratory",
+                "buildingCode": "ESAU",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02079"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "MIC 103L A07",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A07",
+            "printCRN": "47165",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introductory Microbiology Laboratory",
+            "subjectDesc": "Microbiology",
+            "courseNum": "103L",
+            "hidCRN": "47165",
+            "crn": "47165",
+            "subjectCode": "MIC"
+        },
+        "instructor": [
+            {
+                "lastName": "Mann",
+                "instructorName": "E. Mann",
+                "firstName": "Eric",
+                "instructorEmail": "erimann@ucdavis.edu",
+                "fullName": "Eric Mann"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to principles and laboratory methods employed in working with microorganisms. Designed for students requiring microbiology for professional school admission. May be taught abroad.",
+            "creditLimit": "Not open to students who completed MIC 101 before spring 2016, or who have completed MIC 102L or MIC 104L.",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " MIC 102 C- or better;  CHE 002B"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00198"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0900",
+                "building": "Katherine Esau Science Hall",
+                "description": "Laboratory",
+                "buildingCode": "ESAU",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02087"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "MIC 103L A08",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A08",
+            "printCRN": "47166",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introductory Microbiology Laboratory",
+            "subjectDesc": "Microbiology",
+            "courseNum": "103L",
+            "hidCRN": "47166",
+            "crn": "47166",
+            "subjectCode": "MIC"
+        },
+        "instructor": [
+            {
+                "lastName": "Mann",
+                "instructorName": "E. Mann",
+                "firstName": "Eric",
+                "instructorEmail": "erimann@ucdavis.edu",
+                "fullName": "Eric Mann"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to principles and laboratory methods employed in working with microorganisms. Designed for students requiring microbiology for professional school admission. May be taught abroad.",
+            "creditLimit": "Not open to students who completed MIC 101 before spring 2016, or who have completed MIC 102L or MIC 104L.",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " MIC 102 C- or better;  CHE 002B"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00198"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1310",
+                "building": "Katherine Esau Science Hall",
+                "description": "Laboratory",
+                "buildingCode": "ESAU",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02079"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "MIC 103L A09",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A09",
+            "printCRN": "47167",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introductory Microbiology Laboratory",
+            "subjectDesc": "Microbiology",
+            "courseNum": "103L",
+            "hidCRN": "47167",
+            "crn": "47167",
+            "subjectCode": "MIC"
+        },
+        "instructor": [
+            {
+                "lastName": "Mann",
+                "instructorName": "E. Mann",
+                "firstName": "Eric",
+                "instructorEmail": "erimann@ucdavis.edu",
+                "fullName": "Eric Mann"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to principles and laboratory methods employed in working with microorganisms. Designed for students requiring microbiology for professional school admission. May be taught abroad.",
+            "creditLimit": "Not open to students who completed MIC 101 before spring 2016, or who have completed MIC 102L or MIC 104L.",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " MIC 102 C- or better;  CHE 002B"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00198"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1310",
+                "building": "Katherine Esau Science Hall",
+                "description": "Laboratory",
+                "buildingCode": "ESAU",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02087"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "MIC 103L A10",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A10",
+            "printCRN": "47168",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introductory Microbiology Laboratory",
+            "subjectDesc": "Microbiology",
+            "courseNum": "103L",
+            "hidCRN": "47168",
+            "crn": "47168",
+            "subjectCode": "MIC"
+        },
+        "instructor": [
+            {
+                "lastName": "Mann",
+                "instructorName": "E. Mann",
+                "firstName": "Eric",
+                "instructorEmail": "erimann@ucdavis.edu",
+                "fullName": "Eric Mann"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to principles and laboratory methods employed in working with microorganisms. Designed for students requiring microbiology for professional school admission. May be taught abroad.",
+            "creditLimit": "Not open to students who completed MIC 101 before spring 2016, or who have completed MIC 102L or MIC 104L.",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " MIC 102 C- or better;  CHE 002B"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1310",
+                "building": "Katherine Esau Science Hall",
+                "description": "Laboratory",
+                "buildingCode": "ESAU",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02079"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00198"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "MIC 103L A11",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A11",
+            "printCRN": "47169",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introductory Microbiology Laboratory",
+            "subjectDesc": "Microbiology",
+            "courseNum": "103L",
+            "hidCRN": "47169",
+            "crn": "47169",
+            "subjectCode": "MIC"
+        },
+        "instructor": [
+            {
+                "lastName": "Mann",
+                "instructorName": "E. Mann",
+                "firstName": "Eric",
+                "instructorEmail": "erimann@ucdavis.edu",
+                "fullName": "Eric Mann"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to principles and laboratory methods employed in working with microorganisms. Designed for students requiring microbiology for professional school admission. May be taught abroad.",
+            "creditLimit": "Not open to students who completed MIC 101 before spring 2016, or who have completed MIC 102L or MIC 104L.",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " MIC 102 C- or better;  CHE 002B"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1310",
+                "building": "Katherine Esau Science Hall",
+                "description": "Laboratory",
+                "buildingCode": "ESAU",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02087"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00198"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "MIC 103L A12",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A12",
+            "printCRN": "47170",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introductory Microbiology Laboratory",
+            "subjectDesc": "Microbiology",
+            "courseNum": "103L",
+            "hidCRN": "47170",
+            "crn": "47170",
+            "subjectCode": "MIC"
+        },
+        "instructor": [
+            {
+                "lastName": "Mann",
+                "instructorName": "E. Mann",
+                "firstName": "Eric",
+                "instructorEmail": "erimann@ucdavis.edu",
+                "fullName": "Eric Mann"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to principles and laboratory methods employed in working with microorganisms. Designed for students requiring microbiology for professional school admission. May be taught abroad.",
+            "creditLimit": "Not open to students who completed MIC 101 before spring 2016, or who have completed MIC 102L or MIC 104L.",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " MIC 102 C- or better;  CHE 002B"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00194"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0900",
+                "building": "Katherine Esau Science Hall",
+                "description": "Laboratory",
+                "buildingCode": "ESAU",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02079"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "MIC 103L B01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "B01",
+            "printCRN": "47171",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introductory Microbiology Laboratory",
+            "subjectDesc": "Microbiology",
+            "courseNum": "103L",
+            "hidCRN": "47171",
+            "crn": "47171",
+            "subjectCode": "MIC"
+        },
+        "instructor": [
+            {
+                "lastName": "Mann",
+                "instructorName": "E. Mann",
+                "firstName": "Eric",
+                "instructorEmail": "erimann@ucdavis.edu",
+                "fullName": "Eric Mann"
+            },
+            {
+                "lastName": "Quides",
+                "instructorName": "K. Quides",
+                "firstName": "Kenjiro",
+                "instructorEmail": "kwquides@ucdavis.edu",
+                "fullName": "Kenjiro Quides"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to principles and laboratory methods employed in working with microorganisms. Designed for students requiring microbiology for professional school admission. May be taught abroad.",
+            "creditLimit": "Not open to students who completed MIC 101 before spring 2016, or who have completed MIC 102L or MIC 104L.",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " MIC 102 C- or better;  CHE 002B"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00194"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0900",
+                "building": "Katherine Esau Science Hall",
+                "description": "Laboratory",
+                "buildingCode": "ESAU",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02087"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "MIC 103L B02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "B02",
+            "printCRN": "47172",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introductory Microbiology Laboratory",
+            "subjectDesc": "Microbiology",
+            "courseNum": "103L",
+            "hidCRN": "47172",
+            "crn": "47172",
+            "subjectCode": "MIC"
+        },
+        "instructor": [
+            {
+                "lastName": "Mann",
+                "instructorName": "E. Mann",
+                "firstName": "Eric",
+                "instructorEmail": "erimann@ucdavis.edu",
+                "fullName": "Eric Mann"
+            },
+            {
+                "lastName": "Quides",
+                "instructorName": "K. Quides",
+                "firstName": "Kenjiro",
+                "instructorEmail": "kwquides@ucdavis.edu",
+                "fullName": "Kenjiro Quides"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to principles and laboratory methods employed in working with microorganisms. Designed for students requiring microbiology for professional school admission. May be taught abroad.",
+            "creditLimit": "Not open to students who completed MIC 101 before spring 2016, or who have completed MIC 102L or MIC 104L.",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " MIC 102 C- or better;  CHE 002B"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0900",
+                "building": "Katherine Esau Science Hall",
+                "description": "Laboratory",
+                "buildingCode": "ESAU",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02079"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00194"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "MIC 103L B03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "B03",
+            "printCRN": "47173",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introductory Microbiology Laboratory",
+            "subjectDesc": "Microbiology",
+            "courseNum": "103L",
+            "hidCRN": "47173",
+            "crn": "47173",
+            "subjectCode": "MIC"
+        },
+        "instructor": [
+            {
+                "lastName": "Mann",
+                "instructorName": "E. Mann",
+                "firstName": "Eric",
+                "instructorEmail": "erimann@ucdavis.edu",
+                "fullName": "Eric Mann"
+            },
+            {
+                "lastName": "Quides",
+                "instructorName": "K. Quides",
+                "firstName": "Kenjiro",
+                "instructorEmail": "kwquides@ucdavis.edu",
+                "fullName": "Kenjiro Quides"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to principles and laboratory methods employed in working with microorganisms. Designed for students requiring microbiology for professional school admission. May be taught abroad.",
+            "creditLimit": "Not open to students who completed MIC 101 before spring 2016, or who have completed MIC 102L or MIC 104L.",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " MIC 102 C- or better;  CHE 002B"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0900",
+                "building": "Katherine Esau Science Hall",
+                "description": "Laboratory",
+                "buildingCode": "ESAU",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02087"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00194"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "MIC 103L B04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "B04",
+            "printCRN": "47174",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introductory Microbiology Laboratory",
+            "subjectDesc": "Microbiology",
+            "courseNum": "103L",
+            "hidCRN": "47174",
+            "crn": "47174",
+            "subjectCode": "MIC"
+        },
+        "instructor": [
+            {
+                "lastName": "Mann",
+                "instructorName": "E. Mann",
+                "firstName": "Eric",
+                "instructorEmail": "erimann@ucdavis.edu",
+                "fullName": "Eric Mann"
+            },
+            {
+                "lastName": "Quides",
+                "instructorName": "K. Quides",
+                "firstName": "Kenjiro",
+                "instructorEmail": "kwquides@ucdavis.edu",
+                "fullName": "Kenjiro Quides"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Classical enrichments for the isolation of metabolically diverse microbes; modern molecular methods for the identification of isolates; cultivation independent analysis of microbial communities from local environmental samples.",
+            "creditLimit": "",
+            "ge3": "SE,WE",
+            "crossListing": "",
+            "prereq": " (MIC 102 or MIC 104);  (MIC 102L or MIC 104L);  MIC 105 { can be concurrent }"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Cruess Hall",
+                "description": "Lecture",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01003"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "WF",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1310",
+                "building": "Katherine Esau Science Hall",
+                "description": "Laboratory",
+                "buildingCode": "ESAU",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02090"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "MIC 105L A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "47175",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Microbial Diversity Laboratory",
+            "subjectDesc": "Microbiology",
+            "courseNum": "105L",
+            "hidCRN": "47175",
+            "crn": "47175",
+            "subjectCode": "MIC"
+        },
+        "instructor": [
+            {
+                "lastName": "Bragg",
+                "instructorName": "J. Bragg",
+                "firstName": "Jonathan",
+                "instructorEmail": "jhbragg@ucdavis.edu",
+                "fullName": "Jonathan Bragg"
+            },
+            {
+                "lastName": "Ralston",
+                "instructorName": "K. Ralston",
+                "firstName": "Katherine",
+                "instructorEmail": "ksralston@ucdavis.edu",
+                "fullName": "Katherine Ralston"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Classical enrichments for the isolation of metabolically diverse microbes; modern molecular methods for the identification of isolates; cultivation independent analysis of microbial communities from local environmental samples.",
+            "creditLimit": "",
+            "ge3": "SE,WE",
+            "crossListing": "",
+            "prereq": " (MIC 102 or MIC 104);  (MIC 102L or MIC 104L);  MIC 105 { can be concurrent }"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Cruess Hall",
+                "description": "Lecture",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01003"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "WF",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1310",
+                "building": "Katherine Esau Science Hall",
+                "description": "Laboratory",
+                "buildingCode": "ESAU",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02098"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "MIC 105L A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "47176",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Microbial Diversity Laboratory",
+            "subjectDesc": "Microbiology",
+            "courseNum": "105L",
+            "hidCRN": "47176",
+            "crn": "47176",
+            "subjectCode": "MIC"
+        },
+        "instructor": [
+            {
+                "lastName": "Bragg",
+                "instructorName": "J. Bragg",
+                "firstName": "Jonathan",
+                "instructorEmail": "jhbragg@ucdavis.edu",
+                "fullName": "Jonathan Bragg"
+            },
+            {
+                "lastName": "Ralston",
+                "instructorName": "K. Ralston",
+                "firstName": "Katherine",
+                "instructorEmail": "ksralston@ucdavis.edu",
+                "fullName": "Katherine Ralston"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Classical enrichments for the isolation of metabolically diverse microbes; modern molecular methods for the identification of isolates; cultivation independent analysis of microbial communities from local environmental samples.",
+            "creditLimit": "",
+            "ge3": "SE,WE",
+            "crossListing": "",
+            "prereq": " (MIC 102 or MIC 104);  (MIC 102L or MIC 104L);  MIC 105 { can be concurrent }"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Cruess Hall",
+                "description": "Lecture",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01003"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "WF",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0900",
+                "building": "Katherine Esau Science Hall",
+                "description": "Laboratory",
+                "buildingCode": "ESAU",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02090"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "MIC 105L A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "56253",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Microbial Diversity Laboratory",
+            "subjectDesc": "Microbiology",
+            "courseNum": "105L",
+            "hidCRN": "56253",
+            "crn": "56253",
+            "subjectCode": "MIC"
+        },
+        "instructor": [
+            {
+                "lastName": "Bragg",
+                "instructorName": "J. Bragg",
+                "firstName": "Jonathan",
+                "instructorEmail": "jhbragg@ucdavis.edu",
+                "fullName": "Jonathan Bragg"
+            },
+            {
+                "lastName": "Ralston",
+                "instructorName": "K. Ralston",
+                "firstName": "Katherine",
+                "instructorEmail": "ksralston@ucdavis.edu",
+                "fullName": "Katherine Ralston"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Survey of the genetics, cell biology and technologies in yeasts and related lower eukaryotes. Topics include diversity of yeasts; cell structure; metabolism; cell cycle; genetic approaches and genomics; gene expression; yeasts as models to study higher eukaryotes; and contemporary techniques.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " BIS 101V or BIS 101;  MIC 102 or MIC 105 strongly recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Storer Hall",
+                "description": "Lecture",
+                "buildingCode": "STORER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01322"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "MIC 170 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "47179",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Yeast Molecular Genetics",
+            "subjectDesc": "Microbiology",
+            "courseNum": "170",
+            "hidCRN": "47179",
+            "crn": "47179",
+            "subjectCode": "MIC"
+        },
+        "instructor": [
+            {
+                "lastName": "Lin",
+                "instructorName": "S. Lin",
+                "firstName": "Su-Ju",
+                "instructorEmail": "slin@ucdavis.edu",
+                "fullName": "Su-Ju Lin"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Exploration of host-parasite interactions at multiple levels, with an emphasis on global health and medically important human parasites.",
+            "creditLimit": "",
+            "ge3": "SE,SL",
+            "crossListing": "",
+            "prereq": " MIC 102 or MIC 101 or MIC 104;  BIS 101;  Biological Sciences 102 or 105 strongly recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00184"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "MIC 172 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "47180",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Host-Parasite Interactions",
+            "subjectDesc": "Microbiology",
+            "courseNum": "172",
+            "hidCRN": "47180",
+            "crn": "47180",
+            "subjectCode": "MIC"
+        },
+        "instructor": [
+            {
+                "lastName": "Ralston",
+                "instructorName": "K. Ralston",
+                "firstName": "Katherine",
+                "instructorEmail": "ksralston@ucdavis.edu",
+                "fullName": "Katherine Ralston"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Exploration of the causes and treatments of cancer at multiple levels: molecular/cell biology, clinical manifestations, epidemiology and prevention. ",
+            "creditLimit": "",
+            "ge3": "SE,SL",
+            "crossListing": "",
+            "prereq": " BIS 101;  (BIS 102 or BIS 105)"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Hutchison Hall",
+                "description": "Lecture",
+                "buildingCode": "HUTCH",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00115"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "MIC 175 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "47181",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Cancer Biology",
+            "subjectDesc": "Microbiology",
+            "courseNum": "175",
+            "hidCRN": "47181",
+            "crn": "47181",
+            "subjectCode": "MIC"
+        },
+        "instructor": [
+            {
+                "lastName": "Hwang",
+                "instructorName": "C. Hwang",
+                "firstName": "Changil",
+                "instructorEmail": "cihwang@ucdavis.edu",
+                "fullName": "Changil Hwang"
+            },
+            {
+                "lastName": "Barlow",
+                "instructorName": "J. Barlow",
+                "firstName": "Jacqueline",
+                "instructorEmail": "jhbarlow@ucdavis.edu",
+                "fullName": "Jacqueline Barlow"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Presentation and critical discussion of staff research activities: designed for advanced undergraduate students.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " MIC 199 { can be concurrent };  and Consent of Instructor.  Upper division standing, MIC 199 required concurrently.\n"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "",
+                "building": "",
+                "description": "Discussion",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "DIS",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "MIC 190C",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Undergraduates Research Conference",
+            "subjectDesc": "Microbiology",
+            "courseNum": "190C",
+            "hidCRN": "0949C7C6EC",
+            "crn": "47182",
+            "subjectCode": "MIC"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Technical and/or professional experience on or off campus. Supervised by a member of the Microbiology Section faculty.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "I",
+                "startTime": "",
+                "building": "",
+                "description": "Internship",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "INT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "MIC 192",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Internship",
+            "subjectDesc": "Microbiology",
+            "courseNum": "192",
+            "hidCRN": "0949C4CEEE",
+            "crn": "47200",
+            "subjectCode": "MIC"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Continuation of an individual microbiological research project culminating in writing of a senior thesis under a faculty director.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Senior standing; eligibility for college honors; completion of 6 units of MIC 199; consent of section. \n"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "J",
+                "startTime": "",
+                "building": "",
+                "description": "Independent Study",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "IND",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "MIC 194H",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Microbiology Honors Research",
+            "subjectDesc": "Microbiology",
+            "courseNum": "194H",
+            "hidCRN": "0949C4CFE8",
+            "crn": "47216",
+            "subjectCode": "MIC"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Assisting the instructor in one of the section's regular courses by tutoring individual or small groups of students in a laboratory, in voluntary discussion groups, or other voluntary course activities.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Upper division standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "T",
+                "startTime": "",
+                "building": "",
+                "description": "Tutorial",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "TUT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "MIC 197T",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Tutoring in Microbiology",
+            "subjectDesc": "Microbiology",
+            "courseNum": "197T",
+            "hidCRN": "0949C4CDEC",
+            "crn": "47232",
+            "subjectCode": "MIC"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed group study. May be taught abroad.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "MIC 198",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study",
+            "subjectDesc": "Microbiology",
+            "courseNum": "198",
+            "hidCRN": "0949C4CAE7",
+            "crn": "47249",
+            "subjectCode": "MIC"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special study for advanced undergraduates. May be taught abroad.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "MIC 199",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Study for Advanced Undergraduates",
+            "subjectDesc": "Microbiology",
+            "courseNum": "199",
+            "hidCRN": "0949C4C8EA",
+            "crn": "47264",
+            "subjectCode": "MIC"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Review and discussion of current research and literature in DNA repair and recombination with presentations by individual students and invited speakers.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Graduate standing in Microbiology or closely-related field."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "E",
+                "startTime": "1000",
+                "building": "Facility Assigned by Instr.",
+                "description": "Seminar",
+                "buildingCode": "NOFAC",
+                "saturday": false,
+                "type": "SEM",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "MIC 275 002",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "002",
+            "printCRN": "47283",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Seminar in DNA Repair & Recombination",
+            "subjectDesc": "Microbiology",
+            "courseNum": "275",
+            "hidCRN": "47283",
+            "crn": "47283",
+            "subjectCode": "MIC"
+        },
+        "instructor": [
+            {
+                "lastName": "Heyer",
+                "instructorName": "W. Heyer",
+                "firstName": "Wolf",
+                "instructorEmail": "wdheyer@ucdavis.edu",
+                "fullName": "Wolf Heyer"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Presentation and critical discussion of staff research activities. Designed for advanced graduate students.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Graduate standing and/or consent of instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "",
+                "building": "",
+                "description": "Discussion",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "DIS",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "MIC 290C",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Advanced Research Conference",
+            "subjectDesc": "Microbiology",
+            "courseNum": "290C",
+            "hidCRN": "0949C4C6EA",
+            "crn": "47284",
+            "subjectCode": "MIC"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Presentation and critical discussion of staff research activities. Designed for advanced graduate students.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Graduate standing and/or consent of instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "",
+                "building": "",
+                "description": "Discussion",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "DIS",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "MIC 290C 014",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "014",
+            "printCRN": "47302",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Advanced Research Conference",
+            "subjectDesc": "Microbiology",
+            "courseNum": "290C",
+            "hidCRN": "47302",
+            "crn": "47302",
+            "subjectCode": "MIC"
+        },
+        "instructor": [
+            {
+                "lastName": "Hwang",
+                "instructorName": "C. Hwang",
+                "firstName": "Changil",
+                "instructorEmail": "cihwang@ucdavis.edu",
+                "fullName": "Changil Hwang"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Presentation and critical discussion of staff research activities. Designed for advanced graduate students.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Graduate standing and/or consent of instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "",
+                "building": "",
+                "description": "Discussion",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "DIS",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "MIC 290C 015",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "015",
+            "printCRN": "47303",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Advanced Research Conference",
+            "subjectDesc": "Microbiology",
+            "courseNum": "290C",
+            "hidCRN": "47303",
+            "crn": "47303",
+            "subjectCode": "MIC"
+        },
+        "instructor": [
+            {
+                "lastName": "Vazquez",
+                "instructorName": "M. Vazquez",
+                "firstName": "Mariel",
+                "instructorEmail": "mrlvazquez@ucdavis.edu",
+                "fullName": "Mariel Vazquez"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Current progress in microbiology and cellular and molecular biology.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Graduate standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "E",
+                "startTime": "1610",
+                "building": "Teaching and Learning Complex",
+                "description": "Seminar",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "SEM",
+                "room": "03215"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "MIC 291 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "47304",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Selected Topics in Microbiology",
+            "subjectDesc": "Microbiology",
+            "courseNum": "291",
+            "hidCRN": "47304",
+            "crn": "47304",
+            "subjectCode": "MIC"
+        },
+        "instructor": [
+            {
+                "lastName": "Dawson",
+                "instructorName": "S. Dawson",
+                "firstName": "Scott",
+                "instructorEmail": "scdawson@ucdavis.edu",
+                "fullName": "Scott Dawson"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Group study.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "MIC 298",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Group Study",
+            "subjectDesc": "Microbiology",
+            "courseNum": "298",
+            "hidCRN": "0949C5CEE8",
+            "crn": "47306",
+            "subjectCode": "MIC"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Research.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "MIC 299",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research",
+            "subjectDesc": "Microbiology",
+            "courseNum": "299",
+            "hidCRN": "0949C5CCED",
+            "crn": "47323",
+            "subjectCode": "MIC"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Research.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "MIC 299",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "015",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research",
+            "subjectDesc": "Microbiology",
+            "courseNum": "299",
+            "hidCRN": "0949C5CAEF",
+            "crn": "47341",
+            "subjectCode": "MIC"
+        },
+        "instructor": [
+            {
+                "lastName": "Hwang",
+                "instructorName": "C. Hwang",
+                "firstName": "Changil",
+                "instructorEmail": "cihwang@ucdavis.edu",
+                "fullName": "Changil Hwang"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Teaching assistant training.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Graduate standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "MIC 396",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 4,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Teaching Assistant Training Practicum",
+            "subjectDesc": "Microbiology",
+            "courseNum": "396",
+            "hidCRN": "0949C5CAED",
+            "crn": "47343",
+            "subjectCode": "MIC"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    }
+]

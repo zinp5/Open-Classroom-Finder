@@ -1,0 +1,452 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to the bacterial and mycotic pathogens of man and animals, with emphasis on pathogenic mechanisms and ecologic aspects of infectious disease.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Any Microbiology course with lab; Immunology strongly recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1340",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00194"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "PMI 127 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "51930",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Medical Bacteria & Fungi",
+            "subjectDesc": "VM Pathology, Microbiol &Immun",
+            "courseNum": "127",
+            "hidCRN": "51930",
+            "crn": "51930",
+            "subjectCode": "PMI"
+        },
+        "instructor": [
+            {
+                "lastName": "Saeij",
+                "instructorName": "J. Saeij",
+                "firstName": "Jeroen",
+                "instructorEmail": "jsaeij@ucdavis.edu",
+                "fullName": "Jeroen Saeij"
+            },
+            {
+                "lastName": "Pesavento",
+                "instructorName": "P. Pesavento",
+                "firstName": "Patricia",
+                "instructorEmail": "papesavento@ucdavis.edu",
+                "fullName": "Patricia Pesavento"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Fundamental physical and chemical properties of animal viruses; methods of propagation, purification and assay.  Mechanisms of viral replication and pathogenesis of viral infections in man and animals. Immunity to virus diseases and oncogenic properties of animal viruses.",
+            "creditLimit": "Only 2 units of credit given if completed MIC 162.",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " BIS 102"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Hart Hall",
+                "description": "Lecture",
+                "buildingCode": "HART",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01150"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "PMI 128 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "51931",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Biology of Animal Viruses",
+            "subjectDesc": "VM Pathology, Microbiol &Immun",
+            "courseNum": "128",
+            "hidCRN": "51931",
+            "crn": "51931",
+            "subjectCode": "PMI"
+        },
+        "instructor": [
+            {
+                "lastName": "Miller",
+                "instructorName": "C. Miller",
+                "firstName": "Chris",
+                "instructorEmail": "cjmiller@ucdavis.edu",
+                "fullName": "Chris Miller"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special study for advanced undergraduates.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "PMI 199",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "047",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Study for Advanced Undergraduates",
+            "subjectDesc": "VM Pathology, Microbiol &Immun",
+            "courseNum": "199",
+            "hidCRN": "084FCFCAEA",
+            "crn": "51944",
+            "subjectCode": "PMI"
+        },
+        "instructor": [
+            {
+                "lastName": "",
+                "instructorName": ". ",
+                "firstName": "",
+                "instructorEmail": "",
+                "fullName": " "
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "The second required core course in the graduate group with topics in inflammation, host-pathogen interaction, regenerative medicine, integrative pathology and population and ecosystem health.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0900",
+                "building": "Vet Med 3B",
+                "description": "Discussion",
+                "buildingCode": "VM3B",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01105"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Vet Med 3B",
+                "description": "Lecture",
+                "buildingCode": "VM3B",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01105"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "PMI 202 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "51945",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Integrative Pathobiology Core II",
+            "subjectDesc": "VM Pathology, Microbiol &Immun",
+            "courseNum": "202",
+            "hidCRN": "51945",
+            "crn": "51945",
+            "subjectCode": "PMI"
+        },
+        "instructor": [
+            {
+                "lastName": "Keel",
+                "instructorName": "M. Keel",
+                "firstName": "Michael",
+                "instructorEmail": "mkkeel@ucdavis.edu",
+                "fullName": "Michael Keel"
+            },
+            {
+                "lastName": "Thomasy",
+                "instructorName": "S. Thomasy",
+                "firstName": "Sara",
+                "instructorEmail": "smthomasy@ucdavis.edu",
+                "fullName": "Sara Thomasy"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Current concepts of immunology with an emphasis on interactions between the host, the environment and the pathogen. These interactions will include those that are protective and successful for the host as well as those that are deleterious.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Introductory course in Immunology. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1000",
+                "building": "Gladys Valley Hall",
+                "description": "Discussion",
+                "buildingCode": "VALLEY",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01010"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1000",
+                "building": "Gladys Valley Hall",
+                "description": "Lecture",
+                "buildingCode": "VALLEY",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01010"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "PMI 270 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "51946",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Advanced Immunology",
+            "subjectDesc": "VM Pathology, Microbiol &Immun",
+            "courseNum": "270",
+            "hidCRN": "51946",
+            "crn": "51946",
+            "subjectCode": "PMI"
+        },
+        "instructor": [
+            {
+                "lastName": "Saeij",
+                "instructorName": "J. Saeij",
+                "firstName": "Jeroen",
+                "instructorEmail": "jsaeij@ucdavis.edu",
+                "fullName": "Jeroen Saeij"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Resident review of classic laboratory rodent and non-human primate diseases with emphasis on pathogenesis, diagnostic histologic features, methods for screening or for confirmation and implications to colony health management and research integrity. Teaching slide sets have been created using case material primarily from the Comparative Pathology Laboratory and California National Primate Research Center.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "",
+                "startTime": "",
+                "building": "",
+                "description": "",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "PMI 477R",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 4,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Lab Animal Path Slide Review",
+            "subjectDesc": "VM Pathology, Microbiol &Immun",
+            "courseNum": "477R",
+            "hidCRN": "084CC6C8EC",
+            "crn": "52062",
+            "subjectCode": "PMI"
+        },
+        "instructor": [
+            {
+                "lastName": "",
+                "instructorName": ". ",
+                "firstName": "",
+                "instructorEmail": "",
+                "fullName": " "
+            }
+        ]
+    }
+]

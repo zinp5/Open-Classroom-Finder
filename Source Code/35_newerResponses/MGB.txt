@@ -1,0 +1,596 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Practical statistical methods for managerial decision making covers regression analysis, time series analysis and forecasting, design and analysis of experiments in managerial research and contingency table analysis. Application of these methods to marketing, finance, accounting, production, operations, and public policy.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " MGT 203A or MGP 203A or MGB 203A"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "",
+                "building": "",
+                "description": "Lecture",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LEC",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "MGB 203B 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "46823",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Forecasting & Managerial Research Methods",
+            "subjectDesc": "Management Work Prof Bay Area",
+            "courseNum": "203B",
+            "hidCRN": "46823",
+            "crn": "46823",
+            "subjectCode": "MGB"
+        },
+        "instructor": [
+            {
+                "lastName": "Rangwala",
+                "instructorName": "M. Rangwala",
+                "firstName": "Mehul",
+                "instructorEmail": "mrangwala@ucdavis.edu",
+                "fullName": "Mehul Rangwala"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Analysis of market opportunities, elements of market research, development of marketing strategies, market planning and implementations, and control systems. Consumer and industrial markets, market segmentation, pricing strategies, distribution channels, promotion, and sales.",
+            "creditLimit": "Not open for credit to students who have taken MGT 204, MGP 204, MGB 204, MGV 204V, MGT 404, MGP 404 or MGB 404.",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "WVL",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MGB 404Y 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "46826",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Marketing Management",
+            "subjectDesc": "Management Work Prof Bay Area",
+            "courseNum": "404Y",
+            "hidCRN": "46826",
+            "crn": "46826",
+            "subjectCode": "MGB"
+        },
+        "instructor": [
+            {
+                "lastName": "Naik",
+                "instructorName": "P. Naik",
+                "firstName": "Prasad",
+                "instructorEmail": "panaik@ucdavis.edu",
+                "fullName": "Prasad Naik"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Corporate financial policy and investment management. Covers capital budgeting, optimal financial structure, cost-of-capital determination, risk measurement. Develops basic valuation principles for investments with long-lived and risky cash-flows, and extends these to derivative securities, asset portfolios, investment management and hedging.",
+            "creditLimit": "Not open for credit for students who have taken MGT 205, MGP 205, MGB 205, MGV 205V, MGT 405, MGP 405 or MGB 405. ",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "WVL",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "MGB 405Y 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "46827",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Financial Theory & Policy",
+            "subjectDesc": "Management Work Prof Bay Area",
+            "courseNum": "405Y",
+            "hidCRN": "46827",
+            "crn": "46827",
+            "subjectCode": "MGB"
+        },
+        "instructor": [
+            {
+                "lastName": "Yang",
+                "instructorName": "K. Yang",
+                "firstName": "Keer",
+                "instructorEmail": "kkeyang@ucdavis.edu",
+                "fullName": "Keer Yang"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Second of a two-part course sequence which is designed to empower emerging leaders with the skills necessary to build and guide effective teams, embodying a leadership style that is anchored in shared responsibility and values-based decision-making.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " MGB 417A or MGP 417A or MGT 417A or MGV 417A"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "",
+                "building": "",
+                "description": "Lecture",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LEC",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "MGB 417B 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56330",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Collaborative Leadership 2",
+            "subjectDesc": "Management Work Prof Bay Area",
+            "courseNum": "417B",
+            "hidCRN": "56330",
+            "crn": "56330",
+            "subjectCode": "MGB"
+        },
+        "instructor": [
+            {
+                "lastName": "Hsu",
+                "instructorName": "G. Hsu",
+                "firstName": "Greta",
+                "instructorEmail": "grhsu@ucdavis.edu",
+                "fullName": "Greta Hsu"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to derivative securities and other forms of financial innovation.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "WVL",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "MGB 436V 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56443",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Derivative Securities",
+            "subjectDesc": "Management Work Prof Bay Area",
+            "courseNum": "436V",
+            "hidCRN": "56443",
+            "crn": "56443",
+            "subjectCode": "MGB"
+        },
+        "instructor": [
+            {
+                "lastName": "Maruster",
+                "instructorName": "S. Maruster",
+                "firstName": "Sorin",
+                "instructorEmail": "smaruster@ucdavis.edu",
+                "fullName": "Sorin Maruster"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Provides a comprehensive understanding of branding strategies and implementation.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "WVL",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "MGB 444V 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56455",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Strategic Branding",
+            "subjectDesc": "Management Work Prof Bay Area",
+            "courseNum": "444V",
+            "hidCRN": "56455",
+            "crn": "56455",
+            "subjectCode": "MGB"
+        },
+        "instructor": [
+            {
+                "lastName": "Errecarte",
+                "instructorName": "V. Errecarte",
+                "firstName": "Vanessa",
+                "instructorEmail": "verrecarte@ucdavis.edu",
+                "fullName": "Vanessa Errecarte"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Covers the evolution of \u201ctraditional\u201d finance methods; including the disruptions and innovations that have transformed: how companies and consumers access funds (borrowing); how new technologies change real estate markets; how FinTech companies changed the payment services; and how cryptocurrencies challenge traditional fiat money.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "WVL",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "MGB 478V 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56393",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Financial Technology",
+            "subjectDesc": "Management Work Prof Bay Area",
+            "courseNum": "478V",
+            "hidCRN": "56393",
+            "crn": "56393",
+            "subjectCode": "MGB"
+        },
+        "instructor": [
+            {
+                "lastName": "Yang",
+                "instructorName": "K. Yang",
+                "firstName": "Keer",
+                "instructorEmail": "kkeyang@ucdavis.edu",
+                "fullName": "Keer Yang"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Provides opportunity for students to gain experience in applying business methodologies previously acquired in other GSM courses.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Sponsorship of a GSM Academic Senate faculty member; approval of graduate advisor."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": true,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "U",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "",
+                "building": "",
+                "description": "Lecture/Discussion",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LED",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "MGB 490 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "46833",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Topics in Business",
+            "subjectDesc": "Management Work Prof Bay Area",
+            "courseNum": "490",
+            "hidCRN": "46833",
+            "crn": "46833",
+            "subjectCode": "MGB"
+        },
+        "instructor": [
+            {
+                "lastName": "Charnsupharindr",
+                "instructorName": "D. Charnsupharindr",
+                "firstName": "Doy",
+                "instructorEmail": "charnsupharindr@ucdavis.edu",
+                "fullName": "Doy Charnsupharindr"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Advanced topics in general management. Varied topics to cover more extensively issues discussed in MGB 201A and MGB 201B, or current business interest topics in fields of business writing, business communications, development, or workplace processes.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "WVL",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "MGB 490V 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "46835",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Topics in General Management",
+            "subjectDesc": "Management Work Prof Bay Area",
+            "courseNum": "490V",
+            "hidCRN": "46835",
+            "crn": "46835",
+            "subjectCode": "MGB"
+        },
+        "instructor": [
+            {
+                "lastName": "Beckler",
+                "instructorName": "A. Beckler",
+                "firstName": "Amber",
+                "instructorEmail": "abeckler@ucdavis.edu",
+                "fullName": "Amber Beckler"
+            }
+        ]
+    }
+]
