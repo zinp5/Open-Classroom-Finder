@@ -1,0 +1,2842 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Analysis of film form and narrative, including cinematography, editing, and sound. Issues in film studies including authorship, stardom, race, gender, class, and cultural identity. Introduction to selected cinematic movements and national film traditions.",
+            "creditLimit": "",
+            "ge3": "AH,VL,WC,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1000",
+                "building": "Cruess Hall",
+                "description": "Discussion",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01107"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2000",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "3",
+                "startTime": "1710",
+                "building": "Cruess Hall",
+                "description": "Film Viewing",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "F-V",
+                "room": "01002"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Cruess Hall",
+                "description": "Lecture",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01002"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CDM 001 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "33410",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introduction to Film Studies",
+            "subjectDesc": "Cinema and Digital Media",
+            "courseNum": "001",
+            "hidCRN": "33410",
+            "crn": "33410",
+            "subjectCode": "CDM"
+        },
+        "instructor": [
+            {
+                "lastName": "Johnson",
+                "instructorName": "C. Johnson",
+                "firstName": "Colin",
+                "instructorEmail": "cwrjohnson@ucdavis.edu",
+                "fullName": "Colin Johnson"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Analysis of film form and narrative, including cinematography, editing, and sound. Issues in film studies including authorship, stardom, race, gender, class, and cultural identity. Introduction to selected cinematic movements and national film traditions.",
+            "creditLimit": "",
+            "ge3": "AH,VL,WC,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1100",
+                "building": "Cruess Hall",
+                "description": "Discussion",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01107"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2000",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "3",
+                "startTime": "1710",
+                "building": "Cruess Hall",
+                "description": "Film Viewing",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "F-V",
+                "room": "01002"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Cruess Hall",
+                "description": "Lecture",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01002"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CDM 001 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "33411",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introduction to Film Studies",
+            "subjectDesc": "Cinema and Digital Media",
+            "courseNum": "001",
+            "hidCRN": "33411",
+            "crn": "33411",
+            "subjectCode": "CDM"
+        },
+        "instructor": [
+            {
+                "lastName": "Johnson",
+                "instructorName": "C. Johnson",
+                "firstName": "Colin",
+                "instructorEmail": "cwrjohnson@ucdavis.edu",
+                "fullName": "Colin Johnson"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Analysis of film form and narrative, including cinematography, editing, and sound. Issues in film studies including authorship, stardom, race, gender, class, and cultural identity. Introduction to selected cinematic movements and national film traditions.",
+            "creditLimit": "",
+            "ge3": "AH,VL,WC,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0900",
+                "building": "Cruess Hall",
+                "description": "Discussion",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01107"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2000",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "3",
+                "startTime": "1710",
+                "building": "Cruess Hall",
+                "description": "Film Viewing",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "F-V",
+                "room": "01002"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Cruess Hall",
+                "description": "Lecture",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01002"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CDM 001 A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "33412",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introduction to Film Studies",
+            "subjectDesc": "Cinema and Digital Media",
+            "courseNum": "001",
+            "hidCRN": "33412",
+            "crn": "33412",
+            "subjectCode": "CDM"
+        },
+        "instructor": [
+            {
+                "lastName": "Johnson",
+                "instructorName": "C. Johnson",
+                "firstName": "Colin",
+                "instructorEmail": "cwrjohnson@ucdavis.edu",
+                "fullName": "Colin Johnson"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Analysis of film form and narrative, including cinematography, editing, and sound. Issues in film studies including authorship, stardom, race, gender, class, and cultural identity. Introduction to selected cinematic movements and national film traditions.",
+            "creditLimit": "",
+            "ge3": "AH,VL,WC,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1210",
+                "building": "Cruess Hall",
+                "description": "Discussion",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01107"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2000",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "3",
+                "startTime": "1710",
+                "building": "Cruess Hall",
+                "description": "Film Viewing",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "F-V",
+                "room": "01002"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Cruess Hall",
+                "description": "Lecture",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01002"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CDM 001 A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "33413",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introduction to Film Studies",
+            "subjectDesc": "Cinema and Digital Media",
+            "courseNum": "001",
+            "hidCRN": "33413",
+            "crn": "33413",
+            "subjectCode": "CDM"
+        },
+        "instructor": [
+            {
+                "lastName": "Johnson",
+                "instructorName": "C. Johnson",
+                "firstName": "Colin",
+                "instructorEmail": "cwrjohnson@ucdavis.edu",
+                "fullName": "Colin Johnson"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Analysis of film form and narrative, including cinematography, editing, and sound. Issues in film studies including authorship, stardom, race, gender, class, and cultural identity. Introduction to selected cinematic movements and national film traditions.",
+            "creditLimit": "",
+            "ge3": "AH,VL,WC,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2000",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "3",
+                "startTime": "1710",
+                "building": "Cruess Hall",
+                "description": "Film Viewing",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "F-V",
+                "room": "01002"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Cruess Hall",
+                "description": "Lecture",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01002"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1610",
+                "building": "Cruess Hall",
+                "description": "Discussion",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01107"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CDM 001 A05",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A05",
+            "printCRN": "33414",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introduction to Film Studies",
+            "subjectDesc": "Cinema and Digital Media",
+            "courseNum": "001",
+            "hidCRN": "33414",
+            "crn": "33414",
+            "subjectCode": "CDM"
+        },
+        "instructor": [
+            {
+                "lastName": "Johnson",
+                "instructorName": "C. Johnson",
+                "firstName": "Colin",
+                "instructorEmail": "cwrjohnson@ucdavis.edu",
+                "fullName": "Colin Johnson"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Analysis of film form and narrative, including cinematography, editing, and sound. Issues in film studies including authorship, stardom, race, gender, class, and cultural identity. Introduction to selected cinematic movements and national film traditions.",
+            "creditLimit": "",
+            "ge3": "AH,VL,WC,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2000",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "3",
+                "startTime": "1710",
+                "building": "Cruess Hall",
+                "description": "Film Viewing",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "F-V",
+                "room": "01002"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Cruess Hall",
+                "description": "Lecture",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01002"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1710",
+                "building": "Cruess Hall",
+                "description": "Discussion",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01107"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CDM 001 A06",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A06",
+            "printCRN": "33415",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introduction to Film Studies",
+            "subjectDesc": "Cinema and Digital Media",
+            "courseNum": "001",
+            "hidCRN": "33415",
+            "crn": "33415",
+            "subjectCode": "CDM"
+        },
+        "instructor": [
+            {
+                "lastName": "Johnson",
+                "instructorName": "C. Johnson",
+                "firstName": "Colin",
+                "instructorEmail": "cwrjohnson@ucdavis.edu",
+                "fullName": "Colin Johnson"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Analysis of film form and narrative, including cinematography, editing, and sound. Issues in film studies including authorship, stardom, race, gender, class, and cultural identity. Introduction to selected cinematic movements and national film traditions.",
+            "creditLimit": "",
+            "ge3": "AH,VL,WC,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1900",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1810",
+                "building": "Maria Manetti Shrem Art Hall",
+                "description": "Discussion",
+                "buildingCode": "MMSART",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00210"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2000",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "3",
+                "startTime": "1710",
+                "building": "Cruess Hall",
+                "description": "Film Viewing",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "F-V",
+                "room": "01002"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Cruess Hall",
+                "description": "Lecture",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01002"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CDM 001 A07",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A07",
+            "printCRN": "33416",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introduction to Film Studies",
+            "subjectDesc": "Cinema and Digital Media",
+            "courseNum": "001",
+            "hidCRN": "33416",
+            "crn": "33416",
+            "subjectCode": "CDM"
+        },
+        "instructor": [
+            {
+                "lastName": "Johnson",
+                "instructorName": "C. Johnson",
+                "firstName": "Colin",
+                "instructorEmail": "cwrjohnson@ucdavis.edu",
+                "fullName": "Colin Johnson"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Analysis of film form and narrative, including cinematography, editing, and sound. Issues in film studies including authorship, stardom, race, gender, class, and cultural identity. Introduction to selected cinematic movements and national film traditions.",
+            "creditLimit": "",
+            "ge3": "AH,VL,WC,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1510",
+                "building": "Maria Manetti Shrem Art Hall",
+                "description": "Discussion",
+                "buildingCode": "MMSART",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00210"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2000",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "3",
+                "startTime": "1710",
+                "building": "Cruess Hall",
+                "description": "Film Viewing",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "F-V",
+                "room": "01002"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Cruess Hall",
+                "description": "Lecture",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01002"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CDM 001 A08",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A08",
+            "printCRN": "33417",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introduction to Film Studies",
+            "subjectDesc": "Cinema and Digital Media",
+            "courseNum": "001",
+            "hidCRN": "33417",
+            "crn": "33417",
+            "subjectCode": "CDM"
+        },
+        "instructor": [
+            {
+                "lastName": "Johnson",
+                "instructorName": "C. Johnson",
+                "firstName": "Colin",
+                "instructorEmail": "cwrjohnson@ucdavis.edu",
+                "fullName": "Colin Johnson"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Evolution of media technologies and practices beginning in the 19th century as they relate to contemporary digital arts practices. Special focus on the reconstruction of the social and artistic possibilities of lost and obsolete media technologies.",
+            "creditLimit": "Not open for credit to students who have taken TCS 005.",
+            "ge3": "AH,SE,VL,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Cruess Hall",
+                "description": "Lecture",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01002"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CDM 003 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56146",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Media Archaeology",
+            "subjectDesc": "Cinema and Digital Media",
+            "courseNum": "003",
+            "hidCRN": "56146",
+            "crn": "56146",
+            "subjectCode": "CDM"
+        },
+        "instructor": [
+            {
+                "lastName": "Drew",
+                "instructorName": "J. Drew",
+                "firstName": "Jesse",
+                "instructorEmail": "jdrew@ucdavis.edu",
+                "fullName": "Jesse Drew"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to filmmaking concepts, principles, and methods. Emphasis on form, content and historical dialectic between classical narrative filmmaking conventions and artists' challenges to these conventions. ",
+            "creditLimit": "Not open for credit to students who have taken CTS 020.",
+            "ge3": "AH,VL",
+            "crossListing": "",
+            "prereq": " CDM 001 and/or CDM 003 recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2000",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "3",
+                "startTime": "1810",
+                "building": "Cruess Hall",
+                "description": "Film Viewing",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "F-V",
+                "room": "01003"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Cruess Hall",
+                "description": "Lecture",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01003"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1250",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1000",
+                "building": "Art Annex",
+                "description": "Laboratory",
+                "buildingCode": "ARTANX",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00103"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "CDM 020 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "33418",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Filmmaking Foundations",
+            "subjectDesc": "Cinema and Digital Media",
+            "courseNum": "020",
+            "hidCRN": "33418",
+            "crn": "33418",
+            "subjectCode": "CDM"
+        },
+        "instructor": [
+            {
+                "lastName": "Smith",
+                "instructorName": "A. Smith",
+                "firstName": "Andrew",
+                "instructorEmail": "ajsmith@ucdavis.edu",
+                "fullName": "Andrew Smith"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to filmmaking concepts, principles, and methods. Emphasis on form, content and historical dialectic between classical narrative filmmaking conventions and artists' challenges to these conventions. ",
+            "creditLimit": "Not open for credit to students who have taken CTS 020.",
+            "ge3": "AH,VL",
+            "crossListing": "",
+            "prereq": " CDM 001 and/or CDM 003 recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2000",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "3",
+                "startTime": "1810",
+                "building": "Cruess Hall",
+                "description": "Film Viewing",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "F-V",
+                "room": "01003"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Cruess Hall",
+                "description": "Lecture",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01003"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1900",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1610",
+                "building": "Art Annex",
+                "description": "Laboratory",
+                "buildingCode": "ARTANX",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00103"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "CDM 020 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "33419",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Filmmaking Foundations",
+            "subjectDesc": "Cinema and Digital Media",
+            "courseNum": "020",
+            "hidCRN": "33419",
+            "crn": "33419",
+            "subjectCode": "CDM"
+        },
+        "instructor": [
+            {
+                "lastName": "Smith",
+                "instructorName": "A. Smith",
+                "firstName": "Andrew",
+                "instructorEmail": "ajsmith@ucdavis.edu",
+                "fullName": "Andrew Smith"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to filmmaking concepts, principles, and methods. Emphasis on form, content and historical dialectic between classical narrative filmmaking conventions and artists' challenges to these conventions. ",
+            "creditLimit": "Not open for credit to students who have taken CTS 020.",
+            "ge3": "AH,VL",
+            "crossListing": "",
+            "prereq": " CDM 001 and/or CDM 003 recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1250",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1000",
+                "building": "Art Annex",
+                "description": "Laboratory",
+                "buildingCode": "ARTANX",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00103"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2000",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "3",
+                "startTime": "1810",
+                "building": "Cruess Hall",
+                "description": "Film Viewing",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "F-V",
+                "room": "01003"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Cruess Hall",
+                "description": "Lecture",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01003"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "CDM 020 A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "33420",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Filmmaking Foundations",
+            "subjectDesc": "Cinema and Digital Media",
+            "courseNum": "020",
+            "hidCRN": "33420",
+            "crn": "33420",
+            "subjectCode": "CDM"
+        },
+        "instructor": [
+            {
+                "lastName": "Smith",
+                "instructorName": "A. Smith",
+                "firstName": "Andrew",
+                "instructorEmail": "ajsmith@ucdavis.edu",
+                "fullName": "Andrew Smith"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Examines cinema from 1945 through the present, with focus on neo-realist, new wave and third-world movements.  Examines social critique in cinema from studio system to New Wave, Cine Novo, postcolonial cinema and contemporary independent cinema.",
+            "creditLimit": "",
+            "ge3": "AH,VL,WC,WE",
+            "crossListing": "",
+            "prereq": " CDM 001 recommended. "
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "0",
+                "startTime": "0900",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00000"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "3",
+                "startTime": "",
+                "building": "",
+                "description": "Film Viewing",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "F-V",
+                "room": ""
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "%",
+                "startTime": "1000",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Electronic Dis",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WED",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CDM 041BV A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "56147",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "History of Cinema from 1945-Present",
+            "subjectDesc": "Cinema and Digital Media",
+            "courseNum": "041BV",
+            "hidCRN": "56147",
+            "crn": "56147",
+            "subjectCode": "CDM"
+        },
+        "instructor": [
+            {
+                "lastName": "Di Montezemolo",
+                "instructorName": "F. Di Montezemolo",
+                "firstName": "Fiamma",
+                "instructorEmail": "fmontezemolo@ucdavis.edu",
+                "fullName": "Fiamma Di Montezemolo"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Examines cinema from 1945 through the present, with focus on neo-realist, new wave and third-world movements.  Examines social critique in cinema from studio system to New Wave, Cine Novo, postcolonial cinema and contemporary independent cinema.",
+            "creditLimit": "",
+            "ge3": "AH,VL,WC,WE",
+            "crossListing": "",
+            "prereq": " CDM 001 recommended. "
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "0",
+                "startTime": "0900",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00000"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "3",
+                "startTime": "",
+                "building": "",
+                "description": "Film Viewing",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "F-V",
+                "room": ""
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "%",
+                "startTime": "1100",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Electronic Dis",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WED",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CDM 041BV A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "56148",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "History of Cinema from 1945-Present",
+            "subjectDesc": "Cinema and Digital Media",
+            "courseNum": "041BV",
+            "hidCRN": "56148",
+            "crn": "56148",
+            "subjectCode": "CDM"
+        },
+        "instructor": [
+            {
+                "lastName": "Di Montezemolo",
+                "instructorName": "F. Di Montezemolo",
+                "firstName": "Fiamma",
+                "instructorEmail": "fmontezemolo@ucdavis.edu",
+                "fullName": "Fiamma Di Montezemolo"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Continuation of CDM 100 with further exploration of digital cinema creation. Additional topics include new modes of distribution, streaming, installation and exhibition.",
+            "creditLimit": "",
+            "ge3": "AH,VL",
+            "crossListing": "",
+            "prereq": " CDM 100;  Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1310",
+                "building": "Art Annex",
+                "description": "Laboratory",
+                "buildingCode": "ARTANX",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00103"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1310",
+                "building": "Art Annex",
+                "description": "Lecture",
+                "buildingCode": "ARTANX",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00107"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CDM 101 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56149",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Experimental Digital Cinema II",
+            "subjectDesc": "Cinema and Digital Media",
+            "courseNum": "101",
+            "hidCRN": "56149",
+            "crn": "56149",
+            "subjectCode": "CDM"
+        },
+        "instructor": [
+            {
+                "lastName": "Wyman",
+                "instructorName": "J. Wyman",
+                "firstName": "Julie",
+                "instructorEmail": "jfwyman@ucdavis.edu",
+                "fullName": "Julie Wyman"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Traditional and new forms of documentary, with focus on technocultural issues. Skills and strategies for producing work in various media. Progression through all stages of production, from conception through post-production to critique. ",
+            "creditLimit": "",
+            "ge3": "AH,VL",
+            "crossListing": "",
+            "prereq": " CDM 020;  CDM 155;  TCS 155;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1250",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "1000",
+                "building": "Art Annex",
+                "description": "Lecture/Discussion",
+                "buildingCode": "ARTANX",
+                "saturday": false,
+                "type": "LED",
+                "room": "00107"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1250",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1000",
+                "building": "Art Annex",
+                "description": "Laboratory",
+                "buildingCode": "ARTANX",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00103"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CDM 104 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "33428",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Documentary Production",
+            "subjectDesc": "Cinema and Digital Media",
+            "courseNum": "104",
+            "hidCRN": "33428",
+            "crn": "33428",
+            "subjectCode": "CDM"
+        },
+        "instructor": [
+            {
+                "lastName": "Okpako",
+                "instructorName": "B. Okpako",
+                "firstName": "Branwen",
+                "instructorEmail": "bkokpako@ucdavis.edu",
+                "fullName": "Branwen Okpako"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Use of sound to articulate, lend mood or subconsciously underscore visual, environmental, or performative situations, combining music, voice, sound effects and other noises to create sound designs that enhance, alter or support action and movement.",
+            "creditLimit": "",
+            "ge3": "AH",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "1510",
+                "building": "Art Annex",
+                "description": "Lecture/Discussion",
+                "buildingCode": "ARTANX",
+                "saturday": false,
+                "type": "LED",
+                "room": "00103"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1510",
+                "building": "Art Annex",
+                "description": "Laboratory",
+                "buildingCode": "ARTANX",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00101"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CDM 123 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56150",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Sight & Soundtrack",
+            "subjectDesc": "Cinema and Digital Media",
+            "courseNum": "123",
+            "hidCRN": "56150",
+            "crn": "56150",
+            "subjectCode": "CDM"
+        },
+        "instructor": [
+            {
+                "lastName": "Okpako",
+                "instructorName": "B. Okpako",
+                "firstName": "Branwen",
+                "instructorEmail": "bkokpako@ucdavis.edu",
+                "fullName": "Branwen Okpako"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introductory survey of animation history. Reading, writing, and discussion about animation.",
+            "creditLimit": "",
+            "ge3": "AH,SS,VL,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "1510",
+                "building": "Art Annex",
+                "description": "Lecture/Discussion",
+                "buildingCode": "ARTANX",
+                "saturday": false,
+                "type": "LED",
+                "room": "00107"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "3",
+                "startTime": "",
+                "building": "",
+                "description": "Film Viewing",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "F-V",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CDM 139 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56380",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Histories of Animation ",
+            "subjectDesc": "Cinema and Digital Media",
+            "courseNum": "139",
+            "hidCRN": "56380",
+            "crn": "56380",
+            "subjectCode": "CDM"
+        },
+        "instructor": [
+            {
+                "lastName": "Sweeney",
+                "instructorName": "K. Sweeney",
+                "firstName": "Katlin",
+                "instructorEmail": "kmsweeney@ucdavis.edu",
+                "fullName": "Katlin Sweeney"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Critical and theoretical approaches to the emergence of new technologies since the invention of photography. Examine various approaches to media: formalist, semiotic, structuralist, Frankfurt School, cybernetics, visual and gamer theory.",
+            "creditLimit": "",
+            "ge3": "AH,SS,VL,WE",
+            "crossListing": "STS 151",
+            "prereq": " CDM 002 or CDM 003 recommended"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1000",
+                "building": "Cruess Hall",
+                "description": "Discussion",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00220"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "3",
+                "startTime": "",
+                "building": "",
+                "description": "Film Viewing",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "F-V",
+                "room": ""
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Cruess Hall",
+                "description": "Lecture",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01002"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "CDM 151 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "33430",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Media Theory",
+            "subjectDesc": "Cinema and Digital Media",
+            "courseNum": "151",
+            "hidCRN": "33430",
+            "crn": "33430",
+            "subjectCode": "CDM"
+        },
+        "instructor": [
+            {
+                "lastName": "Lenoir",
+                "instructorName": "T. Lenoir",
+                "firstName": "Timothy",
+                "instructorEmail": "lenoir@ucdavis.edu",
+                "fullName": "Timothy Lenoir"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Critical and theoretical approaches to the emergence of new technologies since the invention of photography. Examine various approaches to media: formalist, semiotic, structuralist, Frankfurt School, cybernetics, visual and gamer theory.",
+            "creditLimit": "",
+            "ge3": "AH,SS,VL,WE",
+            "crossListing": "STS 151",
+            "prereq": " CDM 002 or CDM 003 recommended"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1100",
+                "building": "Cruess Hall",
+                "description": "Discussion",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00220"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "3",
+                "startTime": "",
+                "building": "",
+                "description": "Film Viewing",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "F-V",
+                "room": ""
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Cruess Hall",
+                "description": "Lecture",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01002"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "CDM 151 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "33431",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Media Theory",
+            "subjectDesc": "Cinema and Digital Media",
+            "courseNum": "151",
+            "hidCRN": "33431",
+            "crn": "33431",
+            "subjectCode": "CDM"
+        },
+        "instructor": [
+            {
+                "lastName": "Lenoir",
+                "instructorName": "T. Lenoir",
+                "firstName": "Timothy",
+                "instructorEmail": "lenoir@ucdavis.edu",
+                "fullName": "Timothy Lenoir"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Critical and theoretical approaches to the emergence of new technologies since the invention of photography. Examine various approaches to media: formalist, semiotic, structuralist, Frankfurt School, cybernetics, visual and gamer theory.",
+            "creditLimit": "",
+            "ge3": "AH,SS,VL,WE",
+            "crossListing": "STS 151",
+            "prereq": " CDM 002 or CDM 003 recommended"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1000",
+                "building": "Cruess Hall",
+                "description": "Discussion",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01107"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "3",
+                "startTime": "",
+                "building": "",
+                "description": "Film Viewing",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "F-V",
+                "room": ""
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Cruess Hall",
+                "description": "Lecture",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01002"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "CDM 151 A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "33432",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Media Theory",
+            "subjectDesc": "Cinema and Digital Media",
+            "courseNum": "151",
+            "hidCRN": "33432",
+            "crn": "33432",
+            "subjectCode": "CDM"
+        },
+        "instructor": [
+            {
+                "lastName": "Lenoir",
+                "instructorName": "T. Lenoir",
+                "firstName": "Timothy",
+                "instructorEmail": "lenoir@ucdavis.edu",
+                "fullName": "Timothy Lenoir"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Critical and theoretical approaches to the emergence of new technologies since the invention of photography. Examine various approaches to media: formalist, semiotic, structuralist, Frankfurt School, cybernetics, visual and gamer theory.",
+            "creditLimit": "",
+            "ge3": "AH,SS,VL,WE",
+            "crossListing": "STS 151",
+            "prereq": " CDM 002 or CDM 003 recommended"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1100",
+                "building": "Cruess Hall",
+                "description": "Discussion",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01107"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "3",
+                "startTime": "",
+                "building": "",
+                "description": "Film Viewing",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "F-V",
+                "room": ""
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Cruess Hall",
+                "description": "Lecture",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01002"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "CDM 151 A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "33433",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Media Theory",
+            "subjectDesc": "Cinema and Digital Media",
+            "courseNum": "151",
+            "hidCRN": "33433",
+            "crn": "33433",
+            "subjectCode": "CDM"
+        },
+        "instructor": [
+            {
+                "lastName": "Lenoir",
+                "instructorName": "T. Lenoir",
+                "firstName": "Timothy",
+                "instructorEmail": "lenoir@ucdavis.edu",
+                "fullName": "Timothy Lenoir"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Theory and methods for researching games, play, media, and culture. Reading, writing, and discussion about playable media.",
+            "creditLimit": "",
+            "ge3": "AH,VL,WE",
+            "crossListing": "ENL 171.",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "3",
+                "startTime": "1310",
+                "building": "Cruess Hall",
+                "description": "Film Viewing",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "F-V",
+                "room": "01107"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1310",
+                "building": "Cruess Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "LED",
+                "room": "01107"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CDM 171 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56151",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Game Studies Seminar",
+            "subjectDesc": "Cinema and Digital Media",
+            "courseNum": "171",
+            "hidCRN": "56151",
+            "crn": "56151",
+            "subjectCode": "CDM"
+        },
+        "instructor": [
+            {
+                "lastName": "Boluk",
+                "instructorName": "S. Boluk",
+                "firstName": "Stephanie",
+                "instructorEmail": "boluk@ucdavis.edu",
+                "fullName": "Stephanie Boluk"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special topics in analog game design for upper division students.",
+            "creditLimit": "",
+            "ge3": "AH,VL",
+            "crossListing": "",
+            "prereq": " CDM 072 or CDM 172 or CTS 172;  or Consent of Instructor.  Recommended: CDM 173, CDM 175 or CDM 177."
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1250",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "1000",
+                "building": "Cruess Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "LED",
+                "room": "01106"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1250",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1000",
+                "building": "Cruess Hall",
+                "description": "Laboratory",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01106"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CDM 174 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56264",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Special Topics in Analog Game Design",
+            "subjectDesc": "Cinema and Digital Media",
+            "courseNum": "174",
+            "hidCRN": "56264",
+            "crn": "56264",
+            "subjectCode": "CDM"
+        },
+        "instructor": [
+            {
+                "lastName": "Az",
+                "instructorName": "L. Az",
+                "firstName": "Lishan",
+                "instructorEmail": "lbaz@ucdavis.edu",
+                "fullName": "Lishan Az"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Digital game development. Theories of control, interface, game feel, glitch, mechanics. Design, demo, and distribution of new digital games.",
+            "creditLimit": "",
+            "ge3": "AH,SE,VL",
+            "crossListing": "",
+            "prereq": " CDM 072 or CDM 172 or CTS 172;  Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1250",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1000",
+                "building": "Cruess Hall",
+                "description": "Laboratory",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01106"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1250",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1000",
+                "building": "Cruess Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "LED",
+                "room": "01106"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CDM 175 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "33434",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introduction to Digital Game Development",
+            "subjectDesc": "Cinema and Digital Media",
+            "courseNum": "175",
+            "hidCRN": "33434",
+            "crn": "33434",
+            "subjectCode": "CDM"
+        },
+        "instructor": [
+            {
+                "lastName": "Lemieux",
+                "instructorName": "P. Lemieux",
+                "firstName": "Patrick",
+                "instructorEmail": "lemieux@ucdavis.edu",
+                "fullName": "Patrick Lemieux"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special topics in digital game development for upper division students.",
+            "creditLimit": "",
+            "ge3": "AH,SE,VL",
+            "crossListing": "",
+            "prereq": " CDM 072 or CDM 172 or CTS 172;  or Consent of Instructor.  Recommended: CDM 173, CDM 175 or CDM 177."
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1900",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1610",
+                "building": "Cruess Hall",
+                "description": "Laboratory",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01106"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1900",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1610",
+                "building": "Cruess Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "LED",
+                "room": "01106"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CDM 176 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "33435",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Special Topics in Digital Game Development",
+            "subjectDesc": "Cinema and Digital Media",
+            "courseNum": "176",
+            "hidCRN": "33435",
+            "crn": "33435",
+            "subjectCode": "CDM"
+        },
+        "instructor": [
+            {
+                "lastName": "Lemieux",
+                "instructorName": "P. Lemieux",
+                "firstName": "Patrick",
+                "instructorEmail": "lemieux@ucdavis.edu",
+                "fullName": "Patrick Lemieux"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special topics in digital game development for upper division students.",
+            "creditLimit": "",
+            "ge3": "AH,SE,VL",
+            "crossListing": "",
+            "prereq": " CDM 072 or CDM 172 or CTS 172;  or Consent of Instructor.  Recommended: CDM 173, CDM 175 or CDM 177."
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1310",
+                "building": "Cruess Hall",
+                "description": "Laboratory",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01106"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1310",
+                "building": "Cruess Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "LED",
+                "room": "01106"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CDM 176 002",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "002",
+            "printCRN": "56265",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Special Topics in Digital Game Development",
+            "subjectDesc": "Cinema and Digital Media",
+            "courseNum": "176",
+            "hidCRN": "56265",
+            "crn": "56265",
+            "subjectCode": "CDM"
+        },
+        "instructor": [
+            {
+                "lastName": "Wright",
+                "instructorName": "A. Wright",
+                "firstName": "Adam",
+                "instructorEmail": "augwright@ucdavis.edu",
+                "fullName": "Adam Wright"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Supervised internship, on or off campus, in the area of cinema and digital media.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Upper division standing"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "I",
+                "startTime": "",
+                "building": "",
+                "description": "Internship",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "INT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "CDM 192",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Internship",
+            "subjectDesc": "Cinema and Digital Media",
+            "courseNum": "192",
+            "hidCRN": "0E4DC2CAEF",
+            "crn": "33441",
+            "subjectCode": "CDM"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed reading, research and writing culminating in the completion of a senior honors thesis or significant creative project under direction of faculty sponsor.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  GPA of at least 3.500; senior standing."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "CDM 195HB",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "002",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Honors Project in Cinema & Digital Media",
+            "subjectDesc": "Cinema and Digital Media",
+            "courseNum": "195HB",
+            "hidCRN": "0E4DC2CBED",
+            "crn": "33453",
+            "subjectCode": "CDM"
+        },
+        "instructor": [
+            {
+                "lastName": "",
+                "instructorName": ". ",
+                "firstName": "",
+                "instructorEmail": "",
+                "fullName": " "
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Teaching assistant training practicum.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Graduate standing."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "CDM 396",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 4,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Teaching Assistant Training Practicum",
+            "subjectDesc": "Cinema and Digital Media",
+            "courseNum": "396",
+            "hidCRN": "0E4DC2C8E7",
+            "crn": "33469",
+            "subjectCode": "CDM"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    }
+]

@@ -1,0 +1,464 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Current Techniques in Biophysics. Topics include protein folding, membrane structure and dynamics, Raman spectroscopy, fluorescence resonance energy transfer, time resolved fluorescence, quantum dot, fluorescence imaging,esr, high resolution nmr, and in vivo nmr.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " CHE 110A;  BIS 102;  Or equivalent of BIS 102."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1530",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00105"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "BPH 200B 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "33239",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Current Techniques in Biophysics",
+            "subjectDesc": "Biophysics (Graduate Group)",
+            "courseNum": "200B",
+            "hidCRN": "33239",
+            "crn": "33239",
+            "subjectCode": "BPH"
+        },
+        "instructor": [
+            {
+                "lastName": "Jue",
+                "instructorName": "T. Jue",
+                "firstName": "Thomas",
+                "instructorEmail": "tjue@ucdavis.edu",
+                "fullName": "Thomas Jue"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "One five-week laboratory assignment in the research laboratory of a Biophysics Graduate Group faculty member. Individual research problems with emphasis on methodological/procedural experience and experimental design.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " BPH 200 { can be concurrent }"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "",
+                "building": "",
+                "description": "Laboratory",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LAB",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "BPH 200LA",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Biophysics Laboratory",
+            "subjectDesc": "Biophysics (Graduate Group)",
+            "courseNum": "200LA",
+            "hidCRN": "0E4DC4CAEE",
+            "crn": "33240",
+            "subjectCode": "BPH"
+        },
+        "instructor": [
+            {
+                "lastName": "Vorobyov",
+                "instructorName": "I. Vorobyov",
+                "firstName": "Igor",
+                "instructorEmail": "ivorobyov@ucdavis.edu",
+                "fullName": "Igor Vorobyov"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Two five-week laboratory assignments in the research laboratories of Biophysics Graduate Group faculty members. Individual research problems with emphasis on methodological/procedural experience and experimental design.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " BPH 200 { can be concurrent }"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "",
+                "building": "",
+                "description": "Laboratory",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LAB",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 6,
+            "reservedSeating": false,
+            "shortDesc": "BPH 200LB 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "33241",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Biophysics Laboratory",
+            "subjectDesc": "Biophysics (Graduate Group)",
+            "courseNum": "200LB",
+            "hidCRN": "33241",
+            "crn": "33241",
+            "subjectCode": "BPH"
+        },
+        "instructor": [
+            {
+                "lastName": "Vorobyov",
+                "instructorName": "I. Vorobyov",
+                "firstName": "Igor",
+                "instructorEmail": "ivorobyov@ucdavis.edu",
+                "fullName": "Igor Vorobyov"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Advanced topics on membrane biochemistry and biophysics.  Relationship of the unique properties of biomembranes to their roles in cell biology and physiology.  ",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " BIS 102;  BIS 103;  BIS 104;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1340",
+                "building": "Tupper Hall",
+                "description": "Lecture",
+                "buildingCode": "TUPPER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "02433"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "BPH 241 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "33243",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Membrane Biology",
+            "subjectDesc": "Biophysics (Graduate Group)",
+            "courseNum": "241",
+            "hidCRN": "33243",
+            "crn": "33243",
+            "subjectCode": "BPH"
+        },
+        "instructor": [
+            {
+                "lastName": "Voss",
+                "instructorName": "J. Voss",
+                "firstName": "John",
+                "instructorEmail": "jcvoss@ucdavis.edu",
+                "fullName": "John Voss"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Presentation of current research by experts in biophysics.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Graduate standing or consent of instructor."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "E",
+                "startTime": "1510",
+                "building": "Green Hall",
+                "description": "Seminar",
+                "buildingCode": "GREENH",
+                "saturday": false,
+                "type": "SEM",
+                "room": "01022"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "BPH 290 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "33244",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Biophysics Seminar",
+            "subjectDesc": "Biophysics (Graduate Group)",
+            "courseNum": "290",
+            "hidCRN": "33244",
+            "crn": "33244",
+            "subjectCode": "BPH"
+        },
+        "instructor": [
+            {
+                "lastName": "Cheng",
+                "instructorName": "R. Cheng",
+                "firstName": "R Holland",
+                "instructorEmail": "rhch@ucdavis.edu",
+                "fullName": "R Holland Cheng"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Presentation and discussion of faculty and graduate-student research in biophysics.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " BPH 299 { can be concurrent };  graduate standing in Biophysics and/or consent of instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "",
+                "building": "",
+                "description": "Discussion",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "DIS",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "BPH 290C",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research Conference in Biophysics",
+            "subjectDesc": "Biophysics (Graduate Group)",
+            "courseNum": "290C",
+            "hidCRN": "0E4DC4CAEB",
+            "crn": "33245",
+            "subjectCode": "BPH"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Group study.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "BPH 298",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Group Study",
+            "subjectDesc": "Biophysics (Graduate Group)",
+            "courseNum": "298",
+            "hidCRN": "0E4DC4CAE8",
+            "crn": "33246",
+            "subjectCode": "BPH"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed reading and discussion on select topics",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2000",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "1810",
+                "building": "West Village Viridian Bldg 4",
+                "description": "Variable",
+                "buildingCode": "WVVIR4",
+                "saturday": false,
+                "type": "VAR",
+                "room": "01103"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "EGG 298A",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "001",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Group Study",
+            "subjectDesc": "Energy Systems",
+            "courseNum": "298A",
+            "hidCRN": "0848C2C8EB",
+            "crn": "56465",
+            "subjectCode": "EGG"
+        },
+        "instructor": [
+            {
+                "lastName": "Meier",
+                "instructorName": "A. Meier",
+                "firstName": "Alan",
+                "instructorEmail": "akmeier@ucdavis.edu",
+                "fullName": "Alan Meier"
+            }
+        ]
+    }
+]

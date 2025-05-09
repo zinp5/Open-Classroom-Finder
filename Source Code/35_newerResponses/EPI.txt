@@ -1,0 +1,756 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduces statistical models, methods, and data analysis in the areas of generalized linear model and survival analysis methodology.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " STA 108;  (EPI 203 or STA 130B or STA 131B);  EPI 205"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "G",
+                "startTime": "",
+                "building": "",
+                "description": "Discussion Laboratory",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "D/L",
+                "room": ""
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Gladys Valley Hall",
+                "description": "Lecture",
+                "buildingCode": "VALLEY",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01010"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EPI 204 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "40250",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Quantitative Epidemiology III: Statistical Models",
+            "subjectDesc": "Epidemiology (Graduate Group)",
+            "courseNum": "204",
+            "hidCRN": "40250",
+            "crn": "40250",
+            "subjectCode": "EPI"
+        },
+        "instructor": [
+            {
+                "lastName": "Morrison",
+                "instructorName": "E. Morrison",
+                "firstName": "Ezra",
+                "instructorEmail": "demorrison@ucdavis.edu",
+                "fullName": "Ezra Morrison"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "In-depth integration of advanced epidemiological concepts. Theory, methods, and applications for observational studies including random and systematic error, confounding, counterfactuals, causal inference, effect modification, internal and external validity, estimability, and interpretation of effect measures, and advanced study designs.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "SPH 207.",
+            "prereq": " EPI 206"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "1410",
+                "building": "Gladys Valley Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "VALLEY",
+                "saturday": false,
+                "type": "LED",
+                "room": "01010"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EPI 207",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Advanced Epidemiologic Methodology",
+            "subjectDesc": "Epidemiology (Graduate Group)",
+            "courseNum": "207",
+            "hidCRN": "094EC4CBEF",
+            "crn": "40251",
+            "subjectCode": "EPI"
+        },
+        "instructor": [
+            {
+                "lastName": "Kass",
+                "instructorName": "P. Kass",
+                "firstName": "Philip",
+                "instructorEmail": "phkass@ucdavis.edu",
+                "fullName": "Philip Kass"
+            },
+            {
+                "lastName": "Hussain",
+                "instructorName": "S. Hussain",
+                "firstName": "Shehnaz",
+                "instructorEmail": "skhussain@ucdavis.edu",
+                "fullName": "Shehnaz Hussain"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Geographic Information Systems (GIS) and spatial statistics. Students are expected to complete a term project based on their graduate research.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " EPI 205 or MPM 205"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Gladys Valley Hall",
+                "description": "Lecture",
+                "buildingCode": "VALLEY",
+                "saturday": false,
+                "type": "LEC",
+                "room": "02020"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1000",
+                "building": "Gladys Valley Hall",
+                "description": "Laboratory",
+                "buildingCode": "VALLEY",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02020"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1100",
+                "building": "Gladys Valley Hall",
+                "description": "Lecture",
+                "buildingCode": "VALLEY",
+                "saturday": false,
+                "type": "LEC",
+                "room": "02020"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "EPI 223 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56182",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Spatial Epidemiology ",
+            "subjectDesc": "Epidemiology (Graduate Group)",
+            "courseNum": "223",
+            "hidCRN": "56182",
+            "crn": "56182",
+            "subjectCode": "EPI"
+        },
+        "instructor": [
+            {
+                "lastName": "Barker",
+                "instructorName": "C. Barker",
+                "firstName": "Christopher",
+                "instructorEmail": "cmbarker@ucdavis.edu",
+                "fullName": "Christopher Barker"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Overview of the modern field of molecular epidemiology. Integrates molecular biology into traditional epidemiologic research by identifying pathways, molecules and genes that influence the risk of developing disease. ",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " EPI 205"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1730",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1610",
+                "building": "Gladys Valley Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "VALLEY",
+                "saturday": false,
+                "type": "LED",
+                "room": "01010"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "EPI 230 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56183",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Molecular Epidemiology",
+            "subjectDesc": "Epidemiology (Graduate Group)",
+            "courseNum": "230",
+            "hidCRN": "56183",
+            "crn": "56183",
+            "subjectCode": "EPI"
+        },
+        "instructor": [
+            {
+                "lastName": "Schmidt",
+                "instructorName": "R. Schmidt",
+                "firstName": "Rebecca",
+                "instructorEmail": "rjschmidt@ucdavis.edu",
+                "fullName": "Rebecca Schmidt"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Theory of epidemics and mathematical modeling concepts for infectious diseases to include discrete and continuous time models, their use to explore disease dynamics and investigate prevention and control strategies for human and veterinary infectious diseases.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "PHR 277.",
+            "prereq": " MPM 403;  MPM 405;  and Consent of Instructor.  Although not required, students encouraged to refresh their knowledge of high school calculus and differential equations. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1200",
+                "building": "Gladys Valley Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "VALLEY",
+                "saturday": false,
+                "type": "LED",
+                "room": "02020"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1410",
+                "building": "Gladys Valley Hall",
+                "description": "Laboratory",
+                "buildingCode": "VALLEY",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02020"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "EPI 277",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Mathematical Models in Epidemiology",
+            "subjectDesc": "Epidemiology (Graduate Group)",
+            "courseNum": "277",
+            "hidCRN": "094EC4CBEA",
+            "crn": "40254",
+            "subjectCode": "EPI"
+        },
+        "instructor": [
+            {
+                "lastName": "Aly",
+                "instructorName": "S. Aly",
+                "firstName": "Sharif",
+                "instructorEmail": "saly@ucdavis.edu",
+                "fullName": "Sharif Aly"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Faculty and students will present and lead discussion of ongoing or published epidemiologic research.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "E",
+                "startTime": "1210",
+                "building": "Gladys Valley Hall",
+                "description": "Seminar",
+                "buildingCode": "VALLEY",
+                "saturday": false,
+                "type": "SEM",
+                "room": "01010"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 0.5,
+            "reservedSeating": false,
+            "shortDesc": "EPI 290 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "40255",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Seminars in Epidemiology ",
+            "subjectDesc": "Epidemiology (Graduate Group)",
+            "courseNum": "290",
+            "hidCRN": "40255",
+            "crn": "40255",
+            "subjectCode": "EPI"
+        },
+        "instructor": [
+            {
+                "lastName": "Nuno",
+                "instructorName": "M. Nuno",
+                "firstName": "Miriam",
+                "instructorEmail": "mnuno@ucdavis.edu",
+                "fullName": "Miriam Nuno"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Critical review, evaluation, and discussion of research in health services and clinical epidemiology. Presentation of statistical, epidemiologic, and econometric methods. Students present their own research and critique the work of others.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "GMD 291.",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "E",
+                "startTime": "1210",
+                "building": "Gourley Clinic Teaching Center",
+                "description": "Seminar",
+                "buildingCode": "GRLEY",
+                "saturday": false,
+                "type": "SEM",
+                "room": "01102"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "EPI 291",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Seminars in Human Health Services Research & Clinical Epidemiology",
+            "subjectDesc": "Epidemiology (Graduate Group)",
+            "courseNum": "291",
+            "hidCRN": "094EC4CBE8",
+            "crn": "40256",
+            "subjectCode": "EPI"
+        },
+        "instructor": [
+            {
+                "lastName": "Lyles",
+                "instructorName": "C. Lyles",
+                "firstName": "Courtney",
+                "instructorEmail": "crlyles@ucdavis.edu",
+                "fullName": "Courtney Lyles"
+            },
+            {
+                "lastName": "Hoch",
+                "instructorName": "J. Hoch",
+                "firstName": "Jeffrey",
+                "instructorEmail": "jshoch@ucdavis.edu",
+                "fullName": "Jeffrey Hoch"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Group study in selected areas of epidemiology.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "EPI 298",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Group Study",
+            "subjectDesc": "Epidemiology (Graduate Group)",
+            "courseNum": "298",
+            "hidCRN": "094EC4CBE9",
+            "crn": "40257",
+            "subjectCode": "EPI"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Research in selected areas of epidemiology.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "EPI 299",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research",
+            "subjectDesc": "Epidemiology (Graduate Group)",
+            "courseNum": "299",
+            "hidCRN": "094EC5CFEC",
+            "crn": "40312",
+            "subjectCode": "EPI"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Research in selected areas of epidemiology.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "EPI 299",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "060",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research",
+            "subjectDesc": "Epidemiology (Graduate Group)",
+            "courseNum": "299",
+            "hidCRN": "094EC5C9EC",
+            "crn": "40372",
+            "subjectCode": "EPI"
+        },
+        "instructor": [
+            {
+                "lastName": "Pitesky",
+                "instructorName": "M. Pitesky",
+                "firstName": "Maurice",
+                "instructorEmail": "mepitesky@ucdavis.edu",
+                "fullName": "Maurice Pitesky"
+            }
+        ]
+    }
+]

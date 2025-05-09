@@ -1,0 +1,2976 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Probabilistic concepts and models in engineering. Statistical analysis of engineering experimental and field data. Introduction to stochastic processes and models of engineering systems.",
+            "creditLimit": "Not open for credit to students who have completed STA 120.",
+            "ge3": "QL,SE",
+            "crossListing": "",
+            "prereq": " MAT 021C C- or better"
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1000",
+                "building": "Chemistry",
+                "description": "Lecture",
+                "buildingCode": "CHEM",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00179"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECI 114 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "37272",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Probabilistic Systems Analysis for Civil & Environmental Engineers",
+            "subjectDesc": "Engineering Civil & Environ",
+            "courseNum": "114",
+            "hidCRN": "37272",
+            "crn": "37272",
+            "subjectCode": "ECI"
+        },
+        "instructor": [
+            {
+                "lastName": "Jaller Martelo",
+                "instructorName": "M. Jaller Martelo",
+                "firstName": "Miguel",
+                "instructorEmail": "mjaller@ucdavis.edu",
+                "fullName": "Miguel Jaller Martelo"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Presentation, implementation and application of numerical algorithms and computer models for the solution of practical problems in Civil and Environmental Engineering.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " (ENG 006 C- or better or ECS 030 C- or better or ECS 032AV C- or better or ECS 032A C- or better);  (MAT 022B C- or better or MAT 027B C- or better)"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0920",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "0800",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00202"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "C",
+                "startTime": "0930",
+                "building": "Wellman Hall",
+                "description": "Laboratory",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00202"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECI 115 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55788",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Computer Methods in Civil & Environmental Engineering",
+            "subjectDesc": "Engineering Civil & Environ",
+            "courseNum": "115",
+            "hidCRN": "55788",
+            "crn": "55788",
+            "subjectCode": "ECI"
+        },
+        "instructor": [
+            {
+                "lastName": "De Finnda",
+                "instructorName": "C. De Finnda",
+                "firstName": "Casey",
+                "instructorEmail": "cdefinnda@ucdavis.edu",
+                "fullName": "Casey De Finnda"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Systems-level approach of how to evaluate and then modify sustainability of urban systems based on interaction with natural environments. Topics include: definition/metrics of urban sustainability; system analyses of urban systems; enabling technology, policies, legislation; measures and modification of ecological footprints. May be taught abroad.",
+            "creditLimit": "",
+            "ge3": "DD,SE,SL,SS,ACGH",
+            "crossListing": "",
+            "prereq": " Upper division standing."
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Cruess Hall",
+                "description": "Lecture",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01002"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECI 123 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "37273",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Urban Systems & Sustainability",
+            "subjectDesc": "Engineering Civil & Environ",
+            "courseNum": "123",
+            "hidCRN": "37273",
+            "crn": "37273",
+            "subjectCode": "ECI"
+        },
+        "instructor": [
+            {
+                "lastName": "Kendall",
+                "instructorName": "A. Kendall",
+                "firstName": "Alissa",
+                "instructorEmail": "amkendall@ucdavis.edu",
+                "fullName": "Alissa Kendall"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Elastic structural analysis of determinate and indeterminate trusses, beams and frames. Plastic bending and limit analysis.",
+            "creditLimit": "",
+            "ge3": "QL,SE",
+            "crossListing": "",
+            "prereq": " ENG 104 C- or better;  (MAT 022A or MAT 027A)"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1730",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1610",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "02218"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1740",
+                "building": "Teaching and Learning Complex",
+                "description": "Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "02218"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECI 130 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56050",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Structural Analysis",
+            "subjectDesc": "Engineering Civil & Environ",
+            "courseNum": "130",
+            "hidCRN": "56050",
+            "crn": "56050",
+            "subjectCode": "ECI"
+        },
+        "instructor": [
+            {
+                "lastName": "Grilli",
+                "instructorName": "D. Grilli",
+                "firstName": "David",
+                "instructorEmail": "dagrilli@ucdavis.edu",
+                "fullName": "David Grilli"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Design of metallic beams, columns, and other members for various types of loading and boundary conditions; design of connections between members; member performance within structural systems.",
+            "creditLimit": "",
+            "ge3": "SE,VL",
+            "crossListing": "",
+            "prereq": " ECI 130 C- or better"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1730",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1610",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00158"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1740",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00158"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECI 132 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55632",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Structural Design: Metallic Elements",
+            "subjectDesc": "Engineering Civil & Environ",
+            "courseNum": "132",
+            "hidCRN": "55632",
+            "crn": "55632",
+            "subjectCode": "ECI"
+        },
+        "instructor": [
+            {
+                "lastName": "Shaw",
+                "instructorName": "S. Shaw",
+                "firstName": "Sean",
+                "instructorEmail": "smshaw@ucdavis.edu",
+                "fullName": "Sean Shaw"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Strength design procedures for columns, rectangular beams, T-beams and beams of general cross-section. Building code requirements for bending, shear, axial load, combined stresses and bond. Introduction to prestressed concrete.",
+            "creditLimit": "",
+            "ge3": "QL,SE",
+            "crossListing": "",
+            "prereq": " ECI 130 C- or better"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1900",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1610",
+                "building": "Wellman Hall",
+                "description": "Laboratory",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00230"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00115"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECI 135 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "37275",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Structural Design:  Concrete Elements",
+            "subjectDesc": "Engineering Civil & Environ",
+            "courseNum": "135",
+            "hidCRN": "37275",
+            "crn": "37275",
+            "subjectCode": "ECI"
+        },
+        "instructor": [
+            {
+                "lastName": "Milev",
+                "instructorName": "S. Milev",
+                "firstName": "Sandra",
+                "instructorEmail": "smilev@ucdavis.edu",
+                "fullName": "Sandra Milev"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Evaluation and design of water and wastewater treatment systems.May be taught abroad.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " ECI 140A C- or better;  ECI 140B C- or better"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00115"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1900",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1610",
+                "building": "Ghausi Hall",
+                "description": "Laboratory",
+                "buildingCode": "GHAUSI",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01104"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECI 140CN 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55636",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Water & Wastewater Treatment System Design",
+            "subjectDesc": "Engineering Civil & Environ",
+            "courseNum": "140CN",
+            "hidCRN": "55636",
+            "crn": "55636",
+            "subjectCode": "ECI"
+        },
+        "instructor": [
+            {
+                "lastName": "Young",
+                "instructorName": "T. Young",
+                "firstName": "Thomas",
+                "instructorEmail": "tyoung@ucdavis.edu",
+                "fullName": "Thomas Young"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Nature of flow of a real fluid; flow in pipes; open channel flow; turbomachinery; fluid forces on objects: boundary layers, lift and drag.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " ENG 103 C- or better or ECI 100 C- or better"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Chemistry",
+                "description": "Lecture",
+                "buildingCode": "CHEM",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00179"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ECI 141 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "37278",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Engineering Hydraulics",
+            "subjectDesc": "Engineering Civil & Environ",
+            "courseNum": "141",
+            "hidCRN": "37278",
+            "crn": "37278",
+            "subjectCode": "ECI"
+        },
+        "instructor": [
+            {
+                "lastName": "Sepulveda Steiner",
+                "instructorName": "O. Sepulveda Steiner",
+                "firstName": "Oscar",
+                "instructorEmail": "osepulve@ucdavis.edu",
+                "fullName": "Oscar Sepulveda Steiner"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Laboratory experiments and demonstrations on flow measurements, sluice gates, hydraulic jump, flow characteristics, and centrifugal pumps.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " ECI 141 { can be concurrent }"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1900",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "C",
+                "startTime": "1610",
+                "building": "Ghausi Hall",
+                "description": "Laboratory",
+                "buildingCode": "GHAUSI",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01104"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ECI 141L 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "37279",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Engineering Hydraulics Laboratory",
+            "subjectDesc": "Engineering Civil & Environ",
+            "courseNum": "141L",
+            "hidCRN": "37279",
+            "crn": "37279",
+            "subjectCode": "ECI"
+        },
+        "instructor": [
+            {
+                "lastName": "Sepulveda Steiner",
+                "instructorName": "O. Sepulveda Steiner",
+                "firstName": "Oscar",
+                "instructorEmail": "osepulve@ucdavis.edu",
+                "fullName": "Oscar Sepulveda Steiner"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Laboratory experiments and demonstrations on flow measurements, sluice gates, hydraulic jump, flow characteristics, and centrifugal pumps.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " ECI 141 { can be concurrent }"
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1900",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1610",
+                "building": "Ghausi Hall",
+                "description": "Laboratory",
+                "buildingCode": "GHAUSI",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01104"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ECI 141L 002",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "002",
+            "printCRN": "37280",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Engineering Hydraulics Laboratory",
+            "subjectDesc": "Engineering Civil & Environ",
+            "courseNum": "141L",
+            "hidCRN": "37280",
+            "crn": "37280",
+            "subjectCode": "ECI"
+        },
+        "instructor": [
+            {
+                "lastName": "Sepulveda Steiner",
+                "instructorName": "O. Sepulveda Steiner",
+                "firstName": "Oscar",
+                "instructorEmail": "osepulve@ucdavis.edu",
+                "fullName": "Oscar Sepulveda Steiner"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Laboratory experiments and demonstrations on flow measurements, sluice gates, hydraulic jump, flow characteristics, and centrifugal pumps.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " ECI 141 { can be concurrent }"
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0800",
+                "building": "Ghausi Hall",
+                "description": "Laboratory",
+                "buildingCode": "GHAUSI",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01104"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ECI 141L 003",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "003",
+            "printCRN": "56523",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Engineering Hydraulics Laboratory",
+            "subjectDesc": "Engineering Civil & Environ",
+            "courseNum": "141L",
+            "hidCRN": "56523",
+            "crn": "56523",
+            "subjectCode": "ECI"
+        },
+        "instructor": [
+            {
+                "lastName": "Sepulveda Steiner",
+                "instructorName": "O. Sepulveda Steiner",
+                "firstName": "Oscar",
+                "instructorEmail": "osepulve@ucdavis.edu",
+                "fullName": "Oscar Sepulveda Steiner"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Basic engineering planning concepts; role of engineering, economic, environmental and social information and analysis; institutional, political and legal aspects. Case studies and computer models illustrate the planning of water resource systems.",
+            "creditLimit": "",
+            "ge3": "QL,SE,SL,SS,WE",
+            "crossListing": "",
+            "prereq": " (ENG 106 or ECN 001A or ECN 001AY or ECN 001AV);  ECI 114"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00223"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECI 155 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55751",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Water Resources Engineering Planning",
+            "subjectDesc": "Engineering Civil & Environ",
+            "courseNum": "155",
+            "hidCRN": "55751",
+            "crn": "55751",
+            "subjectCode": "ECI"
+        },
+        "instructor": [
+            {
+                "lastName": "Escriva Bou",
+                "instructorName": "A. Escriva Bou",
+                "firstName": "Alvar",
+                "instructorEmail": "aescriva@ucdavis.edu",
+                "fullName": "Alvar Escriva Bou"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Interdisciplinary exploration of electric vehicles. Underlying technology, challenges, and societal impacts. Battery technology, vehicle efficiency, charging infrastructure, total cost of ownership, consumer and travel behavior, life-cycle emissions, and policy landscape. Perspectives from engineering, physics, chemistry, economics, finance, public policy, and social sciences.",
+            "creditLimit": "",
+            "ge3": "SE,SL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "The Grove (Surge III)",
+                "description": "Lecture",
+                "buildingCode": "GROVE",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01309"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1340",
+                "building": "The Grove (Surge III)",
+                "description": "Discussion",
+                "buildingCode": "GROVE",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01309"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECI 164 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "37287",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Electric Vehicles ",
+            "subjectDesc": "Engineering Civil & Environ",
+            "courseNum": "164",
+            "hidCRN": "37287",
+            "crn": "37287",
+            "subjectCode": "ECI"
+        },
+        "instructor": [
+            {
+                "lastName": "Hardman",
+                "instructorName": "S. Hardman",
+                "firstName": "Scott",
+                "instructorEmail": "shardman@ucdavis.edu",
+                "fullName": "Scott Hardman"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Soil formations, mass-volume relationships, soil classification, effective stress, soil-water-void relationships, compaction, seepage, capillarity, compressibility, consolidation, strength, states of stress and failure, lateral earth pressures, and slope stability.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " (ENG 103 { can be concurrent } or ECI 100 { can be concurrent });  ENG 104 C- or better;  ECI 171L { can be concurrent };  ECI 171L required concurrently. "
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1000",
+                "building": "Maria Manetti Shrem Art Hall",
+                "description": "Lecture",
+                "buildingCode": "MMSART",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00204"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECI 171 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "37288",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Soil Mechanics",
+            "subjectDesc": "Engineering Civil & Environ",
+            "courseNum": "171",
+            "hidCRN": "37288",
+            "crn": "37288",
+            "subjectCode": "ECI"
+        },
+        "instructor": [
+            {
+                "lastName": "Gardner",
+                "instructorName": "M. Gardner",
+                "firstName": "Michael",
+                "instructorEmail": "mhgardner@ucdavis.edu",
+                "fullName": "Michael Gardner"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Laboratory studies utilizing standard testing methods to determine physical, mechanical and hydraulic properties of soil and demonstration of basic principles of soil behavior.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " ECI 171 { can be concurrent };  ECI 171 required concurrently. "
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0800",
+                "building": "Bainer Hall",
+                "description": "Laboratory",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01223"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ECI 171L 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "37289",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Soil Mechanics Laboratory",
+            "subjectDesc": "Engineering Civil & Environ",
+            "courseNum": "171L",
+            "hidCRN": "37289",
+            "crn": "37289",
+            "subjectCode": "ECI"
+        },
+        "instructor": [
+            {
+                "lastName": "Gardner",
+                "instructorName": "M. Gardner",
+                "firstName": "Michael",
+                "instructorEmail": "mhgardner@ucdavis.edu",
+                "fullName": "Michael Gardner"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Laboratory studies utilizing standard testing methods to determine physical, mechanical and hydraulic properties of soil and demonstration of basic principles of soil behavior.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " ECI 171 { can be concurrent };  ECI 171 required concurrently. "
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1510",
+                "building": "Bainer Hall",
+                "description": "Laboratory",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01223"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ECI 171L 002",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "002",
+            "printCRN": "37290",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Soil Mechanics Laboratory",
+            "subjectDesc": "Engineering Civil & Environ",
+            "courseNum": "171L",
+            "hidCRN": "37290",
+            "crn": "37290",
+            "subjectCode": "ECI"
+        },
+        "instructor": [
+            {
+                "lastName": "Gardner",
+                "instructorName": "M. Gardner",
+                "firstName": "Michael",
+                "instructorEmail": "mhgardner@ucdavis.edu",
+                "fullName": "Michael Gardner"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Foundation analysis and design, including site characterization, evaluation of shallow and deep foundation alternatives, evaluation of bearing capacity and settlements, design of retaining structures, and case-based design experiences.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " ECI 171"
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0800",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01007"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECI 173 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "37293",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Foundation Design",
+            "subjectDesc": "Engineering Civil & Environ",
+            "courseNum": "173",
+            "hidCRN": "37293",
+            "crn": "37293",
+            "subjectCode": "ECI"
+        },
+        "instructor": [
+            {
+                "lastName": "Wagner",
+                "instructorName": "N. Wagner",
+                "firstName": "Nathaniel",
+                "instructorEmail": "nbwagner@ucdavis.edu",
+                "fullName": "Nathaniel Wagner"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Engineering concepts and practices to evaluate, preserve, maintain and rehabilitate highway pavements, focusing on pavement asset management, pavement failure mechanisms, site investigation for rehabilitation design, flexible and rigid pavement preservation and maintenance, flexible & rigid overlays, economic analysis of rehabilitation alternatives and selection of the most suitable strategy. ",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " ENG 104 C- or better;   ECI 178 C- or better recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1510",
+                "building": "Ghausi Hall",
+                "description": "Laboratory",
+                "buildingCode": "GHAUSI",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01104"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00005"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECI 179 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "37294",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Pavement Management, Evaluation, & Rehabilitation",
+            "subjectDesc": "Engineering Civil & Environ",
+            "courseNum": "179",
+            "hidCRN": "37294",
+            "crn": "37294",
+            "subjectCode": "ECI"
+        },
+        "instructor": [
+            {
+                "lastName": "Nassiri",
+                "instructorName": "S. Nassiri",
+                "firstName": "Somayeh",
+                "instructorEmail": "nassiri@ucdavis.edu",
+                "fullName": "Somayeh Nassiri"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Materials and methods used in building construction. Assemblage of construction materials in building systems and related effects on productivity, equipment selection and job site layout.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 20:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1930",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1810",
+                "building": "Hoagland Hall",
+                "description": "Lecture",
+                "buildingCode": "HOAGLD",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00108"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2100",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "C",
+                "startTime": "1940",
+                "building": "Hoagland Hall",
+                "description": "Laboratory",
+                "buildingCode": "HOAGLD",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00108"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECI 182 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "37295",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Buildings: Assemblage & Construction Quality Management",
+            "subjectDesc": "Engineering Civil & Environ",
+            "courseNum": "182",
+            "hidCRN": "37295",
+            "crn": "37295",
+            "subjectCode": "ECI"
+        },
+        "instructor": [
+            {
+                "lastName": "Schwartz",
+                "instructorName": "A. Schwartz",
+                "firstName": "Aaron",
+                "instructorEmail": "ajschwa@ucdavis.edu",
+                "fullName": "Aaron Schwartz"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed group study in Engineering Planning.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "1710",
+                "building": "Ghausi Hall",
+                "description": "Variable",
+                "buildingCode": "GHAUSI",
+                "saturday": false,
+                "type": "VAR",
+                "room": "01007"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ECI 189C",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "001",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Selected Topics in Civil Engineering: Engineering Planning",
+            "subjectDesc": "Engineering Civil & Environ",
+            "courseNum": "189C",
+            "hidCRN": "0E49C4C7E6",
+            "crn": "37298",
+            "subjectCode": "ECI"
+        },
+        "instructor": [
+            {
+                "lastName": "Bolander",
+                "instructorName": "J. Bolander",
+                "firstName": "John",
+                "instructorEmail": "jebolander@ucdavis.edu",
+                "fullName": "John Bolander"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed group study in Engineering Planning.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2000",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "1810",
+                "building": "Ghausi Hall",
+                "description": "Variable",
+                "buildingCode": "GHAUSI",
+                "saturday": false,
+                "type": "VAR",
+                "room": "01007"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ECI 189C",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "002",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Selected Topics in Civil Engineering: Engineering Planning",
+            "subjectDesc": "Engineering Civil & Environ",
+            "courseNum": "189C",
+            "hidCRN": "0E49C5CEEE",
+            "crn": "37300",
+            "subjectCode": "ECI"
+        },
+        "instructor": [
+            {
+                "lastName": "White",
+                "instructorName": "J. White",
+                "firstName": "John",
+                "instructorEmail": "jpwhite@ucdavis.edu",
+                "fullName": "John White"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed group study in Engineering Planning.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "1210",
+                "building": "Bainer Hall",
+                "description": "Variable",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "VAR",
+                "room": "01060"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ECI 189C",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "003",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Selected Topics in Civil Engineering: Engineering Planning",
+            "subjectDesc": "Engineering Civil & Environ",
+            "courseNum": "189C",
+            "hidCRN": "0E49C5CEEF",
+            "crn": "37301",
+            "subjectCode": "ECI"
+        },
+        "instructor": [
+            {
+                "lastName": "Bronner",
+                "instructorName": "C. Bronner",
+                "firstName": "Colleen",
+                "instructorEmail": "cebronner@ucdavis.edu",
+                "fullName": "Colleen Bronner"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Culminating design experience for civil engineering and environmental engineering majors. Student teams work closely with faculty, city officials or consulting clients to propose, implement and validate a unique solution to a real-world problem. ",
+            "creditLimit": "",
+            "ge3": "OL,SE,VL",
+            "crossListing": "",
+            "prereq": " ECI 193A"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0900",
+                "building": "Ghausi Hall",
+                "description": "Laboratory",
+                "buildingCode": "GHAUSI",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01104"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01002"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECI 193B A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "37410",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Civil & Environmental Engineering Senior Design",
+            "subjectDesc": "Engineering Civil & Environ",
+            "courseNum": "193B",
+            "hidCRN": "37410",
+            "crn": "37410",
+            "subjectCode": "ECI"
+        },
+        "instructor": [
+            {
+                "lastName": "Bronner",
+                "instructorName": "C. Bronner",
+                "firstName": "Colleen",
+                "instructorEmail": "cebronner@ucdavis.edu",
+                "fullName": "Colleen Bronner"
+            },
+            {
+                "lastName": "Bischel",
+                "instructorName": "H. Bischel",
+                "firstName": "Heather",
+                "instructorEmail": "hbischel@ucdavis.edu",
+                "fullName": "Heather Bischel"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Culminating design experience for civil engineering and environmental engineering majors. Student teams work closely with faculty, city officials or consulting clients to propose, implement and validate a unique solution to a real-world problem. ",
+            "creditLimit": "",
+            "ge3": "OL,SE,VL",
+            "crossListing": "",
+            "prereq": " ECI 193A"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1210",
+                "building": "Ghausi Hall",
+                "description": "Laboratory",
+                "buildingCode": "GHAUSI",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01104"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01002"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECI 193B A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "37411",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Civil & Environmental Engineering Senior Design",
+            "subjectDesc": "Engineering Civil & Environ",
+            "courseNum": "193B",
+            "hidCRN": "37411",
+            "crn": "37411",
+            "subjectCode": "ECI"
+        },
+        "instructor": [
+            {
+                "lastName": "Forrest",
+                "instructorName": "A. Forrest",
+                "firstName": "Alexander",
+                "instructorEmail": "alforrest@ucdavis.edu",
+                "fullName": "Alexander Forrest"
+            },
+            {
+                "lastName": "Bronner",
+                "instructorName": "C. Bronner",
+                "firstName": "Colleen",
+                "instructorEmail": "cebronner@ucdavis.edu",
+                "fullName": "Colleen Bronner"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Culminating design experience for civil engineering and environmental engineering majors. Student teams work closely with faculty, city officials or consulting clients to propose, implement and validate a unique solution to a real-world problem. ",
+            "creditLimit": "",
+            "ge3": "OL,SE,VL",
+            "crossListing": "",
+            "prereq": " ECI 193A"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01002"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1510",
+                "building": "Ghausi Hall",
+                "description": "Laboratory",
+                "buildingCode": "GHAUSI",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01104"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECI 193B A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "37412",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Civil & Environmental Engineering Senior Design",
+            "subjectDesc": "Engineering Civil & Environ",
+            "courseNum": "193B",
+            "hidCRN": "37412",
+            "crn": "37412",
+            "subjectCode": "ECI"
+        },
+        "instructor": [
+            {
+                "lastName": "Bronner",
+                "instructorName": "C. Bronner",
+                "firstName": "Colleen",
+                "instructorEmail": "cebronner@ucdavis.edu",
+                "fullName": "Colleen Bronner"
+            },
+            {
+                "lastName": "Watkins",
+                "instructorName": "K. Watkins",
+                "firstName": "Kari",
+                "instructorEmail": "kewatkins@ucdavis.edu",
+                "fullName": "Kari Watkins"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Culminating design experience for civil engineering and environmental engineering majors. Student teams work closely with faculty, city officials or consulting clients to propose, implement and validate a unique solution to a real-world problem. ",
+            "creditLimit": "",
+            "ge3": "OL,SE,VL",
+            "crossListing": "",
+            "prereq": " ECI 193A"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0800",
+                "building": "Ghausi Hall",
+                "description": "Laboratory",
+                "buildingCode": "GHAUSI",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01104"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01002"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECI 193B A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "37413",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Civil & Environmental Engineering Senior Design",
+            "subjectDesc": "Engineering Civil & Environ",
+            "courseNum": "193B",
+            "hidCRN": "37413",
+            "crn": "37413",
+            "subjectCode": "ECI"
+        },
+        "instructor": [
+            {
+                "lastName": "Bronner",
+                "instructorName": "C. Bronner",
+                "firstName": "Colleen",
+                "instructorEmail": "cebronner@ucdavis.edu",
+                "fullName": "Colleen Bronner"
+            },
+            {
+                "lastName": "Canney",
+                "instructorName": "N. Canney",
+                "firstName": "Nathan",
+                "instructorEmail": "necanney@ucdavis.edu",
+                "fullName": "Nathan Canney"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Application to linear and nonlinear structural mechanics problems. Linear elasticity, weak form, and finite element approximation.  Incompressible media problems. Non-linear problems with material nonlinearity. ",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " ECI 212A"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Social Science & Humanities",
+                "description": "Lecture",
+                "buildingCode": "SOCSCI",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00070"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECI 212B 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "37524",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Finite Elements: Application to Linear & Non-Linear Structural Mechanics Problems",
+            "subjectDesc": "Engineering Civil & Environ",
+            "courseNum": "212B",
+            "hidCRN": "37524",
+            "crn": "37524",
+            "subjectCode": "ECI"
+        },
+        "instructor": [
+            {
+                "lastName": "Jeremic",
+                "instructorName": "B. Jeremic",
+                "firstName": "Boris",
+                "instructorEmail": "jeremic@ucdavis.edu",
+                "fullName": "Boris Jeremic"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Ductility of reinforced concrete; strength of two-way slabs; modified compression field theory.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " ECI 130;  ECI 135;  ECI 138;  graduate standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1000",
+                "building": "Ghausi Hall",
+                "description": "Lecture",
+                "buildingCode": "GHAUSI",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01007"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECI 232 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56053",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Advanced Topics in Concrete Structures",
+            "subjectDesc": "Engineering Civil & Environ",
+            "courseNum": "232",
+            "hidCRN": "56053",
+            "crn": "56053",
+            "subjectCode": "ECI"
+        },
+        "instructor": [
+            {
+                "lastName": "Bolander",
+                "instructorName": "J. Bolander",
+                "firstName": "John",
+                "instructorEmail": "jebolander@ucdavis.edu",
+                "fullName": "John Bolander"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Review of Load and Resistance Factor Design (LRFD); design of indeterminate systems; moment frames and bracing systems; connection design; seismic design of steel structures; direct analysis method for stability design; and performance assessment of steel structures.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " (ECI 130 or ECI 131);  ECI 132"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Academic Surge Bldg.",
+                "description": "Lecture",
+                "buildingCode": "ACADSR",
+                "saturday": false,
+                "type": "LEC",
+                "room": "02212"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECI 233 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "37526",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Advanced Design of Steel Structures",
+            "subjectDesc": "Engineering Civil & Environ",
+            "courseNum": "233",
+            "hidCRN": "37526",
+            "crn": "37526",
+            "subjectCode": "ECI"
+        },
+        "instructor": [
+            {
+                "lastName": "Kanvinde",
+                "instructorName": "A. Kanvinde",
+                "firstName": "Amit",
+                "instructorEmail": "amkanvinde@ucdavis.edu",
+                "fullName": "Amit Kanvinde"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Modeling of reactive chemical transport in air and water including kinetic reactions, equilibrium reactions, and phase partitioning. Emphasis on numerical solution schemes and programming techniques to provide deeper insight into model performance and limitations.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " CHE 002A or CHE 002B or ECI 149N;  Or equivalent. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00109"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECI 241 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "37529",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Environmental Reactive Chemical Transport Modeling",
+            "subjectDesc": "Engineering Civil & Environ",
+            "courseNum": "241",
+            "hidCRN": "37529",
+            "crn": "37529",
+            "subjectCode": "ECI"
+        },
+        "instructor": [
+            {
+                "lastName": "Kleeman",
+                "instructorName": "M. Kleeman",
+                "firstName": "Michael",
+                "instructorEmail": "mjkleeman@ucdavis.edu",
+                "fullName": "Michael Kleeman"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Regulations; microbiology and kinetics of engineered biological processes; aeration; and activated sludge.  ",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " ECI 243A"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1000",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00105"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECI 243B 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55633",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Biological Treatment of Wastewater",
+            "subjectDesc": "Engineering Civil & Environ",
+            "courseNum": "243B",
+            "hidCRN": "55633",
+            "crn": "55633",
+            "subjectCode": "ECI"
+        },
+        "instructor": [
+            {
+                "lastName": "Bischel",
+                "instructorName": "H. Bischel",
+                "firstName": "Heather",
+                "instructorEmail": "hbischel@ucdavis.edu",
+                "fullName": "Heather Bischel"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Freight transportation systems, with optimization model applications beyond freight including mobility, autonomous vehicles, electrification, and planning. Evaluation of freight improvement strategies including operations, infrastructure, management, and vehicle technologies.  Analysis of private and system impacts and environmental and social issues of freight activity such as traffic, behaviors, logistics, and e-commerce.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " ECI 251;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Ghausi Hall",
+                "description": "Lecture",
+                "buildingCode": "GHAUSI",
+                "saturday": false,
+                "type": "LEC",
+                "room": "02030"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECI 252 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "37532",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Sustainable Transportation Systems",
+            "subjectDesc": "Engineering Civil & Environ",
+            "courseNum": "252",
+            "hidCRN": "37532",
+            "crn": "37532",
+            "subjectCode": "ECI"
+        },
+        "instructor": [
+            {
+                "lastName": "Jaller Martelo",
+                "instructorName": "M. Jaller Martelo",
+                "firstName": "Miguel",
+                "instructorEmail": "mjaller@ucdavis.edu",
+                "fullName": "Miguel Jaller Martelo"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Elements of graph theory, a survey of pertinent optimization techniques, extremal principles in network flow problems, deterministic equilibrium assignment, stochastic equilibrium assignment, extensions of equilibrium assignments and dynamic transportation network assignment.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " ECI 153;  ECI 161 or ECI 256 recommended."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1000",
+                "building": "Ghausi Hall",
+                "description": "Lecture",
+                "buildingCode": "GHAUSI",
+                "saturday": false,
+                "type": "LEC",
+                "room": "02030"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECI 257 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "37534",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Flow in Transportation Networks",
+            "subjectDesc": "Engineering Civil & Environ",
+            "courseNum": "257",
+            "hidCRN": "37534",
+            "crn": "37534",
+            "subjectCode": "ECI"
+        },
+        "instructor": [
+            {
+                "lastName": "Zhang",
+                "instructorName": "M. Zhang",
+                "firstName": "Michael",
+                "instructorEmail": "hmzhang@ucdavis.edu",
+                "fullName": "Michael Zhang"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Colloid occurrence, properties, behavior in different environments, and transport mechanisms in water and soils. Emphasis on their role in water contamination.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " CHE 002B;  (ENG 103 or ECI 100);  Upper division or graduate standing."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00159"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECI 261 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "37535",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Colloids in Soil & Water",
+            "subjectDesc": "Engineering Civil & Environ",
+            "courseNum": "261",
+            "hidCRN": "37535",
+            "crn": "37535",
+            "subjectCode": "ECI"
+        },
+        "instructor": [
+            {
+                "lastName": "Morales",
+                "instructorName": "V. Morales",
+                "firstName": "Veronica",
+                "instructorEmail": "vermorales@ucdavis.edu",
+                "fullName": "Veronica Morales"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Economics applied to infrastructure engineering planning, operations, maintenance, and management problems; microeconomic and macroeconomic theories; benefit-cost analysis; effect of uncertainty; optimization economics; non-classical economics; public finance.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " (ECN 001A or ECN 001AY or ECN 001AV);  ENG 106;  Or the equivalent."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1000",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00007"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECI 268 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55634",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Infrastructure Economics",
+            "subjectDesc": "Engineering Civil & Environ",
+            "courseNum": "268",
+            "hidCRN": "55634",
+            "crn": "55634",
+            "subjectCode": "ECI"
+        },
+        "instructor": [
+            {
+                "lastName": "Escriva Bou",
+                "instructorName": "A. Escriva Bou",
+                "firstName": "Alvar",
+                "instructorEmail": "aescriva@ucdavis.edu",
+                "fullName": "Alvar Escriva Bou"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Planning and management of water resource systems. Deterministic and stochastic simulation and optimization techniques. Capacity design and operation of reservoir systems for water supply, hydropower, flood control, and environmental objectives.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " ECI 114;  ECI 153;  Or the equivalent."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Ghausi Hall",
+                "description": "Lecture",
+                "buildingCode": "GHAUSI",
+                "saturday": false,
+                "type": "LEC",
+                "room": "02030"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECI 273 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55635",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Water Resources Systems Engineering",
+            "subjectDesc": "Engineering Civil & Environ",
+            "courseNum": "273",
+            "hidCRN": "55635",
+            "crn": "55635",
+            "subjectCode": "ECI"
+        },
+        "instructor": [
+            {
+                "lastName": "Herman",
+                "instructorName": "J. Herman",
+                "firstName": "Jonathan",
+                "instructorEmail": "jdherman@ucdavis.edu",
+                "fullName": "Jonathan Herman"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Elasticity, plasticity, micromechanics, coupled behavior and large deformations for geomaterials. Prediction of stress-strain-volume change behavior of geomaterials. Monotonic and cyclic loading, anisotropy, bifurcation of deformation. ",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " ECI 171"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Ghausi Hall",
+                "description": "Lecture",
+                "buildingCode": "GHAUSI",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01007"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECI 284 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55720",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Theoretical Geomechanics",
+            "subjectDesc": "Engineering Civil & Environ",
+            "courseNum": "284",
+            "hidCRN": "55720",
+            "crn": "55720",
+            "subjectCode": "ECI"
+        },
+        "instructor": [
+            {
+                "lastName": "Ziotopoulou",
+                "instructorName": "K. Ziotopoulou",
+                "firstName": "Katerina",
+                "instructorEmail": "kziotopoulou@ucdavis.edu",
+                "fullName": "Katerina Ziotopoulou"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Characteristics and estimation of earthquake ground motions; wave propagation and local site response; liquefaction potential and remediation; residual strength and stability considerations; ground deformations; dynamic soil-structure interaction.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " ECI 138;  ECI 281A"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1000",
+                "building": "Ghausi Hall",
+                "description": "Lecture",
+                "buildingCode": "GHAUSI",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01001"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECI 287 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "37537",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Geotechnical Earthquake Engineering",
+            "subjectDesc": "Engineering Civil & Environ",
+            "courseNum": "287",
+            "hidCRN": "37537",
+            "crn": "37537",
+            "subjectCode": "ECI"
+        },
+        "instructor": [
+            {
+                "lastName": "Ziotopoulou",
+                "instructorName": "K. Ziotopoulou",
+                "firstName": "Katerina",
+                "instructorEmail": "kziotopoulou@ucdavis.edu",
+                "fullName": "Katerina Ziotopoulou"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Capstone independent literature-based research project. Project development, reading and mining the literature, strategies and best-practices for writing and oral communication.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00105"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECI 291 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "37605",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Projects for Environmental & Water Resources",
+            "subjectDesc": "Engineering Civil & Environ",
+            "courseNum": "291",
+            "hidCRN": "37605",
+            "crn": "37605",
+            "subjectCode": "ECI"
+        },
+        "instructor": [
+            {
+                "lastName": "Oldroyd",
+                "instructorName": "H. Oldroyd",
+                "firstName": "Holly",
+                "instructorEmail": "hjoldroyd@ucdavis.edu",
+                "fullName": "Holly Oldroyd"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Geotechnical practice issues that affect the delivery of technical solutions for geotechnical projects, including business and management practices, contract documents, legal constraints, public policy and societal concerns, ethics, and professional development. Part 3 of three part series that includes a capstone project.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " ECI 292B;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Ghausi Hall",
+                "description": "Lecture",
+                "buildingCode": "GHAUSI",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01001"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "ECI 292C 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "37606",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Geotechnical Professional Practice 3",
+            "subjectDesc": "Engineering Civil & Environ",
+            "courseNum": "292C",
+            "hidCRN": "37606",
+            "crn": "37606",
+            "subjectCode": "ECI"
+        },
+        "instructor": [
+            {
+                "lastName": "Dejong",
+                "instructorName": "J. Dejong",
+                "firstName": "Jason",
+                "instructorEmail": "jdejong@ucdavis.edu",
+                "fullName": "Jason Dejong"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Diversity, equity, inclusion and justice in engineering education. One course in a three-course series.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1210",
+                "building": "Ghausi Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "GHAUSI",
+                "saturday": false,
+                "type": "LED",
+                "room": "01007"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "ECI 295B 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "37607",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Engineering Education II - DEI",
+            "subjectDesc": "Engineering Civil & Environ",
+            "courseNum": "295B",
+            "hidCRN": "37607",
+            "crn": "37607",
+            "subjectCode": "ECI"
+        },
+        "instructor": [
+            {
+                "lastName": "Bronner",
+                "instructorName": "C. Bronner",
+                "firstName": "Colleen",
+                "instructorEmail": "cebronner@ucdavis.edu",
+                "fullName": "Colleen Bronner"
+            }
+        ]
+    }
+]

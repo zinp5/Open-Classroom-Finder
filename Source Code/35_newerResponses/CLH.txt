@@ -1,0 +1,836 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Ethical responsibilities, major questions in ethics, the role of trust in scientific research, and the application of ethical principles, concepts, and values. ",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "6",
+                "startTime": "",
+                "building": "",
+                "description": "Dummy Course",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "DUM",
+                "room": ""
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "6",
+                "startTime": "",
+                "building": "",
+                "description": "Dummy Course",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "DUM",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "CLH 204 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "34997",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "The Ethics of Research",
+            "subjectDesc": "Clinical Research",
+            "courseNum": "204",
+            "hidCRN": "34997",
+            "crn": "34997",
+            "subjectCode": "CLH"
+        },
+        "instructor": [
+            {
+                "lastName": "Fedyk",
+                "instructorName": "M. Fedyk",
+                "firstName": "Mark",
+                "instructorEmail": "mfedyk@ucdavis.edu",
+                "fullName": "Mark Fedyk"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Today\u2019s scientific challenges necessitate cross-disciplinary engagement and high collaboration levels. Offers guidance on how best to engage in team science to pursue complex questions, work effectively with team members, and produce high impact research that meets society\u2019s needs.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Participation in CTSC Research Education and Training Programs, or consent of instructor."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "",
+                "building": "",
+                "description": "Lecture/Discussion",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LED",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "CLH 207",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Team Science",
+            "subjectDesc": "Clinical Research",
+            "courseNum": "207",
+            "hidCRN": "0E4ACFC7E6",
+            "crn": "34998",
+            "subjectCode": "CLH"
+        },
+        "instructor": [
+            {
+                "lastName": "Meyers",
+                "instructorName": "F. Meyers",
+                "firstName": "Frederick",
+                "instructorEmail": "fjmeyers@ucdavis.edu",
+                "fullName": "Frederick Meyers"
+            },
+            {
+                "lastName": "Isseroff",
+                "instructorName": "R. Isseroff",
+                "firstName": "Roslyn",
+                "instructorEmail": "rrisseroff@ucdavis.edu",
+                "fullName": "Roslyn Isseroff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Provides an introduction to Comparative Effectiveness Research (CER) and methods for conducting CER.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Familiarity with research methodology; course in introductory statistics."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1650",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1500",
+                "building": "Off Campus",
+                "description": "Discussion",
+                "buildingCode": "OFFCAM",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00000"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1650",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "1500",
+                "building": "Off Campus",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "OFFCAM",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00000"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "8",
+                "startTime": "",
+                "building": "",
+                "description": "Term Project",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "PRJ",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CLH 210Y 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "35000",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Principles & Methods of Comparative Effectiveness Research",
+            "subjectDesc": "Clinical Research",
+            "courseNum": "210Y",
+            "hidCRN": "35000",
+            "crn": "35000",
+            "subjectCode": "CLH"
+        },
+        "instructor": [
+            {
+                "lastName": "Hoch",
+                "instructorName": "J. Hoch",
+                "firstName": "Jeffrey",
+                "instructorEmail": "jshoch@ucdavis.edu",
+                "fullName": "Jeffrey Hoch"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Exposure to topical issues and controversies in the design of interdisciplinary translational research, with an emphasis on critical assessment of the biomedical and health sciences literature. Extends students\u2019 knowledge of study design through practical application.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "",
+                "building": "",
+                "description": "Lecture/Discussion",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LED",
+                "room": ""
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "",
+                "building": "",
+                "description": "Lecture/Discussion",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LED",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "CLH 211",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Critical Assessment of the Biomedical Literature",
+            "subjectDesc": "Clinical Research",
+            "courseNum": "211",
+            "hidCRN": "0E4BC6CEEF",
+            "crn": "35001",
+            "subjectCode": "CLH"
+        },
+        "instructor": [
+            {
+                "lastName": "Wise",
+                "instructorName": "B. Wise",
+                "firstName": "Barton",
+                "instructorEmail": "blwise@ucdavis.edu",
+                "fullName": "Barton Wise"
+            },
+            {
+                "lastName": "Palm",
+                "instructorName": "C. Palm",
+                "firstName": "Carrie",
+                "instructorEmail": "cpalm@ucdavis.edu",
+                "fullName": "Carrie Palm"
+            },
+            {
+                "lastName": "Fenton",
+                "instructorName": "J. Fenton",
+                "firstName": "Joshua",
+                "instructorEmail": "jjfenton@ucdavis.edu",
+                "fullName": "Joshua Fenton"
+            },
+            {
+                "lastName": "Romano",
+                "instructorName": "P. Romano",
+                "firstName": "Patrick",
+                "instructorEmail": "psromano@ucdavis.edu",
+                "fullName": "Patrick Romano"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Methods for moving evidence-based interventions into real-world settings. Strategies for communicating information on evidence-based interventions to health practitioners, improvements in healthcare delivery, and techniques to promote the systematic uptake of evidence-based practices into routine care to improve health outcomes.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "",
+                "building": "",
+                "description": "Lecture/Discussion",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LED",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "CLH 217 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56530",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Healthcare Delivery Science \u2013 Implementing, Improving, & Disseminating Health Innovations",
+            "subjectDesc": "Clinical Research",
+            "courseNum": "217",
+            "hidCRN": "56530",
+            "crn": "56530",
+            "subjectCode": "CLH"
+        },
+        "instructor": [
+            {
+                "lastName": "",
+                "instructorName": ". ",
+                "firstName": "",
+                "instructorEmail": "",
+                "fullName": " "
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Lecture designed for graduate students who have experience in cell culture techniques. Designed to give a broad overview of the field and current cells of interest to the greater research community.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " MCP 200L;  MCP 200; Consent of Intructor; Graduate standing."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "",
+                "building": "",
+                "description": "Lecture",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LEC",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "CLH 220 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "35002",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Basics of Stem & Progenitor Cells",
+            "subjectDesc": "Clinical Research",
+            "courseNum": "220",
+            "hidCRN": "35002",
+            "crn": "35002",
+            "subjectCode": "CLH"
+        },
+        "instructor": [
+            {
+                "lastName": "Tarantal",
+                "instructorName": "A. Tarantal",
+                "firstName": "Alice",
+                "instructorEmail": "aftarantal@ucdavis.edu",
+                "fullName": "Alice Tarantal"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Emphasizes critical biostatistics for clinical research and targets biomedical audience. Students will develop understanding for basic planning and analysis of clinical studies and learn to develop collaborations with biostatisticians.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "SPH 246.",
+            "prereq": " CLH 245 or SPH 245"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0800",
+                "building": "Off Campus",
+                "description": "Lecture",
+                "buildingCode": "OFFCAM",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CLH 246",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Biostatistics for Clinical Research",
+            "subjectDesc": "Clinical Research",
+            "courseNum": "246",
+            "hidCRN": "0E4BC6CEED",
+            "crn": "35003",
+            "subjectCode": "CLH"
+        },
+        "instructor": [
+            {
+                "lastName": "Bang",
+                "instructorName": "H. Bang",
+                "firstName": "Heejung",
+                "instructorEmail": "hbang@ucdavis.edu",
+                "fullName": "Heejung Bang"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Seminars presented by guest lecturers on subjects of their own research activities",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Graduate standing or consent of instructor."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "E",
+                "startTime": "",
+                "building": "",
+                "description": "Seminar",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "SEM",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "CLH 290A",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Hot Topics in Clinical Research",
+            "subjectDesc": "Clinical Research",
+            "courseNum": "290A",
+            "hidCRN": "0E4BC6CEEA",
+            "crn": "35004",
+            "subjectCode": "CLH"
+        },
+        "instructor": [
+            {
+                "lastName": "",
+                "instructorName": ". ",
+                "firstName": "",
+                "instructorEmail": "",
+                "fullName": " "
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Critical presentation and analysis of recent journal articles in stem cell biology by students.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Graduate standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "",
+                "building": "Medical Science C",
+                "description": "Discussion",
+                "buildingCode": "MDSC C",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00130"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "CLH 290C",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Literature in Stem Cell Biology",
+            "subjectDesc": "Clinical Research",
+            "courseNum": "290C",
+            "hidCRN": "0E4BC6CEEB",
+            "crn": "35005",
+            "subjectCode": "CLH"
+        },
+        "instructor": [
+            {
+                "lastName": "Tarantal",
+                "instructorName": "A. Tarantal",
+                "firstName": "Alice",
+                "instructorEmail": "aftarantal@ucdavis.edu",
+                "fullName": "Alice Tarantal"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special topics in Clinical Research appropriate for group study at the graduate level.  ",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "CLH 298",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Group Study in Clinical Research",
+            "subjectDesc": "Clinical Research",
+            "courseNum": "298",
+            "hidCRN": "0E4BC6CEE8",
+            "crn": "35006",
+            "subjectCode": "CLH"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Independent research and special topics in clinical research appropriate for graduate level.  ",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "CLH 299",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Clinical Research",
+            "subjectDesc": "Clinical Research",
+            "courseNum": "299",
+            "hidCRN": "0E4BC6CFEC",
+            "crn": "35012",
+            "subjectCode": "CLH"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    }
+]

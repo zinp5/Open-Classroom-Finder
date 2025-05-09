@@ -1,0 +1,1668 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Study of metal properties and of techniques for fabricating in metal. Physical principles, design considerations, effects of techniques on quality and appearance, and evaluation procedures. Experience in working with metal.",
+            "creditLimit": "",
+            "ge3": "QL,SE,VL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Western Ctr for Agric Equipmnt",
+                "description": "Lecture",
+                "buildingCode": "WCAE",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00000"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0900",
+                "building": "Western Ctr for Agric Equipmnt",
+                "description": "Laboratory",
+                "buildingCode": "WCAE",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "ABT 016 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "30281",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Metal Properties & Fabrication",
+            "subjectDesc": "Applied Biological System Tech",
+            "courseNum": "016",
+            "hidCRN": "30281",
+            "crn": "30281",
+            "subjectCode": "ABT"
+        },
+        "instructor": [
+            {
+                "lastName": "Frank",
+                "instructorName": "D. Frank",
+                "firstName": "Daniel",
+                "instructorEmail": "dafrank@ucdavis.edu",
+                "fullName": "Daniel Frank"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Study of metal properties and of techniques for fabricating in metal. Physical principles, design considerations, effects of techniques on quality and appearance, and evaluation procedures. Experience in working with metal.",
+            "creditLimit": "",
+            "ge3": "QL,SE,VL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0900",
+                "building": "Western Ctr for Agric Equipmnt",
+                "description": "Laboratory",
+                "buildingCode": "WCAE",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00000"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Western Ctr for Agric Equipmnt",
+                "description": "Lecture",
+                "buildingCode": "WCAE",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "ABT 016 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "30282",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Metal Properties & Fabrication",
+            "subjectDesc": "Applied Biological System Tech",
+            "courseNum": "016",
+            "hidCRN": "30282",
+            "crn": "30282",
+            "subjectCode": "ABT"
+        },
+        "instructor": [
+            {
+                "lastName": "Frank",
+                "instructorName": "D. Frank",
+                "firstName": "Daniel",
+                "instructorEmail": "dafrank@ucdavis.edu",
+                "fullName": "Daniel Frank"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Operation, adjustment, and troubleshooting of farm tractors and field equipment. Principles of operation, equipment terminology and uses of tilling, cultivating, thinning, and planting equipment. Typical sequences in cropping practices.",
+            "creditLimit": "",
+            "ge3": "QL,SE,VL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Western Ctr for Agric Equipmnt",
+                "description": "Lecture",
+                "buildingCode": "WCAE",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00000"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "C",
+                "startTime": "1310",
+                "building": "Western Ctr for Agric Equipmnt",
+                "description": "Laboratory",
+                "buildingCode": "WCAE",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "ABT 049 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "30283",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Field Equipment Operation",
+            "subjectDesc": "Applied Biological System Tech",
+            "courseNum": "049",
+            "hidCRN": "30283",
+            "crn": "30283",
+            "subjectCode": "ABT"
+        },
+        "instructor": [
+            {
+                "lastName": "Frank",
+                "instructorName": "D. Frank",
+                "firstName": "Daniel",
+                "instructorEmail": "dafrank@ucdavis.edu",
+                "fullName": "Daniel Frank"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Operation, adjustment, and troubleshooting of farm tractors and field equipment. Principles of operation, equipment terminology and uses of tilling, cultivating, thinning, and planting equipment. Typical sequences in cropping practices.",
+            "creditLimit": "",
+            "ge3": "QL,SE,VL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Western Ctr for Agric Equipmnt",
+                "description": "Lecture",
+                "buildingCode": "WCAE",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00000"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1310",
+                "building": "Western Ctr for Agric Equipmnt",
+                "description": "Laboratory",
+                "buildingCode": "WCAE",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "ABT 049 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "30284",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Field Equipment Operation",
+            "subjectDesc": "Applied Biological System Tech",
+            "courseNum": "049",
+            "hidCRN": "30284",
+            "crn": "30284",
+            "subjectCode": "ABT"
+        },
+        "instructor": [
+            {
+                "lastName": "Frank",
+                "instructorName": "D. Frank",
+                "firstName": "Daniel",
+                "instructorEmail": "dafrank@ucdavis.edu",
+                "fullName": "Daniel Frank"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Operation, adjustment, and troubleshooting of farm tractors and field equipment. Principles of operation, equipment terminology and uses of tilling, cultivating, thinning, and planting equipment. Typical sequences in cropping practices.",
+            "creditLimit": "",
+            "ge3": "QL,SE,VL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Western Ctr for Agric Equipmnt",
+                "description": "Lecture",
+                "buildingCode": "WCAE",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00000"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1310",
+                "building": "Western Ctr for Agric Equipmnt",
+                "description": "Laboratory",
+                "buildingCode": "WCAE",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "ABT 049 A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "30285",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Field Equipment Operation",
+            "subjectDesc": "Applied Biological System Tech",
+            "courseNum": "049",
+            "hidCRN": "30285",
+            "crn": "30285",
+            "subjectCode": "ABT"
+        },
+        "instructor": [
+            {
+                "lastName": "Frank",
+                "instructorName": "D. Frank",
+                "firstName": "Daniel",
+                "instructorEmail": "dafrank@ucdavis.edu",
+                "fullName": "Daniel Frank"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Operation, adjustment, and troubleshooting of farm tractors and field equipment. Principles of operation, equipment terminology and uses of tilling, cultivating, thinning, and planting equipment. Typical sequences in cropping practices.",
+            "creditLimit": "",
+            "ge3": "QL,SE,VL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Western Ctr for Agric Equipmnt",
+                "description": "Lecture",
+                "buildingCode": "WCAE",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00000"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1310",
+                "building": "Western Ctr for Agric Equipmnt",
+                "description": "Laboratory",
+                "buildingCode": "WCAE",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "ABT 049 A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "30286",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Field Equipment Operation",
+            "subjectDesc": "Applied Biological System Tech",
+            "courseNum": "049",
+            "hidCRN": "30286",
+            "crn": "30286",
+            "subjectCode": "ABT"
+        },
+        "instructor": [
+            {
+                "lastName": "Frank",
+                "instructorName": "D. Frank",
+                "firstName": "Daniel",
+                "instructorEmail": "dafrank@ucdavis.edu",
+                "fullName": "Daniel Frank"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Operation, adjustment, and troubleshooting of farm tractors and field equipment. Principles of operation, equipment terminology and uses of tilling, cultivating, thinning, and planting equipment. Typical sequences in cropping practices.",
+            "creditLimit": "",
+            "ge3": "QL,SE,VL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1310",
+                "building": "Western Ctr for Agric Equipmnt",
+                "description": "Laboratory",
+                "buildingCode": "WCAE",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00000"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Western Ctr for Agric Equipmnt",
+                "description": "Lecture",
+                "buildingCode": "WCAE",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "ABT 049 A05",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A05",
+            "printCRN": "30287",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Field Equipment Operation",
+            "subjectDesc": "Applied Biological System Tech",
+            "courseNum": "049",
+            "hidCRN": "30287",
+            "crn": "30287",
+            "subjectCode": "ABT"
+        },
+        "instructor": [
+            {
+                "lastName": "Frank",
+                "instructorName": "D. Frank",
+                "firstName": "Daniel",
+                "instructorEmail": "dafrank@ucdavis.edu",
+                "fullName": "Daniel Frank"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Operation, adjustment, and troubleshooting of farm tractors and field equipment. Principles of operation, equipment terminology and uses of tilling, cultivating, thinning, and planting equipment. Typical sequences in cropping practices.",
+            "creditLimit": "",
+            "ge3": "QL,SE,VL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Western Ctr for Agric Equipmnt",
+                "description": "Lecture",
+                "buildingCode": "WCAE",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00000"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "S",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0900",
+                "building": "Western Ctr for Agric Equipmnt",
+                "description": "Laboratory",
+                "buildingCode": "WCAE",
+                "saturday": true,
+                "type": "LAB",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "ABT 049 A06",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A06",
+            "printCRN": "30288",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Field Equipment Operation",
+            "subjectDesc": "Applied Biological System Tech",
+            "courseNum": "049",
+            "hidCRN": "30288",
+            "crn": "30288",
+            "subjectCode": "ABT"
+        },
+        "instructor": [
+            {
+                "lastName": "Frank",
+                "instructorName": "D. Frank",
+                "firstName": "Daniel",
+                "instructorEmail": "dafrank@ucdavis.edu",
+                "fullName": "Daniel Frank"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Basic concepts, principles, and methods of GIS are presented. Data structures, database design, GIS data creation, GPS, and spatial analysis. May be taught abroad.",
+            "creditLimit": "Not open for credit to students who have completed ABT 180/PLS 180 or ABT 181N. ",
+            "ge3": "SE",
+            "crossListing": "LDA 150.",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0900",
+                "building": "Plant&Environmental Sci Bldg",
+                "description": "Laboratory",
+                "buildingCode": "PLESC",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01137"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Scrub Oak Auditorium",
+                "description": "Lecture",
+                "buildingCode": "SCRBOK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00160"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ABT 150 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "30289",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Geographic Information Systems",
+            "subjectDesc": "Applied Biological System Tech",
+            "courseNum": "150",
+            "hidCRN": "30289",
+            "crn": "30289",
+            "subjectCode": "ABT"
+        },
+        "instructor": [
+            {
+                "lastName": "Kisekka",
+                "instructorName": "I. Kisekka",
+                "firstName": "Isaya",
+                "instructorEmail": "ikisekka@ucdavis.edu",
+                "fullName": "Isaya Kisekka"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Basic concepts, principles, and methods of GIS are presented. Data structures, database design, GIS data creation, GPS, and spatial analysis. May be taught abroad.",
+            "creditLimit": "Not open for credit to students who have completed ABT 180/PLS 180 or ABT 181N. ",
+            "ge3": "SE",
+            "crossListing": "LDA 150.",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1310",
+                "building": "Plant&Environmental Sci Bldg",
+                "description": "Laboratory",
+                "buildingCode": "PLESC",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01137"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Scrub Oak Auditorium",
+                "description": "Lecture",
+                "buildingCode": "SCRBOK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00160"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ABT 150 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "30290",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Geographic Information Systems",
+            "subjectDesc": "Applied Biological System Tech",
+            "courseNum": "150",
+            "hidCRN": "30290",
+            "crn": "30290",
+            "subjectCode": "ABT"
+        },
+        "instructor": [
+            {
+                "lastName": "Kisekka",
+                "instructorName": "I. Kisekka",
+                "firstName": "Isaya",
+                "instructorEmail": "ikisekka@ucdavis.edu",
+                "fullName": "Isaya Kisekka"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Basic concepts, principles, and methods of GIS are presented. Data structures, database design, GIS data creation, GPS, and spatial analysis. May be taught abroad.",
+            "creditLimit": "Not open for credit to students who have completed ABT 180/PLS 180 or ABT 181N. ",
+            "ge3": "SE",
+            "crossListing": "LDA 150.",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1310",
+                "building": "Plant&Environmental Sci Bldg",
+                "description": "Laboratory",
+                "buildingCode": "PLESC",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01137"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Scrub Oak Auditorium",
+                "description": "Lecture",
+                "buildingCode": "SCRBOK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00160"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ABT 150 A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "30291",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Geographic Information Systems",
+            "subjectDesc": "Applied Biological System Tech",
+            "courseNum": "150",
+            "hidCRN": "30291",
+            "crn": "30291",
+            "subjectCode": "ABT"
+        },
+        "instructor": [
+            {
+                "lastName": "Kisekka",
+                "instructorName": "I. Kisekka",
+                "firstName": "Isaya",
+                "instructorEmail": "ikisekka@ucdavis.edu",
+                "fullName": "Isaya Kisekka"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Basic concepts, principles, and methods of GIS are presented. Data structures, database design, GIS data creation, GPS, and spatial analysis. May be taught abroad.",
+            "creditLimit": "Not open for credit to students who have completed ABT 180/PLS 180 or ABT 181N. ",
+            "ge3": "SE",
+            "crossListing": "LDA 150.",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0900",
+                "building": "Hunt",
+                "description": "Laboratory",
+                "buildingCode": "HUNT",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00253"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Scrub Oak Auditorium",
+                "description": "Lecture",
+                "buildingCode": "SCRBOK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00160"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ABT 150 A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "30292",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Geographic Information Systems",
+            "subjectDesc": "Applied Biological System Tech",
+            "courseNum": "150",
+            "hidCRN": "30292",
+            "crn": "30292",
+            "subjectCode": "ABT"
+        },
+        "instructor": [
+            {
+                "lastName": "Kisekka",
+                "instructorName": "I. Kisekka",
+                "firstName": "Isaya",
+                "instructorEmail": "ikisekka@ucdavis.edu",
+                "fullName": "Isaya Kisekka"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Basic concepts, principles, and methods of GIS are presented. Data structures, database design, GIS data creation, GPS, and spatial analysis. May be taught abroad.",
+            "creditLimit": "Not open for credit to students who have completed ABT 180/PLS 180 or ABT 181N. ",
+            "ge3": "SE",
+            "crossListing": "LDA 150.",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1310",
+                "building": "Hunt",
+                "description": "Laboratory",
+                "buildingCode": "HUNT",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00253"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Scrub Oak Auditorium",
+                "description": "Lecture",
+                "buildingCode": "SCRBOK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00160"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ABT 150 A05",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A05",
+            "printCRN": "30293",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Geographic Information Systems",
+            "subjectDesc": "Applied Biological System Tech",
+            "courseNum": "150",
+            "hidCRN": "30293",
+            "crn": "30293",
+            "subjectCode": "ABT"
+        },
+        "instructor": [
+            {
+                "lastName": "Kisekka",
+                "instructorName": "I. Kisekka",
+                "firstName": "Isaya",
+                "instructorEmail": "ikisekka@ucdavis.edu",
+                "fullName": "Isaya Kisekka"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Design of aquacultural systems: design methodology, principles of fluid mechanics, site selection and facility planning, management operations, computer modeling.",
+            "creditLimit": "",
+            "ge3": "OL,QL,SE,SL,VL,WE",
+            "crossListing": "",
+            "prereq": " ABT 161"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Bainer Hall",
+                "description": "Lecture",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01326"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ABT 163 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "30294",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Aquaculture Systems Engineering",
+            "subjectDesc": "Applied Biological System Tech",
+            "courseNum": "163",
+            "hidCRN": "30294",
+            "crn": "30294",
+            "subjectCode": "ABT"
+        },
+        "instructor": [
+            {
+                "lastName": "Hung",
+                "instructorName": "T. Hung",
+                "firstName": "Tien-Chieh",
+                "instructorEmail": "thung@ucdavis.edu",
+                "fullName": "Tien-Chieh Hung"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Research conferences for specialized study in applied biological systems technology.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "",
+                "building": "",
+                "description": "Discussion",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "DIS",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ABT 190C",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research Conference for Advanced Undergraduates",
+            "subjectDesc": "Applied Biological System Tech",
+            "courseNum": "190C",
+            "hidCRN": "0E4EC4C7EB",
+            "crn": "30295",
+            "subjectCode": "ABT"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Tutoring individual students, leading small voluntary discussion groups, or assisting the instructor in laboratories affiliated with one of the department's regular courses.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Upper division standing."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "T",
+                "startTime": "",
+                "building": "",
+                "description": "Tutorial",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "TUT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ABT 197T",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Tutoring in Applied Biological Systems Technology",
+            "subjectDesc": "Applied Biological System Tech",
+            "courseNum": "197T",
+            "hidCRN": "0E4EC5CAE7",
+            "crn": "30349",
+            "subjectCode": "ABT"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Zero Net Energy concepts and social, technical, economic, and environmental considerations. Multidisciplinary research and analysis for clients.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "2",
+                "startTime": "",
+                "building": "",
+                "description": "Term Paper/Discussion",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "T-D",
+                "room": ""
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Bainer Hall",
+                "description": "Lecture",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01526"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ABT 212 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "30376",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Path to Zero Net Energy",
+            "subjectDesc": "Applied Biological System Tech",
+            "courseNum": "212",
+            "hidCRN": "30376",
+            "crn": "30376",
+            "subjectCode": "ABT"
+        },
+        "instructor": [
+            {
+                "lastName": "Kornbluth",
+                "instructorName": "K. Kornbluth",
+                "firstName": "Kurt",
+                "instructorEmail": "kkorn@ucdavis.edu",
+                "fullName": "Kurt Kornbluth"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special topic.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "",
+                "startTime": "",
+                "building": "",
+                "description": "",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ABT 289A",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "001",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Selected Topic in Applied Biological Systems Technology: Agricultural & Natural Resources",
+            "subjectDesc": "Applied Biological System Tech",
+            "courseNum": "289A",
+            "hidCRN": "0E4EC5C9E9",
+            "crn": "30377",
+            "subjectCode": "ABT"
+        },
+        "instructor": [
+            {
+                "lastName": "",
+                "instructorName": ". ",
+                "firstName": "",
+                "instructorEmail": "",
+                "fullName": " "
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Research problems, progress, and techniques in applied biological systems technology.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "",
+                "building": "",
+                "description": "Discussion",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "DIS",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ABT 290C",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Graduate Research Conference",
+            "subjectDesc": "Applied Biological System Tech",
+            "courseNum": "290C",
+            "hidCRN": "0E4EC5C9E6",
+            "crn": "30378",
+            "subjectCode": "ABT"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Group study.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ABT 298",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Group Study",
+            "subjectDesc": "Applied Biological System Tech",
+            "courseNum": "298",
+            "hidCRN": "0E4EC2CEEB",
+            "crn": "30405",
+            "subjectCode": "ABT"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Research.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ABT 299",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research",
+            "subjectDesc": "Applied Biological System Tech",
+            "courseNum": "299",
+            "hidCRN": "0E4EC2CDEC",
+            "crn": "30432",
+            "subjectCode": "ABT"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    }
+]

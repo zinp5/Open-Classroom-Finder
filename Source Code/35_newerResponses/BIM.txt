@@ -1,0 +1,1986 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Basic principles of mass, energy and momentum conservation equations applied to solve problems in the biological and medical sciences.",
+            "creditLimit": "Only 2 units of credit to students who have previously taken ECH 051, ENG 105.",
+            "ge3": "QL,SE,VL",
+            "crossListing": "",
+            "prereq": " CHE 002B C- or better;  MAT 021D C- or better;  PHY 009B;  ENG 006;  BIM 020L { can be concurrent }"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1830",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1710",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "02215"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0850",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0800",
+                "building": "Bainer Hall",
+                "description": "Discussion",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01134"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "BIM 020 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "32625",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Fundamentals of Bioengineering",
+            "subjectDesc": "Engineering Biomedical",
+            "courseNum": "020",
+            "hidCRN": "32625",
+            "crn": "32625",
+            "subjectCode": "BIM"
+        },
+        "instructor": [
+            {
+                "lastName": "Yamada",
+                "instructorName": "S. Yamada",
+                "firstName": "Soichiro",
+                "instructorEmail": "syamada@ucdavis.edu",
+                "fullName": "Soichiro Yamada"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Basic principles of mass, energy and momentum conservation equations applied to solve problems in the biological and medical sciences.",
+            "creditLimit": "Only 2 units of credit to students who have previously taken ECH 051, ENG 105.",
+            "ge3": "QL,SE,VL",
+            "crossListing": "",
+            "prereq": " CHE 002B C- or better;  MAT 021D C- or better;  PHY 009B;  ENG 006;  BIM 020L { can be concurrent }"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1830",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1710",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "02215"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0900",
+                "building": "Teaching and Learning Complex",
+                "description": "Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "03213"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "BIM 020 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "32626",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Fundamentals of Bioengineering",
+            "subjectDesc": "Engineering Biomedical",
+            "courseNum": "020",
+            "hidCRN": "32626",
+            "crn": "32626",
+            "subjectCode": "BIM"
+        },
+        "instructor": [
+            {
+                "lastName": "Yamada",
+                "instructorName": "S. Yamada",
+                "firstName": "Soichiro",
+                "instructorEmail": "syamada@ucdavis.edu",
+                "fullName": "Soichiro Yamada"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Basic principles of mass, energy and momentum conservation equations applied to solve problems in the biological and medical sciences.",
+            "creditLimit": "Only 2 units of credit to students who have previously taken ECH 051, ENG 105.",
+            "ge3": "QL,SE,VL",
+            "crossListing": "",
+            "prereq": " CHE 002B C- or better;  MAT 021D C- or better;  PHY 009B;  ENG 006;  BIM 020L { can be concurrent }"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1830",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1710",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "02215"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1000",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00207"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "BIM 020 A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "32627",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Fundamentals of Bioengineering",
+            "subjectDesc": "Engineering Biomedical",
+            "courseNum": "020",
+            "hidCRN": "32627",
+            "crn": "32627",
+            "subjectCode": "BIM"
+        },
+        "instructor": [
+            {
+                "lastName": "Yamada",
+                "instructorName": "S. Yamada",
+                "firstName": "Soichiro",
+                "instructorEmail": "syamada@ucdavis.edu",
+                "fullName": "Soichiro Yamada"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Computer-aided design and its application to problems in Biomedical Engineering.",
+            "creditLimit": "No credit for students who have previously taken ENG 004.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " CHE 002B C- or better;  MAT 021D C- or better;  PHY 009B;  ENG 006;  BIM 020 { can be concurrent }"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1610",
+                "building": "The Grove (Surge III)",
+                "description": "Lecture",
+                "buildingCode": "GROVE",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01309"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1250",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1100",
+                "building": "Academic Surge Bldg.",
+                "description": "Laboratory",
+                "buildingCode": "ACADSR",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01116"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "BIM 020L A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "32628",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Graphics Design for BME",
+            "subjectDesc": "Engineering Biomedical",
+            "courseNum": "020L",
+            "hidCRN": "32628",
+            "crn": "32628",
+            "subjectCode": "BIM"
+        },
+        "instructor": [
+            {
+                "lastName": "Kwon",
+                "instructorName": "S. Kwon",
+                "firstName": "Sun Il",
+                "instructorEmail": "sunkwon@ucdavis.edu",
+                "fullName": "Sun Il Kwon"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Computer-aided design and its application to problems in Biomedical Engineering.",
+            "creditLimit": "No credit for students who have previously taken ENG 004.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " CHE 002B C- or better;  MAT 021D C- or better;  PHY 009B;  ENG 006;  BIM 020 { can be concurrent }"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1610",
+                "building": "The Grove (Surge III)",
+                "description": "Lecture",
+                "buildingCode": "GROVE",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01309"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1000",
+                "building": "Academic Surge Bldg.",
+                "description": "Laboratory",
+                "buildingCode": "ACADSR",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01116"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "BIM 020L A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "32629",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Graphics Design for BME",
+            "subjectDesc": "Engineering Biomedical",
+            "courseNum": "020L",
+            "hidCRN": "32629",
+            "crn": "32629",
+            "subjectCode": "BIM"
+        },
+        "instructor": [
+            {
+                "lastName": "Kwon",
+                "instructorName": "S. Kwon",
+                "firstName": "Sun Il",
+                "instructorEmail": "sunkwon@ucdavis.edu",
+                "fullName": "Sun Il Kwon"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Computer-aided design and its application to problems in Biomedical Engineering.",
+            "creditLimit": "No credit for students who have previously taken ENG 004.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " CHE 002B C- or better;  MAT 021D C- or better;  PHY 009B;  ENG 006;  BIM 020 { can be concurrent }"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1610",
+                "building": "The Grove (Surge III)",
+                "description": "Lecture",
+                "buildingCode": "GROVE",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01309"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1210",
+                "building": "Academic Surge Bldg.",
+                "description": "Laboratory",
+                "buildingCode": "ACADSR",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01044"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "BIM 020L A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "32630",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Graphics Design for BME",
+            "subjectDesc": "Engineering Biomedical",
+            "courseNum": "020L",
+            "hidCRN": "32630",
+            "crn": "32630",
+            "subjectCode": "BIM"
+        },
+        "instructor": [
+            {
+                "lastName": "Kwon",
+                "instructorName": "S. Kwon",
+                "firstName": "Sun Il",
+                "instructorEmail": "sunkwon@ucdavis.edu",
+                "fullName": "Sun Il Kwon"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Computer-aided design and its application to problems in Biomedical Engineering.",
+            "creditLimit": "No credit for students who have previously taken ENG 004.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " CHE 002B C- or better;  MAT 021D C- or better;  PHY 009B;  ENG 006;  BIM 020 { can be concurrent }"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1610",
+                "building": "The Grove (Surge III)",
+                "description": "Lecture",
+                "buildingCode": "GROVE",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01309"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1310",
+                "building": "Academic Surge Bldg.",
+                "description": "Laboratory",
+                "buildingCode": "ACADSR",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01116"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "BIM 020L A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "32631",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Graphics Design for BME",
+            "subjectDesc": "Engineering Biomedical",
+            "courseNum": "020L",
+            "hidCRN": "32631",
+            "crn": "32631",
+            "subjectCode": "BIM"
+        },
+        "instructor": [
+            {
+                "lastName": "Kwon",
+                "instructorName": "S. Kwon",
+                "firstName": "Sun Il",
+                "instructorEmail": "sunkwon@ucdavis.edu",
+                "fullName": "Sun Il Kwon"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to types of research, including the basics of joint research with a faculty mentor. Self-assessments to identify areas of interest, priorities, and fit. Literature search and library skills used in early stages of research. Research safety, integrity, and intellectual property.",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 20:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "WVL",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "BIM 088V 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56357",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Research",
+            "subjectDesc": "Engineering Biomedical",
+            "courseNum": "088V",
+            "hidCRN": "56357",
+            "crn": "56357",
+            "subjectCode": "BIM"
+        },
+        "instructor": [
+            {
+                "lastName": "Louie",
+                "instructorName": "A. Louie",
+                "firstName": "Angelique",
+                "instructorEmail": "aylouie@ucdavis.edu",
+                "fullName": "Angelique Louie"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Systems and control theory applied to biomedical engineering problems. Time-domain and frequency-domain analyses of signals and systems, convolution, Laplace and Fourier transforms, transfer function, dynamic behavior of first and second order processes, and design of control systems for biomedical applications.",
+            "creditLimit": "No credit for students who have taken EEC 150; 2 units of credit for students who have taken EME 171.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " ENG 006;  (ENG 017 or ENG 017V);  (MAT 022B C- or better or MAT 027B C- or better or BIS 027B C- or better)"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00026"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "BIM 108 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "32637",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Biomedical Signals & Control",
+            "subjectDesc": "Engineering Biomedical",
+            "courseNum": "108",
+            "hidCRN": "32637",
+            "crn": "32637",
+            "subjectCode": "BIM"
+        },
+        "instructor": [
+            {
+                "lastName": "Xue",
+                "instructorName": "Y. Xue",
+                "firstName": "Yi",
+                "instructorEmail": "yxxue@ucdavis.edu",
+                "fullName": "Yi Xue"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduce important concepts for design, selection and application of biomaterials. Given the interdisciplinary nature of the subject, principles of polymer science, surface science, materials science and biology will be integrated into the course.\n\n",
+            "creditLimit": "",
+            "ge3": "SE,SL,VL",
+            "crossListing": "",
+            "prereq": " BIS 002A;  CHE 002C;  BIM 106"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "0800",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00194"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "BIM 109 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "32638",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Biomaterials",
+            "subjectDesc": "Engineering Biomedical",
+            "courseNum": "109",
+            "hidCRN": "32638",
+            "crn": "32638",
+            "subjectCode": "BIM"
+        },
+        "instructor": [
+            {
+                "lastName": "Gilchrist",
+                "instructorName": "A. Gilchrist",
+                "firstName": "Aidan",
+                "instructorEmail": "gilchrist@ucdavis.edu",
+                "fullName": "Aidan Gilchrist"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Application of bioengineering theory and experimental analysis to a design project culminating in the design of a unique solution to a biomedical problem.",
+            "creditLimit": "",
+            "ge3": "OL,VL",
+            "crossListing": "",
+            "prereq": " BIM 110B"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "1610",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture/Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LED",
+                "room": "03215"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "BIM 110C 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "32639",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Biomedical Engineering Senior Design Experience",
+            "subjectDesc": "Engineering Biomedical",
+            "courseNum": "110C",
+            "hidCRN": "32639",
+            "crn": "32639",
+            "subjectCode": "BIM"
+        },
+        "instructor": [
+            {
+                "lastName": "Choi",
+                "instructorName": "J. Choi",
+                "firstName": "Jennifer",
+                "instructorEmail": "jhkchoi@ucdavis.edu",
+                "fullName": "Jennifer Choi"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to protein structure and function. Modern methods for designing, producing, and characterizing novel proteins and peptides. Design strategies, computer modeling, heterologous expression, in vitro mutagenesis. Protein crystallography, spectroscopic and calorimetric methods for characterization, and other techniques.",
+            "creditLimit": "",
+            "ge3": "QL,SE,SL,VL",
+            "crossListing": "",
+            "prereq": " BIS 002A"
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1730",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1610",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "03212"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1740",
+                "building": "Teaching and Learning Complex",
+                "description": "Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "03212"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "BIM 140 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "32640",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Protein Engineering",
+            "subjectDesc": "Engineering Biomedical",
+            "courseNum": "140",
+            "hidCRN": "32640",
+            "crn": "32640",
+            "subjectCode": "BIM"
+        },
+        "instructor": [
+            {
+                "lastName": "Duan",
+                "instructorName": "Y. Duan",
+                "firstName": "Yong",
+                "instructorEmail": "duan@ucdavis.edu",
+                "fullName": "Yong Duan"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Basic physics, engineering principles, and applications of biomedical imaging techniques including x-ray imaging, computed tomography, magnetic resonance imaging, ultrasound and nuclear imaging.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " (MAT 022B or MAT 027B or BIS 027B);  PHY 009B"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "03214"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "BIM 142 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "32641",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Principles & Practices of Biomedical Imaging",
+            "subjectDesc": "Engineering Biomedical",
+            "courseNum": "142",
+            "hidCRN": "32641",
+            "crn": "32641",
+            "subjectCode": "BIM"
+        },
+        "instructor": [
+            {
+                "lastName": "Qi",
+                "instructorName": "J. Qi",
+                "firstName": "Jinyi",
+                "instructorEmail": "qi@ucdavis.edu",
+                "fullName": "Jinyi Qi"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Includes analysis, design, construction and characterization of molecular systems.\u00a0 Process and biological parts standardization, computer aided design, gene synthesis, directed evolution, protein engineering, issues of human practice, biological safety, security, innovation, and ethics are covered.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " BIS 002A;  (MAT 017C or MAT 016C or MAT 021C)"
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0920",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0800",
+                "building": "Hoagland Hall",
+                "description": "Lecture",
+                "buildingCode": "HOAGLD",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00168"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0930",
+                "building": "Hoagland Hall",
+                "description": "Discussion",
+                "buildingCode": "HOAGLD",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00168"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "BIM 143 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "32642",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Biomolecular Systems Engineering: Synthetic Biology",
+            "subjectDesc": "Engineering Biomedical",
+            "courseNum": "143",
+            "hidCRN": "32642",
+            "crn": "32642",
+            "subjectCode": "BIM"
+        },
+        "instructor": [
+            {
+                "lastName": "Facciotti",
+                "instructorName": "M. Facciotti",
+                "firstName": "Marc",
+                "instructorEmail": "mtfacciotti@ucdavis.edu",
+                "fullName": "Marc Facciotti"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Selected machine learning methods with biomedical engineering applications. Machine learning algorithms including linear regression, logistic regression, support vector machines, decision trees, fully connected neural networks, and clustering methods. Computer labs provide applications of machine learning algorithms to biomedical data.",
+            "creditLimit": "No credit if student has taken ECS 111, ECS 171, or EEC 179; 3 units of credit if student has taken EEC 174AY or NPB 136.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " ENG 006 C- or better;  (MAT 022A or MAT 027A or BIS 027A);  BIM 105;  BIM 108 { can be concurrent };  ECS 032B recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1210",
+                "building": "Academic Surge Bldg.",
+                "description": "Laboratory",
+                "buildingCode": "ACADSR",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02323"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1120",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1000",
+                "building": "Academic Surge Bldg.",
+                "description": "Lecture",
+                "buildingCode": "ACADSR",
+                "saturday": false,
+                "type": "LEC",
+                "room": "02323"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "BIM 155 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "32644",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Machine Learning for Biomedical Engineering",
+            "subjectDesc": "Engineering Biomedical",
+            "courseNum": "155",
+            "hidCRN": "32644",
+            "crn": "32644",
+            "subjectCode": "BIM"
+        },
+        "instructor": [
+            {
+                "lastName": "Wang",
+                "instructorName": "X. Wang",
+                "firstName": "Xianglong",
+                "instructorEmail": "xlowang@ucdavis.edu",
+                "fullName": "Xianglong Wang"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Fundamentals of bioelectricity in cells, the calcium signaling system, and mechanical force generation in muscle. Combination of lecture and projects to promote learning of important concepts in hands-on projects using neurons and muscle as microcosms.",
+            "creditLimit": "",
+            "ge3": "QL,SE",
+            "crossListing": "",
+            "prereq": " (BIM 116 or BIM 181 or NPB 101);  (MAT 022B C- or better or MAT 027B C- or better or BIS 027B C- or better)"
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1220",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1100",
+                "building": "Hoagland Hall",
+                "description": "Lecture",
+                "buildingCode": "HOAGLD",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00168"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1250",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "1230",
+                "building": "Hoagland Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "HOAGLD",
+                "saturday": false,
+                "type": "LED",
+                "room": "00168"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "BIM 163 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55579",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Bioelectricity, Biomechanics, & Signaling Systems",
+            "subjectDesc": "Engineering Biomedical",
+            "courseNum": "163",
+            "hidCRN": "55579",
+            "crn": "55579",
+            "subjectCode": "BIM"
+        },
+        "instructor": [
+            {
+                "lastName": "Chen-Izu",
+                "instructorName": "Y. Chen-Izu",
+                "firstName": "Ye",
+                "instructorEmail": "ychenizu@ucdavis.edu",
+                "fullName": "Ye Chen-Izu"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Fundamentals of cell culture techniques in the context of biomedical engineering research and applications. Lab basics and safety, basic wet bench skills, pipetting, aseptic technique, and fundamental two-dimensional and three-dimensional cell culture processes.\n\n\n",
+            "creditLimit": "1 unit of credit if student has taken ANS 133. \n",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " BIM 116 or NPB 101"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0850",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0800",
+                "building": "Academic Surge Bldg.",
+                "description": "Lecture",
+                "buildingCode": "ACADSR",
+                "saturday": false,
+                "type": "LEC",
+                "room": "02240"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0900",
+                "building": "Academic Surge Bldg.",
+                "description": "Laboratory",
+                "buildingCode": "ACADSR",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02240"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "BIM 178 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "32645",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Biomedical Engineering Cell Culture Laboratory",
+            "subjectDesc": "Engineering Biomedical",
+            "courseNum": "178",
+            "hidCRN": "32645",
+            "crn": "32645",
+            "subjectCode": "BIM"
+        },
+        "instructor": [
+            {
+                "lastName": "Choi",
+                "instructorName": "J. Choi",
+                "firstName": "Jennifer",
+                "instructorEmail": "jhkchoi@ucdavis.edu",
+                "fullName": "Jennifer Choi"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Topics in Biomedical Engineering: Biomedical Imaging.\n  ",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "1000",
+                "building": "Academic Surge Bldg.",
+                "description": "Variable",
+                "buildingCode": "ACADSR",
+                "saturday": false,
+                "type": "VAR",
+                "room": "02323"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "BIM 189B",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "001",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Topics in Biomedical Engineering: Biomedical Imaging",
+            "subjectDesc": "Engineering Biomedical",
+            "courseNum": "189B",
+            "hidCRN": "0848C4CBE9",
+            "crn": "56257",
+            "subjectCode": "BIM"
+        },
+        "instructor": [
+            {
+                "lastName": "Roncali",
+                "instructorName": "E. Roncali",
+                "firstName": "Emilie",
+                "instructorEmail": "eroncali@ucdavis.edu",
+                "fullName": "Emilie Roncali"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Scientific integrity and ethics for biomedical engineers, with emphasis and discussion on mentoring, authorship and peer review, use of humans and animals in biomedical research, conflict of interest, intellectual property, genetic technology and scientific record keeping.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0850",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0800",
+                "building": "Bainer Hall",
+                "description": "Lecture",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01132"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0900",
+                "building": "Bainer Hall",
+                "description": "Discussion",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01132"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "BIM 209 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "32683",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Scientific Integrity for Biomedical Engineers",
+            "subjectDesc": "Engineering Biomedical",
+            "courseNum": "209",
+            "hidCRN": "32683",
+            "crn": "32683",
+            "subjectCode": "BIM"
+        },
+        "instructor": [
+            {
+                "lastName": "Sutcliffe",
+                "instructorName": "J. Sutcliffe",
+                "firstName": "Julie",
+                "instructorEmail": "jlsutcliffe@ucdavis.edu",
+                "fullName": "Julie Sutcliffe"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Principles by which biomechanical forces affect cell and tissue function to impact human health and disease. Emphasis on cardiovascular system: structure and function, biofluid mechanics and mechanotransduction, disease mechanisms and research methods. Cartilage, bone and other systems; current topics discussed.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " BIM 106;  (BIS 101V or BIS 101);  NPB 101;  Or equivalents."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "1410",
+                "building": "Robbins Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "ROBBNS",
+                "saturday": false,
+                "type": "LED",
+                "room": "00146"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "BIM 217 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55581",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Mechanobiology in Health & Disease",
+            "subjectDesc": "Engineering Biomedical",
+            "courseNum": "217",
+            "hidCRN": "55581",
+            "crn": "55581",
+            "subjectCode": "BIM"
+        },
+        "instructor": [
+            {
+                "lastName": "Passerini",
+                "instructorName": "A. Passerini",
+                "firstName": "Anthony",
+                "instructorEmail": "agpasserini@ucdavis.edu",
+                "fullName": "Anthony Passerini"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Presentation of structure and function of musculoskeletal soft tissues: cartilage, tendon, ligament, meniscus, and intervertebral disc. Instruction in engineering principals governing the mechanical behavior of these tissues: viscoelasticity, quasilinear viscoelasticity, and biphasic theory.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00163"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "BIM 233 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55582",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Soft Tissue Mechanics",
+            "subjectDesc": "Engineering Biomedical",
+            "courseNum": "233",
+            "hidCRN": "55582",
+            "crn": "55582",
+            "subjectCode": "BIM"
+        },
+        "instructor": [
+            {
+                "lastName": "Christiansen",
+                "instructorName": "B. Christiansen",
+                "firstName": "Blaine",
+                "instructorEmail": "bchristiansen@ucdavis.edu",
+                "fullName": "Blaine Christiansen"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Fundamentals of optical properties of tissue. Range of optical technologies and their applications to tissue characterization and diagnostics.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0900",
+                "building": "Facility Assigned by Instr.",
+                "description": "Laboratory",
+                "buildingCode": "NOFAC",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00000"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0920",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "0800",
+                "building": "Tupper Hall",
+                "description": "Lecture",
+                "buildingCode": "TUPPER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "02133"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "0930",
+                "building": "Tupper Hall",
+                "description": "Discussion",
+                "buildingCode": "TUPPER",
+                "saturday": false,
+                "type": "DIS",
+                "room": "02133"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "BIM 257 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "32687",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Fundamentals of Tissue Optics & Biomedical Applications",
+            "subjectDesc": "Engineering Biomedical",
+            "courseNum": "257",
+            "hidCRN": "32687",
+            "crn": "32687",
+            "subjectCode": "BIM"
+        },
+        "instructor": [
+            {
+                "lastName": "Marcu",
+                "instructorName": "L. Marcu",
+                "firstName": "Laura",
+                "instructorEmail": "lmarcu@ucdavis.edu",
+                "fullName": "Laura Marcu"
+            },
+            {
+                "lastName": "Zawadzki",
+                "instructorName": "R. Zawadzki",
+                "firstName": "Robert",
+                "instructorEmail": "rjzawadzki@ucdavis.edu",
+                "fullName": "Robert Zawadzki"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to fundamental mechanisms governing the structure, function, and assembly of bio-macromolecules. Emphasis is on a quantitative understanding of the nano-to-microscale interactions between and within individual molecules, as well as of their assemblies, in particular membranes.",
+            "creditLimit": "Not open for credit to students who have completed BIM 162.",
+            "ge3": "",
+            "crossListing": "ECH 269.",
+            "prereq": " BIM 284;  Or equivalent; graduate standing; undergraduate students by consent of instructor."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00244"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "BIM 262 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55580",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Cell & Molecular Biophysics for Bioengineers",
+            "subjectDesc": "Engineering Biomedical",
+            "courseNum": "262",
+            "hidCRN": "55580",
+            "crn": "55580",
+            "subjectCode": "BIM"
+        },
+        "instructor": [
+            {
+                "lastName": "Heinrich",
+                "instructorName": "V. Heinrich",
+                "firstName": "Volkmar",
+                "instructorEmail": "vheinrich@ucdavis.edu",
+                "fullName": "Volkmar Heinrich"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Basic concepts of digital signal recording and analysis; sampling; empirical modeling; Fourier analysis, random processes, spectral analysis, and correlation applied to biomedical signals.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " ENG 100;  STA 130A"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1210",
+                "building": "Hart Hall",
+                "description": "Laboratory",
+                "buildingCode": "HART",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01130"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00226"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "BIM 281 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "32689",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Acquisition & Analysis of Biomedical Signals",
+            "subjectDesc": "Engineering Biomedical",
+            "courseNum": "281",
+            "hidCRN": "32689",
+            "crn": "32689",
+            "subjectCode": "BIM"
+        },
+        "instructor": [
+            {
+                "lastName": "Jonnal",
+                "instructorName": "R. Jonnal",
+                "firstName": "Ravi",
+                "instructorEmail": "rsjonnal@ucdavis.edu",
+                "fullName": "Ravi Jonnal"
+            },
+            {
+                "lastName": "Zawadzki",
+                "instructorName": "R. Zawadzki",
+                "firstName": "Robert",
+                "instructorEmail": "rjzawadzki@ucdavis.edu",
+                "fullName": "Robert Zawadzki"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Seminar in biomedical engineering",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "E",
+                "startTime": "0900",
+                "building": "Genome & Biomed. Sciences Fac.",
+                "description": "Seminar",
+                "buildingCode": "GENBIO",
+                "saturday": false,
+                "type": "SEM",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "BIM 290 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "32692",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Seminar",
+            "subjectDesc": "Engineering Biomedical",
+            "courseNum": "290",
+            "hidCRN": "32692",
+            "crn": "32692",
+            "subjectCode": "BIM"
+        },
+        "instructor": [
+            {
+                "lastName": "Xue",
+                "instructorName": "Y. Xue",
+                "firstName": "Yi",
+                "instructorEmail": "yxxue@ucdavis.edu",
+                "fullName": "Yi Xue"
+            }
+        ]
+    }
+]

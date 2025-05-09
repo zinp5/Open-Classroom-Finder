@@ -1,0 +1,141 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Research at a biotechnology company or interdisciplinary cross-college lab for a minimum of three months as part of the Designated Emphasis in Biotechnology Program.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Graduate standing and Consent of Instructor."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 7,
+            "reservedSeating": false,
+            "shortDesc": "DEB 282",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Biotechnology Internship",
+            "subjectDesc": "Biotechnology (Desig Emphasis)",
+            "courseNum": "282",
+            "hidCRN": "0E4BCFCFEC",
+            "crn": "35912",
+            "subjectCode": "DEB"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Seminars presented by guest lecturers on subjects of their own research activities. \n",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "ECH 294.",
+            "prereq": " Graduate standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "E",
+                "startTime": "1100",
+                "building": "Green Hall",
+                "description": "Seminar",
+                "buildingCode": "GREENH",
+                "saturday": false,
+                "type": "SEM",
+                "room": "01022"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "DEB 294 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "35914",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Current Progress in Biotechnology",
+            "subjectDesc": "Biotechnology (Desig Emphasis)",
+            "courseNum": "294",
+            "hidCRN": "35914",
+            "crn": "35914",
+            "subjectCode": "DEB"
+        },
+        "instructor": [
+            {
+                "lastName": "Jamison-Mcclung",
+                "instructorName": "D. Jamison-Mcclung",
+                "firstName": "Denneal",
+                "instructorEmail": "dsjamison@ucdavis.edu",
+                "fullName": "Denneal Jamison-Mcclung"
+            },
+            {
+                "lastName": "Nandi",
+                "instructorName": "S. Nandi",
+                "firstName": "Somen",
+                "instructorEmail": "snandi@ucdavis.edu",
+                "fullName": "Somen Nandi"
+            }
+        ]
+    }
+]

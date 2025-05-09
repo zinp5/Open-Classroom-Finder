@@ -1,0 +1,3962 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "American culture as understood through the individual life stories told by Americans, with attention to the roles of gender, race, ethnicity, social class, and sexual orientation in the individual's life course.",
+            "creditLimit": "",
+            "ge3": "AH,DD,SS,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00109"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "AMS 001C 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55463",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "American Lives Through Autobiography",
+            "subjectDesc": "American Studies",
+            "courseNum": "001C",
+            "hidCRN": "55463",
+            "crn": "55463",
+            "subjectCode": "AMS"
+        },
+        "instructor": [
+            {
+                "lastName": "Arapoglou",
+                "instructorName": "E. Arapoglou",
+                "firstName": "Eleftheria",
+                "instructorEmail": "earapoglou@ucdavis.edu",
+                "fullName": "Eleftheria Arapoglou"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Uses and abuses of nature in America; patterns of inhabitation, exploitation, appreciation, and neglect; attention to California; emphasis on metaphor as a key to understanding ourselves and the natural world; attention to models of healing: stewardship, ecology, the \"rights\" movement.",
+            "creditLimit": "",
+            "ge3": "AH,DD,SS,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1900",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1810",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00101"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1340",
+                "building": "Medical Science C",
+                "description": "Lecture",
+                "buildingCode": "MDSC C",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00180"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "AMS 001E A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "30682",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Nature & Culture in America",
+            "subjectDesc": "American Studies",
+            "courseNum": "001E",
+            "hidCRN": "30682",
+            "crn": "30682",
+            "subjectCode": "AMS"
+        },
+        "instructor": [
+            {
+                "lastName": "Arbona-Homar",
+                "instructorName": "J. Arbona-Homar",
+                "firstName": "Javier",
+                "instructorEmail": "jarbona@ucdavis.edu",
+                "fullName": "Javier Arbona-Homar"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Uses and abuses of nature in America; patterns of inhabitation, exploitation, appreciation, and neglect; attention to California; emphasis on metaphor as a key to understanding ourselves and the natural world; attention to models of healing: stewardship, ecology, the \"rights\" movement.",
+            "creditLimit": "",
+            "ge3": "AH,DD,SS,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2000",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1910",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00101"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1340",
+                "building": "Medical Science C",
+                "description": "Lecture",
+                "buildingCode": "MDSC C",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00180"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "AMS 001E A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "30683",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Nature & Culture in America",
+            "subjectDesc": "American Studies",
+            "courseNum": "001E",
+            "hidCRN": "30683",
+            "crn": "30683",
+            "subjectCode": "AMS"
+        },
+        "instructor": [
+            {
+                "lastName": "Arbona-Homar",
+                "instructorName": "J. Arbona-Homar",
+                "firstName": "Javier",
+                "instructorEmail": "jarbona@ucdavis.edu",
+                "fullName": "Javier Arbona-Homar"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Uses and abuses of nature in America; patterns of inhabitation, exploitation, appreciation, and neglect; attention to California; emphasis on metaphor as a key to understanding ourselves and the natural world; attention to models of healing: stewardship, ecology, the \"rights\" movement.",
+            "creditLimit": "",
+            "ge3": "AH,DD,SS,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1900",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1810",
+                "building": "Hunt",
+                "description": "Discussion",
+                "buildingCode": "HUNT",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00110"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1340",
+                "building": "Medical Science C",
+                "description": "Lecture",
+                "buildingCode": "MDSC C",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00180"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "AMS 001E A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "30684",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Nature & Culture in America",
+            "subjectDesc": "American Studies",
+            "courseNum": "001E",
+            "hidCRN": "30684",
+            "crn": "30684",
+            "subjectCode": "AMS"
+        },
+        "instructor": [
+            {
+                "lastName": "Arbona-Homar",
+                "instructorName": "J. Arbona-Homar",
+                "firstName": "Javier",
+                "instructorEmail": "jarbona@ucdavis.edu",
+                "fullName": "Javier Arbona-Homar"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Uses and abuses of nature in America; patterns of inhabitation, exploitation, appreciation, and neglect; attention to California; emphasis on metaphor as a key to understanding ourselves and the natural world; attention to models of healing: stewardship, ecology, the \"rights\" movement.",
+            "creditLimit": "",
+            "ge3": "AH,DD,SS,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2000",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1910",
+                "building": "Hunt",
+                "description": "Discussion",
+                "buildingCode": "HUNT",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00110"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1340",
+                "building": "Medical Science C",
+                "description": "Lecture",
+                "buildingCode": "MDSC C",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00180"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "AMS 001E A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "30685",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Nature & Culture in America",
+            "subjectDesc": "American Studies",
+            "courseNum": "001E",
+            "hidCRN": "30685",
+            "crn": "30685",
+            "subjectCode": "AMS"
+        },
+        "instructor": [
+            {
+                "lastName": "Arbona-Homar",
+                "instructorName": "J. Arbona-Homar",
+                "firstName": "Javier",
+                "instructorEmail": "jarbona@ucdavis.edu",
+                "fullName": "Javier Arbona-Homar"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Uses and abuses of nature in America; patterns of inhabitation, exploitation, appreciation, and neglect; attention to California; emphasis on metaphor as a key to understanding ourselves and the natural world; attention to models of healing: stewardship, ecology, the \"rights\" movement.",
+            "creditLimit": "",
+            "ge3": "AH,DD,SS,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1340",
+                "building": "Medical Science C",
+                "description": "Lecture",
+                "buildingCode": "MDSC C",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00180"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1900",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1810",
+                "building": "Robbins Hall",
+                "description": "Discussion",
+                "buildingCode": "ROBBNS",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00146"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "AMS 001E A05",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A05",
+            "printCRN": "30686",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Nature & Culture in America",
+            "subjectDesc": "American Studies",
+            "courseNum": "001E",
+            "hidCRN": "30686",
+            "crn": "30686",
+            "subjectCode": "AMS"
+        },
+        "instructor": [
+            {
+                "lastName": "Arbona-Homar",
+                "instructorName": "J. Arbona-Homar",
+                "firstName": "Javier",
+                "instructorEmail": "jarbona@ucdavis.edu",
+                "fullName": "Javier Arbona-Homar"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Uses and abuses of nature in America; patterns of inhabitation, exploitation, appreciation, and neglect; attention to California; emphasis on metaphor as a key to understanding ourselves and the natural world; attention to models of healing: stewardship, ecology, the \"rights\" movement.",
+            "creditLimit": "",
+            "ge3": "AH,DD,SS,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1340",
+                "building": "Medical Science C",
+                "description": "Lecture",
+                "buildingCode": "MDSC C",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00180"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2000",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1910",
+                "building": "Robbins Hall",
+                "description": "Discussion",
+                "buildingCode": "ROBBNS",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00146"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "AMS 001E A06",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A06",
+            "printCRN": "30687",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Nature & Culture in America",
+            "subjectDesc": "American Studies",
+            "courseNum": "001E",
+            "hidCRN": "30687",
+            "crn": "30687",
+            "subjectCode": "AMS"
+        },
+        "instructor": [
+            {
+                "lastName": "Arbona-Homar",
+                "instructorName": "J. Arbona-Homar",
+                "firstName": "Javier",
+                "instructorEmail": "jarbona@ucdavis.edu",
+                "fullName": "Javier Arbona-Homar"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Uses and abuses of nature in America; patterns of inhabitation, exploitation, appreciation, and neglect; attention to California; emphasis on metaphor as a key to understanding ourselves and the natural world; attention to models of healing: stewardship, ecology, the \"rights\" movement.",
+            "creditLimit": "",
+            "ge3": "AH,DD,SS,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1900",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1810",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00203"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1340",
+                "building": "Medical Science C",
+                "description": "Lecture",
+                "buildingCode": "MDSC C",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00180"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "AMS 001E A07",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A07",
+            "printCRN": "30688",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Nature & Culture in America",
+            "subjectDesc": "American Studies",
+            "courseNum": "001E",
+            "hidCRN": "30688",
+            "crn": "30688",
+            "subjectCode": "AMS"
+        },
+        "instructor": [
+            {
+                "lastName": "Arbona-Homar",
+                "instructorName": "J. Arbona-Homar",
+                "firstName": "Javier",
+                "instructorEmail": "jarbona@ucdavis.edu",
+                "fullName": "Javier Arbona-Homar"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Uses and abuses of nature in America; patterns of inhabitation, exploitation, appreciation, and neglect; attention to California; emphasis on metaphor as a key to understanding ourselves and the natural world; attention to models of healing: stewardship, ecology, the \"rights\" movement.",
+            "creditLimit": "",
+            "ge3": "AH,DD,SS,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2000",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1910",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00203"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1340",
+                "building": "Medical Science C",
+                "description": "Lecture",
+                "buildingCode": "MDSC C",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00180"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "AMS 001E A08",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A08",
+            "printCRN": "30689",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Nature & Culture in America",
+            "subjectDesc": "American Studies",
+            "courseNum": "001E",
+            "hidCRN": "30689",
+            "crn": "30689",
+            "subjectCode": "AMS"
+        },
+        "instructor": [
+            {
+                "lastName": "Arbona-Homar",
+                "instructorName": "J. Arbona-Homar",
+                "firstName": "Javier",
+                "instructorEmail": "jarbona@ucdavis.edu",
+                "fullName": "Javier Arbona-Homar"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Disability as a form of social exclusion; disability as social and cultural identity; intersections of disability with race, gender, class, and sexuality; popular culture, art, television, film, and literature by disabled people; critiques of medicine by people with disabilities; health disparities; ways to make medicine more inclusive.",
+            "creditLimit": "",
+            "ge3": "AH,DD,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Walker Hall",
+                "description": "Lecture",
+                "buildingCode": "WALKER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01310"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0850",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0800",
+                "building": "Robbins Hall",
+                "description": "Discussion",
+                "buildingCode": "ROBBNS",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00146"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "AMS 012 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "55464",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "U.S. Disability Culture & Medicine",
+            "subjectDesc": "American Studies",
+            "courseNum": "012",
+            "hidCRN": "55464",
+            "crn": "55464",
+            "subjectCode": "AMS"
+        },
+        "instructor": [
+            {
+                "lastName": "Bayles",
+                "instructorName": "M. Bayles",
+                "firstName": "Megan",
+                "instructorEmail": "mhbayles@ucdavis.edu",
+                "fullName": "Megan Bayles"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Disability as a form of social exclusion; disability as social and cultural identity; intersections of disability with race, gender, class, and sexuality; popular culture, art, television, film, and literature by disabled people; critiques of medicine by people with disabilities; health disparities; ways to make medicine more inclusive.",
+            "creditLimit": "",
+            "ge3": "AH,DD,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Walker Hall",
+                "description": "Lecture",
+                "buildingCode": "WALKER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01310"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0900",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00007"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "AMS 012 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "55465",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "U.S. Disability Culture & Medicine",
+            "subjectDesc": "American Studies",
+            "courseNum": "012",
+            "hidCRN": "55465",
+            "crn": "55465",
+            "subjectCode": "AMS"
+        },
+        "instructor": [
+            {
+                "lastName": "Bayles",
+                "instructorName": "M. Bayles",
+                "firstName": "Megan",
+                "instructorEmail": "mhbayles@ucdavis.edu",
+                "fullName": "Megan Bayles"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Disability as a form of social exclusion; disability as social and cultural identity; intersections of disability with race, gender, class, and sexuality; popular culture, art, television, film, and literature by disabled people; critiques of medicine by people with disabilities; health disparities; ways to make medicine more inclusive.",
+            "creditLimit": "",
+            "ge3": "AH,DD,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Walker Hall",
+                "description": "Lecture",
+                "buildingCode": "WALKER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01310"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1000",
+                "building": "Teaching and Learning Complex",
+                "description": "Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "03215"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "AMS 012 A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "55466",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "U.S. Disability Culture & Medicine",
+            "subjectDesc": "American Studies",
+            "courseNum": "012",
+            "hidCRN": "55466",
+            "crn": "55466",
+            "subjectCode": "AMS"
+        },
+        "instructor": [
+            {
+                "lastName": "Bayles",
+                "instructorName": "M. Bayles",
+                "firstName": "Megan",
+                "instructorEmail": "mhbayles@ucdavis.edu",
+                "fullName": "Megan Bayles"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Disability as a form of social exclusion; disability as social and cultural identity; intersections of disability with race, gender, class, and sexuality; popular culture, art, television, film, and literature by disabled people; critiques of medicine by people with disabilities; health disparities; ways to make medicine more inclusive.",
+            "creditLimit": "",
+            "ge3": "AH,DD,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Walker Hall",
+                "description": "Lecture",
+                "buildingCode": "WALKER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01310"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1100",
+                "building": "Teaching and Learning Complex",
+                "description": "Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "03211"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "AMS 012 A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "55467",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "U.S. Disability Culture & Medicine",
+            "subjectDesc": "American Studies",
+            "courseNum": "012",
+            "hidCRN": "55467",
+            "crn": "55467",
+            "subjectCode": "AMS"
+        },
+        "instructor": [
+            {
+                "lastName": "Bayles",
+                "instructorName": "M. Bayles",
+                "firstName": "Megan",
+                "instructorEmail": "mhbayles@ucdavis.edu",
+                "fullName": "Megan Bayles"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Disability as a form of social exclusion; disability as social and cultural identity; intersections of disability with race, gender, class, and sexuality; popular culture, art, television, film, and literature by disabled people; critiques of medicine by people with disabilities; health disparities; ways to make medicine more inclusive.",
+            "creditLimit": "",
+            "ge3": "AH,DD,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0850",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0800",
+                "building": "Robbins Hall",
+                "description": "Discussion",
+                "buildingCode": "ROBBNS",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00146"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Walker Hall",
+                "description": "Lecture",
+                "buildingCode": "WALKER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01310"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "AMS 012 A05",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A05",
+            "printCRN": "55468",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "U.S. Disability Culture & Medicine",
+            "subjectDesc": "American Studies",
+            "courseNum": "012",
+            "hidCRN": "55468",
+            "crn": "55468",
+            "subjectCode": "AMS"
+        },
+        "instructor": [
+            {
+                "lastName": "Bayles",
+                "instructorName": "M. Bayles",
+                "firstName": "Megan",
+                "instructorEmail": "mhbayles@ucdavis.edu",
+                "fullName": "Megan Bayles"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Disability as a form of social exclusion; disability as social and cultural identity; intersections of disability with race, gender, class, and sexuality; popular culture, art, television, film, and literature by disabled people; critiques of medicine by people with disabilities; health disparities; ways to make medicine more inclusive.",
+            "creditLimit": "",
+            "ge3": "AH,DD,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0850",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0800",
+                "building": "Robbins Hall",
+                "description": "Discussion",
+                "buildingCode": "ROBBNS",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00146"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Walker Hall",
+                "description": "Lecture",
+                "buildingCode": "WALKER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01310"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "AMS 012 A06",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A06",
+            "printCRN": "55469",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "U.S. Disability Culture & Medicine",
+            "subjectDesc": "American Studies",
+            "courseNum": "012",
+            "hidCRN": "55469",
+            "crn": "55469",
+            "subjectCode": "AMS"
+        },
+        "instructor": [
+            {
+                "lastName": "Bayles",
+                "instructorName": "M. Bayles",
+                "firstName": "Megan",
+                "instructorEmail": "mhbayles@ucdavis.edu",
+                "fullName": "Megan Bayles"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Investigation of verbal and visual discourses about American identity in various popular culture products, including film, television, radio, music, fiction, art, advertising, and commercial experiences; discourses about the United States in the popular culture of other societies.",
+            "creditLimit": "",
+            "ge3": "AH,DD,SS,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1610",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00127"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1340",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01215"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "AMS 030 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "55470",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Images of America & Americans in Popular Culture",
+            "subjectDesc": "American Studies",
+            "courseNum": "030",
+            "hidCRN": "55470",
+            "crn": "55470",
+            "subjectCode": "AMS"
+        },
+        "instructor": [
+            {
+                "lastName": "Gray",
+                "instructorName": "E. Gray",
+                "firstName": "Erin",
+                "instructorEmail": "emigray@ucdavis.edu",
+                "fullName": "Erin Gray"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Investigation of verbal and visual discourses about American identity in various popular culture products, including film, television, radio, music, fiction, art, advertising, and commercial experiences; discourses about the United States in the popular culture of other societies.",
+            "creditLimit": "",
+            "ge3": "AH,DD,SS,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1710",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00127"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1340",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01215"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "AMS 030 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "55471",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Images of America & Americans in Popular Culture",
+            "subjectDesc": "American Studies",
+            "courseNum": "030",
+            "hidCRN": "55471",
+            "crn": "55471",
+            "subjectCode": "AMS"
+        },
+        "instructor": [
+            {
+                "lastName": "Gray",
+                "instructorName": "E. Gray",
+                "firstName": "Erin",
+                "instructorEmail": "emigray@ucdavis.edu",
+                "fullName": "Erin Gray"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Investigation of verbal and visual discourses about American identity in various popular culture products, including film, television, radio, music, fiction, art, advertising, and commercial experiences; discourses about the United States in the popular culture of other societies.",
+            "creditLimit": "",
+            "ge3": "AH,DD,SS,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1340",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01215"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1610",
+                "building": "The Grove (Surge III)",
+                "description": "Discussion",
+                "buildingCode": "GROVE",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01283"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "AMS 030 A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "55472",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Images of America & Americans in Popular Culture",
+            "subjectDesc": "American Studies",
+            "courseNum": "030",
+            "hidCRN": "55472",
+            "crn": "55472",
+            "subjectCode": "AMS"
+        },
+        "instructor": [
+            {
+                "lastName": "Gray",
+                "instructorName": "E. Gray",
+                "firstName": "Erin",
+                "instructorEmail": "emigray@ucdavis.edu",
+                "fullName": "Erin Gray"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Investigation of verbal and visual discourses about American identity in various popular culture products, including film, television, radio, music, fiction, art, advertising, and commercial experiences; discourses about the United States in the popular culture of other societies.",
+            "creditLimit": "",
+            "ge3": "AH,DD,SS,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1340",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01215"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1710",
+                "building": "The Grove (Surge III)",
+                "description": "Discussion",
+                "buildingCode": "GROVE",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01283"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "AMS 030 A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "55473",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Images of America & Americans in Popular Culture",
+            "subjectDesc": "American Studies",
+            "courseNum": "030",
+            "hidCRN": "55473",
+            "crn": "55473",
+            "subjectCode": "AMS"
+        },
+        "instructor": [
+            {
+                "lastName": "Gray",
+                "instructorName": "E. Gray",
+                "firstName": "Erin",
+                "instructorEmail": "emigray@ucdavis.edu",
+                "fullName": "Erin Gray"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Relationship between food and culture; relationship between food and the social order; influences on eating habits and the tensions between them including identity, convenience, and responsibility; multiple disciplines and genres. ",
+            "creditLimit": "",
+            "ge3": "AH,DD,SS,ACGH,WE",
+            "crossListing": "FST 055.",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1510",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00123"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Peter A Rock Hall",
+                "description": "Lecture",
+                "buildingCode": "ROCK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00194"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "AMS 055 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "30697",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Food in American Culture",
+            "subjectDesc": "American Studies",
+            "courseNum": "055",
+            "hidCRN": "30697",
+            "crn": "30697",
+            "subjectCode": "AMS"
+        },
+        "instructor": [
+            {
+                "lastName": "Biltekoff",
+                "instructorName": "C. Biltekoff",
+                "firstName": "Charlotte",
+                "instructorEmail": "cbiltekoff@ucdavis.edu",
+                "fullName": "Charlotte Biltekoff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Relationship between food and culture; relationship between food and the social order; influences on eating habits and the tensions between them including identity, convenience, and responsibility; multiple disciplines and genres. ",
+            "creditLimit": "",
+            "ge3": "AH,DD,SS,ACGH,WE",
+            "crossListing": "FST 055.",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1610",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00123"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Peter A Rock Hall",
+                "description": "Lecture",
+                "buildingCode": "ROCK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00194"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "AMS 055 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "30698",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Food in American Culture",
+            "subjectDesc": "American Studies",
+            "courseNum": "055",
+            "hidCRN": "30698",
+            "crn": "30698",
+            "subjectCode": "AMS"
+        },
+        "instructor": [
+            {
+                "lastName": "Biltekoff",
+                "instructorName": "C. Biltekoff",
+                "firstName": "Charlotte",
+                "instructorEmail": "cbiltekoff@ucdavis.edu",
+                "fullName": "Charlotte Biltekoff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Relationship between food and culture; relationship between food and the social order; influences on eating habits and the tensions between them including identity, convenience, and responsibility; multiple disciplines and genres. ",
+            "creditLimit": "",
+            "ge3": "AH,DD,SS,ACGH,WE",
+            "crossListing": "FST 055.",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1710",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00123"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Peter A Rock Hall",
+                "description": "Lecture",
+                "buildingCode": "ROCK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00194"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "AMS 055 A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "30699",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Food in American Culture",
+            "subjectDesc": "American Studies",
+            "courseNum": "055",
+            "hidCRN": "30699",
+            "crn": "30699",
+            "subjectCode": "AMS"
+        },
+        "instructor": [
+            {
+                "lastName": "Biltekoff",
+                "instructorName": "C. Biltekoff",
+                "firstName": "Charlotte",
+                "instructorEmail": "cbiltekoff@ucdavis.edu",
+                "fullName": "Charlotte Biltekoff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Relationship between food and culture; relationship between food and the social order; influences on eating habits and the tensions between them including identity, convenience, and responsibility; multiple disciplines and genres. ",
+            "creditLimit": "",
+            "ge3": "AH,DD,SS,ACGH,WE",
+            "crossListing": "FST 055.",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1900",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1810",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00123"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Peter A Rock Hall",
+                "description": "Lecture",
+                "buildingCode": "ROCK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00194"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "AMS 055 A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "30700",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Food in American Culture",
+            "subjectDesc": "American Studies",
+            "courseNum": "055",
+            "hidCRN": "30700",
+            "crn": "30700",
+            "subjectCode": "AMS"
+        },
+        "instructor": [
+            {
+                "lastName": "Biltekoff",
+                "instructorName": "C. Biltekoff",
+                "firstName": "Charlotte",
+                "instructorEmail": "cbiltekoff@ucdavis.edu",
+                "fullName": "Charlotte Biltekoff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Relationship between food and culture; relationship between food and the social order; influences on eating habits and the tensions between them including identity, convenience, and responsibility; multiple disciplines and genres. ",
+            "creditLimit": "",
+            "ge3": "AH,DD,SS,ACGH,WE",
+            "crossListing": "FST 055.",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1510",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00123"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Peter A Rock Hall",
+                "description": "Lecture",
+                "buildingCode": "ROCK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00194"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "AMS 055 A05",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A05",
+            "printCRN": "30701",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Food in American Culture",
+            "subjectDesc": "American Studies",
+            "courseNum": "055",
+            "hidCRN": "30701",
+            "crn": "30701",
+            "subjectCode": "AMS"
+        },
+        "instructor": [
+            {
+                "lastName": "Biltekoff",
+                "instructorName": "C. Biltekoff",
+                "firstName": "Charlotte",
+                "instructorEmail": "cbiltekoff@ucdavis.edu",
+                "fullName": "Charlotte Biltekoff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Relationship between food and culture; relationship between food and the social order; influences on eating habits and the tensions between them including identity, convenience, and responsibility; multiple disciplines and genres. ",
+            "creditLimit": "",
+            "ge3": "AH,DD,SS,ACGH,WE",
+            "crossListing": "FST 055.",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1610",
+                "building": "Bainer Hall",
+                "description": "Discussion",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01128"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Peter A Rock Hall",
+                "description": "Lecture",
+                "buildingCode": "ROCK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00194"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "AMS 055 A06",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A06",
+            "printCRN": "30702",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Food in American Culture",
+            "subjectDesc": "American Studies",
+            "courseNum": "055",
+            "hidCRN": "30702",
+            "crn": "30702",
+            "subjectCode": "AMS"
+        },
+        "instructor": [
+            {
+                "lastName": "Biltekoff",
+                "instructorName": "C. Biltekoff",
+                "firstName": "Charlotte",
+                "instructorEmail": "cbiltekoff@ucdavis.edu",
+                "fullName": "Charlotte Biltekoff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Relationship between food and culture; relationship between food and the social order; influences on eating habits and the tensions between them including identity, convenience, and responsibility; multiple disciplines and genres. ",
+            "creditLimit": "",
+            "ge3": "AH,DD,SS,ACGH,WE",
+            "crossListing": "FST 055.",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1710",
+                "building": "Bainer Hall",
+                "description": "Discussion",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01128"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Peter A Rock Hall",
+                "description": "Lecture",
+                "buildingCode": "ROCK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00194"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "AMS 055 A07",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A07",
+            "printCRN": "30703",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Food in American Culture",
+            "subjectDesc": "American Studies",
+            "courseNum": "055",
+            "hidCRN": "30703",
+            "crn": "30703",
+            "subjectCode": "AMS"
+        },
+        "instructor": [
+            {
+                "lastName": "Biltekoff",
+                "instructorName": "C. Biltekoff",
+                "firstName": "Charlotte",
+                "instructorEmail": "cbiltekoff@ucdavis.edu",
+                "fullName": "Charlotte Biltekoff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Relationship between food and culture; relationship between food and the social order; influences on eating habits and the tensions between them including identity, convenience, and responsibility; multiple disciplines and genres. ",
+            "creditLimit": "",
+            "ge3": "AH,DD,SS,ACGH,WE",
+            "crossListing": "FST 055.",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1900",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1810",
+                "building": "Hickey Gymnasium",
+                "description": "Discussion",
+                "buildingCode": "H GYM",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00290"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Peter A Rock Hall",
+                "description": "Lecture",
+                "buildingCode": "ROCK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00194"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "AMS 055 A08",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A08",
+            "printCRN": "30704",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Food in American Culture",
+            "subjectDesc": "American Studies",
+            "courseNum": "055",
+            "hidCRN": "30704",
+            "crn": "30704",
+            "subjectCode": "AMS"
+        },
+        "instructor": [
+            {
+                "lastName": "Biltekoff",
+                "instructorName": "C. Biltekoff",
+                "firstName": "Charlotte",
+                "instructorEmail": "cbiltekoff@ucdavis.edu",
+                "fullName": "Charlotte Biltekoff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Relationship between food and culture; relationship between food and the social order; influences on eating habits and the tensions between them including identity, convenience, and responsibility; multiple disciplines and genres. ",
+            "creditLimit": "",
+            "ge3": "AH,DD,SS,ACGH,WE",
+            "crossListing": "FST 055.",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Peter A Rock Hall",
+                "description": "Lecture",
+                "buildingCode": "ROCK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00194"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1610",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00123"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "AMS 055 A09",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A09",
+            "printCRN": "30705",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Food in American Culture",
+            "subjectDesc": "American Studies",
+            "courseNum": "055",
+            "hidCRN": "30705",
+            "crn": "30705",
+            "subjectCode": "AMS"
+        },
+        "instructor": [
+            {
+                "lastName": "Biltekoff",
+                "instructorName": "C. Biltekoff",
+                "firstName": "Charlotte",
+                "instructorEmail": "cbiltekoff@ucdavis.edu",
+                "fullName": "Charlotte Biltekoff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Relationship between food and culture; relationship between food and the social order; influences on eating habits and the tensions between them including identity, convenience, and responsibility; multiple disciplines and genres. ",
+            "creditLimit": "",
+            "ge3": "AH,DD,SS,ACGH,WE",
+            "crossListing": "FST 055.",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Peter A Rock Hall",
+                "description": "Lecture",
+                "buildingCode": "ROCK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00194"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1710",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00123"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "AMS 055 A10",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A10",
+            "printCRN": "30706",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Food in American Culture",
+            "subjectDesc": "American Studies",
+            "courseNum": "055",
+            "hidCRN": "30706",
+            "crn": "30706",
+            "subjectCode": "AMS"
+        },
+        "instructor": [
+            {
+                "lastName": "Biltekoff",
+                "instructorName": "C. Biltekoff",
+                "firstName": "Charlotte",
+                "instructorEmail": "cbiltekoff@ucdavis.edu",
+                "fullName": "Charlotte Biltekoff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Relationship between food and culture; relationship between food and the social order; influences on eating habits and the tensions between them including identity, convenience, and responsibility; multiple disciplines and genres. ",
+            "creditLimit": "",
+            "ge3": "AH,DD,SS,ACGH,WE",
+            "crossListing": "FST 055.",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0900",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00229"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Peter A Rock Hall",
+                "description": "Lecture",
+                "buildingCode": "ROCK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00194"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "AMS 055 A11",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A11",
+            "printCRN": "30707",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Food in American Culture",
+            "subjectDesc": "American Studies",
+            "courseNum": "055",
+            "hidCRN": "30707",
+            "crn": "30707",
+            "subjectCode": "AMS"
+        },
+        "instructor": [
+            {
+                "lastName": "Biltekoff",
+                "instructorName": "C. Biltekoff",
+                "firstName": "Charlotte",
+                "instructorEmail": "cbiltekoff@ucdavis.edu",
+                "fullName": "Charlotte Biltekoff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Relationship between food and culture; relationship between food and the social order; influences on eating habits and the tensions between them including identity, convenience, and responsibility; multiple disciplines and genres. ",
+            "creditLimit": "",
+            "ge3": "AH,DD,SS,ACGH,WE",
+            "crossListing": "FST 055.",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1000",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00123"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Peter A Rock Hall",
+                "description": "Lecture",
+                "buildingCode": "ROCK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00194"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "AMS 055 A12",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A12",
+            "printCRN": "30708",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Food in American Culture",
+            "subjectDesc": "American Studies",
+            "courseNum": "055",
+            "hidCRN": "30708",
+            "crn": "30708",
+            "subjectCode": "AMS"
+        },
+        "instructor": [
+            {
+                "lastName": "Biltekoff",
+                "instructorName": "C. Biltekoff",
+                "firstName": "Charlotte",
+                "instructorEmail": "cbiltekoff@ucdavis.edu",
+                "fullName": "Charlotte Biltekoff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Relationship between food and culture; relationship between food and the social order; influences on eating habits and the tensions between them including identity, convenience, and responsibility; multiple disciplines and genres. ",
+            "creditLimit": "",
+            "ge3": "AH,DD,SS,ACGH,WE",
+            "crossListing": "FST 055.",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1100",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00123"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Peter A Rock Hall",
+                "description": "Lecture",
+                "buildingCode": "ROCK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00194"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "AMS 055 A13",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A13",
+            "printCRN": "30709",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Food in American Culture",
+            "subjectDesc": "American Studies",
+            "courseNum": "055",
+            "hidCRN": "30709",
+            "crn": "30709",
+            "subjectCode": "AMS"
+        },
+        "instructor": [
+            {
+                "lastName": "Biltekoff",
+                "instructorName": "C. Biltekoff",
+                "firstName": "Charlotte",
+                "instructorEmail": "cbiltekoff@ucdavis.edu",
+                "fullName": "Charlotte Biltekoff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Relationship between food and culture; relationship between food and the social order; influences on eating habits and the tensions between them including identity, convenience, and responsibility; multiple disciplines and genres. ",
+            "creditLimit": "",
+            "ge3": "AH,DD,SS,ACGH,WE",
+            "crossListing": "FST 055.",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1210",
+                "building": "Bainer Hall",
+                "description": "Discussion",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01060"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Peter A Rock Hall",
+                "description": "Lecture",
+                "buildingCode": "ROCK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00194"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "AMS 055 A14",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A14",
+            "printCRN": "30710",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Food in American Culture",
+            "subjectDesc": "American Studies",
+            "courseNum": "055",
+            "hidCRN": "30710",
+            "crn": "30710",
+            "subjectCode": "AMS"
+        },
+        "instructor": [
+            {
+                "lastName": "Biltekoff",
+                "instructorName": "C. Biltekoff",
+                "firstName": "Charlotte",
+                "instructorEmail": "cbiltekoff@ucdavis.edu",
+                "fullName": "Charlotte Biltekoff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Defining one's identity through the career. Life course, preparation, and choices. Personality and career. Ethics. Gender, ethnicity, sexuality, and social class in the workplace. Transnational workplace. Conflicts between the career and other social roles.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1000",
+                "building": "Maria Manetti Shrem Art Hall",
+                "description": "Lecture",
+                "buildingCode": "MMSART",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00217"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1000",
+                "building": "Maria Manetti Shrem Art Hall",
+                "description": "Discussion",
+                "buildingCode": "MMSART",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00217"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "AMS 095 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56395",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Careers & Identity in American Culture",
+            "subjectDesc": "American Studies",
+            "courseNum": "095",
+            "hidCRN": "56395",
+            "crn": "56395",
+            "subjectCode": "AMS"
+        },
+        "instructor": [
+            {
+                "lastName": "Peek",
+                "instructorName": "L. Peek",
+                "firstName": "Leslie",
+                "instructorEmail": "lpeek@ucdavis.edu",
+                "fullName": "Leslie Peek"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed group study.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "AMS 098",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study",
+            "subjectDesc": "American Studies",
+            "courseNum": "098",
+            "hidCRN": "0E4EC1CFED",
+            "crn": "30713",
+            "subjectCode": "AMS"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Individual study for undergraduates.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "AMS 099",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Individual Study for Undergraduates",
+            "subjectDesc": "American Studies",
+            "courseNum": "099",
+            "hidCRN": "0E4EC1CFE9",
+            "crn": "30717",
+            "subjectCode": "AMS"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Design and implementation of interdisciplinary research, analysis and writing for American Studies and other cultural studies fields. Library and Internet research skills, project/problem definition, methods for study of texts, individuals, communities. Hand-on, skill-building, focused reading, discussion.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1640",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture/Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LED",
+                "room": "03218"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "AMS 100 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55474",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Methods in American Studies",
+            "subjectDesc": "American Studies",
+            "courseNum": "100",
+            "hidCRN": "55474",
+            "crn": "55474",
+            "subjectCode": "AMS"
+        },
+        "instructor": [
+            {
+                "lastName": "Gray",
+                "instructorName": "E. Gray",
+                "firstName": "Erin",
+                "instructorEmail": "emigray@ucdavis.edu",
+                "fullName": "Erin Gray"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "American popular expression and experience as a cultural system, and the relationship between this system and elite and folk cultures. Exploration of theories and methods for discovering and interpreting patterns of meaning in American popular culture.",
+            "creditLimit": "",
+            "ge3": "AH,DD,SS,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "1340",
+                "building": "Wellman Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LED",
+                "room": "00230"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "AMS 130 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "30722",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "American Popular Culture",
+            "subjectDesc": "American Studies",
+            "courseNum": "130",
+            "hidCRN": "30722",
+            "crn": "30722",
+            "subjectCode": "AMS"
+        },
+        "instructor": [
+            {
+                "lastName": "Arapoglou",
+                "instructorName": "E. Arapoglou",
+                "firstName": "Eleftheria",
+                "instructorEmail": "earapoglou@ucdavis.edu",
+                "fullName": "Eleftheria Arapoglou"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Histories, theories, and practices of feminist traditions within cultural studies.",
+            "creditLimit": "",
+            "ge3": "AH,DD,SS,WE",
+            "crossListing": "GSW 139",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "1000",
+                "building": "Olson Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LED",
+                "room": "00158"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "AMS 139 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "30723",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Feminist Cultural Studies",
+            "subjectDesc": "American Studies",
+            "courseNum": "139",
+            "hidCRN": "30723",
+            "crn": "30723",
+            "subjectCode": "AMS"
+        },
+        "instructor": [
+            {
+                "lastName": "Smart",
+                "instructorName": "W. Smart",
+                "firstName": "Willa",
+                "instructorEmail": "wsmart@ucdavis.edu",
+                "fullName": "Willa Smart"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Multiple histories and cultural specificity of childhood and adolescence in the United States.",
+            "creditLimit": "",
+            "ge3": "AH,DD,SS,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Shields Library",
+                "description": "Lecture",
+                "buildingCode": "SHLDS",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00167"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "AMS 152 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55476",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "The Lives of Children in America",
+            "subjectDesc": "American Studies",
+            "courseNum": "152",
+            "hidCRN": "55476",
+            "crn": "55476",
+            "subjectCode": "AMS"
+        },
+        "instructor": [
+            {
+                "lastName": "Bayles",
+                "instructorName": "M. Bayles",
+                "firstName": "Megan",
+                "instructorEmail": "mhbayles@ucdavis.edu",
+                "fullName": "Megan Bayles"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Research and prospectus writing for senior thesis.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "E",
+                "startTime": "",
+                "building": "",
+                "description": "Seminar",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "SEM",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "AMS 190A",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Senior Thesis Research Seminar",
+            "subjectDesc": "American Studies",
+            "courseNum": "190A",
+            "hidCRN": "0E4EC1CCEA",
+            "crn": "30724",
+            "subjectCode": "AMS"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Research and prospectus writing for senior thesis.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "E",
+                "startTime": "1410",
+                "building": "Hart Hall",
+                "description": "Seminar",
+                "buildingCode": "HART",
+                "saturday": false,
+                "type": "SEM",
+                "room": "03116"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "AMS 190A",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Senior Thesis Research Seminar",
+            "subjectDesc": "American Studies",
+            "courseNum": "190A",
+            "hidCRN": "0E4EC1CCEB",
+            "crn": "30725",
+            "subjectCode": "AMS"
+        },
+        "instructor": [
+            {
+                "lastName": "Cartwright",
+                "instructorName": "R. Cartwright",
+                "firstName": "Ryan",
+                "instructorEmail": "rcartwright@ucdavis.edu",
+                "fullName": "Ryan Cartwright"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "In consultation with advisor, student writes an extended research paper on a topic proposed in AMS 190A.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " AMS 190A;  Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "J",
+                "startTime": "",
+                "building": "",
+                "description": "Independent Study",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "IND",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "AMS 190B",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Senior Thesis",
+            "subjectDesc": "American Studies",
+            "courseNum": "190B",
+            "hidCRN": "0E4EC1CCE6",
+            "crn": "30728",
+            "subjectCode": "AMS"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Supervised internship and study in social & community organizations, schools, cultural institutions (e.g., libraries, museums, and archives), or other work sites. Final written report and other assignments as per contract with supervisor.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Enrollment dependent on availability of intern positions, with priority to American Studies majors."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "I",
+                "startTime": "",
+                "building": "",
+                "description": "Internship",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "INT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "AMS 192",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Internship in American Studies",
+            "subjectDesc": "American Studies",
+            "courseNum": "192",
+            "hidCRN": "0E4EC1CDED",
+            "crn": "30733",
+            "subjectCode": "AMS"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Tutoring in lower division American Studies courses, usually in small discussion groups. Periodic meetings with the instructor in charge; reports and readings.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Chairperson of American Studies Program."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "T",
+                "startTime": "",
+                "building": "",
+                "description": "Tutorial",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "TUT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "AMS 197T",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Tutoring in American Studies",
+            "subjectDesc": "American Studies",
+            "courseNum": "197T",
+            "hidCRN": "0E4EC1CDE8",
+            "crn": "30736",
+            "subjectCode": "AMS"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed group study.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "AMS 198",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study",
+            "subjectDesc": "American Studies",
+            "courseNum": "198",
+            "hidCRN": "0E4EC1CDE9",
+            "crn": "30737",
+            "subjectCode": "AMS"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special study for advanced undergraduates.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of instructor and chairperson of American Studies Program."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "AMS 199",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Study for Advanced Undergraduates",
+            "subjectDesc": "American Studies",
+            "courseNum": "199",
+            "hidCRN": "0E4EC1CDE7",
+            "crn": "30739",
+            "subjectCode": "AMS"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Group study.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "AMS 298",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Group Study",
+            "subjectDesc": "American Studies",
+            "courseNum": "298",
+            "hidCRN": "0E4EC1CAEF",
+            "crn": "30741",
+            "subjectCode": "AMS"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Individual study.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "AMS 299",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Individual Study",
+            "subjectDesc": "American Studies",
+            "courseNum": "299",
+            "hidCRN": "0E4EC1CAED",
+            "crn": "30743",
+            "subjectCode": "AMS"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Teaching assistant training practicum.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Graduate standing."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "AMS 396",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 4,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Teaching Assistant Training Practicum",
+            "subjectDesc": "American Studies",
+            "courseNum": "396",
+            "hidCRN": "0E4EC1CAEA",
+            "crn": "30744",
+            "subjectCode": "AMS"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    }
+]

@@ -1,0 +1,4914 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to Electrical & Computer Engineering with focus on sub-disciplines of Electrical & Computer Engineering, engineering design, and problem solving. Microcontrollers, analog circuits, signal processing, and communications links. Application of topics to create a functional device.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Max Kleiber Hall",
+                "description": "Lecture",
+                "buildingCode": "KLEIBR",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00003"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1310",
+                "building": "Kemper Hall",
+                "description": "Laboratory",
+                "buildingCode": "KEMPER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02161"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "EEC 001 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "55669",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introduction to Electrical & Computer Engineering",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "001",
+            "hidCRN": "55669",
+            "crn": "55669",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "Knoesen",
+                "instructorName": "A. Knoesen",
+                "firstName": "Andre",
+                "instructorEmail": "aknoesen@ucdavis.edu",
+                "fullName": "Andre Knoesen"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to Electrical & Computer Engineering with focus on sub-disciplines of Electrical & Computer Engineering, engineering design, and problem solving. Microcontrollers, analog circuits, signal processing, and communications links. Application of topics to create a functional device.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Max Kleiber Hall",
+                "description": "Lecture",
+                "buildingCode": "KLEIBR",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00003"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1200",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1000",
+                "building": "Kemper Hall",
+                "description": "Laboratory",
+                "buildingCode": "KEMPER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02161"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "EEC 001 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "55670",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introduction to Electrical & Computer Engineering",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "001",
+            "hidCRN": "55670",
+            "crn": "55670",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "Knoesen",
+                "instructorName": "A. Knoesen",
+                "firstName": "Andre",
+                "instructorEmail": "aknoesen@ucdavis.edu",
+                "fullName": "Andre Knoesen"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to Electrical & Computer Engineering with focus on sub-disciplines of Electrical & Computer Engineering, engineering design, and problem solving. Microcontrollers, analog circuits, signal processing, and communications links. Application of topics to create a functional device.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Max Kleiber Hall",
+                "description": "Lecture",
+                "buildingCode": "KLEIBR",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00003"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1210",
+                "building": "Kemper Hall",
+                "description": "Laboratory",
+                "buildingCode": "KEMPER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02161"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "EEC 001 A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "55671",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introduction to Electrical & Computer Engineering",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "001",
+            "hidCRN": "55671",
+            "crn": "55671",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "Knoesen",
+                "instructorName": "A. Knoesen",
+                "firstName": "Andre",
+                "instructorEmail": "aknoesen@ucdavis.edu",
+                "fullName": "Andre Knoesen"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to Electrical & Computer Engineering with focus on sub-disciplines of Electrical & Computer Engineering, engineering design, and problem solving. Microcontrollers, analog circuits, signal processing, and communications links. Application of topics to create a functional device.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Max Kleiber Hall",
+                "description": "Lecture",
+                "buildingCode": "KLEIBR",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00003"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1410",
+                "building": "Kemper Hall",
+                "description": "Laboratory",
+                "buildingCode": "KEMPER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02161"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "EEC 001 A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "55672",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introduction to Electrical & Computer Engineering",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "001",
+            "hidCRN": "55672",
+            "crn": "55672",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "Knoesen",
+                "instructorName": "A. Knoesen",
+                "firstName": "Andre",
+                "instructorEmail": "aknoesen@ucdavis.edu",
+                "fullName": "Andre Knoesen"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to Electrical & Computer Engineering with focus on sub-disciplines of Electrical & Computer Engineering, engineering design, and problem solving. Microcontrollers, analog circuits, signal processing, and communications links. Application of topics to create a functional device.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Max Kleiber Hall",
+                "description": "Lecture",
+                "buildingCode": "KLEIBR",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00003"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0900",
+                "building": "Kemper Hall",
+                "description": "Laboratory",
+                "buildingCode": "KEMPER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02161"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "EEC 001 A05",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A05",
+            "printCRN": "55673",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introduction to Electrical & Computer Engineering",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "001",
+            "hidCRN": "55673",
+            "crn": "55673",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "Knoesen",
+                "instructorName": "A. Knoesen",
+                "firstName": "Andre",
+                "instructorEmail": "aknoesen@ucdavis.edu",
+                "fullName": "Andre Knoesen"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Interactive and practical introduction to fundamental concepts of electrical and computer engineering by implementing electronic systems, which can be digitally controlled and interrogated, with a programmable microcontroller with the ability to program the electrical connections between analog and digital components.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " (ECS 030 or ECS 036B or EEC 007);  ENG 017;  Consent of Instructor.   "
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1210",
+                "building": "Kemper Hall",
+                "description": "Laboratory",
+                "buildingCode": "KEMPER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02155"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1100",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00119"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EEC 010 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "38811",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introduction to Digital & Analog Systems",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "010",
+            "hidCRN": "38811",
+            "crn": "38811",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "Jeong",
+                "instructorName": "H. Jeong",
+                "firstName": "Hyoyoung",
+                "instructorEmail": "ecejeong@ucdavis.edu",
+                "fullName": "Hyoyoung Jeong"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Interactive and practical introduction to fundamental concepts of electrical and computer engineering by implementing electronic systems, which can be digitally controlled and interrogated, with a programmable microcontroller with the ability to program the electrical connections between analog and digital components.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " (ECS 030 or ECS 036B or EEC 007);  ENG 017;  Consent of Instructor.   "
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2000",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1710",
+                "building": "Kemper Hall",
+                "description": "Laboratory",
+                "buildingCode": "KEMPER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02155"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1100",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00119"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EEC 010 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "38812",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introduction to Digital & Analog Systems",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "010",
+            "hidCRN": "38812",
+            "crn": "38812",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "Jeong",
+                "instructorName": "H. Jeong",
+                "firstName": "Hyoyoung",
+                "instructorEmail": "ecejeong@ucdavis.edu",
+                "fullName": "Hyoyoung Jeong"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Interactive and practical introduction to fundamental concepts of electrical and computer engineering by implementing electronic systems, which can be digitally controlled and interrogated, with a programmable microcontroller with the ability to program the electrical connections between analog and digital components.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " (ECS 030 or ECS 036B or EEC 007);  ENG 017;  Consent of Instructor.   "
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0900",
+                "building": "Kemper Hall",
+                "description": "Laboratory",
+                "buildingCode": "KEMPER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02155"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1100",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00119"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EEC 010 A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "38813",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introduction to Digital & Analog Systems",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "010",
+            "hidCRN": "38813",
+            "crn": "38813",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "Jeong",
+                "instructorName": "H. Jeong",
+                "firstName": "Hyoyoung",
+                "instructorEmail": "ecejeong@ucdavis.edu",
+                "fullName": "Hyoyoung Jeong"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Interactive and practical introduction to fundamental concepts of electrical and computer engineering by implementing electronic systems, which can be digitally controlled and interrogated, with a programmable microcontroller with the ability to program the electrical connections between analog and digital components.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " (ECS 030 or ECS 036B or EEC 007);  ENG 017;  Consent of Instructor.   "
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1210",
+                "building": "Kemper Hall",
+                "description": "Laboratory",
+                "buildingCode": "KEMPER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02155"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1100",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00119"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EEC 010 A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "38814",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introduction to Digital & Analog Systems",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "010",
+            "hidCRN": "38814",
+            "crn": "38814",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "Jeong",
+                "instructorName": "H. Jeong",
+                "firstName": "Hyoyoung",
+                "instructorEmail": "ecejeong@ucdavis.edu",
+                "fullName": "Hyoyoung Jeong"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to digital system design including combinational logic design, sequential and asynchronous circuits, computer arithmetic, memory systems and algorithmic state machine design; computer aided design (CAD) methodologies and tools.",
+            "creditLimit": "No credit to students who have previously completed EEC 180A.",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " ENG 017"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1730",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1610",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00198"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0800",
+                "building": "Kemper Hall",
+                "description": "Laboratory",
+                "buildingCode": "KEMPER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02110"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "EEC 018 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "38815",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Digital Systems I",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "018",
+            "hidCRN": "38815",
+            "crn": "38815",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "Thomas",
+                "instructorName": "A. Thomas",
+                "firstName": "Anthony",
+                "instructorEmail": "ahth@ucdavis.edu",
+                "fullName": "Anthony Thomas"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to digital system design including combinational logic design, sequential and asynchronous circuits, computer arithmetic, memory systems and algorithmic state machine design; computer aided design (CAD) methodologies and tools.",
+            "creditLimit": "No credit to students who have previously completed EEC 180A.",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " ENG 017"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1730",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1610",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00198"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0800",
+                "building": "Kemper Hall",
+                "description": "Laboratory",
+                "buildingCode": "KEMPER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02110"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "EEC 018 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "38816",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Digital Systems I",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "018",
+            "hidCRN": "38816",
+            "crn": "38816",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "Thomas",
+                "instructorName": "A. Thomas",
+                "firstName": "Anthony",
+                "instructorEmail": "ahth@ucdavis.edu",
+                "fullName": "Anthony Thomas"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to digital system design including combinational logic design, sequential and asynchronous circuits, computer arithmetic, memory systems and algorithmic state machine design; computer aided design (CAD) methodologies and tools.",
+            "creditLimit": "No credit to students who have previously completed EEC 180A.",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " ENG 017"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1730",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1610",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00198"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1210",
+                "building": "Kemper Hall",
+                "description": "Laboratory",
+                "buildingCode": "KEMPER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02110"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "EEC 018 A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "38817",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Digital Systems I",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "018",
+            "hidCRN": "38817",
+            "crn": "38817",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "Thomas",
+                "instructorName": "A. Thomas",
+                "firstName": "Anthony",
+                "instructorEmail": "ahth@ucdavis.edu",
+                "fullName": "Anthony Thomas"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to digital system design including combinational logic design, sequential and asynchronous circuits, computer arithmetic, memory systems and algorithmic state machine design; computer aided design (CAD) methodologies and tools.",
+            "creditLimit": "No credit to students who have previously completed EEC 180A.",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " ENG 017"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1730",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1610",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00198"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1210",
+                "building": "Kemper Hall",
+                "description": "Laboratory",
+                "buildingCode": "KEMPER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02110"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "EEC 018 A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "38818",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Digital Systems I",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "018",
+            "hidCRN": "38818",
+            "crn": "38818",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "Thomas",
+                "instructorName": "A. Thomas",
+                "firstName": "Anthony",
+                "instructorEmail": "ahth@ucdavis.edu",
+                "fullName": "Anthony Thomas"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to digital system design including combinational logic design, sequential and asynchronous circuits, computer arithmetic, memory systems and algorithmic state machine design; computer aided design (CAD) methodologies and tools.",
+            "creditLimit": "No credit to students who have previously completed EEC 180A.",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " ENG 017"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1730",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1610",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00198"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1210",
+                "building": "Kemper Hall",
+                "description": "Laboratory",
+                "buildingCode": "KEMPER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02110"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "EEC 018 A05",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A05",
+            "printCRN": "38819",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Digital Systems I",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "018",
+            "hidCRN": "38819",
+            "crn": "38819",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "Thomas",
+                "instructorName": "A. Thomas",
+                "firstName": "Anthony",
+                "instructorEmail": "ahth@ucdavis.edu",
+                "fullName": "Anthony Thomas"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Research group conferences.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Lower division standing."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "",
+                "building": "",
+                "description": "Discussion",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "DIS",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "EEC 090C",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research Group Conference in Electrical & Computer Engineering",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "090C",
+            "hidCRN": "0E46CECCED",
+            "crn": "38823",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Supervised work experience in Electrical & Computer Engineering.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Lower division standing; project approval prior to period of internship."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "I",
+                "startTime": "",
+                "building": "",
+                "description": "Internship",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "INT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "EEC 092",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Internship in Electrical & Computer Engineering",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "092",
+            "hidCRN": "0E46CECCE8",
+            "crn": "38826",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special study for lower division students.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "EEC 099",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Study for Lower Division Students",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "099",
+            "hidCRN": "0E46CECDEE",
+            "crn": "38830",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Use and modeling of nonlinear solid-state electronic devices in basic analog and digital circuits. Introduction to the design of transistor amplifiers and logic gates.\n\n",
+            "creditLimit": "",
+            "ge3": "SE,VL",
+            "crossListing": "",
+            "prereq": " EEC 100;  (EEC 140A { can be concurrent } or EEC 140AV { can be concurrent } or EEC 111 { can be concurrent })"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1000",
+                "building": "Bainer Hall",
+                "description": "Discussion",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01130"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Bainer Hall",
+                "description": "Lecture",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01060"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EEC 110A 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "38833",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Electronic Circuits I",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "110A",
+            "hidCRN": "38833",
+            "crn": "38833",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "Kleeburg",
+                "instructorName": "T. Kleeburg",
+                "firstName": "Travis",
+                "instructorEmail": "tjkleeburg@ucdavis.edu",
+                "fullName": "Travis Kleeburg"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Analysis and design of integrated circuits.  Single-stage amplifiers, cascaded amplifier stages, differential amplifiers, current sources, frequency response, and return-ratio analysis of feedback amplifiers.",
+            "creditLimit": "",
+            "ge3": "SE,VL",
+            "crossListing": "",
+            "prereq": " EEC 110A"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2100",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1810",
+                "building": "Kemper Hall",
+                "description": "Laboratory",
+                "buildingCode": "KEMPER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02161"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00202"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EEC 110B A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "38834",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Electronic Circuits II",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "110B",
+            "hidCRN": "38834",
+            "crn": "38834",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "Momeni",
+                "instructorName": "O. Momeni",
+                "firstName": "Omeed",
+                "instructorEmail": "omomeni@ucdavis.edu",
+                "fullName": "Omeed Momeni"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Analysis and design of integrated circuits.  Single-stage amplifiers, cascaded amplifier stages, differential amplifiers, current sources, frequency response, and return-ratio analysis of feedback amplifiers.",
+            "creditLimit": "",
+            "ge3": "SE,VL",
+            "crossListing": "",
+            "prereq": " EEC 110A"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00202"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2100",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1810",
+                "building": "Kemper Hall",
+                "description": "Laboratory",
+                "buildingCode": "KEMPER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02161"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EEC 110B A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "38835",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Electronic Circuits II",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "110B",
+            "hidCRN": "38835",
+            "crn": "38835",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "Momeni",
+                "instructorName": "O. Momeni",
+                "firstName": "Omeed",
+                "instructorEmail": "omomeni@ucdavis.edu",
+                "fullName": "Omeed Momeni"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "MOS device fundamentals, introduction to the design of CMOS logic gates, layout, circuits, and modeling. Examination of voltage transfer characteristics, and propagation delay.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " EEC 100"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2000",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1710",
+                "building": "Kemper Hall",
+                "description": "Laboratory",
+                "buildingCode": "KEMPER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02161"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Roessler Hall",
+                "description": "Lecture",
+                "buildingCode": "RESSLR",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00055"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EEC 111 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "38836",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Digital Electronic Circuits",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "111",
+            "hidCRN": "38836",
+            "crn": "38836",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "Rashtian",
+                "instructorName": "H. Rashtian",
+                "firstName": "Hooman",
+                "instructorEmail": "hrashtian@ucdavis.edu",
+                "fullName": "Hooman Rashtian"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Electronic circuits for power applications, including linear voltage regulators, switching DC-DC converters, DC-AC converters (inverters) and AC-DC converters (rectifiers). Control loop and stability of circuits.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " EEC 110A or (EEC 111,  (EEC 157A or EEC 157AV))"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1250",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "L",
+                "startTime": "1000",
+                "building": "Kemper Hall",
+                "description": "Lecture/Lab",
+                "buildingCode": "KEMPER",
+                "saturday": false,
+                "type": "LLA",
+                "room": "02161"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1530",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "L",
+                "startTime": "1410",
+                "building": "Maria Manetti Shrem Art Hall",
+                "description": "Lecture/Lab",
+                "buildingCode": "MMSART",
+                "saturday": false,
+                "type": "LLA",
+                "room": "00204"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EEC 113 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "38837",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Power Electronic Circuits",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "113",
+            "hidCRN": "38837",
+            "crn": "38837",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "Rashtian",
+                "instructorName": "H. Rashtian",
+                "firstName": "Hooman",
+                "instructorEmail": "hrashtian@ucdavis.edu",
+                "fullName": "Hooman Rashtian"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Analysis and design of digital integrated circuits. Emphasis on MOS logic circuit families. Logic gate construction, voltage transfer characteristics, propagation delay, and power consumption. Regenerative circuits, sequential elements, interconnect, RAMs, ROMs, and PLAs.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " EEC 110A;  (EEC 018 or EEC 180A)"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2000",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "C",
+                "startTime": "1710",
+                "building": "Kemper Hall",
+                "description": "Laboratory",
+                "buildingCode": "KEMPER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02112"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Maria Manetti Shrem Art Hall",
+                "description": "Lecture",
+                "buildingCode": "MMSART",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00204"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EEC 118 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "38838",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Digital Integrated Circuits",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "118",
+            "hidCRN": "38838",
+            "crn": "38838",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "Sasan",
+                "instructorName": "A. Sasan",
+                "firstName": "Avesta",
+                "instructorEmail": "asasan@ucdavis.edu",
+                "fullName": "Avesta Sasan"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Analysis and design of digital integrated circuits. Emphasis on MOS logic circuit families. Logic gate construction, voltage transfer characteristics, propagation delay, and power consumption. Regenerative circuits, sequential elements, interconnect, RAMs, ROMs, and PLAs.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " EEC 110A;  (EEC 018 or EEC 180A)"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Maria Manetti Shrem Art Hall",
+                "description": "Lecture",
+                "buildingCode": "MMSART",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00204"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2000",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1710",
+                "building": "Kemper Hall",
+                "description": "Laboratory",
+                "buildingCode": "KEMPER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02112"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EEC 118 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "38839",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Digital Integrated Circuits",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "118",
+            "hidCRN": "38839",
+            "crn": "38839",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "Sasan",
+                "instructorName": "A. Sasan",
+                "firstName": "Avesta",
+                "instructorEmail": "asasan@ucdavis.edu",
+                "fullName": "Avesta Sasan"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Plane wave propagation in lossy media, reflections, guided waves, simple modulated waves and dispersion, and basic antennas.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " EEC 130A"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1730",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1610",
+                "building": "Chemistry",
+                "description": "Lecture",
+                "buildingCode": "CHEM",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00179"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1740",
+                "building": "Chemistry",
+                "description": "Discussion",
+                "buildingCode": "CHEM",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00179"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EEC 130B 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "38840",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introductory Electromagnetics II",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "130B",
+            "hidCRN": "38840",
+            "crn": "38840",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "Putnam",
+                "instructorName": "W. Putnam",
+                "firstName": "William",
+                "instructorEmail": "bputnam@ucdavis.edu",
+                "fullName": "William Putnam"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "RF and microwave amplifier theory and design, including transistor circuit models, stability considerations, noise models and low noise design. Theory and design of microwave transistor oscillators and mixers. Wireless system design and analysis. ",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " EEC 132B"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 20:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1930",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1810",
+                "building": "Hart Hall",
+                "description": "Lecture",
+                "buildingCode": "HART",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01106"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2000",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1940",
+                "building": "Hart Hall",
+                "description": "Discussion",
+                "buildingCode": "HART",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01106"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2000",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1710",
+                "building": "Kemper Hall",
+                "description": "Laboratory",
+                "buildingCode": "KEMPER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "EEC 132C A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "38841",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "RF & Microwaves in Wireless Communications",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "132C",
+            "hidCRN": "38841",
+            "crn": "38841",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "Branner",
+                "instructorName": "G. Branner",
+                "firstName": "George",
+                "instructorEmail": "grbranner@ucdavis.edu",
+                "fullName": "George Branner"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "RF and microwave amplifier theory and design, including transistor circuit models, stability considerations, noise models and low noise design. Theory and design of microwave transistor oscillators and mixers. Wireless system design and analysis. ",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " EEC 132B"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 20:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2000",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "C",
+                "startTime": "1710",
+                "building": "Kemper Hall",
+                "description": "Laboratory",
+                "buildingCode": "KEMPER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00000"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1930",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1810",
+                "building": "Hart Hall",
+                "description": "Lecture",
+                "buildingCode": "HART",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01106"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2000",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1940",
+                "building": "Hart Hall",
+                "description": "Discussion",
+                "buildingCode": "HART",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01106"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "EEC 132C A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "38842",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "RF & Microwaves in Wireless Communications",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "132C",
+            "hidCRN": "38842",
+            "crn": "38842",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "Branner",
+                "instructorName": "G. Branner",
+                "firstName": "George",
+                "instructorEmail": "grbranner@ucdavis.edu",
+                "fullName": "George Branner"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Board-level RF design, fabrication, and characterization of an RF/microwave system, including the antenna, RF front-end, baseband, mix-signal circuits, and digital signal processing models. ",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " EEC 134A"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0900",
+                "building": "Kemper Hall",
+                "description": "Laboratory",
+                "buildingCode": "KEMPER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02112"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "K",
+                "startTime": "0900",
+                "building": "Wellman Hall",
+                "description": "Workshop",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "WRK",
+                "room": "00105"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "EEC 134B 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "38843",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "RF/Microwave Systems Design",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "134B",
+            "hidCRN": "38843",
+            "crn": "38843",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "Pham",
+                "instructorName": "A. Pham",
+                "firstName": "Anhvu",
+                "instructorEmail": "ahpham@ucdavis.edu",
+                "fullName": "Anhvu Pham"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Principles of optical communication systems. Planar dielectric waveguides. Optical fibers. Silicon photonics. Attenuation and dispersion in optical fibers. Optical sources, detectors, transmitters, receivers, modulators, optical amplifiers, and optical multiplexers/demultiplexers. Optics in data centers and computing systems. Design of digital optical communication links.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " EEC 130B"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00117"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EEC 135 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "38844",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Optoelectronics for High-Speed Data Networking & Computing Systems",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "135",
+            "hidCRN": "38844",
+            "crn": "38844",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "Yoo",
+                "instructorName": "S. Yoo",
+                "firstName": "Sung-Joo",
+                "instructorEmail": "sbyoo@ucdavis.edu",
+                "fullName": "Sung-Joo Yoo"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Electrical properties, designs, models and advanced concepts for MOS, Bipolar, and Junction Field-Effect Transistors, including scaling, minority-carrier distributions, non-ideal effects, and device fabrication methods. MESFET and heterojunction bipolar transistors (HBTs). Fundamentals of solar cells, photodetectors, LEDs and semiconductor lasers.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " EEC 140A or EEC 140AV"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 20:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1930",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1810",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "03214"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2000",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1940",
+                "building": "Teaching and Learning Complex",
+                "description": "Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "03214"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EEC 140B A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "56125",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Principles of Device Physics II",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "140B",
+            "hidCRN": "56125",
+            "crn": "56125",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "Hunt",
+                "instructorName": "C. Hunt",
+                "firstName": "Charles",
+                "instructorEmail": "cehunt@ucdavis.edu",
+                "fullName": "Charles Hunt"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Characterization and analysis of continuous-time linear systems. Fourier series and transforms with applications. Introduction to communication systems. Transfer functions and block diagrams. Elements of feedback systems. Stability of linear systems.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " EEC 100;  (ENG 006 or MAT 022AL)"
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1610",
+                "building": "Hart Hall",
+                "description": "Lecture",
+                "buildingCode": "HART",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01130"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EEC 150 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "38845",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": " Introduction to Signals & Systems",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "150",
+            "hidCRN": "38845",
+            "crn": "38845",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "Abdel-Ghaffar",
+                "instructorName": "K. Abdel-Ghaffar",
+                "firstName": "Khaled",
+                "instructorEmail": "kaghaffar@ucdavis.edu",
+                "fullName": "Khaled Abdel-Ghaffar"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Characterization and analysis of discrete time systems. Difference equation models. Z-transform analysis methods. Frequency Analysis. Discrete and fast Fourier transforms. Digital Filtering.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " EEC 100"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1340",
+                "building": "Hoagland Hall",
+                "description": "Lecture",
+                "buildingCode": "HOAGLD",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00168"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1530",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1510",
+                "building": "Hoagland Hall",
+                "description": "Discussion",
+                "buildingCode": "HOAGLD",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00168"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EEC 151 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "38846",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Digital Signals & Systems",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "151",
+            "hidCRN": "38846",
+            "crn": "38846",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "Cheung",
+                "instructorName": "S. Cheung",
+                "firstName": "Sen-Ching",
+                "instructorEmail": "samcheung@ucdavis.edu",
+                "fullName": "Sen-Ching Cheung"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Axioms of probability, discrete and continuous random variables, expectation and moments. Transformation of random variables. Joint and conditional densities. Limit theorems, Markov and Poisson processes. Applications in Electrical and Computer Engineering.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " (ENG 006 or MAT 022AL);  MAT 021D;  MAT 022A"
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1120",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1000",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01010"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1130",
+                "building": "Teaching and Learning Complex",
+                "description": "Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01010"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EEC 161 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "38847",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Applied Probability for Electrical & Computer Engineers  ",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "161",
+            "hidCRN": "38847",
+            "crn": "38847",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "Zhang",
+                "instructorName": "J. Zhang",
+                "firstName": "Junshan",
+                "instructorEmail": "jazh@ucdavis.edu",
+                "fullName": "Junshan Zhang"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduces basic aspects of computer architecture, including computer performance measurement, instruction set design, computer arithmetic, pipelined/non-pipelined implementation, and memory hierarchies (cache and virtual memory). Presents a simplified Reduced Instruction Set Computer using logic design methods from the prerequisite course. ",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " (ECS 036B or ECS 030 or ECS 034 or EEC 007);  (EEC 018 or EEC 180A)"
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1120",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1000",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00119"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1130",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00119"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EEC 170 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55674",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introduction to Computer Architecture",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "170",
+            "hidCRN": "55674",
+            "crn": "55674",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "Thomas",
+                "instructorName": "A. Thomas",
+                "firstName": "Anthony",
+                "instructorEmail": "ahth@ucdavis.edu",
+                "fullName": "Anthony Thomas"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to embedded-system hardware and software. Topics include: embedded processor and memory architecture; input/output hardware and software, including interrupts and direct memory access; interfacing with sensors and actuators; wired and wireless embedded networking.\n",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " (EEC 170 or ECS 154A);  EEC 100"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "C",
+                "startTime": "0900",
+                "building": "Kemper Hall",
+                "description": "Laboratory",
+                "buildingCode": "KEMPER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02112"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1310",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "02215"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EEC 172 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "38849",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Embedded Systems ",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "172",
+            "hidCRN": "38849",
+            "crn": "38849",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "Ghiasi",
+                "instructorName": "S. Ghiasi",
+                "firstName": "Soheil",
+                "instructorEmail": "ghiasi@ucdavis.edu",
+                "fullName": "Soheil Ghiasi"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to embedded-system hardware and software. Topics include: embedded processor and memory architecture; input/output hardware and software, including interrupts and direct memory access; interfacing with sensors and actuators; wired and wireless embedded networking.\n",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " (EEC 170 or ECS 154A);  EEC 100"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1250",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "C",
+                "startTime": "1100",
+                "building": "Kemper Hall",
+                "description": "Laboratory",
+                "buildingCode": "KEMPER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02112"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1310",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "02215"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EEC 172 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "38850",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Embedded Systems ",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "172",
+            "hidCRN": "38850",
+            "crn": "38850",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "Ghiasi",
+                "instructorName": "S. Ghiasi",
+                "firstName": "Soheil",
+                "instructorEmail": "ghiasi@ucdavis.edu",
+                "fullName": "Soheil Ghiasi"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to embedded-system hardware and software. Topics include: embedded processor and memory architecture; input/output hardware and software, including interrupts and direct memory access; interfacing with sensors and actuators; wired and wireless embedded networking.\n",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " (EEC 170 or ECS 154A);  EEC 100"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1310",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "02215"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1410",
+                "building": "Kemper Hall",
+                "description": "Laboratory",
+                "buildingCode": "KEMPER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02112"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EEC 172 A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "38851",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Embedded Systems ",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "172",
+            "hidCRN": "38851",
+            "crn": "38851",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "Ghiasi",
+                "instructorName": "S. Ghiasi",
+                "firstName": "Soheil",
+                "instructorEmail": "ghiasi@ucdavis.edu",
+                "fullName": "Soheil Ghiasi"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to embedded-system hardware and software. Topics include: embedded processor and memory architecture; input/output hardware and software, including interrupts and direct memory access; interfacing with sensors and actuators; wired and wireless embedded networking.\n",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " (EEC 170 or ECS 154A);  EEC 100"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1310",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "02215"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "C",
+                "startTime": "1410",
+                "building": "Kemper Hall",
+                "description": "Laboratory",
+                "buildingCode": "KEMPER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02112"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EEC 172 A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "38852",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Embedded Systems ",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "172",
+            "hidCRN": "38852",
+            "crn": "38852",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "Ghiasi",
+                "instructorName": "S. Ghiasi",
+                "firstName": "Soheil",
+                "instructorEmail": "ghiasi@ucdavis.edu",
+                "fullName": "Soheil Ghiasi"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to embedded-system hardware and software. Topics include: embedded processor and memory architecture; input/output hardware and software, including interrupts and direct memory access; interfacing with sensors and actuators; wired and wireless embedded networking.\n",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " (EEC 170 or ECS 154A);  EEC 100"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1310",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "02215"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0900",
+                "building": "Kemper Hall",
+                "description": "Laboratory",
+                "buildingCode": "KEMPER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02112"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EEC 172 A05",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A05",
+            "printCRN": "38853",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Embedded Systems ",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "172",
+            "hidCRN": "38853",
+            "crn": "38853",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "Ghiasi",
+                "instructorName": "S. Ghiasi",
+                "firstName": "Soheil",
+                "instructorEmail": "ghiasi@ucdavis.edu",
+                "fullName": "Soheil Ghiasi"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Fundamental techniques in machine learning for data preparation, preprocessing, classification, and regression. Bringing practical machine learning algorithms to the field and deploying them on real problems in hardware, mobile health, embedded systems, security, and other related topics.",
+            "creditLimit": "Only two units of credit for students who have previously taken ECS 171. ",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " EEC 161"
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1410",
+                "building": "Physics Building",
+                "description": "Discussion",
+                "buildingCode": "PHYSIC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00130"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1220",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1100",
+                "building": "Physics Building",
+                "description": "Lecture",
+                "buildingCode": "PHYSIC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00130"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EEC 179 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "38854",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Applied Machine Learning for Electrical & Computer Engineers",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "179",
+            "hidCRN": "38854",
+            "crn": "38854",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "Homayoun",
+                "instructorName": "H. Homayoun",
+                "firstName": "Houman",
+                "instructorEmail": "hhomayoun@ucdavis.edu",
+                "fullName": "Houman Homayoun"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Computer-aided design of digital systems with emphasis on hardware description languages (VHDL), logic synthesis, and field-programmable gate arrays (FPGA). May cover advanced topics in digital system design such as static timing analysis, pipelining, memory system design, testing digital circuits.  ",
+            "creditLimit": "No credit to students who have previously completed EEC 180B.",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " EEC 018 or EEC 180A"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "C",
+                "startTime": "0800",
+                "building": "Kemper Hall",
+                "description": "Laboratory",
+                "buildingCode": "KEMPER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02110"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1530",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Chemistry",
+                "description": "Lecture",
+                "buildingCode": "CHEM",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00179"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "EEC 180 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "38855",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Digital Systems II",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "180",
+            "hidCRN": "38855",
+            "crn": "38855",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "Akella",
+                "instructorName": "V. Akella",
+                "firstName": "Venkatesh",
+                "instructorEmail": "akella@ucdavis.edu",
+                "fullName": "Venkatesh Akella"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Computer-aided design of digital systems with emphasis on hardware description languages (VHDL), logic synthesis, and field-programmable gate arrays (FPGA). May cover advanced topics in digital system design such as static timing analysis, pipelining, memory system design, testing digital circuits.  ",
+            "creditLimit": "No credit to students who have previously completed EEC 180B.",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " EEC 018 or EEC 180A"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0800",
+                "building": "Kemper Hall",
+                "description": "Laboratory",
+                "buildingCode": "KEMPER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02110"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1530",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Chemistry",
+                "description": "Lecture",
+                "buildingCode": "CHEM",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00179"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "EEC 180 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "38856",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Digital Systems II",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "180",
+            "hidCRN": "38856",
+            "crn": "38856",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "Akella",
+                "instructorName": "V. Akella",
+                "firstName": "Venkatesh",
+                "instructorEmail": "akella@ucdavis.edu",
+                "fullName": "Venkatesh Akella"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Digital-system and computer-engineering design course involving architecture, design, implementation and testing of a prototype application-specific processor under given design constraints. Team project includes a final presentation and report.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " EEC 181A"
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1510",
+                "building": "Kemper Hall",
+                "description": "Laboratory",
+                "buildingCode": "KEMPER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02107"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1100",
+                "building": "Olson Hall",
+                "description": "Laboratory",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00223"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "EEC 181B 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "38858",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Digital Systems Design Project",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "181B",
+            "hidCRN": "38858",
+            "crn": "38858",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "Baas",
+                "instructorName": "B. Baas",
+                "firstName": "Bevan",
+                "instructorEmail": "bbaas@ucdavis.edu",
+                "fullName": "Bevan Baas"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special topics in Electronics.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0930",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "V",
+                "startTime": "0810",
+                "building": "Hart Hall",
+                "description": "Variable",
+                "buildingCode": "HART",
+                "saturday": false,
+                "type": "VAR",
+                "room": "01120"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "EEC 189S",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "002",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Topics in Electrical Engineering & Computer Science: Electronics",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "189S",
+            "hidCRN": "0848C3CAEE",
+            "crn": "56540",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "Yazdani",
+                "instructorName": "A. Yazdani",
+                "firstName": "Atousa",
+                "instructorEmail": "tyazdani@ucdavis.edu",
+                "fullName": "Atousa Yazdani"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Research group conferences. ",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Upper division standing in Electrical and Computer Engineering. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "",
+                "building": "",
+                "description": "Discussion",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "DIS",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "EEC 190C",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research Group Conferences in Electrical & Computer Engineering",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "190C",
+            "hidCRN": "0E46CEC8EE",
+            "crn": "38860",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Supervised work experience in electrical and computer engineering.  ",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Completion of a minimum of 84 units; project approval before period of internship. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "I",
+                "startTime": "",
+                "building": "",
+                "description": "Internship",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "INT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "EEC 192",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 6,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Internship in Electrical & Computer Engineering",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "192",
+            "hidCRN": "0E46CFCEE9",
+            "crn": "38907",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "Radulaski",
+                "instructorName": "M. Radulaski",
+                "firstName": "Marina",
+                "instructorEmail": "mradulaski@ucdavis.edu",
+                "fullName": "Marina Radulaski"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Design and construct an autonomous race car. Students work in groups to design, build and test speed control circuits, track sensing circuits, and a steering control loop.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " EEC 195A"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "K",
+                "startTime": "0900",
+                "building": "Teaching and Learning Complex",
+                "description": "Workshop",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "WRK",
+                "room": "01214"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1900",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1610",
+                "building": "Kemper Hall",
+                "description": "Laboratory",
+                "buildingCode": "KEMPER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02147"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "EEC 195B 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "38965",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Autonomous Vehicle Design Project",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "195B",
+            "hidCRN": "38965",
+            "crn": "38965",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "Halsted",
+                "instructorName": "L. Halsted",
+                "firstName": "Lance",
+                "instructorEmail": "lehalsted@ucdavis.edu",
+                "fullName": "Lance Halsted"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed group study.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "EEC 198",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "198",
+            "hidCRN": "0E46CFC8E8",
+            "crn": "38966",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special study for advanced undergraduates.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "EEC 199",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Study for Advanced Undergraduates",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "199",
+            "hidCRN": "0E46CFC9E8",
+            "crn": "38976",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "IC design for power electronics. Linear and switching regulation. Integrated power management. DC/DC and AC/DC conversion. Applications in portable electronics and wireless sensors.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " EEC 210"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Social Science & Humanities",
+                "description": "Lecture",
+                "buildingCode": "SOCSCI",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00080"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EEC 214 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55909",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Integrated Circuit Design for Power Electronics",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "214",
+            "hidCRN": "55909",
+            "crn": "55909",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "Amirtharajah",
+                "instructorName": "R. Amirtharajah",
+                "firstName": "Rajeevan",
+                "instructorEmail": "ramirtha@ucdavis.edu",
+                "fullName": "Rajeevan Amirtharajah"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Theory and techniques of optical imaging & microscopy. Fourier optics; light propagation & light detection; imaging contrast mechanisms; optical & microscopy techniques.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " PHY 009B;  EEC130AB recommended."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1310",
+                "building": "Hoagland Hall",
+                "description": "Lecture",
+                "buildingCode": "HOAGLD",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00108"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EEC 243 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55908",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Optical Imaging & Microscopy",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "243",
+            "hidCRN": "55908",
+            "crn": "55908",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "Yang",
+                "instructorName": "W. Yang",
+                "firstName": "Weijian",
+                "instructorEmail": "wejyang@ucdavis.edu",
+                "fullName": "Weijian Yang"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Survey of biodevice design from engineering and biological perspectives; micro-/nano-fabrication techniques; surface science and mass transport; essential biological processes and models; proposal development skills on merging aforementioned themes.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "ECH 245, EMS 245, MAE 245.",
+            "prereq": " Graduate standing or consent of instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1410",
+                "building": "Bainer Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "LED",
+                "room": "01062"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EEC 245 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55906",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Micro- & Nano-Technology in Life Sciences",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "245",
+            "hidCRN": "55906",
+            "crn": "55906",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "Seker",
+                "instructorName": "E. Seker",
+                "firstName": "Erkin",
+                "instructorEmail": "eseker@ucdavis.edu",
+                "fullName": "Erkin Seker"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Reinforcement Learning (RL) is the subset of machine learning, the core of artificial intelligence. Topics include fundamentals of RL, bandit problems, Markov decision processes, and dynamic programming.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " EEC 260;  Or the equivalent."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00158"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EEC 256 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55937",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Reinforcement Learning",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "256",
+            "hidCRN": "55937",
+            "crn": "55937",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "Lai",
+                "instructorName": "L. Lai",
+                "firstName": "Lifeng",
+                "instructorEmail": "lflai@ucdavis.edu",
+                "fullName": "Lifeng Lai"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to digital communications. Coding for analog sources. Characterization of signals and systems. Modulation and demodulation for the additive Gaussian channel. Digital signaling over bandwidth-constrained linear filter channels and over fading multipath channels. Spread spectrum signals.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " EEC 165;  EEC 260;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Hickey Gymnasium",
+                "description": "Lecture",
+                "buildingCode": "H GYM",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00290"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EEC 265 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55942",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Principles of Digital Communications",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "265",
+            "hidCRN": "55942",
+            "crn": "55942",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "Abdel-Ghaffar",
+                "instructorName": "K. Abdel-Ghaffar",
+                "firstName": "Khaled",
+                "instructorEmail": "kaghaffar@ucdavis.edu",
+                "fullName": "Khaled Abdel-Ghaffar"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Design & implementation principles of networking architecture and protocols. Internet, data center, and telephony case studies. Topics: Internet data & control planes; application & services; resource management; Quality of Service (QoS) provisioning; traffic engineering; performance evaluation, software-defined networks, & future research issues.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " ECS 152A or EEC 173A"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1120",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1000",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00217"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EEC 273 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "39037",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Networking Architecture & Resource Management",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "273",
+            "hidCRN": "39037",
+            "crn": "39037",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "Chuah",
+                "instructorName": "C. Chuah",
+                "firstName": "Chen-Nee",
+                "instructorEmail": "chuah@ucdavis.edu",
+                "fullName": "Chen-Nee Chuah"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Design verification techniques for digital systems; simulation-based design verification techniques; formal verification techniques, including equivalence checking, model checking, and theorem proving; timing analysis and verification; application of design cerification techniques to microprocessors.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " EEC 170;  (EEC 018 or EEC 180A)"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2030",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1910",
+                "building": "Hoagland Hall",
+                "description": "Lecture",
+                "buildingCode": "HOAGLD",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00168"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EEC 283 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55951",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Advanced Design Verification of Digital Systems",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "283",
+            "hidCRN": "55951",
+            "crn": "55951",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "Al-Asaad",
+                "instructorName": "H. Al-Asaad",
+                "firstName": "Hussain",
+                "instructorEmail": "hsalasaad@ucdavis.edu",
+                "fullName": "Hussain Al-Asaad"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to design and optimization of digital computing systems for embedded applications. Topics include combinatorial optimization techniques, performance and energy optimization in embedded systems, compilation and architecture-specific mapping, programmable and reconfigurable platforms; design automation and algorithmic improvements to design process.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " EEC 170;  (EEC 180 or EEC 180B);  or Consent of Instructor.  ECS 122A recommended."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1120",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1000",
+                "building": "Physics Building",
+                "description": "Lecture",
+                "buildingCode": "PHYSIC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00148"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EEC 284 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55952",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Design & Optimization of Embedded Computing Systems",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "284",
+            "hidCRN": "55952",
+            "crn": "55952",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "Ghiasi",
+                "instructorName": "S. Ghiasi",
+                "firstName": "Soheil",
+                "instructorEmail": "ghiasi@ucdavis.edu",
+                "fullName": "Soheil Ghiasi"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special topics in Computer Science.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "V",
+                "startTime": "1410",
+                "building": "Teaching and Learning Complex",
+                "description": "Variable",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "VAR",
+                "room": "01218"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "EEC 289A",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "001",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Topics in Electrical & Computer Engineering: Computer Science",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "289A",
+            "hidCRN": "0E47C6CDE7",
+            "crn": "39039",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "Chen",
+                "instructorName": "Y. Chen",
+                "firstName": "Yubei",
+                "instructorEmail": "ybchen@ucdavis.edu",
+                "fullName": "Yubei Chen"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special topics in Solid-State Devices & Physical Electronics.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1530",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "V",
+                "startTime": "1410",
+                "building": "Wellman Hall",
+                "description": "Variable",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "VAR",
+                "room": "00005"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "EEC 289L",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "001",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Topics in Electrical & Computer Engineering: Solid-State Devices & Physical Electronics",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "289L",
+            "hidCRN": "084BCFCBE9",
+            "crn": "55957",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "Radulaski",
+                "instructorName": "M. Radulaski",
+                "firstName": "Marina",
+                "instructorEmail": "mradulaski@ucdavis.edu",
+                "fullName": "Marina Radulaski"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Discussion and presentation of current research and development in Electrical & Computer Engineering.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "E",
+                "startTime": "1310",
+                "building": "Teaching and Learning Complex",
+                "description": "Seminar",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "SEM",
+                "room": "02010"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "EEC 290 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "39041",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Seminar in Electrical & Computer Engineering",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "290",
+            "hidCRN": "39041",
+            "crn": "39041",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "Pham",
+                "instructorName": "A. Pham",
+                "firstName": "Anhvu",
+                "instructorEmail": "ahpham@ucdavis.edu",
+                "fullName": "Anhvu Pham"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Research problems, progress, and techniques in electrical and computer engineering.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "",
+                "building": "",
+                "description": "Discussion",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "DIS",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "EEC 290C",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Graduate Research Group Conference in Electrical & Computer Engineering",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "290C",
+            "hidCRN": "0E47C6CAEC",
+            "crn": "39042",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Group study.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "EEC 298",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Group Study",
+            "subjectDesc": "Engineering Electrical & Compu",
+            "courseNum": "298",
+            "hidCRN": "0E47C7CEE6",
+            "crn": "39108",
+            "subjectCode": "EEC"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    }
+]

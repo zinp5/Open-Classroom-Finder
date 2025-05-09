@@ -1,0 +1,3067 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Supervised work-study experience in engineering.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Lower division standing; approval of project prior to period of internship.\n"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "I",
+                "startTime": "",
+                "building": "",
+                "description": "Internship",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "INT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "EME 092",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Internship in Mechanical Engineering",
+            "subjectDesc": "Engineering Mechanical",
+            "courseNum": "092",
+            "hidCRN": "0E47C4CEED",
+            "crn": "39203",
+            "subjectCode": "EME"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special study for undergraduates.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Lower division standing."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "EME 099",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Study for Undergraduates",
+            "subjectDesc": "Engineering Mechanical",
+            "courseNum": "099",
+            "hidCRN": "0E47C4CEEB",
+            "crn": "39205",
+            "subjectCode": "EME"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Inviscid incompressible flow, compressible flow, ideal gas mixtures, psychrometrics, reacting mixtures and combustion.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " ENG 103 C- or better;  ENG 105 C- or better"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 20:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1930",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1740",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00106"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EME 106 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "39209",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Thermo-Fluid Dynamics",
+            "subjectDesc": "Engineering Mechanical",
+            "courseNum": "106",
+            "hidCRN": "39209",
+            "crn": "39209",
+            "subjectCode": "EME"
+        },
+        "instructor": [
+            {
+                "lastName": "Cobian",
+                "instructorName": "J. Cobian",
+                "firstName": "Jeanette",
+                "instructorEmail": "jcobian@ucdavis.edu",
+                "fullName": "Jeanette Cobian"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Experiments to illustrate principles of mechanical systems. Signal analysis; Demonstration of basic sensors for mechanical systems; Experimental project design; Experiments involving voltage measurement; strain gauges, dynamic systems of 1st order.  ",
+            "creditLimit": "Only 3 units of credit for students who have previously taken BIM 111; 2 units of credit for students who have previously taken EBS 165; 1 unit of credit allowed for students who have completed EME 107B (former version of EME 108).",
+            "ge3": "SE,WE",
+            "crossListing": "",
+            "prereq": " ENG 100 C- or better;  ENG 102 C- or better;  ENG 104 recommended. "
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1410",
+                "building": "Bainer Hall",
+                "description": "Laboratory",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01071"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0920",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0800",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00234"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0930",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00234"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EME 108 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "39210",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Measurement Systems",
+            "subjectDesc": "Engineering Mechanical",
+            "courseNum": "108",
+            "hidCRN": "39210",
+            "crn": "39210",
+            "subjectCode": "EME"
+        },
+        "instructor": [
+            {
+                "lastName": "Erickson",
+                "instructorName": "P. Erickson",
+                "firstName": "Paul",
+                "instructorEmail": "paerickson@ucdavis.edu",
+                "fullName": "Paul Erickson"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Experiments to illustrate principles of mechanical systems. Signal analysis; Demonstration of basic sensors for mechanical systems; Experimental project design; Experiments involving voltage measurement; strain gauges, dynamic systems of 1st order.  ",
+            "creditLimit": "Only 3 units of credit for students who have previously taken BIM 111; 2 units of credit for students who have previously taken EBS 165; 1 unit of credit allowed for students who have completed EME 107B (former version of EME 108).",
+            "ge3": "SE,WE",
+            "crossListing": "",
+            "prereq": " ENG 100 C- or better;  ENG 102 C- or better;  ENG 104 recommended. "
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0920",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0800",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00234"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0930",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00234"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1350",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1100",
+                "building": "Bainer Hall",
+                "description": "Laboratory",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01071"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EME 108 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "39211",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Measurement Systems",
+            "subjectDesc": "Engineering Mechanical",
+            "courseNum": "108",
+            "hidCRN": "39211",
+            "crn": "39211",
+            "subjectCode": "EME"
+        },
+        "instructor": [
+            {
+                "lastName": "Erickson",
+                "instructorName": "P. Erickson",
+                "firstName": "Paul",
+                "instructorEmail": "paerickson@ucdavis.edu",
+                "fullName": "Paul Erickson"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Experiments to illustrate principles of mechanical systems. Signal analysis; Demonstration of basic sensors for mechanical systems; Experimental project design; Experiments involving voltage measurement; strain gauges, dynamic systems of 1st order.  ",
+            "creditLimit": "Only 3 units of credit for students who have previously taken BIM 111; 2 units of credit for students who have previously taken EBS 165; 1 unit of credit allowed for students who have completed EME 107B (former version of EME 108).",
+            "ge3": "SE,WE",
+            "crossListing": "",
+            "prereq": " ENG 100 C- or better;  ENG 102 C- or better;  ENG 104 recommended. "
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0920",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0800",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00234"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0930",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00234"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1410",
+                "building": "Bainer Hall",
+                "description": "Laboratory",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01071"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EME 108 A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "39212",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Measurement Systems",
+            "subjectDesc": "Engineering Mechanical",
+            "courseNum": "108",
+            "hidCRN": "39212",
+            "crn": "39212",
+            "subjectCode": "EME"
+        },
+        "instructor": [
+            {
+                "lastName": "Erickson",
+                "instructorName": "P. Erickson",
+                "firstName": "Paul",
+                "instructorEmail": "paerickson@ucdavis.edu",
+                "fullName": "Paul Erickson"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Experiments to illustrate principles of mechanical systems. Signal analysis; Demonstration of basic sensors for mechanical systems; Experimental project design; Experiments involving voltage measurement; strain gauges, dynamic systems of 1st order.  ",
+            "creditLimit": "Only 3 units of credit for students who have previously taken BIM 111; 2 units of credit for students who have previously taken EBS 165; 1 unit of credit allowed for students who have completed EME 107B (former version of EME 108).",
+            "ge3": "SE,WE",
+            "crossListing": "",
+            "prereq": " ENG 100 C- or better;  ENG 102 C- or better;  ENG 104 recommended. "
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1410",
+                "building": "Bainer Hall",
+                "description": "Laboratory",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01071"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0920",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0800",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00234"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0930",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00234"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EME 108 A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "39213",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Measurement Systems",
+            "subjectDesc": "Engineering Mechanical",
+            "courseNum": "108",
+            "hidCRN": "39213",
+            "crn": "39213",
+            "subjectCode": "EME"
+        },
+        "instructor": [
+            {
+                "lastName": "Erickson",
+                "instructorName": "P. Erickson",
+                "firstName": "Paul",
+                "instructorEmail": "paerickson@ucdavis.edu",
+                "fullName": "Paul Erickson"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Experiments to illustrate principles of mechanical systems. Signal analysis; Demonstration of basic sensors for mechanical systems; Experimental project design; Experiments involving voltage measurement; strain gauges, dynamic systems of 1st order.  ",
+            "creditLimit": "Only 3 units of credit for students who have previously taken BIM 111; 2 units of credit for students who have previously taken EBS 165; 1 unit of credit allowed for students who have completed EME 107B (former version of EME 108).",
+            "ge3": "SE,WE",
+            "crossListing": "",
+            "prereq": " ENG 100 C- or better;  ENG 102 C- or better;  ENG 104 recommended. "
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1410",
+                "building": "Bainer Hall",
+                "description": "Laboratory",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01071"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0920",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0800",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00234"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0930",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00234"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EME 108 A05",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A05",
+            "printCRN": "39214",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Measurement Systems",
+            "subjectDesc": "Engineering Mechanical",
+            "courseNum": "108",
+            "hidCRN": "39214",
+            "crn": "39214",
+            "subjectCode": "EME"
+        },
+        "instructor": [
+            {
+                "lastName": "Erickson",
+                "instructorName": "P. Erickson",
+                "firstName": "Paul",
+                "instructorEmail": "paerickson@ucdavis.edu",
+                "fullName": "Paul Erickson"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Experiments illustrating principles of thermal-fluid systems and related measurement devices. Statistical design of experiments and uncertainty analysis of data; thermodynamic cycles, combustion, compressible and incompressible flows.",
+            "creditLimit": "Only 3 units of credit for students who have previously taken ECH 155A; 2 units of credit for students who have previously taken ECH 155B; 3 units of credit for students who have previously taken ECI 141L; 1 unit of credit for students who have already completed EME 107A (former version of EME 109).\n",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " EME 106 C- or better"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1310",
+                "building": "Maria Manetti Shrem Art Hall",
+                "description": "Discussion",
+                "buildingCode": "MMSART",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00204"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Maria Manetti Shrem Art Hall",
+                "description": "Lecture",
+                "buildingCode": "MMSART",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00204"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1030",
+                "building": "Bainer Hall",
+                "description": "Laboratory",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01120"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EME 109 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "39215",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Experimental Methods for Thermal Fluids",
+            "subjectDesc": "Engineering Mechanical",
+            "courseNum": "109",
+            "hidCRN": "39215",
+            "crn": "39215",
+            "subjectCode": "EME"
+        },
+        "instructor": [
+            {
+                "lastName": "Shaw",
+                "instructorName": "B. Shaw",
+                "firstName": "Benjamin",
+                "instructorEmail": "bdshaw@ucdavis.edu",
+                "fullName": "Benjamin Shaw"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Experiments illustrating principles of thermal-fluid systems and related measurement devices. Statistical design of experiments and uncertainty analysis of data; thermodynamic cycles, combustion, compressible and incompressible flows.",
+            "creditLimit": "Only 3 units of credit for students who have previously taken ECH 155A; 2 units of credit for students who have previously taken ECH 155B; 3 units of credit for students who have previously taken ECI 141L; 1 unit of credit for students who have already completed EME 107A (former version of EME 109).\n",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " EME 106 C- or better"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1310",
+                "building": "Maria Manetti Shrem Art Hall",
+                "description": "Discussion",
+                "buildingCode": "MMSART",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00204"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Maria Manetti Shrem Art Hall",
+                "description": "Lecture",
+                "buildingCode": "MMSART",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00204"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1530",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1410",
+                "building": "Bainer Hall",
+                "description": "Laboratory",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01120"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EME 109 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "39216",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Experimental Methods for Thermal Fluids",
+            "subjectDesc": "Engineering Mechanical",
+            "courseNum": "109",
+            "hidCRN": "39216",
+            "crn": "39216",
+            "subjectCode": "EME"
+        },
+        "instructor": [
+            {
+                "lastName": "Shaw",
+                "instructorName": "B. Shaw",
+                "firstName": "Benjamin",
+                "instructorEmail": "bdshaw@ucdavis.edu",
+                "fullName": "Benjamin Shaw"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Experiments illustrating principles of thermal-fluid systems and related measurement devices. Statistical design of experiments and uncertainty analysis of data; thermodynamic cycles, combustion, compressible and incompressible flows.",
+            "creditLimit": "Only 3 units of credit for students who have previously taken ECH 155A; 2 units of credit for students who have previously taken ECH 155B; 3 units of credit for students who have previously taken ECI 141L; 1 unit of credit for students who have already completed EME 107A (former version of EME 109).\n",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " EME 106 C- or better"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1310",
+                "building": "Maria Manetti Shrem Art Hall",
+                "description": "Discussion",
+                "buildingCode": "MMSART",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00204"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Maria Manetti Shrem Art Hall",
+                "description": "Lecture",
+                "buildingCode": "MMSART",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00204"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1540",
+                "building": "Bainer Hall",
+                "description": "Laboratory",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01120"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EME 109 A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "39217",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Experimental Methods for Thermal Fluids",
+            "subjectDesc": "Engineering Mechanical",
+            "courseNum": "109",
+            "hidCRN": "39217",
+            "crn": "39217",
+            "subjectCode": "EME"
+        },
+        "instructor": [
+            {
+                "lastName": "Shaw",
+                "instructorName": "B. Shaw",
+                "firstName": "Benjamin",
+                "instructorEmail": "bdshaw@ucdavis.edu",
+                "fullName": "Benjamin Shaw"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Experiments illustrating principles of thermal-fluid systems and related measurement devices. Statistical design of experiments and uncertainty analysis of data; thermodynamic cycles, combustion, compressible and incompressible flows.",
+            "creditLimit": "Only 3 units of credit for students who have previously taken ECH 155A; 2 units of credit for students who have previously taken ECH 155B; 3 units of credit for students who have previously taken ECI 141L; 1 unit of credit for students who have already completed EME 107A (former version of EME 109).\n",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " EME 106 C- or better"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1310",
+                "building": "Maria Manetti Shrem Art Hall",
+                "description": "Discussion",
+                "buildingCode": "MMSART",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00204"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Maria Manetti Shrem Art Hall",
+                "description": "Lecture",
+                "buildingCode": "MMSART",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00204"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1030",
+                "building": "Bainer Hall",
+                "description": "Laboratory",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01120"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EME 109 A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "39218",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Experimental Methods for Thermal Fluids",
+            "subjectDesc": "Engineering Mechanical",
+            "courseNum": "109",
+            "hidCRN": "39218",
+            "crn": "39218",
+            "subjectCode": "EME"
+        },
+        "instructor": [
+            {
+                "lastName": "Shaw",
+                "instructorName": "B. Shaw",
+                "firstName": "Benjamin",
+                "instructorEmail": "bdshaw@ucdavis.edu",
+                "fullName": "Benjamin Shaw"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Experiments illustrating principles of thermal-fluid systems and related measurement devices. Statistical design of experiments and uncertainty analysis of data; thermodynamic cycles, combustion, compressible and incompressible flows.",
+            "creditLimit": "Only 3 units of credit for students who have previously taken ECH 155A; 2 units of credit for students who have previously taken ECH 155B; 3 units of credit for students who have previously taken ECI 141L; 1 unit of credit for students who have already completed EME 107A (former version of EME 109).\n",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " EME 106 C- or better"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1310",
+                "building": "Maria Manetti Shrem Art Hall",
+                "description": "Discussion",
+                "buildingCode": "MMSART",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00204"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Maria Manetti Shrem Art Hall",
+                "description": "Lecture",
+                "buildingCode": "MMSART",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00204"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1030",
+                "building": "Bainer Hall",
+                "description": "Laboratory",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01120"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EME 109 A05",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A05",
+            "printCRN": "39219",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Experimental Methods for Thermal Fluids",
+            "subjectDesc": "Engineering Mechanical",
+            "courseNum": "109",
+            "hidCRN": "39219",
+            "crn": "39219",
+            "subjectCode": "EME"
+        },
+        "instructor": [
+            {
+                "lastName": "Shaw",
+                "instructorName": "B. Shaw",
+                "firstName": "Benjamin",
+                "instructorEmail": "bdshaw@ucdavis.edu",
+                "fullName": "Benjamin Shaw"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Experiments illustrating principles of thermal-fluid systems and related measurement devices. Statistical design of experiments and uncertainty analysis of data; thermodynamic cycles, combustion, compressible and incompressible flows.",
+            "creditLimit": "Only 3 units of credit for students who have previously taken ECH 155A; 2 units of credit for students who have previously taken ECH 155B; 3 units of credit for students who have previously taken ECI 141L; 1 unit of credit for students who have already completed EME 107A (former version of EME 109).\n",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " EME 106 C- or better"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1310",
+                "building": "Maria Manetti Shrem Art Hall",
+                "description": "Discussion",
+                "buildingCode": "MMSART",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00204"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Maria Manetti Shrem Art Hall",
+                "description": "Lecture",
+                "buildingCode": "MMSART",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00204"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1530",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1410",
+                "building": "Bainer Hall",
+                "description": "Laboratory",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01120"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EME 109 A06",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A06",
+            "printCRN": "39220",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Experimental Methods for Thermal Fluids",
+            "subjectDesc": "Engineering Mechanical",
+            "courseNum": "109",
+            "hidCRN": "39220",
+            "crn": "39220",
+            "subjectCode": "EME"
+        },
+        "instructor": [
+            {
+                "lastName": "Shaw",
+                "instructorName": "B. Shaw",
+                "firstName": "Benjamin",
+                "instructorEmail": "bdshaw@ucdavis.edu",
+                "fullName": "Benjamin Shaw"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Experiments illustrating principles of thermal-fluid systems and related measurement devices. Statistical design of experiments and uncertainty analysis of data; thermodynamic cycles, combustion, compressible and incompressible flows.",
+            "creditLimit": "Only 3 units of credit for students who have previously taken ECH 155A; 2 units of credit for students who have previously taken ECH 155B; 3 units of credit for students who have previously taken ECI 141L; 1 unit of credit for students who have already completed EME 107A (former version of EME 109).\n",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " EME 106 C- or better"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1310",
+                "building": "Maria Manetti Shrem Art Hall",
+                "description": "Discussion",
+                "buildingCode": "MMSART",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00204"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Maria Manetti Shrem Art Hall",
+                "description": "Lecture",
+                "buildingCode": "MMSART",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00204"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1540",
+                "building": "Bainer Hall",
+                "description": "Laboratory",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01120"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EME 109 A07",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A07",
+            "printCRN": "39221",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Experimental Methods for Thermal Fluids",
+            "subjectDesc": "Engineering Mechanical",
+            "courseNum": "109",
+            "hidCRN": "39221",
+            "crn": "39221",
+            "subjectCode": "EME"
+        },
+        "instructor": [
+            {
+                "lastName": "Shaw",
+                "instructorName": "B. Shaw",
+                "firstName": "Benjamin",
+                "instructorEmail": "bdshaw@ucdavis.edu",
+                "fullName": "Benjamin Shaw"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Experiments illustrating principles of thermal-fluid systems and related measurement devices. Statistical design of experiments and uncertainty analysis of data; thermodynamic cycles, combustion, compressible and incompressible flows.",
+            "creditLimit": "Only 3 units of credit for students who have previously taken ECH 155A; 2 units of credit for students who have previously taken ECH 155B; 3 units of credit for students who have previously taken ECI 141L; 1 unit of credit for students who have already completed EME 107A (former version of EME 109).\n",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " EME 106 C- or better"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1310",
+                "building": "Maria Manetti Shrem Art Hall",
+                "description": "Discussion",
+                "buildingCode": "MMSART",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00204"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Maria Manetti Shrem Art Hall",
+                "description": "Lecture",
+                "buildingCode": "MMSART",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00204"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1210",
+                "building": "Bainer Hall",
+                "description": "Laboratory",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01120"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EME 109 A08",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A08",
+            "printCRN": "39222",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Experimental Methods for Thermal Fluids",
+            "subjectDesc": "Engineering Mechanical",
+            "courseNum": "109",
+            "hidCRN": "39222",
+            "crn": "39222",
+            "subjectCode": "EME"
+        },
+        "instructor": [
+            {
+                "lastName": "Shaw",
+                "instructorName": "B. Shaw",
+                "firstName": "Benjamin",
+                "instructorEmail": "bdshaw@ucdavis.edu",
+                "fullName": "Benjamin Shaw"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Experiments illustrating principles of thermal-fluid systems and related measurement devices. Statistical design of experiments and uncertainty analysis of data; thermodynamic cycles, combustion, compressible and incompressible flows.",
+            "creditLimit": "Only 3 units of credit for students who have previously taken ECH 155A; 2 units of credit for students who have previously taken ECH 155B; 3 units of credit for students who have previously taken ECI 141L; 1 unit of credit for students who have already completed EME 107A (former version of EME 109).\n",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " EME 106 C- or better"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1210",
+                "building": "Bainer Hall",
+                "description": "Laboratory",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01120"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1310",
+                "building": "Maria Manetti Shrem Art Hall",
+                "description": "Discussion",
+                "buildingCode": "MMSART",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00204"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Maria Manetti Shrem Art Hall",
+                "description": "Lecture",
+                "buildingCode": "MMSART",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00204"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EME 109 A09",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A09",
+            "printCRN": "39223",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Experimental Methods for Thermal Fluids",
+            "subjectDesc": "Engineering Mechanical",
+            "courseNum": "109",
+            "hidCRN": "39223",
+            "crn": "39223",
+            "subjectCode": "EME"
+        },
+        "instructor": [
+            {
+                "lastName": "Shaw",
+                "instructorName": "B. Shaw",
+                "firstName": "Benjamin",
+                "instructorEmail": "bdshaw@ucdavis.edu",
+                "fullName": "Benjamin Shaw"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Experiments illustrating principles of thermal-fluid systems and related measurement devices. Statistical design of experiments and uncertainty analysis of data; thermodynamic cycles, combustion, compressible and incompressible flows.",
+            "creditLimit": "Only 3 units of credit for students who have previously taken ECH 155A; 2 units of credit for students who have previously taken ECH 155B; 3 units of credit for students who have previously taken ECI 141L; 1 unit of credit for students who have already completed EME 107A (former version of EME 109).\n",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " EME 106 C- or better"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1530",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1410",
+                "building": "Bainer Hall",
+                "description": "Laboratory",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01120"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1310",
+                "building": "Maria Manetti Shrem Art Hall",
+                "description": "Discussion",
+                "buildingCode": "MMSART",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00204"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Maria Manetti Shrem Art Hall",
+                "description": "Lecture",
+                "buildingCode": "MMSART",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00204"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EME 109 A10",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A10",
+            "printCRN": "39224",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Experimental Methods for Thermal Fluids",
+            "subjectDesc": "Engineering Mechanical",
+            "courseNum": "109",
+            "hidCRN": "39224",
+            "crn": "39224",
+            "subjectCode": "EME"
+        },
+        "instructor": [
+            {
+                "lastName": "Shaw",
+                "instructorName": "B. Shaw",
+                "firstName": "Benjamin",
+                "instructorEmail": "bdshaw@ucdavis.edu",
+                "fullName": "Benjamin Shaw"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Experiments illustrating principles of thermal-fluid systems and related measurement devices. Statistical design of experiments and uncertainty analysis of data; thermodynamic cycles, combustion, compressible and incompressible flows.",
+            "creditLimit": "Only 3 units of credit for students who have previously taken ECH 155A; 2 units of credit for students who have previously taken ECH 155B; 3 units of credit for students who have previously taken ECI 141L; 1 unit of credit for students who have already completed EME 107A (former version of EME 109).\n",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " EME 106 C- or better"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1310",
+                "building": "Maria Manetti Shrem Art Hall",
+                "description": "Discussion",
+                "buildingCode": "MMSART",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00204"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1530",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "C",
+                "startTime": "1410",
+                "building": "Bainer Hall",
+                "description": "Laboratory",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01120"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Maria Manetti Shrem Art Hall",
+                "description": "Lecture",
+                "buildingCode": "MMSART",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00204"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EME 109 A11",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A11",
+            "printCRN": "56533",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Experimental Methods for Thermal Fluids",
+            "subjectDesc": "Engineering Mechanical",
+            "courseNum": "109",
+            "hidCRN": "56533",
+            "crn": "56533",
+            "subjectCode": "EME"
+        },
+        "instructor": [
+            {
+                "lastName": "",
+                "instructorName": ". ",
+                "firstName": "",
+                "instructorEmail": "",
+                "fullName": " "
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Analytical and experimental studies of the dynamics, stability and control of vehicles such as cars, trailers, airplanes, motorcycles, bicycles and rail cars.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " ENG 102 C- or better"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1210",
+                "building": "Academic Surge Bldg.",
+                "description": "Laboratory",
+                "buildingCode": "ACADSR",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01116"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Hart Hall",
+                "description": "Lecture",
+                "buildingCode": "HART",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01130"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EME 134 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "56088",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Vehicle Stability",
+            "subjectDesc": "Engineering Mechanical",
+            "courseNum": "134",
+            "hidCRN": "56088",
+            "crn": "56088",
+            "subjectCode": "EME"
+        },
+        "instructor": [
+            {
+                "lastName": "Assadian",
+                "instructorName": "F. Assadian",
+                "firstName": "Farhad",
+                "instructorEmail": "fassadian@ucdavis.edu",
+                "fullName": "Farhad Assadian"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Analytical and experimental studies of the dynamics, stability and control of vehicles such as cars, trailers, airplanes, motorcycles, bicycles and rail cars.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " ENG 102 C- or better"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "C",
+                "startTime": "0900",
+                "building": "Academic Surge Bldg.",
+                "description": "Laboratory",
+                "buildingCode": "ACADSR",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01044"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Hart Hall",
+                "description": "Lecture",
+                "buildingCode": "HART",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01130"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EME 134 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "56126",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Vehicle Stability",
+            "subjectDesc": "Engineering Mechanical",
+            "courseNum": "134",
+            "hidCRN": "56126",
+            "crn": "56126",
+            "subjectCode": "EME"
+        },
+        "instructor": [
+            {
+                "lastName": "Assadian",
+                "instructorName": "F. Assadian",
+                "firstName": "Farhad",
+                "instructorEmail": "fassadian@ucdavis.edu",
+                "fullName": "Farhad Assadian"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Stability of flexible systems. Introduction to fluid-structure interaction. Mechanical vibrations. Design of mechanical subsystems or systems under constraints. Dynamic instabilities. Flutter. Control effectiveness. Energy extraction from fluid-structure interactions. Design applications to aerospace, mechanical and biomedical systems.",
+            "creditLimit": "No credit for students who have completed former course EAE 139. ",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " ENG 102 C- or better;  ENG 103 C- or better"
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1350",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "C",
+                "startTime": "1100",
+                "building": "Bainer Hall",
+                "description": "Laboratory",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "2121A"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1000",
+                "building": "Hoagland Hall",
+                "description": "Lecture",
+                "buildingCode": "HOAGLD",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00168"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EME 139 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "39226",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Stability of Flexible Dynamic Systems",
+            "subjectDesc": "Engineering Mechanical",
+            "courseNum": "139",
+            "hidCRN": "39226",
+            "crn": "39226",
+            "subjectCode": "EME"
+        },
+        "instructor": [
+            {
+                "lastName": "Sarigul-Klijn",
+                "instructorName": "N. Sarigul-Klijn",
+                "firstName": "Nesrin",
+                "instructorEmail": "nsarigulklijn@ucdavis.edu",
+                "fullName": "Nesrin Sarigul-Klijn"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Stability of flexible systems. Introduction to fluid-structure interaction. Mechanical vibrations. Design of mechanical subsystems or systems under constraints. Dynamic instabilities. Flutter. Control effectiveness. Energy extraction from fluid-structure interactions. Design applications to aerospace, mechanical and biomedical systems.",
+            "creditLimit": "No credit for students who have completed former course EAE 139. ",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " ENG 102 C- or better;  ENG 103 C- or better"
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1000",
+                "building": "Hoagland Hall",
+                "description": "Lecture",
+                "buildingCode": "HOAGLD",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00168"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0900",
+                "building": "Bainer Hall",
+                "description": "Laboratory",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "2121A"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EME 139 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "39227",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Stability of Flexible Dynamic Systems",
+            "subjectDesc": "Engineering Mechanical",
+            "courseNum": "139",
+            "hidCRN": "39227",
+            "crn": "39227",
+            "subjectCode": "EME"
+        },
+        "instructor": [
+            {
+                "lastName": "Sarigul-Klijn",
+                "instructorName": "N. Sarigul-Klijn",
+                "firstName": "Nesrin",
+                "instructorEmail": "nsarigulklijn@ucdavis.edu",
+                "fullName": "Nesrin Sarigul-Klijn"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Stability of flexible systems. Introduction to fluid-structure interaction. Mechanical vibrations. Design of mechanical subsystems or systems under constraints. Dynamic instabilities. Flutter. Control effectiveness. Energy extraction from fluid-structure interactions. Design applications to aerospace, mechanical and biomedical systems.",
+            "creditLimit": "No credit for students who have completed former course EAE 139. ",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " ENG 102 C- or better;  ENG 103 C- or better"
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1000",
+                "building": "Hoagland Hall",
+                "description": "Lecture",
+                "buildingCode": "HOAGLD",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00168"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1350",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1100",
+                "building": "Bainer Hall",
+                "description": "Laboratory",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "2121A"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EME 139 A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "39228",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Stability of Flexible Dynamic Systems",
+            "subjectDesc": "Engineering Mechanical",
+            "courseNum": "139",
+            "hidCRN": "39228",
+            "crn": "39228",
+            "subjectCode": "EME"
+        },
+        "instructor": [
+            {
+                "lastName": "Sarigul-Klijn",
+                "instructorName": "N. Sarigul-Klijn",
+                "firstName": "Nesrin",
+                "instructorEmail": "nsarigulklijn@ucdavis.edu",
+                "fullName": "Nesrin Sarigul-Klijn"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Stability of flexible systems. Introduction to fluid-structure interaction. Mechanical vibrations. Design of mechanical subsystems or systems under constraints. Dynamic instabilities. Flutter. Control effectiveness. Energy extraction from fluid-structure interactions. Design applications to aerospace, mechanical and biomedical systems.",
+            "creditLimit": "No credit for students who have completed former course EAE 139. ",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " ENG 102 C- or better;  ENG 103 C- or better"
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1350",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1100",
+                "building": "Bainer Hall",
+                "description": "Laboratory",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "2121A"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1000",
+                "building": "Hoagland Hall",
+                "description": "Lecture",
+                "buildingCode": "HOAGLD",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00168"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EME 139 A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "39229",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Stability of Flexible Dynamic Systems",
+            "subjectDesc": "Engineering Mechanical",
+            "courseNum": "139",
+            "hidCRN": "39229",
+            "crn": "39229",
+            "subjectCode": "EME"
+        },
+        "instructor": [
+            {
+                "lastName": "Sarigul-Klijn",
+                "instructorName": "N. Sarigul-Klijn",
+                "firstName": "Nesrin",
+                "instructorEmail": "nsarigulklijn@ucdavis.edu",
+                "fullName": "Nesrin Sarigul-Klijn"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Principles of mechanics applied to design. Deformation and stress analysis. Structural integrity under static and fluctuating loads. Projects demonstrate progression from concept to engineering analysis, with emphasis on strength and durability.",
+            "creditLimit": "",
+            "ge3": "SE,WE",
+            "crossListing": "",
+            "prereq": " (ENG 045 C- or better or ENG 045Y C- or better);  (ENG 104 C- or better,  EME 050 C- or better { can be concurrent })"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0920",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "0800",
+                "building": "Walker Hall",
+                "description": "Lecture",
+                "buildingCode": "WALKER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01330"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "0930",
+                "building": "Walker Hall",
+                "description": "Discussion",
+                "buildingCode": "WALKER",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01330"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EME 150A 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "39230",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Mechanical Design",
+            "subjectDesc": "Engineering Mechanical",
+            "courseNum": "150A",
+            "hidCRN": "39230",
+            "crn": "39230",
+            "subjectCode": "EME"
+        },
+        "instructor": [
+            {
+                "lastName": "Habibi",
+                "instructorName": "M. Habibi",
+                "firstName": "Mohsen",
+                "instructorEmail": "mohabibi@ucdavis.edu",
+                "fullName": "Mohsen Habibi"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Principles of engineering mechanics applied to the design and selection of mechanical components. Design projects, which concentrate on conceptual design, engineering analysis, methods of manufacture, material selection, and cost.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " EME 150A C- or better"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Hoagland Hall",
+                "description": "Lecture",
+                "buildingCode": "HOAGLD",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00113"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1340",
+                "building": "Hoagland Hall",
+                "description": "Discussion",
+                "buildingCode": "HOAGLD",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00113"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EME 150B 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "39231",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Mechanical Design",
+            "subjectDesc": "Engineering Mechanical",
+            "courseNum": "150B",
+            "hidCRN": "39231",
+            "crn": "39231",
+            "subjectCode": "EME"
+        },
+        "instructor": [
+            {
+                "lastName": "Linke",
+                "instructorName": "B. Linke",
+                "firstName": "Barbara",
+                "instructorEmail": "bslinke@ucdavis.edu",
+                "fullName": "Barbara Linke"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Conduction, convection, and radiation heat transfer. Computational modeling of heat transfer in engineering. Applications to engineering equipment with the use of digital computers.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " (ENG 006 C- or better or EME 005 C- or better or ECS 030 C- or better);  ENG 103 C- or better;  ENG 105 C- or better"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1530",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Everson Hall",
+                "description": "Lecture",
+                "buildingCode": "EVERSN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00176"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1540",
+                "building": "Everson Hall",
+                "description": "Discussion",
+                "buildingCode": "EVERSN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00176"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EME 165 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "39235",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Heat Transfer",
+            "subjectDesc": "Engineering Mechanical",
+            "courseNum": "165",
+            "hidCRN": "39235",
+            "crn": "39235",
+            "subjectCode": "EME"
+        },
+        "instructor": [
+            {
+                "lastName": "Narayanan",
+                "instructorName": "V. Narayanan",
+                "firstName": "Vinod",
+                "instructorEmail": "vnarayanan@ucdavis.edu",
+                "fullName": "Vinod Narayanan"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Classical feedback control systems; block diagrams; performance specifications; steady state errors; rise and settling times; root locus; PID controllers; Bode and Nyquist plots; stability; phase and gain margins; advanced topics as time allows.\n",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " ENG 100 C- or better;  ENG 102 C- or better"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1730",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1610",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01214"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1740",
+                "building": "Teaching and Learning Complex",
+                "description": "Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01214"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EME 172 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "39236",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Automatic Control of Engineering Systems",
+            "subjectDesc": "Engineering Mechanical",
+            "courseNum": "172",
+            "hidCRN": "39236",
+            "crn": "39236",
+            "subjectCode": "EME"
+        },
+        "instructor": [
+            {
+                "lastName": "Rahmati",
+                "instructorName": "M. Rahmati",
+                "firstName": "Mehdi",
+                "instructorEmail": "mrahmati@ucdavis.edu",
+                "fullName": "Mehdi Rahmati"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Major mechanical engineering design experience; the mechanical engineering design process and its use in the design of engineering systems incorporating appropriate engineering standards and multiple realistic constraints. ",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " EME 185A;  senior standing in the Department of Mechanical and Aerospace Engineering."
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Facility Assigned by Instr.",
+                "description": "Lecture",
+                "buildingCode": "NOFAC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00000"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "C",
+                "startTime": "1510",
+                "building": "Facility Assigned by Instr.",
+                "description": "Laboratory",
+                "buildingCode": "NOFAC",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00000"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1410",
+                "building": "Facility Assigned by Instr.",
+                "description": "Laboratory",
+                "buildingCode": "NOFAC",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EME 185B 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "39237",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Mechanical Engineering Systems Design Project",
+            "subjectDesc": "Engineering Mechanical",
+            "courseNum": "185B",
+            "hidCRN": "39237",
+            "crn": "39237",
+            "subjectCode": "EME"
+        },
+        "instructor": [
+            {
+                "lastName": "Soltani",
+                "instructorName": "I. Soltani",
+                "firstName": "Iman",
+                "instructorEmail": "isoltani@ucdavis.edu",
+                "fullName": "Iman Soltani"
+            },
+            {
+                "lastName": "Schofield",
+                "instructorName": "J. Schofield",
+                "firstName": "Jonathon",
+                "instructorEmail": "jschofield@ucdavis.edu",
+                "fullName": "Jonathon Schofield"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed group study in Vehicle & Transportation Systems.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "V",
+                "startTime": "1410",
+                "building": "Giedt",
+                "description": "Variable",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "VAR",
+                "room": "01007"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "EME 189L",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "001",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Selected Topics in Mechanical Engineering: Vehicle & Transportation Systems",
+            "subjectDesc": "Engineering Mechanical",
+            "courseNum": "189L",
+            "hidCRN": "0E47C4CDE6",
+            "crn": "39238",
+            "subjectCode": "EME"
+        },
+        "instructor": [
+            {
+                "lastName": "Hill",
+                "instructorName": "M. Hill",
+                "firstName": "Michael",
+                "instructorEmail": "mrhill@ucdavis.edu",
+                "fullName": "Michael Hill"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Supervised work experience in mechanical engineering.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Upper division standing; approval of project prior to period of internship."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "I",
+                "startTime": "",
+                "building": "",
+                "description": "Internship",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "INT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "EME 192",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Intership in Engineering",
+            "subjectDesc": "Engineering Mechanical",
+            "courseNum": "192",
+            "hidCRN": "0E47C4CDE7",
+            "crn": "39239",
+            "subjectCode": "EME"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special study for advanced undergraduates. May be taught abroad.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "EME 199",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Study for Advanced Undergraduates",
+            "subjectDesc": "Engineering Mechanical",
+            "courseNum": "199",
+            "hidCRN": "0E47C4C9E6",
+            "crn": "39278",
+            "subjectCode": "EME"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    }
+]

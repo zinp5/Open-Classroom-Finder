@@ -1,0 +1,4985 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Non-mathematical introduction to how chemical engineers think, illustrated by elucidation of the process of roasting and brewing coffee. Qualitative overview of the basic principles of engineering analysis and design. Corresponding experiments testing design choices on the sensory qualities of coffee.",
+            "creditLimit": "Not open for credit to students who have completed ECH 001, ECM 001, ECM 005 or ECH 005.",
+            "ge3": "SE,SL,VL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0800",
+                "building": "Everson Hall",
+                "description": "Laboratory",
+                "buildingCode": "EVERSN",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00126"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ECH 001Y A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "36954",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Design of Coffee\u2013An Introduction to Chemical Engineering",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "001Y",
+            "hidCRN": "36954",
+            "crn": "36954",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "Kuhl",
+                "instructorName": "T. Kuhl",
+                "firstName": "Tonya",
+                "instructorEmail": "tlkuhl@ucdavis.edu",
+                "fullName": "Tonya Kuhl"
+            },
+            {
+                "lastName": "Ristenpart",
+                "instructorName": "W. Ristenpart",
+                "firstName": "William",
+                "instructorEmail": "wdristenpart@ucdavis.edu",
+                "fullName": "William Ristenpart"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Non-mathematical introduction to how chemical engineers think, illustrated by elucidation of the process of roasting and brewing coffee. Qualitative overview of the basic principles of engineering analysis and design. Corresponding experiments testing design choices on the sensory qualities of coffee.",
+            "creditLimit": "Not open for credit to students who have completed ECH 001, ECM 001, ECM 005 or ECH 005.",
+            "ge3": "SE,SL,VL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1210",
+                "building": "Everson Hall",
+                "description": "Laboratory",
+                "buildingCode": "EVERSN",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00126"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ECH 001Y A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "36955",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Design of Coffee\u2013An Introduction to Chemical Engineering",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "001Y",
+            "hidCRN": "36955",
+            "crn": "36955",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "Kuhl",
+                "instructorName": "T. Kuhl",
+                "firstName": "Tonya",
+                "instructorEmail": "tlkuhl@ucdavis.edu",
+                "fullName": "Tonya Kuhl"
+            },
+            {
+                "lastName": "Ristenpart",
+                "instructorName": "W. Ristenpart",
+                "firstName": "William",
+                "instructorEmail": "wdristenpart@ucdavis.edu",
+                "fullName": "William Ristenpart"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Non-mathematical introduction to how chemical engineers think, illustrated by elucidation of the process of roasting and brewing coffee. Qualitative overview of the basic principles of engineering analysis and design. Corresponding experiments testing design choices on the sensory qualities of coffee.",
+            "creditLimit": "Not open for credit to students who have completed ECH 001, ECM 001, ECM 005 or ECH 005.",
+            "ge3": "SE,SL,VL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1410",
+                "building": "Everson Hall",
+                "description": "Laboratory",
+                "buildingCode": "EVERSN",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00126"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ECH 001Y A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "36956",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Design of Coffee\u2013An Introduction to Chemical Engineering",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "001Y",
+            "hidCRN": "36956",
+            "crn": "36956",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "Kuhl",
+                "instructorName": "T. Kuhl",
+                "firstName": "Tonya",
+                "instructorEmail": "tlkuhl@ucdavis.edu",
+                "fullName": "Tonya Kuhl"
+            },
+            {
+                "lastName": "Ristenpart",
+                "instructorName": "W. Ristenpart",
+                "firstName": "William",
+                "instructorEmail": "wdristenpart@ucdavis.edu",
+                "fullName": "William Ristenpart"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Non-mathematical introduction to how chemical engineers think, illustrated by elucidation of the process of roasting and brewing coffee. Qualitative overview of the basic principles of engineering analysis and design. Corresponding experiments testing design choices on the sensory qualities of coffee.",
+            "creditLimit": "Not open for credit to students who have completed ECH 001, ECM 001, ECM 005 or ECH 005.",
+            "ge3": "SE,SL,VL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1610",
+                "building": "Everson Hall",
+                "description": "Laboratory",
+                "buildingCode": "EVERSN",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00126"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ECH 001Y A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "36957",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Design of Coffee\u2013An Introduction to Chemical Engineering",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "001Y",
+            "hidCRN": "36957",
+            "crn": "36957",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "Kuhl",
+                "instructorName": "T. Kuhl",
+                "firstName": "Tonya",
+                "instructorEmail": "tlkuhl@ucdavis.edu",
+                "fullName": "Tonya Kuhl"
+            },
+            {
+                "lastName": "Ristenpart",
+                "instructorName": "W. Ristenpart",
+                "firstName": "William",
+                "instructorEmail": "wdristenpart@ucdavis.edu",
+                "fullName": "William Ristenpart"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Non-mathematical introduction to how chemical engineers think, illustrated by elucidation of the process of roasting and brewing coffee. Qualitative overview of the basic principles of engineering analysis and design. Corresponding experiments testing design choices on the sensory qualities of coffee.",
+            "creditLimit": "Not open for credit to students who have completed ECH 001, ECM 001, ECM 005 or ECH 005.",
+            "ge3": "SE,SL,VL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0800",
+                "building": "Everson Hall",
+                "description": "Laboratory",
+                "buildingCode": "EVERSN",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00126"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ECH 001Y A05",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A05",
+            "printCRN": "36958",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Design of Coffee\u2013An Introduction to Chemical Engineering",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "001Y",
+            "hidCRN": "36958",
+            "crn": "36958",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "Kuhl",
+                "instructorName": "T. Kuhl",
+                "firstName": "Tonya",
+                "instructorEmail": "tlkuhl@ucdavis.edu",
+                "fullName": "Tonya Kuhl"
+            },
+            {
+                "lastName": "Ristenpart",
+                "instructorName": "W. Ristenpart",
+                "firstName": "William",
+                "instructorEmail": "wdristenpart@ucdavis.edu",
+                "fullName": "William Ristenpart"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Non-mathematical introduction to how chemical engineers think, illustrated by elucidation of the process of roasting and brewing coffee. Qualitative overview of the basic principles of engineering analysis and design. Corresponding experiments testing design choices on the sensory qualities of coffee.",
+            "creditLimit": "Not open for credit to students who have completed ECH 001, ECM 001, ECM 005 or ECH 005.",
+            "ge3": "SE,SL,VL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1000",
+                "building": "Everson Hall",
+                "description": "Laboratory",
+                "buildingCode": "EVERSN",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00126"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ECH 001Y A06",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A06",
+            "printCRN": "36959",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Design of Coffee\u2013An Introduction to Chemical Engineering",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "001Y",
+            "hidCRN": "36959",
+            "crn": "36959",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "Kuhl",
+                "instructorName": "T. Kuhl",
+                "firstName": "Tonya",
+                "instructorEmail": "tlkuhl@ucdavis.edu",
+                "fullName": "Tonya Kuhl"
+            },
+            {
+                "lastName": "Ristenpart",
+                "instructorName": "W. Ristenpart",
+                "firstName": "William",
+                "instructorEmail": "wdristenpart@ucdavis.edu",
+                "fullName": "William Ristenpart"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Non-mathematical introduction to how chemical engineers think, illustrated by elucidation of the process of roasting and brewing coffee. Qualitative overview of the basic principles of engineering analysis and design. Corresponding experiments testing design choices on the sensory qualities of coffee.",
+            "creditLimit": "Not open for credit to students who have completed ECH 001, ECM 001, ECM 005 or ECH 005.",
+            "ge3": "SE,SL,VL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1210",
+                "building": "Everson Hall",
+                "description": "Laboratory",
+                "buildingCode": "EVERSN",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00126"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ECH 001Y A07",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A07",
+            "printCRN": "36960",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Design of Coffee\u2013An Introduction to Chemical Engineering",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "001Y",
+            "hidCRN": "36960",
+            "crn": "36960",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "Kuhl",
+                "instructorName": "T. Kuhl",
+                "firstName": "Tonya",
+                "instructorEmail": "tlkuhl@ucdavis.edu",
+                "fullName": "Tonya Kuhl"
+            },
+            {
+                "lastName": "Ristenpart",
+                "instructorName": "W. Ristenpart",
+                "firstName": "William",
+                "instructorEmail": "wdristenpart@ucdavis.edu",
+                "fullName": "William Ristenpart"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Non-mathematical introduction to how chemical engineers think, illustrated by elucidation of the process of roasting and brewing coffee. Qualitative overview of the basic principles of engineering analysis and design. Corresponding experiments testing design choices on the sensory qualities of coffee.",
+            "creditLimit": "Not open for credit to students who have completed ECH 001, ECM 001, ECM 005 or ECH 005.",
+            "ge3": "SE,SL,VL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1410",
+                "building": "Everson Hall",
+                "description": "Laboratory",
+                "buildingCode": "EVERSN",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00126"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ECH 001Y A08",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A08",
+            "printCRN": "36961",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Design of Coffee\u2013An Introduction to Chemical Engineering",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "001Y",
+            "hidCRN": "36961",
+            "crn": "36961",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "Kuhl",
+                "instructorName": "T. Kuhl",
+                "firstName": "Tonya",
+                "instructorEmail": "tlkuhl@ucdavis.edu",
+                "fullName": "Tonya Kuhl"
+            },
+            {
+                "lastName": "Ristenpart",
+                "instructorName": "W. Ristenpart",
+                "firstName": "William",
+                "instructorEmail": "wdristenpart@ucdavis.edu",
+                "fullName": "William Ristenpart"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Non-mathematical introduction to how chemical engineers think, illustrated by elucidation of the process of roasting and brewing coffee. Qualitative overview of the basic principles of engineering analysis and design. Corresponding experiments testing design choices on the sensory qualities of coffee.",
+            "creditLimit": "Not open for credit to students who have completed ECH 001, ECM 001, ECM 005 or ECH 005.",
+            "ge3": "SE,SL,VL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1610",
+                "building": "Everson Hall",
+                "description": "Laboratory",
+                "buildingCode": "EVERSN",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00126"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ECH 001Y A09",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A09",
+            "printCRN": "36962",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Design of Coffee\u2013An Introduction to Chemical Engineering",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "001Y",
+            "hidCRN": "36962",
+            "crn": "36962",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "Kuhl",
+                "instructorName": "T. Kuhl",
+                "firstName": "Tonya",
+                "instructorEmail": "tlkuhl@ucdavis.edu",
+                "fullName": "Tonya Kuhl"
+            },
+            {
+                "lastName": "Ristenpart",
+                "instructorName": "W. Ristenpart",
+                "firstName": "William",
+                "instructorEmail": "wdristenpart@ucdavis.edu",
+                "fullName": "William Ristenpart"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Non-mathematical introduction to how chemical engineers think, illustrated by elucidation of the process of roasting and brewing coffee. Qualitative overview of the basic principles of engineering analysis and design. Corresponding experiments testing design choices on the sensory qualities of coffee.",
+            "creditLimit": "Not open for credit to students who have completed ECH 001, ECM 001, ECM 005 or ECH 005.",
+            "ge3": "SE,SL,VL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0800",
+                "building": "Everson Hall",
+                "description": "Laboratory",
+                "buildingCode": "EVERSN",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00126"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ECH 001Y A10",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A10",
+            "printCRN": "36963",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Design of Coffee\u2013An Introduction to Chemical Engineering",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "001Y",
+            "hidCRN": "36963",
+            "crn": "36963",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "Kuhl",
+                "instructorName": "T. Kuhl",
+                "firstName": "Tonya",
+                "instructorEmail": "tlkuhl@ucdavis.edu",
+                "fullName": "Tonya Kuhl"
+            },
+            {
+                "lastName": "Ristenpart",
+                "instructorName": "W. Ristenpart",
+                "firstName": "William",
+                "instructorEmail": "wdristenpart@ucdavis.edu",
+                "fullName": "William Ristenpart"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Non-mathematical introduction to how chemical engineers think, illustrated by elucidation of the process of roasting and brewing coffee. Qualitative overview of the basic principles of engineering analysis and design. Corresponding experiments testing design choices on the sensory qualities of coffee.",
+            "creditLimit": "Not open for credit to students who have completed ECH 001, ECM 001, ECM 005 or ECH 005.",
+            "ge3": "SE,SL,VL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1000",
+                "building": "Everson Hall",
+                "description": "Laboratory",
+                "buildingCode": "EVERSN",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00126"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ECH 001Y A11",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A11",
+            "printCRN": "36964",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Design of Coffee\u2013An Introduction to Chemical Engineering",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "001Y",
+            "hidCRN": "36964",
+            "crn": "36964",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "Kuhl",
+                "instructorName": "T. Kuhl",
+                "firstName": "Tonya",
+                "instructorEmail": "tlkuhl@ucdavis.edu",
+                "fullName": "Tonya Kuhl"
+            },
+            {
+                "lastName": "Ristenpart",
+                "instructorName": "W. Ristenpart",
+                "firstName": "William",
+                "instructorEmail": "wdristenpart@ucdavis.edu",
+                "fullName": "William Ristenpart"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Non-mathematical introduction to how chemical engineers think, illustrated by elucidation of the process of roasting and brewing coffee. Qualitative overview of the basic principles of engineering analysis and design. Corresponding experiments testing design choices on the sensory qualities of coffee.",
+            "creditLimit": "Not open for credit to students who have completed ECH 001, ECM 001, ECM 005 or ECH 005.",
+            "ge3": "SE,SL,VL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2000",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1810",
+                "building": "Everson Hall",
+                "description": "Laboratory",
+                "buildingCode": "EVERSN",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00126"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "8",
+                "startTime": "",
+                "building": "",
+                "description": "Term Project",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "PRJ",
+                "room": ""
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ECH 001Y A12",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A12",
+            "printCRN": "36965",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Design of Coffee\u2013An Introduction to Chemical Engineering",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "001Y",
+            "hidCRN": "36965",
+            "crn": "36965",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "Kuhl",
+                "instructorName": "T. Kuhl",
+                "firstName": "Tonya",
+                "instructorEmail": "tlkuhl@ucdavis.edu",
+                "fullName": "Tonya Kuhl"
+            },
+            {
+                "lastName": "Ristenpart",
+                "instructorName": "W. Ristenpart",
+                "firstName": "William",
+                "instructorEmail": "wdristenpart@ucdavis.edu",
+                "fullName": "William Ristenpart"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Non-mathematical introduction to how chemical engineers think, illustrated by elucidation of the process of roasting and brewing coffee. Qualitative overview of the basic principles of engineering analysis and design. Corresponding experiments testing design choices on the sensory qualities of coffee.",
+            "creditLimit": "Not open for credit to students who have completed ECH 001, ECM 001, ECM 005 or ECH 005.",
+            "ge3": "SE,SL,VL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2000",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1810",
+                "building": "Everson Hall",
+                "description": "Laboratory",
+                "buildingCode": "EVERSN",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00126"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ECH 001Y A13",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A13",
+            "printCRN": "36966",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Design of Coffee\u2013An Introduction to Chemical Engineering",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "001Y",
+            "hidCRN": "36966",
+            "crn": "36966",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "Kuhl",
+                "instructorName": "T. Kuhl",
+                "firstName": "Tonya",
+                "instructorEmail": "tlkuhl@ucdavis.edu",
+                "fullName": "Tonya Kuhl"
+            },
+            {
+                "lastName": "Ristenpart",
+                "instructorName": "W. Ristenpart",
+                "firstName": "William",
+                "instructorEmail": "wdristenpart@ucdavis.edu",
+                "fullName": "William Ristenpart"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Non-mathematical introduction to how chemical engineers think, illustrated by elucidation of the process of roasting and brewing coffee. Qualitative overview of the basic principles of engineering analysis and design. Corresponding experiments testing design choices on the sensory qualities of coffee.",
+            "creditLimit": "Not open for credit to students who have completed ECH 001, ECM 001, ECM 005 or ECH 005.",
+            "ge3": "SE,SL,VL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 20:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "8",
+                "startTime": "",
+                "building": "",
+                "description": "Term Project",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "PRJ",
+                "room": ""
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00000"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0800",
+                "building": "Everson Hall",
+                "description": "Laboratory",
+                "buildingCode": "EVERSN",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00126"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ECH 001Y A14",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A14",
+            "printCRN": "56403",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Design of Coffee\u2013An Introduction to Chemical Engineering",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "001Y",
+            "hidCRN": "56403",
+            "crn": "56403",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "Kuhl",
+                "instructorName": "T. Kuhl",
+                "firstName": "Tonya",
+                "instructorEmail": "tlkuhl@ucdavis.edu",
+                "fullName": "Tonya Kuhl"
+            },
+            {
+                "lastName": "Ristenpart",
+                "instructorName": "W. Ristenpart",
+                "firstName": "William",
+                "instructorEmail": "wdristenpart@ucdavis.edu",
+                "fullName": "William Ristenpart"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Non-mathematical introduction to how chemical engineers think, illustrated by elucidation of the process of roasting and brewing coffee. Qualitative overview of the basic principles of engineering analysis and design. Corresponding experiments testing design choices on the sensory qualities of coffee.",
+            "creditLimit": "Not open for credit to students who have completed ECH 001, ECM 001, ECM 005 or ECH 005.",
+            "ge3": "SE,SL,VL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 20:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "8",
+                "startTime": "",
+                "building": "",
+                "description": "Term Project",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "PRJ",
+                "room": ""
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00000"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1000",
+                "building": "Everson Hall",
+                "description": "Laboratory",
+                "buildingCode": "EVERSN",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00126"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ECH 001Y A15",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A15",
+            "printCRN": "56404",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Design of Coffee\u2013An Introduction to Chemical Engineering",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "001Y",
+            "hidCRN": "56404",
+            "crn": "56404",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "Kuhl",
+                "instructorName": "T. Kuhl",
+                "firstName": "Tonya",
+                "instructorEmail": "tlkuhl@ucdavis.edu",
+                "fullName": "Tonya Kuhl"
+            },
+            {
+                "lastName": "Ristenpart",
+                "instructorName": "W. Ristenpart",
+                "firstName": "William",
+                "instructorEmail": "wdristenpart@ucdavis.edu",
+                "fullName": "William Ristenpart"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Non-mathematical introduction to how chemical engineers think, illustrated by elucidation of the process of roasting and brewing coffee. Qualitative overview of the basic principles of engineering analysis and design. Corresponding experiments testing design choices on the sensory qualities of coffee.",
+            "creditLimit": "Not open for credit to students who have completed ECH 001, ECM 001, ECM 005 or ECH 005.",
+            "ge3": "SE,SL,VL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 20:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "8",
+                "startTime": "",
+                "building": "",
+                "description": "Term Project",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "PRJ",
+                "room": ""
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00000"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1210",
+                "building": "Everson Hall",
+                "description": "Laboratory",
+                "buildingCode": "EVERSN",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00126"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ECH 001Y A16",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A16",
+            "printCRN": "56405",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Design of Coffee\u2013An Introduction to Chemical Engineering",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "001Y",
+            "hidCRN": "56405",
+            "crn": "56405",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "Kuhl",
+                "instructorName": "T. Kuhl",
+                "firstName": "Tonya",
+                "instructorEmail": "tlkuhl@ucdavis.edu",
+                "fullName": "Tonya Kuhl"
+            },
+            {
+                "lastName": "Ristenpart",
+                "instructorName": "W. Ristenpart",
+                "firstName": "William",
+                "instructorEmail": "wdristenpart@ucdavis.edu",
+                "fullName": "William Ristenpart"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Non-mathematical introduction to how chemical engineers think, illustrated by elucidation of the process of roasting and brewing coffee. Qualitative overview of the basic principles of engineering analysis and design. Corresponding experiments testing design choices on the sensory qualities of coffee.",
+            "creditLimit": "Not open for credit to students who have completed ECH 001, ECM 001, ECM 005 or ECH 005.",
+            "ge3": "SE,SL,VL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 20:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "8",
+                "startTime": "",
+                "building": "",
+                "description": "Term Project",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "PRJ",
+                "room": ""
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00000"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1410",
+                "building": "Hart Hall",
+                "description": "Laboratory",
+                "buildingCode": "HART",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01130"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ECH 001Y A17",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A17",
+            "printCRN": "56406",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Design of Coffee\u2013An Introduction to Chemical Engineering",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "001Y",
+            "hidCRN": "56406",
+            "crn": "56406",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "Kuhl",
+                "instructorName": "T. Kuhl",
+                "firstName": "Tonya",
+                "instructorEmail": "tlkuhl@ucdavis.edu",
+                "fullName": "Tonya Kuhl"
+            },
+            {
+                "lastName": "Ristenpart",
+                "instructorName": "W. Ristenpart",
+                "firstName": "William",
+                "instructorEmail": "wdristenpart@ucdavis.edu",
+                "fullName": "William Ristenpart"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Non-mathematical introduction to how chemical engineers think, illustrated by elucidation of the process of roasting and brewing coffee. Qualitative overview of the basic principles of engineering analysis and design. Corresponding experiments testing design choices on the sensory qualities of coffee.",
+            "creditLimit": "Not open for credit to students who have completed ECH 001, ECM 001, ECM 005 or ECH 005.",
+            "ge3": "SE,SL,VL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 20:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "8",
+                "startTime": "",
+                "building": "",
+                "description": "Term Project",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "PRJ",
+                "room": ""
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00000"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1610",
+                "building": "Hoagland Hall",
+                "description": "Laboratory",
+                "buildingCode": "HOAGLD",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00168"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ECH 001Y A18",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A18",
+            "printCRN": "56407",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Design of Coffee\u2013An Introduction to Chemical Engineering",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "001Y",
+            "hidCRN": "56407",
+            "crn": "56407",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "Kuhl",
+                "instructorName": "T. Kuhl",
+                "firstName": "Tonya",
+                "instructorEmail": "tlkuhl@ucdavis.edu",
+                "fullName": "Tonya Kuhl"
+            },
+            {
+                "lastName": "Ristenpart",
+                "instructorName": "W. Ristenpart",
+                "firstName": "William",
+                "instructorEmail": "wdristenpart@ucdavis.edu",
+                "fullName": "William Ristenpart"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Non-mathematical introduction to how chemical engineers think, illustrated by elucidation of the process of roasting and brewing coffee. Qualitative overview of the basic principles of engineering analysis and design. Corresponding experiments testing design choices on the sensory qualities of coffee.",
+            "creditLimit": "Not open for credit to students who have completed ECH 001, ECM 001, ECM 005 or ECH 005.",
+            "ge3": "SE,SL,VL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 20:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00000"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2000",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1810",
+                "building": "Everson Hall",
+                "description": "Laboratory",
+                "buildingCode": "EVERSN",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00126"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ECH 001Y A19",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A19",
+            "printCRN": "56572",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Design of Coffee\u2013An Introduction to Chemical Engineering",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "001Y",
+            "hidCRN": "56572",
+            "crn": "56572",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "Kuhl",
+                "instructorName": "T. Kuhl",
+                "firstName": "Tonya",
+                "instructorEmail": "tlkuhl@ucdavis.edu",
+                "fullName": "Tonya Kuhl"
+            },
+            {
+                "lastName": "Ristenpart",
+                "instructorName": "W. Ristenpart",
+                "firstName": "William",
+                "instructorEmail": "wdristenpart@ucdavis.edu",
+                "fullName": "William Ristenpart"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Non-mathematical introduction to how chemical engineers think, illustrated by elucidation of the process of roasting and brewing coffee. Qualitative overview of the basic principles of engineering analysis and design. Corresponding experiments testing design choices on the sensory qualities of coffee.",
+            "creditLimit": "Not open for credit to students who have completed ECH 001, ECM 001, ECM 005 or ECH 005.",
+            "ge3": "SE,SL,VL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 20:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "C",
+                "startTime": "1410",
+                "building": "Everson Hall",
+                "description": "Laboratory",
+                "buildingCode": "EVERSN",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00126"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ECH 001Y A20",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A20",
+            "printCRN": "56573",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Design of Coffee\u2013An Introduction to Chemical Engineering",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "001Y",
+            "hidCRN": "56573",
+            "crn": "56573",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "Kuhl",
+                "instructorName": "T. Kuhl",
+                "firstName": "Tonya",
+                "instructorEmail": "tlkuhl@ucdavis.edu",
+                "fullName": "Tonya Kuhl"
+            },
+            {
+                "lastName": "Ristenpart",
+                "instructorName": "W. Ristenpart",
+                "firstName": "William",
+                "instructorEmail": "wdristenpart@ucdavis.edu",
+                "fullName": "William Ristenpart"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Non-mathematical introduction to how chemical engineers think, illustrated by elucidation of the process of roasting and brewing coffee. Qualitative overview of the basic principles of engineering analysis and design. Corresponding experiments testing design choices on the sensory qualities of coffee.",
+            "creditLimit": "Not open for credit to students who have completed ECH 001, ECM 001, ECM 005 or ECH 005.",
+            "ge3": "SE,SL,VL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 20:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "C",
+                "startTime": "1610",
+                "building": "Everson Hall",
+                "description": "Laboratory",
+                "buildingCode": "EVERSN",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00126"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ECH 001Y A21",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A21",
+            "printCRN": "56574",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Design of Coffee\u2013An Introduction to Chemical Engineering",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "001Y",
+            "hidCRN": "56574",
+            "crn": "56574",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "Kuhl",
+                "instructorName": "T. Kuhl",
+                "firstName": "Tonya",
+                "instructorEmail": "tlkuhl@ucdavis.edu",
+                "fullName": "Tonya Kuhl"
+            },
+            {
+                "lastName": "Ristenpart",
+                "instructorName": "W. Ristenpart",
+                "firstName": "William",
+                "instructorEmail": "wdristenpart@ucdavis.edu",
+                "fullName": "William Ristenpart"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Non-mathematical introduction to how chemical engineers think, illustrated by elucidation of the process of roasting and brewing coffee. Qualitative overview of the basic principles of engineering analysis and design. Corresponding experiments testing design choices on the sensory qualities of coffee.",
+            "creditLimit": "Not open for credit to students who have completed ECH 001, ECM 001, ECM 005 or ECH 005.",
+            "ge3": "SE,SL,VL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 20:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2000",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "C",
+                "startTime": "1810",
+                "building": "Everson Hall",
+                "description": "Laboratory",
+                "buildingCode": "EVERSN",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00126"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ECH 001Y A22",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A22",
+            "printCRN": "56575",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Design of Coffee\u2013An Introduction to Chemical Engineering",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "001Y",
+            "hidCRN": "56575",
+            "crn": "56575",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "Kuhl",
+                "instructorName": "T. Kuhl",
+                "firstName": "Tonya",
+                "instructorEmail": "tlkuhl@ucdavis.edu",
+                "fullName": "Tonya Kuhl"
+            },
+            {
+                "lastName": "Ristenpart",
+                "instructorName": "W. Ristenpart",
+                "firstName": "William",
+                "instructorEmail": "wdristenpart@ucdavis.edu",
+                "fullName": "William Ristenpart"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Non-mathematical introduction to how chemical engineers think, illustrated by elucidation of the process of roasting and brewing coffee. Qualitative overview of the basic principles of engineering analysis and design. Corresponding experiments testing design choices on the sensory qualities of coffee.",
+            "creditLimit": "Not open for credit to students who have completed ECH 001, ECM 001, ECM 005 or ECH 005.",
+            "ge3": "SE,SL,VL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 20:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1210",
+                "building": "Everson Hall",
+                "description": "Laboratory",
+                "buildingCode": "EVERSN",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00126"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ECH 001Y A23",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A23",
+            "printCRN": "56576",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Design of Coffee\u2013An Introduction to Chemical Engineering",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "001Y",
+            "hidCRN": "56576",
+            "crn": "56576",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "Kuhl",
+                "instructorName": "T. Kuhl",
+                "firstName": "Tonya",
+                "instructorEmail": "tlkuhl@ucdavis.edu",
+                "fullName": "Tonya Kuhl"
+            },
+            {
+                "lastName": "Ristenpart",
+                "instructorName": "W. Ristenpart",
+                "firstName": "William",
+                "instructorEmail": "wdristenpart@ucdavis.edu",
+                "fullName": "William Ristenpart"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Non-mathematical introduction to how chemical engineers think, illustrated by elucidation of the process of roasting and brewing coffee. Qualitative overview of the basic principles of engineering analysis and design. Corresponding experiments testing design choices on the sensory qualities of coffee.",
+            "creditLimit": "Not open for credit to students who have completed ECH 001, ECM 001, ECM 005 or ECH 005.",
+            "ge3": "SE,SL,VL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 20:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1410",
+                "building": "Everson Hall",
+                "description": "Laboratory",
+                "buildingCode": "EVERSN",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00126"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ECH 001Y A24",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A24",
+            "printCRN": "56577",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Design of Coffee\u2013An Introduction to Chemical Engineering",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "001Y",
+            "hidCRN": "56577",
+            "crn": "56577",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "Kuhl",
+                "instructorName": "T. Kuhl",
+                "firstName": "Tonya",
+                "instructorEmail": "tlkuhl@ucdavis.edu",
+                "fullName": "Tonya Kuhl"
+            },
+            {
+                "lastName": "Ristenpart",
+                "instructorName": "W. Ristenpart",
+                "firstName": "William",
+                "instructorEmail": "wdristenpart@ucdavis.edu",
+                "fullName": "William Ristenpart"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Problem solving in chemical, biochemical and materials engineering. Programming styles, data structures, working with lists, functions and rules. Applications drawn from material balances, statistics, numerical methods, bioinformatics, transport phenomena, kinetics, and computational analysis.",
+            "creditLimit": "",
+            "ge3": "QL,SE",
+            "crossListing": "",
+            "prereq": " MAT 021C"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1310",
+                "building": "Veihmeyer Hall",
+                "description": "Lecture",
+                "buildingCode": "VEIMYR",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00212"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1000",
+                "building": "Bainer Hall",
+                "description": "Laboratory",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02061"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECH 060 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "36967",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Chemical Engineering Problem Solving",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "060",
+            "hidCRN": "36967",
+            "crn": "36967",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "Manikantan",
+                "instructorName": "H. Manikantan",
+                "firstName": "Harishankar",
+                "instructorEmail": "hmanikantan@ucdavis.edu",
+                "fullName": "Harishankar Manikantan"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Problem solving in chemical, biochemical and materials engineering. Programming styles, data structures, working with lists, functions and rules. Applications drawn from material balances, statistics, numerical methods, bioinformatics, transport phenomena, kinetics, and computational analysis.",
+            "creditLimit": "",
+            "ge3": "QL,SE",
+            "crossListing": "",
+            "prereq": " MAT 021C"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1310",
+                "building": "Veihmeyer Hall",
+                "description": "Lecture",
+                "buildingCode": "VEIMYR",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00212"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1100",
+                "building": "Bainer Hall",
+                "description": "Laboratory",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02061"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECH 060 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "36968",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Chemical Engineering Problem Solving",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "060",
+            "hidCRN": "36968",
+            "crn": "36968",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "Manikantan",
+                "instructorName": "H. Manikantan",
+                "firstName": "Harishankar",
+                "instructorEmail": "hmanikantan@ucdavis.edu",
+                "fullName": "Harishankar Manikantan"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed Group Study.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Lower division standing."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ECH 098",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "098",
+            "hidCRN": "0E48CFC9EF",
+            "crn": "36971",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed Group Study.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Lower division standing."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ECH 098",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "002",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "098",
+            "hidCRN": "0E48CFC9EC",
+            "crn": "36972",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "Kuhl",
+                "instructorName": "T. Kuhl",
+                "firstName": "Tonya",
+                "instructorEmail": "tlkuhl@ucdavis.edu",
+                "fullName": "Tonya Kuhl"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed Group Study.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Lower division standing."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "1210",
+                "building": "Academic Surge Bldg.",
+                "description": "Variable",
+                "buildingCode": "ACADSR",
+                "saturday": false,
+                "type": "VAR",
+                "room": "01044"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ECH 098",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "003",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "098",
+            "hidCRN": "0E48CFC9ED",
+            "crn": "36973",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "White",
+                "instructorName": "J. White",
+                "firstName": "Jason",
+                "instructorEmail": "jarwhite@ucdavis.edu",
+                "fullName": "Jason White"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed Group Study.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Lower division standing."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "1410",
+                "building": "Teaching and Learning Complex",
+                "description": "Variable",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "VAR",
+                "room": "02218"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ECH 098",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "005",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "098",
+            "hidCRN": "0E48CFC9EA",
+            "crn": "36974",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "Carvalho do Prado",
+                "instructorName": "G. Carvalho do Prado",
+                "firstName": "Glaucia Helena",
+                "instructorEmail": "ghprado@ucdavis.edu",
+                "fullName": "Glaucia Helena Carvalho do Prado"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special Study for Undergraduates",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ECH 099",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Study for Undergraduates",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "099",
+            "hidCRN": "0E48CFC9EB",
+            "crn": "36975",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Derivation of species conservation equations describing convective and diffusive mass transfer. Fick's law and the Stefan-Maxwell constitutive equations. Mass transfer coefficients. Multicomponent mass transfer across gas/liquid interfaces. Applications include drying, heterogeneous chemical reactions, and membrane separations. ",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " ECH 142"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1210",
+                "building": "Hutchison Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "HUTCH",
+                "saturday": false,
+                "type": "LED",
+                "room": "00115"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "1210",
+                "building": "Wellman Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LED",
+                "room": "00119"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECH 143 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "36981",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Mass Transfer for Biochemical & Chemical Engineers",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "143",
+            "hidCRN": "36981",
+            "crn": "36981",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "Curtis",
+                "instructorName": "J. Curtis",
+                "firstName": "Jennifer",
+                "instructorEmail": "jscurtis@ucdavis.edu",
+                "fullName": "Jennifer Curtis"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Laboratory experiments in chemical engineering transport phenomena.",
+            "creditLimit": "",
+            "ge3": "SE,WE",
+            "crossListing": "",
+            "prereq": " ECH 142;  ECH 145A;  UWP 102E"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1410",
+                "building": "Hutchison Hall",
+                "description": "Discussion",
+                "buildingCode": "HUTCH",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00115"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0900",
+                "building": "Everson Hall",
+                "description": "Laboratory",
+                "buildingCode": "EVERSN",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00134"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ECH 145B A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "36982",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Chemical Engineering Transport Lab",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "145B",
+            "hidCRN": "36982",
+            "crn": "36982",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "Wan",
+                "instructorName": "J. Wan",
+                "firstName": "Jiandi",
+                "instructorEmail": "jdwan@ucdavis.edu",
+                "fullName": "Jiandi Wan"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Laboratory experiments in chemical engineering transport phenomena.",
+            "creditLimit": "",
+            "ge3": "SE,WE",
+            "crossListing": "",
+            "prereq": " ECH 142;  ECH 145A;  UWP 102E"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1410",
+                "building": "Hutchison Hall",
+                "description": "Discussion",
+                "buildingCode": "HUTCH",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00115"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1610",
+                "building": "Everson Hall",
+                "description": "Laboratory",
+                "buildingCode": "EVERSN",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00134"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ECH 145B A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "36983",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Chemical Engineering Transport Lab",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "145B",
+            "hidCRN": "36983",
+            "crn": "36983",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "Wan",
+                "instructorName": "J. Wan",
+                "firstName": "Jiandi",
+                "instructorEmail": "jdwan@ucdavis.edu",
+                "fullName": "Jiandi Wan"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Laboratory experiments in chemical engineering transport phenomena.",
+            "creditLimit": "",
+            "ge3": "SE,WE",
+            "crossListing": "",
+            "prereq": " ECH 142;  ECH 145A;  UWP 102E"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1410",
+                "building": "Hutchison Hall",
+                "description": "Discussion",
+                "buildingCode": "HUTCH",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00115"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1410",
+                "building": "Everson Hall",
+                "description": "Laboratory",
+                "buildingCode": "EVERSN",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00134"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ECH 145B A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "36984",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Chemical Engineering Transport Lab",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "145B",
+            "hidCRN": "36984",
+            "crn": "36984",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "Wan",
+                "instructorName": "J. Wan",
+                "firstName": "Jiandi",
+                "instructorEmail": "jdwan@ucdavis.edu",
+                "fullName": "Jiandi Wan"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Laboratory experiments in chemical engineering transport phenomena.",
+            "creditLimit": "",
+            "ge3": "SE,WE",
+            "crossListing": "",
+            "prereq": " ECH 142;  ECH 145A;  UWP 102E"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1410",
+                "building": "Hutchison Hall",
+                "description": "Discussion",
+                "buildingCode": "HUTCH",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00115"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0900",
+                "building": "Everson Hall",
+                "description": "Laboratory",
+                "buildingCode": "EVERSN",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00134"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ECH 145B A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "36986",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Chemical Engineering Transport Lab",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "145B",
+            "hidCRN": "36986",
+            "crn": "36986",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "Wan",
+                "instructorName": "J. Wan",
+                "firstName": "Jiandi",
+                "instructorEmail": "jdwan@ucdavis.edu",
+                "fullName": "Jiandi Wan"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Laboratory experiments in chemical engineering transport phenomena.",
+            "creditLimit": "",
+            "ge3": "SE,WE",
+            "crossListing": "",
+            "prereq": " ECH 142;  ECH 145A;  UWP 102E"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1410",
+                "building": "Hutchison Hall",
+                "description": "Discussion",
+                "buildingCode": "HUTCH",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00115"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1410",
+                "building": "Everson Hall",
+                "description": "Laboratory",
+                "buildingCode": "EVERSN",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00134"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ECH 145B A06",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A06",
+            "printCRN": "36987",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Chemical Engineering Transport Lab",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "145B",
+            "hidCRN": "36987",
+            "crn": "36987",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "Wan",
+                "instructorName": "J. Wan",
+                "firstName": "Jiandi",
+                "instructorEmail": "jdwan@ucdavis.edu",
+                "fullName": "Jiandi Wan"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Continuation of ECH 152A.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " ECH 152A"
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1610",
+                "building": "Young Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LED",
+                "room": "00194"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECH 152B 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "36988",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Chemical Engineering Thermodynamics",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "152B",
+            "hidCRN": "36988",
+            "crn": "36988",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "Kulkarni",
+                "instructorName": "A. Kulkarni",
+                "firstName": "Ambarish",
+                "instructorEmail": "arkulkarni@ucdavis.edu",
+                "fullName": "Ambarish Kulkarni"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Senior design experience for chemical and biochemical processes. Impact of multiple realistic constraints. Design, costing and profitability analysis of complete plants. Use of computer-aided design techniques. ",
+            "creditLimit": "",
+            "ge3": "SE,SS,VL",
+            "crossListing": "",
+            "prereq": " (ECH 158AN or ECH 161C);  ECH 158BN"
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "G",
+                "startTime": "1000",
+                "building": "Young Hall",
+                "description": "Discussion Laboratory",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "D/L",
+                "room": "00192"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "8",
+                "startTime": "",
+                "building": "",
+                "description": "Term Project",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "PRJ",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECH 158C 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "36989",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Plant Design Project",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "158C",
+            "hidCRN": "36989",
+            "crn": "36989",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "Carvalho do Prado",
+                "instructorName": "G. Carvalho do Prado",
+                "firstName": "Glaucia Helena",
+                "instructorEmail": "ghprado@ucdavis.edu",
+                "fullName": "Glaucia Helena Carvalho do Prado"
+            },
+            {
+                "lastName": "Nandi",
+                "instructorName": "S. Nandi",
+                "firstName": "Somen",
+                "instructorEmail": "snandi@ucdavis.edu",
+                "fullName": "Somen Nandi"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Senior design experience for chemical and biochemical processes. Impact of multiple realistic constraints. Design, costing and profitability analysis of complete plants. Use of computer-aided design techniques. ",
+            "creditLimit": "",
+            "ge3": "SE,SS,VL",
+            "crossListing": "",
+            "prereq": " (ECH 158AN or ECH 161C);  ECH 158BN"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "8",
+                "startTime": "",
+                "building": "",
+                "description": "Term Project",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "PRJ",
+                "room": ""
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "G",
+                "startTime": "1410",
+                "building": "Wellman Hall",
+                "description": "Discussion Laboratory",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "D/L",
+                "room": "00205"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECH 158C 002",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "002",
+            "printCRN": "36990",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Plant Design Project",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "158C",
+            "hidCRN": "36990",
+            "crn": "36990",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "Ellis",
+                "instructorName": "M. Ellis",
+                "firstName": "Matt",
+                "instructorEmail": "mjellis@ucdavis.edu",
+                "fullName": "Matt Ellis"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Senior design experience for chemical and biochemical processes. Impact of multiple realistic constraints. Design, costing and profitability analysis of complete plants. Use of computer-aided design techniques. ",
+            "creditLimit": "",
+            "ge3": "SE,SS,VL",
+            "crossListing": "",
+            "prereq": " (ECH 158AN or ECH 161C);  ECH 158BN"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "8",
+                "startTime": "",
+                "building": "",
+                "description": "Term Project",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "PRJ",
+                "room": ""
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "G",
+                "startTime": "1100",
+                "building": "Olson Hall",
+                "description": "Discussion Laboratory",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "D/L",
+                "room": "00125"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECH 158C 003",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "003",
+            "printCRN": "55547",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Plant Design Project",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "158C",
+            "hidCRN": "55547",
+            "crn": "55547",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "El-Farra",
+                "instructorName": "N. El-Farra",
+                "firstName": "Nael",
+                "instructorEmail": "nhelfarra@ucdavis.edu",
+                "fullName": "Nael El-Farra"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Laboratory experiments in the operation and analysis of bioreactors; determination of oxygen mass transfer coefficients in bioreactors and ion exchange chromatography.",
+            "creditLimit": "",
+            "ge3": "QL,SE,VL,WE",
+            "crossListing": "",
+            "prereq": " (ECH 145B,  ECH 161AN,  ECH 161BN) or VEN 186 or (BIS 103,  MCB 120L)"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0850",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "0800",
+                "building": "Social Science & Humanities",
+                "description": "Discussion",
+                "buildingCode": "SOCSCI",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00070"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "",
+                "building": "Bainer Hall",
+                "description": "Laboratory",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01318"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECH 161L 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "36991",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Bioprocess Engineering Laboratory",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "161L",
+            "hidCRN": "36991",
+            "crn": "36991",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "Nandi",
+                "instructorName": "S. Nandi",
+                "firstName": "Somen",
+                "instructorEmail": "snandi@ucdavis.edu",
+                "fullName": "Somen Nandi"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Scientific and engineering principles underlying the preparation of mixed drinks. Thermodynamics and kinetics of ice crystallization; phase diagram of ethanol-water-ice mixtures; mass transfer of aromatics; solubility of sucrose and carbon dioxide; colloidal behavior of dispersed solids and emulsified oils. Corresponding laboratory experiments testing the effect of design choices on the sensory quality of cocktails.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " ECH 145B;  ECH 152B;  and Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "",
+                "startTime": "",
+                "building": "",
+                "description": "",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ECH 169",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "The Design of Cocktails: Applied Thermodynamics & Transport Phenomena in Mixed Drinks",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "169",
+            "hidCRN": "0E48CFC7EC",
+            "crn": "36992",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "",
+                "instructorName": ". ",
+                "firstName": "",
+                "instructorEmail": "",
+                "fullName": " "
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Chemical engineering principles underlying the manufacture of food production. Chemical reactions affecting flavor and color. Food preservation and Raoult\u2019s Law. Emulsion stability and rheology. Manipulation of phase transition and food texture. Viscosity of food systems and pump design. Application of heat and mass transfer to food processes. ",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " ECH 142"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Bainer Hall",
+                "description": "Lecture",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01128"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "8",
+                "startTime": "",
+                "building": "",
+                "description": "Term Project",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "PRJ",
+                "room": ""
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1410",
+                "building": "Hart Hall",
+                "description": "Laboratory",
+                "buildingCode": "HART",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01128"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECH 171 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "36993",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Chemical Engineering Principles in Food Processing",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "171",
+            "hidCRN": "36993",
+            "crn": "36993",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "Carvalho do Prado",
+                "instructorName": "G. Carvalho do Prado",
+                "firstName": "Glaucia Helena",
+                "instructorEmail": "ghprado@ucdavis.edu",
+                "fullName": "Glaucia Helena Carvalho do Prado"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Research group conferences.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Upper division standing in Chemical Engineering. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "",
+                "building": "",
+                "description": "Discussion",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "DIS",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ECH 190C",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research Group Conference",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "190C",
+            "hidCRN": "0E48CFC7EA",
+            "crn": "36994",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Supervised work experience in Chemical or Biochemical Engineering.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Completion of a minimum of 84 units; project approval before period of internship. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "I",
+                "startTime": "",
+                "building": "",
+                "description": "Internship",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "INT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ECH 192",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Internship in Chemical or Biochemical Engineering",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "192",
+            "hidCRN": "0E49C6CEEE",
+            "crn": "37000",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Group study.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ECH 198",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Group Study",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "198",
+            "hidCRN": "0E49C6CEE8",
+            "crn": "37006",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special study.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ECH 199",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Study for Advanced Undergraduates",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "199",
+            "hidCRN": "0E49C6CFEC",
+            "crn": "37012",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special study.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ECH 199",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "007",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Study for Advanced Undergraduates",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "199",
+            "hidCRN": "0848C1CAEB",
+            "crn": "56745",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "Ristenpart",
+                "instructorName": "W. Ristenpart",
+                "firstName": "William",
+                "instructorEmail": "wdristenpart@ucdavis.edu",
+                "fullName": "William Ristenpart"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Survey of biodevice design from engineering and biological perspectives; micro-/nano-fabrication techniques; surface science and mass transport; essential biological processes and models; proposal development skills on merging aforementioned themes.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "EEC 245, EMS 245, MAE 245.",
+            "prereq": " Graduate standing or consent of instructor."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1410",
+                "building": "Bainer Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "LED",
+                "room": "01062"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECH 245 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55664",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Micro- & Nano-Technology in Life Sciences",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "245",
+            "hidCRN": "55664",
+            "crn": "55664",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "Seker",
+                "instructorName": "E. Seker",
+                "firstName": "Erkin",
+                "instructorEmail": "eseker@ucdavis.edu",
+                "fullName": "Erkin Seker"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to fundamental mechanisms governing the structure, function, and assembly of bio-macromolecules. Emphasis is on a quantitative understanding of the nano-to-microscale interactions between and within individual molecules, as well as of their assemblies, in particular membranes.",
+            "creditLimit": "Not open for credit to students who have completed BIM 162.",
+            "ge3": "",
+            "crossListing": "Biomedical Engineering 262.",
+            "prereq": " BIM 284;  or equivalent; graduate standing; undergraduate students by consent of instructor."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00244"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECH 269 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56437",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Cell and Molecular Biophysics for Bioengineers",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "269",
+            "hidCRN": "56437",
+            "crn": "56437",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "Heinrich",
+                "instructorName": "V. Heinrich",
+                "firstName": "Volkmar",
+                "instructorEmail": "vheinrich@ucdavis.edu",
+                "fullName": "Volkmar Heinrich"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Organic electronic materials synthesis and molecular design, methods for device fabrication, optical and electrical characteristics of the devices, discussion of the technology readiness, and a broad survey of methods used to characterize organic electronic materials and devices.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Graduate major in Chemistry, Physics or Engineering discipline or consent of instructor."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "0900",
+                "building": "Veihmeyer Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "VEIMYR",
+                "saturday": false,
+                "type": "LED",
+                "room": "00116"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ECH 282 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55549",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Organic Electronic Materials, Processing & Devices",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "282",
+            "hidCRN": "55549",
+            "crn": "55549",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "Moule",
+                "instructorName": "A. Moule",
+                "firstName": "Adam",
+                "instructorEmail": "amoule@ucdavis.edu",
+                "fullName": "Adam Moule"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special topics in Biotechnology.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "1310",
+                "building": "Wellman Hall",
+                "description": "Variable",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "VAR",
+                "room": "00207"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ECH 289E",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "001",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Topics in Chemical Engineering: Biotechnology",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "289E",
+            "hidCRN": "0848C4CEE7",
+            "crn": "56209",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "Jamison-Mcclung",
+                "instructorName": "D. Jamison-Mcclung",
+                "firstName": "Denneal",
+                "instructorEmail": "dsjamison@ucdavis.edu",
+                "fullName": "Denneal Jamison-Mcclung"
+            },
+            {
+                "lastName": "Nandi",
+                "instructorName": "S. Nandi",
+                "firstName": "Somen",
+                "instructorEmail": "snandi@ucdavis.edu",
+                "fullName": "Somen Nandi"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Seminar.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "E",
+                "startTime": "1210",
+                "building": "Bainer Hall",
+                "description": "Seminar",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "SEM",
+                "room": "01132"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ECH 290 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "37023",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Seminar",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "290",
+            "hidCRN": "37023",
+            "crn": "37023",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "Kuhl",
+                "instructorName": "T. Kuhl",
+                "firstName": "Tonya",
+                "instructorEmail": "tlkuhl@ucdavis.edu",
+                "fullName": "Tonya Kuhl"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Research problems, progress and techniques in chemical engineering.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "",
+                "building": "",
+                "description": "Discussion",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "DIS",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ECH 290C",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Graduate Research Group Conference",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "290C",
+            "hidCRN": "0E49C6CCEA",
+            "crn": "37024",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Seminars presented by guest lecturers on subjects of their own research activities.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "DEB 294.",
+            "prereq": " Graduate standing."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "E",
+                "startTime": "1100",
+                "building": "Green Hall",
+                "description": "Seminar",
+                "buildingCode": "GREENH",
+                "saturday": false,
+                "type": "SEM",
+                "room": "01022"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ECH 294 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "37058",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Current Progress in Biotechnology",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "294",
+            "hidCRN": "37058",
+            "crn": "37058",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "Jamison-Mcclung",
+                "instructorName": "D. Jamison-Mcclung",
+                "firstName": "Denneal",
+                "instructorEmail": "dsjamison@ucdavis.edu",
+                "fullName": "Denneal Jamison-Mcclung"
+            },
+            {
+                "lastName": "Nandi",
+                "instructorName": "S. Nandi",
+                "firstName": "Somen",
+                "instructorEmail": "snandi@ucdavis.edu",
+                "fullName": "Somen Nandi"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Group study.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ECH 298",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Group Study",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "298",
+            "hidCRN": "0E49C6CBE7",
+            "crn": "37059",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Research.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ECH 299",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "299",
+            "hidCRN": "0E49C6C8EB",
+            "crn": "37065",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Participation as a teaching assistant or associate-in in a designated engineering course. Methods of leading discussion groups or laboratory sections, writing and grading quizzes, use of laboratory equipment, and grading laboratory reports.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Qualifications and acceptance as teaching assistant and/or associate-in in chemical engineering. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "",
+                "building": "",
+                "description": "Discussion",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "DIS",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ECH 390",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Teaching of Chemical Engineering",
+            "subjectDesc": "Engineering Chemical",
+            "courseNum": "390",
+            "hidCRN": "0E49C7CEEE",
+            "crn": "37100",
+            "subjectCode": "ECH"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    }
+]

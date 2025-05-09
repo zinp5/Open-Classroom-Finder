@@ -1,0 +1,68 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Designed to help graduate students develop and maintain familiarity with the current and past literature in the field of Biophotonics and Bioimaging research and related areas.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "1710",
+                "building": "Tupper Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "TUPPER",
+                "saturday": false,
+                "type": "LED",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "BPT 201 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "33320",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Current Topics in Biophotonics & Bioimaging Research",
+            "subjectDesc": "Biophotonics",
+            "courseNum": "201",
+            "hidCRN": "33320",
+            "crn": "33320",
+            "subjectCode": "BPT"
+        },
+        "instructor": [
+            {
+                "lastName": "Marcu",
+                "instructorName": "L. Marcu",
+                "firstName": "Laura",
+                "instructorEmail": "lmarcu@ucdavis.edu",
+                "fullName": "Laura Marcu"
+            }
+        ]
+    }
+]

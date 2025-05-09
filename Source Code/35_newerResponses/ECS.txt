@@ -1,0 +1,5431 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Comprehensive introduction to artificial intelligence (AI) and its multifaceted applications. Foundational understanding of modern AI to enable effective communication about its functions, recognition of its applications, and awareness of its core principles. Ethical and societal implications of AI.",
+            "creditLimit": "No credit for students that have taken ECS 111, ECS 170, ECS 171, EEC 174AY, EEC 174BY, EEC 179, or BIM 155.",
+            "ge3": "SE,SL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1610",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01218"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1710",
+                "building": "Teaching and Learning Complex",
+                "description": "Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01218"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 011 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56399",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Artificial Intelligence for All",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "011",
+            "hidCRN": "56399",
+            "crn": "56399",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Simmons",
+                "instructorName": "G. Simmons",
+                "firstName": "Gabriel",
+                "instructorEmail": "gsimmons@ucdavis.edu",
+                "fullName": "Gabriel Simmons"
+            },
+            {
+                "lastName": "D'souza",
+                "instructorName": "R. D'souza",
+                "firstName": "Raissa",
+                "instructorEmail": "rmdsouza@ucdavis.edu",
+                "fullName": "Raissa D'souza"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Discrete mathematics of particular utility to computer science. Proofs by induction. Propositional and first-order logic. Sets, functions, and relations. Big-O and related notations. Recursion and solutions of recurrence relations. Combinatorics. Probability on finite probability spaces. Graph theory.",
+            "creditLimit": "",
+            "ge3": "QL,SE",
+            "crossListing": "",
+            "prereq": " MAT 017A C- or better or MAT 016A C- or better or MAT 019A C- or better or MAT 021A C- or better"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1210",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00223"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Max Kleiber Hall",
+                "description": "Lecture",
+                "buildingCode": "KLEIBR",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00003"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 020 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "38109",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Discrete Mathematics For Computer Science",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "020",
+            "hidCRN": "38109",
+            "crn": "38109",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Saltzen",
+                "instructorName": "S. Saltzen",
+                "firstName": "Siena",
+                "instructorEmail": "scsaltzen@ucdavis.edu",
+                "fullName": "Siena Saltzen"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Discrete mathematics of particular utility to computer science. Proofs by induction. Propositional and first-order logic. Sets, functions, and relations. Big-O and related notations. Recursion and solutions of recurrence relations. Combinatorics. Probability on finite probability spaces. Graph theory.",
+            "creditLimit": "",
+            "ge3": "QL,SE",
+            "crossListing": "",
+            "prereq": " MAT 017A C- or better or MAT 016A C- or better or MAT 019A C- or better or MAT 021A C- or better"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Max Kleiber Hall",
+                "description": "Lecture",
+                "buildingCode": "KLEIBR",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00003"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1000",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00115"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 020 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "38110",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Discrete Mathematics For Computer Science",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "020",
+            "hidCRN": "38110",
+            "crn": "38110",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Saltzen",
+                "instructorName": "S. Saltzen",
+                "firstName": "Siena",
+                "instructorEmail": "scsaltzen@ucdavis.edu",
+                "fullName": "Siena Saltzen"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Discrete mathematics of particular utility to computer science. Proofs by induction. Propositional and first-order logic. Sets, functions, and relations. Big-O and related notations. Recursion and solutions of recurrence relations. Combinatorics. Probability on finite probability spaces. Graph theory.",
+            "creditLimit": "",
+            "ge3": "QL,SE",
+            "crossListing": "",
+            "prereq": " MAT 017A C- or better or MAT 016A C- or better or MAT 019A C- or better or MAT 021A C- or better"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1710",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00223"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Max Kleiber Hall",
+                "description": "Lecture",
+                "buildingCode": "KLEIBR",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00003"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 020 A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "38111",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Discrete Mathematics For Computer Science",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "020",
+            "hidCRN": "38111",
+            "crn": "38111",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Saltzen",
+                "instructorName": "S. Saltzen",
+                "firstName": "Siena",
+                "instructorEmail": "scsaltzen@ucdavis.edu",
+                "fullName": "Siena Saltzen"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Discrete mathematics of particular utility to computer science. Proofs by induction. Propositional and first-order logic. Sets, functions, and relations. Big-O and related notations. Recursion and solutions of recurrence relations. Combinatorics. Probability on finite probability spaces. Graph theory.",
+            "creditLimit": "",
+            "ge3": "QL,SE",
+            "crossListing": "",
+            "prereq": " MAT 017A C- or better or MAT 016A C- or better or MAT 019A C- or better or MAT 021A C- or better"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1510",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00118"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Max Kleiber Hall",
+                "description": "Lecture",
+                "buildingCode": "KLEIBR",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00003"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 020 A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "55761",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Discrete Mathematics For Computer Science",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "020",
+            "hidCRN": "55761",
+            "crn": "55761",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Saltzen",
+                "instructorName": "S. Saltzen",
+                "firstName": "Siena",
+                "instructorEmail": "scsaltzen@ucdavis.edu",
+                "fullName": "Siena Saltzen"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to programming and problem solving in Python. Aimed primarily at non-major students.",
+            "creditLimit": "No credit to students who have completed ECS 032B, ECS 032C, ECS 036A, ECS 036B, ECS 036C.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Max Kleiber Hall",
+                "description": "Lecture",
+                "buildingCode": "KLEIBR",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00003"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0850",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0800",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00223"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 032A A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "38112",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introduction to Programming",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "032A",
+            "hidCRN": "38112",
+            "crn": "38112",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Shafiq",
+                "instructorName": "M. Shafiq",
+                "firstName": "Muhammad Zubair",
+                "instructorEmail": "zshafiq@ucdavis.edu",
+                "fullName": "Muhammad Zubair Shafiq"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to programming and problem solving in Python. Aimed primarily at non-major students.",
+            "creditLimit": "No credit to students who have completed ECS 032B, ECS 032C, ECS 036A, ECS 036B, ECS 036C.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1000",
+                "building": "Teaching and Learning Complex",
+                "description": "Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "02212"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00198"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 032A B01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "B01",
+            "printCRN": "38113",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introduction to Programming",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "032A",
+            "hidCRN": "38113",
+            "crn": "38113",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Stevens",
+                "instructorName": "K. Stevens",
+                "firstName": "Kristian",
+                "instructorEmail": "kastevens@ucdavis.edu",
+                "fullName": "Kristian Stevens"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to programming and problem solving in Python. Aimed primarily at non-major students.",
+            "creditLimit": "No credit to students who have completed ECS 032B, ECS 032C, ECS 036A, ECS 036B, ECS 036C.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1100",
+                "building": "Teaching and Learning Complex",
+                "description": "Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "02212"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00198"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 032A B02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "B02",
+            "printCRN": "38114",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introduction to Programming",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "032A",
+            "hidCRN": "38114",
+            "crn": "38114",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Stevens",
+                "instructorName": "K. Stevens",
+                "firstName": "Kristian",
+                "instructorEmail": "kastevens@ucdavis.edu",
+                "fullName": "Kristian Stevens"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to programming and problem solving in Python. Aimed primarily at non-major students.",
+            "creditLimit": "No credit to students who have completed ECS 032B, ECS 032C, ECS 036A, ECS 036B, ECS 036C.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1210",
+                "building": "Teaching and Learning Complex",
+                "description": "Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "02212"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00198"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 032A B03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "B03",
+            "printCRN": "38115",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introduction to Programming",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "032A",
+            "hidCRN": "38115",
+            "crn": "38115",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Stevens",
+                "instructorName": "K. Stevens",
+                "firstName": "Kristian",
+                "instructorEmail": "kastevens@ucdavis.edu",
+                "fullName": "Kristian Stevens"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to programming and problem solving in Python. Aimed primarily at non-major students.",
+            "creditLimit": "No credit to students who have completed ECS 032B, ECS 032C, ECS 036A, ECS 036B, ECS 036C.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1310",
+                "building": "Teaching and Learning Complex",
+                "description": "Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "02212"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00198"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 032A B04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "B04",
+            "printCRN": "38116",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introduction to Programming",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "032A",
+            "hidCRN": "38116",
+            "crn": "38116",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Stevens",
+                "instructorName": "K. Stevens",
+                "firstName": "Kristian",
+                "instructorEmail": "kastevens@ucdavis.edu",
+                "fullName": "Kristian Stevens"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to programming and problem solving in Python. Aimed primarily at non-major students.",
+            "creditLimit": "No credit to students who have completed ECS 032B, ECS 032C, ECS 036A, ECS 036B, ECS 036C.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1410",
+                "building": "Teaching and Learning Complex",
+                "description": "Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "02212"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00198"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 032A B05",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "B05",
+            "printCRN": "38117",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introduction to Programming",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "032A",
+            "hidCRN": "38117",
+            "crn": "38117",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Stevens",
+                "instructorName": "K. Stevens",
+                "firstName": "Kristian",
+                "instructorEmail": "kastevens@ucdavis.edu",
+                "fullName": "Kristian Stevens"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to programming and problem solving in Python. Aimed primarily at non-major students.",
+            "creditLimit": "No credit to students who have completed ECS 032B, ECS 032C, ECS 036A, ECS 036B, ECS 036C.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1510",
+                "building": "Teaching and Learning Complex",
+                "description": "Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "02212"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00198"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 032A B06",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "B06",
+            "printCRN": "38118",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introduction to Programming",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "032A",
+            "hidCRN": "38118",
+            "crn": "38118",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Stevens",
+                "instructorName": "K. Stevens",
+                "firstName": "Kristian",
+                "instructorEmail": "kastevens@ucdavis.edu",
+                "fullName": "Kristian Stevens"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to programming and problem solving in Python. Aimed primarily at non-major students.",
+            "creditLimit": "No credit to students who have completed ECS 032B, ECS 032C, ECS 036A, ECS 036B, ECS 036C.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Max Kleiber Hall",
+                "description": "Lecture",
+                "buildingCode": "KLEIBR",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00003"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0900",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00223"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 032A A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "55767",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introduction to Programming",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "032A",
+            "hidCRN": "55767",
+            "crn": "55767",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Shafiq",
+                "instructorName": "M. Shafiq",
+                "firstName": "Muhammad Zubair",
+                "instructorEmail": "zshafiq@ucdavis.edu",
+                "fullName": "Muhammad Zubair Shafiq"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to programming and problem solving in Python. Aimed primarily at non-major students.",
+            "creditLimit": "No credit to students who have completed ECS 032B, ECS 032C, ECS 036A, ECS 036B, ECS 036C.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Max Kleiber Hall",
+                "description": "Lecture",
+                "buildingCode": "KLEIBR",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00003"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0850",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0800",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00223"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 032A A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "55768",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introduction to Programming",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "032A",
+            "hidCRN": "55768",
+            "crn": "55768",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Shafiq",
+                "instructorName": "M. Shafiq",
+                "firstName": "Muhammad Zubair",
+                "instructorEmail": "zshafiq@ucdavis.edu",
+                "fullName": "Muhammad Zubair Shafiq"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to programming and problem solving in Python. Aimed primarily at non-major students.",
+            "creditLimit": "No credit to students who have completed ECS 032B, ECS 032C, ECS 036A, ECS 036B, ECS 036C.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Max Kleiber Hall",
+                "description": "Lecture",
+                "buildingCode": "KLEIBR",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00003"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0900",
+                "building": "Hart Hall",
+                "description": "Discussion",
+                "buildingCode": "HART",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01130"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 032A A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "55770",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introduction to Programming",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "032A",
+            "hidCRN": "55770",
+            "crn": "55770",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Shafiq",
+                "instructorName": "M. Shafiq",
+                "firstName": "Muhammad Zubair",
+                "instructorEmail": "zshafiq@ucdavis.edu",
+                "fullName": "Muhammad Zubair Shafiq"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Design and analysis of data structures using Python; trees, heaps, searching, sorting, and graphs. ",
+            "creditLimit": "No credit to students who have completed ECS 036B, ECS 036C, ECS 040 or ECS 060.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " ECS 010 C- or better or ECS 030 C- or better or ECS 032A C- or better or ECS 032AV C- or better or ECS 036A C- or better"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1610",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00212"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01002"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 032B A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "38119",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introduction to Data Structures",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "032B",
+            "hidCRN": "38119",
+            "crn": "38119",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Eiselt",
+                "instructorName": "K. Eiselt",
+                "firstName": "Kurt",
+                "instructorEmail": "eiselt@ucdavis.edu",
+                "fullName": "Kurt Eiselt"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Design and analysis of data structures using Python; trees, heaps, searching, sorting, and graphs. ",
+            "creditLimit": "No credit to students who have completed ECS 036B, ECS 036C, ECS 040 or ECS 060.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " ECS 010 C- or better or ECS 030 C- or better or ECS 032A C- or better or ECS 032AV C- or better or ECS 036A C- or better"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01002"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0850",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0800",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00212"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 032B A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "38120",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introduction to Data Structures",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "032B",
+            "hidCRN": "38120",
+            "crn": "38120",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Eiselt",
+                "instructorName": "K. Eiselt",
+                "firstName": "Kurt",
+                "instructorEmail": "eiselt@ucdavis.edu",
+                "fullName": "Kurt Eiselt"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Design and analysis of data structures using Python; trees, heaps, searching, sorting, and graphs. ",
+            "creditLimit": "No credit to students who have completed ECS 036B, ECS 036C, ECS 040 or ECS 060.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " ECS 010 C- or better or ECS 030 C- or better or ECS 032A C- or better or ECS 032AV C- or better or ECS 036A C- or better"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01002"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1510",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00106"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 032B A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "38121",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introduction to Data Structures",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "032B",
+            "hidCRN": "38121",
+            "crn": "38121",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Eiselt",
+                "instructorName": "K. Eiselt",
+                "firstName": "Kurt",
+                "instructorEmail": "eiselt@ucdavis.edu",
+                "fullName": "Kurt Eiselt"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Computers and computer programming for students with some prior experience, algorithm design, and debugging. Good programming style. Use of basic UNIX tools. ",
+            "creditLimit": "Only 2 units of credit to students who have completed ECS 032A or ECS 032AV; no credit to students who have completed ECS 032B, ECS 032C, ECS 034, ECS 040 or ECS 060.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " ECS 032A C- or better or ECS 032AV C- or better or ECS 010 C- or better;  or must satisfy computer science placement exam; prior experience with basic programming concepts (variable, loops, conditional statements) required.  "
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1310",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00026"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0850",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0800",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00006"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 036A 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "38122",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Programming & Problem Solving ",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "036A",
+            "hidCRN": "38122",
+            "crn": "38122",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Bishop",
+                "instructorName": "M. Bishop",
+                "firstName": "Matthew",
+                "instructorEmail": "mabishop@ucdavis.edu",
+                "fullName": "Matthew Bishop"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Object-oriented programming in C++. Basic data structures and their use. Writing good programs of increased complexity and efficiency. Methods for debugging and verification.",
+            "creditLimit": "No credit to students who have completed ECS 032B, ECS 032C, ECS 034, ECS 040 or ECS 060.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " ECS 030 C- or better or ECS 036A C- or better"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0850",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "0800",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00002"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0850",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0800",
+                "building": "Teaching and Learning Complex",
+                "description": "Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01214"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 036B A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "38125",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Software Development & Object-Oriented Programming in C++     ",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "036B",
+            "hidCRN": "38125",
+            "crn": "38125",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Weaver",
+                "instructorName": "N. Weaver",
+                "firstName": "Nicholas",
+                "instructorEmail": "ncweaver@ucdavis.edu",
+                "fullName": "Nicholas Weaver"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Object-oriented programming in C++. Basic data structures and their use. Writing good programs of increased complexity and efficiency. Methods for debugging and verification.",
+            "creditLimit": "No credit to students who have completed ECS 032B, ECS 032C, ECS 034, ECS 040 or ECS 060.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " ECS 030 C- or better or ECS 036A C- or better"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0850",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "0800",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00002"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0850",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0800",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00212"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 036B A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "38126",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Software Development & Object-Oriented Programming in C++     ",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "036B",
+            "hidCRN": "38126",
+            "crn": "38126",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Weaver",
+                "instructorName": "N. Weaver",
+                "firstName": "Nicholas",
+                "instructorEmail": "ncweaver@ucdavis.edu",
+                "fullName": "Nicholas Weaver"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Object-oriented programming in C++. Basic data structures and their use. Writing good programs of increased complexity and efficiency. Methods for debugging and verification.",
+            "creditLimit": "No credit to students who have completed ECS 032B, ECS 032C, ECS 034, ECS 040 or ECS 060.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " ECS 030 C- or better or ECS 036A C- or better"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0850",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "0800",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00002"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1610",
+                "building": "Teaching and Learning Complex",
+                "description": "Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "03214"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 036B A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "38127",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Software Development & Object-Oriented Programming in C++     ",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "036B",
+            "hidCRN": "38127",
+            "crn": "38127",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Weaver",
+                "instructorName": "N. Weaver",
+                "firstName": "Nicholas",
+                "instructorEmail": "ncweaver@ucdavis.edu",
+                "fullName": "Nicholas Weaver"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Design and analysis of data structures for a variety of applications; trees, heaps, searching, sorting, hashing, and graphs. Extensive programming.",
+            "creditLimit": "No credit to students who have completed ECS 032B, ECS 032C, ECS 034, ECS 040 or ECS 060.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " (ECS 040 C- or better or ECS 036B C- or better);  ECS 020 C- or better"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1610",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00230"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Hunt",
+                "description": "Lecture",
+                "buildingCode": "HUNT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00100"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 036C A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "38128",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Data Structures, Algorithms, & Programming ",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "036C",
+            "hidCRN": "38128",
+            "crn": "38128",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Saltzen",
+                "instructorName": "S. Saltzen",
+                "firstName": "Siena",
+                "instructorEmail": "scsaltzen@ucdavis.edu",
+                "fullName": "Siena Saltzen"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Design and analysis of data structures for a variety of applications; trees, heaps, searching, sorting, hashing, and graphs. Extensive programming.",
+            "creditLimit": "No credit to students who have completed ECS 032B, ECS 032C, ECS 034, ECS 040 or ECS 060.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " (ECS 040 C- or better or ECS 036B C- or better);  ECS 020 C- or better"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Hunt",
+                "description": "Lecture",
+                "buildingCode": "HUNT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00100"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1410",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00106"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 036C A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "38129",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Data Structures, Algorithms, & Programming ",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "036C",
+            "hidCRN": "38129",
+            "crn": "38129",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Saltzen",
+                "instructorName": "S. Saltzen",
+                "firstName": "Siena",
+                "instructorEmail": "scsaltzen@ucdavis.edu",
+                "fullName": "Siena Saltzen"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Design and analysis of data structures for a variety of applications; trees, heaps, searching, sorting, hashing, and graphs. Extensive programming.",
+            "creditLimit": "No credit to students who have completed ECS 032B, ECS 032C, ECS 034, ECS 040 or ECS 060.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " (ECS 040 C- or better or ECS 036B C- or better);  ECS 020 C- or better"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1210",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00230"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Hunt",
+                "description": "Lecture",
+                "buildingCode": "HUNT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00100"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 036C A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "38130",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Data Structures, Algorithms, & Programming ",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "036C",
+            "hidCRN": "38130",
+            "crn": "38130",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Saltzen",
+                "instructorName": "S. Saltzen",
+                "firstName": "Siena",
+                "instructorEmail": "scsaltzen@ucdavis.edu",
+                "fullName": "Siena Saltzen"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Comparative study of different hardware architectures via programming in the assembly languages of various machines. Role of system software in producing an abstract machine. Introduction to I/O devices and programming.",
+            "creditLimit": "1 unit of credit if student has taken EEC 070.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " ECS 040 C- or better or ECS 036B C- or better or ECS 032C C- or better"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1410",
+                "building": "Khaira Lecture Hall",
+                "description": "Discussion",
+                "buildingCode": "KHAIRA",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00123"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01010"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 050 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "38132",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Computer Organization & Machine-Dependent Programming",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "050",
+            "hidCRN": "38132",
+            "crn": "38132",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Butner",
+                "instructorName": "M. Butner",
+                "firstName": "Matthew",
+                "instructorEmail": "mfbutner@ucdavis.edu",
+                "fullName": "Matthew Butner"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Machine learning methods and their application. Theory, design and evaluation of supervised/unsupervised machine learning algorithms. Practical use of matching learning methods and their challenges.",
+            "creditLimit": "No credit if student has taken ECS 171; not intended for Computer Science and Computer Science Engineering Majors.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " (ECS 032B or ECS 036C);  (MAT 135A or STA 035C or MAT 107);  (MAT 022A or MAT 027A or MAT 067)"
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1210",
+                "building": "California Hall",
+                "description": "Discussion",
+                "buildingCode": "CALIFO",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01100"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0850",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0730",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00106"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 111 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55805",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Applied Machine Learning for Non-Majors",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "111",
+            "hidCRN": "55805",
+            "crn": "55805",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Zhao",
+                "instructorName": "Z. Zhao",
+                "firstName": "Zhe",
+                "instructorEmail": "zao@ucdavis.edu",
+                "fullName": "Zhe Zhao"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Overview of computer networks, World Wide Web, email, local & wide-area computer networks, TCP/IP protocol suite, network protocols for data transmission, introduction to network programming.",
+            "creditLimit": "No credit for students who have completed any of ECS 152A, ECS 152B, ECS 152C, EEC 173A, or EEC 173B.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " ECS 032B or ECS 036C"
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1000",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "02215"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1410",
+                "building": "Teaching and Learning Complex",
+                "description": "Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "03215"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 115 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56444",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Computer Networks for Non-Majors ",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "115",
+            "hidCRN": "56444",
+            "crn": "56444",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Nitta",
+                "instructorName": "C. Nitta",
+                "firstName": "Christopher",
+                "instructorEmail": "cjnitta@ucdavis.edu",
+                "fullName": "Christopher Nitta"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Overview of Database Systems, Conceptual Modeling and Design, E/R diagrams, Relational Model, Relational Algebra, SQL, File and Index Structures, Query Evaluation, Transaction Concepts, Concurrency and Recovery, and NoSQL Databases.",
+            "creditLimit": "Not open for credit for students who have completed ECS 165A or ECS 165B.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " ECS 032B or ECS 036C"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1610",
+                "building": "Teaching and Learning Complex",
+                "description": "Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "02215"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "02215"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 116 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "38239",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Databases for Non-Majors",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "116",
+            "hidCRN": "38239",
+            "crn": "38239",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Hull",
+                "instructorName": "R. Hull",
+                "firstName": "Richard",
+                "instructorEmail": "rhull@ucdavis.edu",
+                "fullName": "Richard Hull"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Fundamental ideas in the theory of computation, including formal languages, computability and complexity. Reducibility among computational problems.",
+            "creditLimit": "",
+            "ge3": "QL,SE",
+            "crossListing": "",
+            "prereq": " MAT 108 or (ECS 020,  (ECS 032B or ECS 036C))"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1310",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01003"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1710",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00147"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 120 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "38241",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Theory of Computation",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "120",
+            "hidCRN": "38241",
+            "crn": "38241",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Panetta",
+                "instructorName": "J. Panetta",
+                "firstName": "Julian",
+                "instructorEmail": "jpanetta@ucdavis.edu",
+                "fullName": "Julian Panetta"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Fundamental ideas in the theory of computation, including formal languages, computability and complexity. Reducibility among computational problems.",
+            "creditLimit": "",
+            "ge3": "QL,SE",
+            "crossListing": "",
+            "prereq": " MAT 108 or (ECS 020,  (ECS 032B or ECS 036C))"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1510",
+                "building": "Hart Hall",
+                "description": "Discussion",
+                "buildingCode": "HART",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01130"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1310",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01003"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 120 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "38242",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Theory of Computation",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "120",
+            "hidCRN": "38242",
+            "crn": "38242",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Panetta",
+                "instructorName": "J. Panetta",
+                "firstName": "Julian",
+                "instructorEmail": "jpanetta@ucdavis.edu",
+                "fullName": "Julian Panetta"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Fundamental ideas in the theory of computation, including formal languages, computability and complexity. Reducibility among computational problems.",
+            "creditLimit": "",
+            "ge3": "QL,SE",
+            "crossListing": "",
+            "prereq": " MAT 108 or (ECS 020,  (ECS 032B or ECS 036C))"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1310",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01003"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1430",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1340",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00147"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 120 A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "38243",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Theory of Computation",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "120",
+            "hidCRN": "38243",
+            "crn": "38243",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Panetta",
+                "instructorName": "J. Panetta",
+                "firstName": "Julian",
+                "instructorEmail": "jpanetta@ucdavis.edu",
+                "fullName": "Julian Panetta"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Complexity of algorithms, bounds on complexity, analysis methods. Searching, sorting, pattern matching, graph algorithms. Algorithm design techniques: divide-conquer, greedy, dynamic programming. Approximation methods. NP-complete problems.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " ECS 020;  (ECS 060 or ECS 032B or ECS 036C)"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 20:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1930",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1810",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00002"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1510",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00158"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 122A A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "38244",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Algorithm Design & Analysis ",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "122A",
+            "hidCRN": "38244",
+            "crn": "38244",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Frid",
+                "instructorName": "Y. Frid",
+                "firstName": "Yelena",
+                "instructorEmail": "yafrid@ucdavis.edu",
+                "fullName": "Yelena Frid"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Complexity of algorithms, bounds on complexity, analysis methods. Searching, sorting, pattern matching, graph algorithms. Algorithm design techniques: divide-conquer, greedy, dynamic programming. Approximation methods. NP-complete problems.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " ECS 020;  (ECS 060 or ECS 032B or ECS 036C)"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 20:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1100",
+                "building": "Teaching and Learning Complex",
+                "description": "Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "03214"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1930",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1810",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00002"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 122A A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "38245",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Algorithm Design & Analysis ",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "122A",
+            "hidCRN": "38245",
+            "crn": "38245",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Frid",
+                "instructorName": "Y. Frid",
+                "firstName": "Yelena",
+                "instructorEmail": "yafrid@ucdavis.edu",
+                "fullName": "Yelena Frid"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Complexity of algorithms, bounds on complexity, analysis methods. Searching, sorting, pattern matching, graph algorithms. Algorithm design techniques: divide-conquer, greedy, dynamic programming. Approximation methods. NP-complete problems.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " ECS 020;  (ECS 060 or ECS 032B or ECS 036C)"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 20:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1710",
+                "building": "Teaching and Learning Complex",
+                "description": "Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "03214"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1930",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1810",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00002"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 122A A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "38246",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Algorithm Design & Analysis ",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "122A",
+            "hidCRN": "38246",
+            "crn": "38246",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Frid",
+                "instructorName": "Y. Frid",
+                "firstName": "Yelena",
+                "instructorEmail": "yafrid@ucdavis.edu",
+                "fullName": "Yelena Frid"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Theory and practice of hard problems, and problems with complex algorithm solutions. NP-completeness, approximation algorithms, randomized algorithms, dynamic programming and branch and bound. Theoretical analysis, implementation and practical evaluations. Examples from parallel, string, graph, and geometric algorithms.",
+            "creditLimit": "",
+            "ge3": "QL,SE",
+            "crossListing": "",
+            "prereq": " ECS 122A;  (ECS 060 or ECS 034 or ECS 036C)"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1710",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00158"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1340",
+                "building": "Chemistry",
+                "description": "Lecture",
+                "buildingCode": "CHEM",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00179"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 122B A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "38247",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Algorithm Design & Analysis",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "122B",
+            "hidCRN": "38247",
+            "crn": "38247",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Frid",
+                "instructorName": "Y. Frid",
+                "firstName": "Yelena",
+                "instructorEmail": "yafrid@ucdavis.edu",
+                "fullName": "Yelena Frid"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Theory and practice of hard problems, and problems with complex algorithm solutions. NP-completeness, approximation algorithms, randomized algorithms, dynamic programming and branch and bound. Theoretical analysis, implementation and practical evaluations. Examples from parallel, string, graph, and geometric algorithms.",
+            "creditLimit": "",
+            "ge3": "QL,SE",
+            "crossListing": "",
+            "prereq": " ECS 122A;  (ECS 060 or ECS 034 or ECS 036C)"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0850",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0800",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00212"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1340",
+                "building": "Chemistry",
+                "description": "Lecture",
+                "buildingCode": "CHEM",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00179"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 122B A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "38248",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Algorithm Design & Analysis",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "122B",
+            "hidCRN": "38248",
+            "crn": "38248",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Frid",
+                "instructorName": "Y. Frid",
+                "firstName": "Yelena",
+                "instructorEmail": "yafrid@ucdavis.edu",
+                "fullName": "Yelena Frid"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Univariate and multivariate distributions. Estimation and model building. Markov/Hidden Markov models. Applications to data mining, networks, security, software engineering and bioinformatics.",
+            "creditLimit": "",
+            "ge3": "QL,SE",
+            "crossListing": "",
+            "prereq": " (ECS 040 or ECS 034 or ECS 036B);  ECS 020;  MAT 021C;  (MAT 022A or MAT 027A or MAT 067)"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1610",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00106"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1340",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00006"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 132 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "38252",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Probability & Statistical Modeling for Computer Science",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "132",
+            "hidCRN": "38252",
+            "crn": "38252",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Ghosal",
+                "instructorName": "D. Ghosal",
+                "firstName": "Dipak",
+                "instructorEmail": "dghosal@ucdavis.edu",
+                "fullName": "Dipak Ghosal"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Syntactic definition of programming languages. Introduction to programming language features including variables, data types, data abstraction, object-orientedness, scoping, parameter disciplines, exception handling. Non-imperative programming languages. Comparative study of several high-level programming languages.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " ECS 050;  ECS 020;  (ECS 034 or ECS 036C);  ECS 150 recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1610",
+                "building": "Peter A Rock Hall",
+                "description": "Discussion",
+                "buildingCode": "ROCK",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00194"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00002"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 140A 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "38253",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Programming Languages ",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "140A",
+            "hidCRN": "38253",
+            "crn": "38253",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Rubio Gonzalez",
+                "instructorName": "C. Rubio Gonzalez",
+                "firstName": "Cindy",
+                "instructorEmail": "crubio@ucdavis.edu",
+                "fullName": "Cindy Rubio Gonzalez"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Basic concepts of operating systems and system programming. Processes and interprocess communication/synchronization; virtual memory, program loading and linking; file and I/O subsystems; utility programs. Study of a real operating system.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " (ECS 034 or ECS 036C or ECS 060);  (ECS 154A or EEC 170)"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1610",
+                "building": "Medical Science C",
+                "description": "Discussion",
+                "buildingCode": "MDSC C",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00180"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Medical Science C",
+                "description": "Lecture",
+                "buildingCode": "MDSC C",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00180"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 150 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "38254",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Operating Systems & System Programming",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "150",
+            "hidCRN": "38254",
+            "crn": "38254",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Porquet-Lupine",
+                "instructorName": "J. Porquet-Lupine",
+                "firstName": "Jo\u00ebl",
+                "instructorEmail": "jporquet@ucdavis.edu",
+                "fullName": "Jo\u00ebl Porquet-Lupine"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to digital design. Interfacing of devices for I/O, memory and memory management. Input/output programming, via wait loops, hardware interrupts and calls to operating system services. Hardware support for operating systems software.",
+            "creditLimit": "Only 1 unit of credit allowed for students who have taken EEC 170.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " ECS 050 or EEC 070"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0850",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0800",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00002"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1640",
+                "building": "Everson Hall",
+                "description": "Lecture",
+                "buildingCode": "EVERSN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00176"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 154A 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "38256",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Computer Architecture",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "154A",
+            "hidCRN": "38256",
+            "crn": "38256",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Butner",
+                "instructorName": "M. Butner",
+                "firstName": "Matthew",
+                "instructorEmail": "mfbutner@ucdavis.edu",
+                "fullName": "Matthew Butner"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Hardwired and microprogrammed CPU design. Memory hierarchies. Uniprocessor performance analysis under varying program mixes. Introduction to pipelining and multiprocessors.",
+            "creditLimit": "Not open for credit to students who have taken ECS 201A. ",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " ECS 154A or EEC 170 or EEC 180A"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00118"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1100",
+                "building": "Hart Hall",
+                "description": "Discussion",
+                "buildingCode": "HART",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01150"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 154B 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "38257",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Computer Architecture",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "154B",
+            "hidCRN": "38257",
+            "crn": "38257",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Farrens",
+                "instructorName": "M. Farrens",
+                "firstName": "Matthew",
+                "instructorEmail": "mkfarrens@ucdavis.edu",
+                "fullName": "Matthew Farrens"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Techniques for software development using the shared-memory and message-passing paradigms, on parallel architectures and networks of workstations. Locks, barriers, and other techniques for synchronization. Introduction to parallel algorithms.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " ECS 150;  ECS 154B recommended. "
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01214"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1510",
+                "building": "Hoagland Hall",
+                "description": "Discussion",
+                "buildingCode": "HOAGLD",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00168"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 158 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "38258",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Programming on Parallel Architectures",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "158",
+            "hidCRN": "38258",
+            "crn": "38258",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Weaver",
+                "instructorName": "N. Weaver",
+                "firstName": "Nicholas",
+                "instructorEmail": "ncweaver@ucdavis.edu",
+                "fullName": "Nicholas Weaver"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Technical aspects of building websites, including both server-side and client-side software development.  ",
+            "creditLimit": "",
+            "ge3": "SE,VL",
+            "crossListing": "",
+            "prereq": " ECS 030 or ECS 034 or ECS 036B;  or equivalent programming experience in C and the Unix environment."
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1000",
+                "building": "Storer Hall",
+                "description": "Lecture",
+                "buildingCode": "STORER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01322"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1100",
+                "building": "Giedt",
+                "description": "Laboratory",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01002"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 162 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "38260",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Web Programming",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "162",
+            "hidCRN": "38260",
+            "crn": "38260",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Feng",
+                "instructorName": "T. Feng",
+                "firstName": "Ty",
+                "instructorEmail": "tyfeng@ucdavis.edu",
+                "fullName": "Ty Feng"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Art and science of information visualization and interfaces for information systems. Design principles of human-computer interaction. Visual display and navigation of nonspatial and higher dimensional data. Implementations, performance issues, tradeoffs, and evaluation of interactive information systems.",
+            "creditLimit": "",
+            "ge3": "SE,VL",
+            "crossListing": "",
+            "prereq": " ECS 060 or ECS 032B or ECS 036C"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1710",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00006"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1710",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00206"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 163 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55789",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Information Interfaces               ",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "163",
+            "hidCRN": "55789",
+            "crn": "55789",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Liu",
+                "instructorName": "D. Liu",
+                "firstName": "Dongyu",
+                "instructorEmail": "dyuliu@ucdavis.edu",
+                "fullName": "Dongyu Liu"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Design and implementation of intelligent computer systems. Knowledge representation and organization. Memory and inference. Problem solving. Natural language processing.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " ECS 060 or ECS 032B or ECS 036C"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1310",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01010"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1510",
+                "building": "Teaching and Learning Complex",
+                "description": "Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01020"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 170 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "38261",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introduction to Artificial Intelligence",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "170",
+            "hidCRN": "38261",
+            "crn": "38261",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Huang",
+                "instructorName": "L. Huang",
+                "firstName": "Lifu",
+                "instructorEmail": "lfuhuang@ucdavis.edu",
+                "fullName": "Lifu Huang"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to machine learning. Supervised & unsupervised learning, including classification, dimensionality reduction, regression & clustering using modern machine learning methods. Applications of machine learning to other fields.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " (ECS 032B or ECS 036C);  (STA 032 or STA 035B or STA 100 or STA 131A or MAT 135A or EEC 161 or ECS 132);  (MAT 022A or MAT 027A or MAT 067)"
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1710",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00002"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00002"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 171 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "38262",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Machine Learning",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "171",
+            "hidCRN": "38262",
+            "crn": "38262",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Rafatirad",
+                "instructorName": "S. Rafatirad",
+                "firstName": "Setareh",
+                "instructorEmail": "srafatirad@ucdavis.edu",
+                "fullName": "Setareh Rafatirad"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Foundations of ethics. Views of technology. Technology and human values. Costs and benefits of technology. Character of technological change. Social context of work in computer science and engineering.",
+            "creditLimit": "",
+            "ge3": "SL,SS,WE",
+            "crossListing": "",
+            "prereq": " Upper division standing."
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1100",
+                "building": "Bainer Hall",
+                "description": "Lecture",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01134"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1000",
+                "building": "Wickson Hall",
+                "description": "Discussion",
+                "buildingCode": "WICKSN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01020"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 188 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "38265",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Ethics in an Age of Technology",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "188",
+            "hidCRN": "38265",
+            "crn": "38265",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Sadoghi Hamedani",
+                "instructorName": "M. Sadoghi Hamedani",
+                "firstName": "Mohammad",
+                "instructorEmail": "msadoghi@ucdavis.edu",
+                "fullName": "Mohammad Sadoghi Hamedani"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Foundations of ethics. Views of technology. Technology and human values. Costs and benefits of technology. Character of technological change. Social context of work in computer science and engineering.",
+            "creditLimit": "",
+            "ge3": "SL,SS,WE",
+            "crossListing": "",
+            "prereq": " Upper division standing."
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "The Grove (Surge III)",
+                "description": "Lecture",
+                "buildingCode": "GROVE",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01283"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0900",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00229"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 188 002",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "002",
+            "printCRN": "38266",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Ethics in an Age of Technology",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "188",
+            "hidCRN": "38266",
+            "crn": "38266",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Eiselt",
+                "instructorName": "K. Eiselt",
+                "firstName": "Kurt",
+                "instructorEmail": "eiselt@ucdavis.edu",
+                "fullName": "Kurt Eiselt"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special topic in Artificial Intelligence.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1900",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "V",
+                "startTime": "1810",
+                "building": "Wellman Hall",
+                "description": "Variable",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "VAR",
+                "room": "00230"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ECS 189G",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "001",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Special Topics in Computer Science: Artificial Intelligence",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "189G",
+            "hidCRN": "084BC1C7EE",
+            "crn": "55790",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Zhang",
+                "instructorName": "J. Zhang",
+                "firstName": "Jiawei",
+                "instructorEmail": "jiwzhang@ucdavis.edu",
+                "fullName": "Jiawei Zhang"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special topic in Artificial Intelligence.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "V",
+                "startTime": "1410",
+                "building": "Hoagland Hall",
+                "description": "Variable",
+                "buildingCode": "HOAGLD",
+                "saturday": false,
+                "type": "VAR",
+                "room": "00113"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ECS 189G",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "002",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Special Topics in Computer Science: Artificial Intelligence",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "189G",
+            "hidCRN": "084BC1C7EF",
+            "crn": "55791",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Thakur",
+                "instructorName": "A. Thakur",
+                "firstName": "Aditya",
+                "instructorEmail": "avthakur@ucdavis.edu",
+                "fullName": "Aditya Thakur"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special topic in Computer Graphics.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "1210",
+                "building": "Walker Hall",
+                "description": "Variable",
+                "buildingCode": "WALKER",
+                "saturday": false,
+                "type": "VAR",
+                "room": "01320"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ECS 189H",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "001",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Special Topics in Computer Science: Computer Graphics",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "189H",
+            "hidCRN": "0848C0CFEA",
+            "crn": "56614",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Wang",
+                "instructorName": "H. Wang",
+                "firstName": "Hao-Chuan",
+                "instructorEmail": "hciwang@ucdavis.edu",
+                "fullName": "Hao-Chuan Wang"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Responding to real-life client design challenges, student teams plan, implement, and evaluate large-scale projects involving computer and computational systems. Project supervised by a faculty member. Must take ECS 193A & ECS 193B to receive credit.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " ECS 193A IP or better"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2000",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1710",
+                "building": "Wellman Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LED",
+                "room": "00216"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ECS 193B 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "38273",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Capstone Project",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "193B",
+            "hidCRN": "38273",
+            "crn": "38273",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Liu",
+                "instructorName": "X. Liu",
+                "firstName": "Xin",
+                "instructorEmail": "xinliu@ucdavis.edu",
+                "fullName": "Xin Liu"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Techniques for designing efficient algorithms, analyzing their complexity and applying these algorithms to a broad range of applications. Methods for recognizing and dealing with difficult problems. ",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " ECS 122A;  STA 031A recommended."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1310",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00216"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Walker Hall",
+                "description": "Lecture",
+                "buildingCode": "WALKER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01330"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 222A 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "38399",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Design & Analysis of Algorithms",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "222A",
+            "hidCRN": "38399",
+            "crn": "38399",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Frid",
+                "instructorName": "Y. Frid",
+                "firstName": "Yelena",
+                "instructorEmail": "yafrid@ucdavis.edu",
+                "fullName": "Yelena Frid"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Theoretical foundations of methods used to protect data in computer and communication systems. Access control matrix and undecidability of security; policies; Bell-LaPadula, Biba, Chinese Wall models; non-interference and non-deducibility; information flow and the confinement problem. ",
+            "creditLimit": "Not open for credit to students who have taken ECS 235. ",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " ECS 235A;  ECS 120 and ECS 150 recommended."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Cruess Hall",
+                "description": "Lecture",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00107"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 235B 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55793",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Foundations of Computer & Information Security",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "235B",
+            "hidCRN": "55793",
+            "crn": "55793",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Bishop",
+                "instructorName": "M. Bishop",
+                "firstName": "Matthew",
+                "instructorEmail": "mabishop@ucdavis.edu",
+                "fullName": "Matthew Bishop"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Advanced topics in programming languages, including formal syntax and semantics, the relation between formal semantics and verification, an introduction to the lambda calculus. Additional topics will include language design principles, alternative programming languages, in-depth semantic theory and models of language implementation.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " ECS 140A;  ECS 142"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1100",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00106"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 240 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "38400",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Programming Languages",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "240",
+            "hidCRN": "38400",
+            "crn": "38400",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Thakur",
+                "instructorName": "A. Thakur",
+                "firstName": "Aditya",
+                "instructorEmail": "avthakur@ucdavis.edu",
+                "fullName": "Aditya Thakur"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Develops the mathematical theory underlying growth, structure and function of networks with applications to physical, social, biological and engineered systems. Topics include network growth, resilience, epidemiology, phase transitions, software and algorithms, routing and search control, cascading failures.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "MAE 253.",
+            "prereq": " MAT 022A;  MAT 022B;  (STA 013 or STA 013Y or STA 120);  experience with computer software, or consent of instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "1410",
+                "building": "Giedt",
+                "description": "Lecture/Discussion",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LED",
+                "room": "01006"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 253 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56160",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Network Theory & Applications ",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "253",
+            "hidCRN": "56160",
+            "crn": "56160",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "D'souza",
+                "instructorName": "R. D'souza",
+                "firstName": "Raissa",
+                "instructorEmail": "rmdsouza@ucdavis.edu",
+                "fullName": "Raissa D'souza"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Probabilistic and statistical models useful in computer/data science.  Applications to networks, bioinformatics, database management, machine learning, software engineering and image processing.",
+            "creditLimit": "Not open for credit to students who have completed ECS 256A.",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " A calculus-based course in probability, such as ECS132, STA 131A, or EEC 161; programming skills and familiarity with matrix algebra."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Hart Hall",
+                "description": "Lecture",
+                "buildingCode": "HART",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01120"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 256 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55797",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Probability Models for Computer Science",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "256",
+            "hidCRN": "55797",
+            "crn": "55797",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Ghosal",
+                "instructorName": "D. Ghosal",
+                "firstName": "Dipak",
+                "instructorEmail": "dghosal@ucdavis.edu",
+                "fullName": "Dipak Ghosal"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Methods of proving correctness of programs with respect to formal\nspecifications, with attention to those suited for employing automated deduction.Logic background, symbolic execution, techniques suited to iterative programming, methods from denotational semantics, termination, dynamic logic and proofs of concurrent programs.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " PHI 112;  or MAT 125 or familiarity with first-order logic; knowledge of an integrative and functional programming language. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Maria Manetti Shrem Art Hall",
+                "description": "Lecture",
+                "buildingCode": "MMSART",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00204"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 261 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55799",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Program Verification",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "261",
+            "hidCRN": "55799",
+            "crn": "55799",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Stanford",
+                "instructorName": "C. Stanford",
+                "firstName": "Caleb",
+                "instructorEmail": "cdstanford@ucdavis.edu",
+                "fullName": "Caleb Stanford"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Concepts and techniques underlying the design and implementation of models of human performance on intelligent tasks. Representation of high-level knowledge structures. Models of memory and inference. Natural language and story understanding. Common sense planning and problem solving.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " ECS 140A;  ECS 172 and ECS 189G recommended."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1610",
+                "building": "Veihmeyer Hall",
+                "description": "Lecture",
+                "buildingCode": "VEIMYR",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00212"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 270 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "38401",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Artificial Intelligence",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "270",
+            "hidCRN": "38401",
+            "crn": "38401",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Zhang",
+                "instructorName": "J. Zhang",
+                "firstName": "Jiawei",
+                "instructorEmail": "jiwzhang@ucdavis.edu",
+                "fullName": "Jiawei Zhang"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Artificial intelligence techniques for knowledge acquisition by computers. Fundamental problems in machine learning and discovery. Systems that learn from examples, analogies, and solved problems. Systems that discover numerical laws and qualitative relationships. Projects centering on implementation and evaluation.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " ECS 170"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Hoagland Hall",
+                "description": "Lecture",
+                "buildingCode": "HOAGLD",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00168"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 271 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "38402",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Machine Learning & Discovery                 ",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "271",
+            "hidCRN": "38402",
+            "crn": "38402",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Chen",
+                "instructorName": "M. Chen",
+                "firstName": "Muhao",
+                "instructorEmail": "muhchen@ucdavis.edu",
+                "fullName": "Muhao Chen"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Analytical reasoning using visual means, data and visual transformations, exploratory visualization, explanatory visualization, interactive intelligent systems, qualitative and quantitative evaluation.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Graduate standing."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1900",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1810",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00101"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ECS 273 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55802",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Visual Analytics",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "273",
+            "hidCRN": "55802",
+            "crn": "55802",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Liu",
+                "instructorName": "D. Liu",
+                "firstName": "Dongyu",
+                "instructorEmail": "dyuliu@ucdavis.edu",
+                "fullName": "Dongyu Liu"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special topic in Programming Languages & Compilers.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "1030",
+                "building": "Teaching and Learning Complex",
+                "description": "Variable",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "VAR",
+                "room": "03218"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ECS 289C",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "001",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Special Topics in Computer Science: Programming Languages & Compilers",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "289C",
+            "hidCRN": "0E46C2CEED",
+            "crn": "38403",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Palit",
+                "instructorName": "T. Palit",
+                "firstName": "Tapti",
+                "instructorEmail": "tpalit@ucdavis.edu",
+                "fullName": "Tapti Palit"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special topic in Operating Systems.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "0900",
+                "building": "Maria Manetti Shrem Art Hall",
+                "description": "Variable",
+                "buildingCode": "MMSART",
+                "saturday": false,
+                "type": "VAR",
+                "room": "00204"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ECS 289D",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "001",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Special Topics in Computer Science: Operating Systems",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "289D",
+            "hidCRN": "0848C4CEEF",
+            "crn": "56201",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Raybuck",
+                "instructorName": "A. Raybuck",
+                "firstName": "Amanda",
+                "instructorEmail": "araybuck@ucdavis.edu",
+                "fullName": "Amanda Raybuck"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special topic in Artificial Intelligence.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "0900",
+                "building": "Cruess Hall",
+                "description": "Variable",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "VAR",
+                "room": "00107"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ECS 289G",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "001",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Special Topics in Computer Science: Artificial Intelligence",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "289G",
+            "hidCRN": "0E46C2CEEA",
+            "crn": "38404",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Zhao",
+                "instructorName": "Z. Zhao",
+                "firstName": "Zhe",
+                "instructorEmail": "zao@ucdavis.edu",
+                "fullName": "Zhe Zhao"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special topic in Networks.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1930",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "1810",
+                "building": "Cruess Hall",
+                "description": "Variable",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "VAR",
+                "room": "00107"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ECS 289I",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "001",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Special Topics in Computer Science: Networks",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "289I",
+            "hidCRN": "084BCECEEA",
+            "crn": "55804",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Gamero Garrido",
+                "instructorName": "A. Gamero Garrido",
+                "firstName": "Alexander",
+                "instructorEmail": "agamerog@ucdavis.edu",
+                "fullName": "Alexander Gamero Garrido"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special topic in Computer Science.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "V",
+                "startTime": "1310",
+                "building": "Cruess Hall",
+                "description": "Variable",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "VAR",
+                "room": "00107"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ECS 289L",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "001",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Special Topics in Computer Science: Computer Science",
+            "subjectDesc": "Engineering Computer Science",
+            "courseNum": "289L",
+            "hidCRN": "0E46C2CEE6",
+            "crn": "38408",
+            "subjectCode": "ECS"
+        },
+        "instructor": [
+            {
+                "lastName": "Filkov",
+                "instructorName": "V. Filkov",
+                "firstName": "Vladimir",
+                "instructorEmail": "vfilkov@ucdavis.edu",
+                "fullName": "Vladimir Filkov"
+            }
+        ]
+    }
+]

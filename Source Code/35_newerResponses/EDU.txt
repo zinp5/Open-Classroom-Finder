@@ -1,0 +1,2506 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Exploration of how students learn and develop understanding in science and mathematics classrooms. Introduction to case studies and interview techniques and their use in K-6 classrooms to illuminate factors that affect student learning.",
+            "creditLimit": "",
+            "ge3": "SS,VL,WE",
+            "crossListing": "GEL 081.",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "F",
+                "startTime": "",
+                "building": "",
+                "description": "Fieldwork",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "FWK",
+                "room": ""
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1410",
+                "building": "Earth & Physical Sciences",
+                "description": "Lecture/Discussion",
+                "buildingCode": "EPHSCI",
+                "saturday": false,
+                "type": "LED",
+                "room": "01317"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "EDU 081 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "38619",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Learning in Science & Mathematics",
+            "subjectDesc": "Education",
+            "courseNum": "081",
+            "hidCRN": "38619",
+            "crn": "38619",
+            "subjectCode": "EDU"
+        },
+        "instructor": [
+            {
+                "lastName": "Bettis",
+                "instructorName": "M. Bettis",
+                "firstName": "Megan",
+                "instructorEmail": "mmckenzie@ucdavis.edu",
+                "fullName": "Megan Bettis"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Exploration of how students learn and develop understanding in science and mathematics classrooms. Introduction to case studies and interview techniques and their use in K-6 classrooms to illuminate factors that affect student learning.",
+            "creditLimit": "",
+            "ge3": "SS,VL,WE",
+            "crossListing": "GEL 081.",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1410",
+                "building": "Earth & Physical Sciences",
+                "description": "Lecture/Discussion",
+                "buildingCode": "EPHSCI",
+                "saturday": false,
+                "type": "LED",
+                "room": "01317"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "F",
+                "startTime": "",
+                "building": "",
+                "description": "Fieldwork",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "FWK",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "EDU 081 002",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "002",
+            "printCRN": "38620",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Learning in Science & Mathematics",
+            "subjectDesc": "Education",
+            "courseNum": "081",
+            "hidCRN": "38620",
+            "crn": "38620",
+            "subjectCode": "EDU"
+        },
+        "instructor": [
+            {
+                "lastName": "Mendle",
+                "instructorName": "A. Mendle",
+                "firstName": "Alvin",
+                "instructorEmail": "ammendle@ucdavis.edu",
+                "fullName": "Alvin Mendle"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Study of occupational concerns of teachers; skills for observing classroom activities; school organization and finance; school reform movement; observing, aiding, and tutoring in schools.",
+            "creditLimit": "",
+            "ge3": "DD,OL,SS,ACGH",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Temporary Classroom 3",
+                "description": "Lecture",
+                "buildingCode": "TEMCL3",
+                "saturday": false,
+                "type": "LEC",
+                "room": "RM03"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EDU 100 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "38630",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Schools",
+            "subjectDesc": "Education",
+            "courseNum": "100",
+            "hidCRN": "38630",
+            "crn": "38630",
+            "subjectCode": "EDU"
+        },
+        "instructor": [
+            {
+                "lastName": "Ambrose",
+                "instructorName": "R. Ambrose",
+                "firstName": "Rebecca",
+                "instructorEmail": "rcambrose@ucdavis.edu",
+                "fullName": "Rebecca Ambrose"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Study of occupational concerns of teachers; skills for observing classroom activities; school organization and finance; school reform movement; observing, aiding, and tutoring in schools.",
+            "creditLimit": "",
+            "ge3": "DD,OL,SS,ACGH",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Temporary Classroom 3",
+                "description": "Lecture",
+                "buildingCode": "TEMCL3",
+                "saturday": false,
+                "type": "LEC",
+                "room": "RM03"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EDU 100 002",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "002",
+            "printCRN": "38631",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Schools",
+            "subjectDesc": "Education",
+            "courseNum": "100",
+            "hidCRN": "38631",
+            "crn": "38631",
+            "subjectCode": "EDU"
+        },
+        "instructor": [
+            {
+                "lastName": "Patterson",
+                "instructorName": "A. Patterson",
+                "firstName": "Alexis",
+                "instructorEmail": "adpatterson@ucdavis.edu",
+                "fullName": "Alexis Patterson"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Learning processes, cognitive development, individual differences, testing and evaluation.",
+            "creditLimit": "",
+            "ge3": "SS,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "0800",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture/Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LED",
+                "room": "02215"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EDU 110 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "38632",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Educational Psychology: General",
+            "subjectDesc": "Education",
+            "courseNum": "110",
+            "hidCRN": "38632",
+            "crn": "38632",
+            "subjectCode": "EDU"
+        },
+        "instructor": [
+            {
+                "lastName": "Mattingly",
+                "instructorName": "S. Mattingly",
+                "firstName": "Sophia",
+                "instructorEmail": "smgonfiotti@ucdavis.edu",
+                "fullName": "Sophia Mattingly"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Learning processes, cognitive development, individual differences, testing and evaluation.",
+            "creditLimit": "",
+            "ge3": "SS,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "1000",
+                "building": "Wellman Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LED",
+                "room": "00126"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EDU 110 002",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "002",
+            "printCRN": "38633",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Educational Psychology: General",
+            "subjectDesc": "Education",
+            "courseNum": "110",
+            "hidCRN": "38633",
+            "crn": "38633",
+            "subjectCode": "EDU"
+        },
+        "instructor": [
+            {
+                "lastName": "Martin",
+                "instructorName": "L. Martin",
+                "firstName": "Lee",
+                "instructorEmail": "leemartin@ucdavis.edu",
+                "fullName": "Lee Martin"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Learning processes, cognitive development, individual differences, testing and evaluation.",
+            "creditLimit": "",
+            "ge3": "SS,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "1610",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture/Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LED",
+                "room": "01215"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EDU 110 003",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "003",
+            "printCRN": "38634",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Educational Psychology: General",
+            "subjectDesc": "Education",
+            "courseNum": "110",
+            "hidCRN": "38634",
+            "crn": "38634",
+            "subjectCode": "EDU"
+        },
+        "instructor": [
+            {
+                "lastName": "Passmore",
+                "instructorName": "C. Passmore",
+                "firstName": "Cynthia",
+                "instructorEmail": "cpassmore@ucdavis.edu",
+                "fullName": "Cynthia Passmore"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Learning processes, cognitive development, individual differences, testing and evaluation.",
+            "creditLimit": "",
+            "ge3": "SS,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "1410",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture/Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LED",
+                "room": "01215"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EDU 110 004",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "004",
+            "printCRN": "38635",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Educational Psychology: General",
+            "subjectDesc": "Education",
+            "courseNum": "110",
+            "hidCRN": "38635",
+            "crn": "38635",
+            "subjectCode": "EDU"
+        },
+        "instructor": [
+            {
+                "lastName": "Passmore",
+                "instructorName": "C. Passmore",
+                "firstName": "Cynthia",
+                "instructorEmail": "cpassmore@ucdavis.edu",
+                "fullName": "Cynthia Passmore"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Educational issues and processes involved in teaching children with disabilities. Focuses on the structure of special education, with an emphasis on meeting the educational needs of children who are mainstreamed in regular classes.",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1610",
+                "building": "The Grove (Surge III)",
+                "description": "Lecture",
+                "buildingCode": "GROVE",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01309"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "EDU 115 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "38636",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Educating Children with Disabilities",
+            "subjectDesc": "Education",
+            "courseNum": "115",
+            "hidCRN": "38636",
+            "crn": "38636",
+            "subjectCode": "EDU"
+        },
+        "instructor": [
+            {
+                "lastName": "Sullivan",
+                "instructorName": "L. Sullivan",
+                "firstName": "Lisa",
+                "instructorEmail": "lhsullivan@ucdavis.edu",
+                "fullName": "Lisa Sullivan"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Educational issues and processes involved in teaching children with disabilities. Focuses on the structure of special education, with an emphasis on meeting the educational needs of children who are mainstreamed in regular classes.",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Temporary Classroom 3",
+                "description": "Lecture",
+                "buildingCode": "TEMCL3",
+                "saturday": false,
+                "type": "LEC",
+                "room": "RM03"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "EDU 115 002",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "002",
+            "printCRN": "55772",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Educating Children with Disabilities",
+            "subjectDesc": "Education",
+            "courseNum": "115",
+            "hidCRN": "55772",
+            "crn": "55772",
+            "subjectCode": "EDU"
+        },
+        "instructor": [
+            {
+                "lastName": "Towers",
+                "instructorName": "L. Towers",
+                "firstName": "Laurel",
+                "instructorEmail": "letowers@ucdavis.edu",
+                "fullName": "Laurel Towers"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Philosophical, historical, and sociological study of education and the school in our society.",
+            "creditLimit": "",
+            "ge3": "SS,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0900",
+                "building": "Teaching and Learning Complex",
+                "description": "Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "03210"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1340",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "03215"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EDU 120 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "38637",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Philosophical & Social Foundations of Education",
+            "subjectDesc": "Education",
+            "courseNum": "120",
+            "hidCRN": "38637",
+            "crn": "38637",
+            "subjectCode": "EDU"
+        },
+        "instructor": [
+            {
+                "lastName": "Beno",
+                "instructorName": "C. Beno",
+                "firstName": "Carolynne",
+                "instructorEmail": "ctbeno@ucdavis.edu",
+                "fullName": "Carolynne Beno"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Philosophical, historical, and sociological study of education and the school in our society.",
+            "creditLimit": "",
+            "ge3": "SS,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1000",
+                "building": "Physics Building",
+                "description": "Discussion",
+                "buildingCode": "PHYSIC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00148"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1340",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "03215"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EDU 120 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "38638",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Philosophical & Social Foundations of Education",
+            "subjectDesc": "Education",
+            "courseNum": "120",
+            "hidCRN": "38638",
+            "crn": "38638",
+            "subjectCode": "EDU"
+        },
+        "instructor": [
+            {
+                "lastName": "Beno",
+                "instructorName": "C. Beno",
+                "firstName": "Carolynne",
+                "instructorEmail": "ctbeno@ucdavis.edu",
+                "fullName": "Carolynne Beno"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Philosophical, historical, and sociological study of education and the school in our society.",
+            "creditLimit": "",
+            "ge3": "SS,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1100",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00201"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1340",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "03215"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EDU 120 A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "38639",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Philosophical & Social Foundations of Education",
+            "subjectDesc": "Education",
+            "courseNum": "120",
+            "hidCRN": "38639",
+            "crn": "38639",
+            "subjectCode": "EDU"
+        },
+        "instructor": [
+            {
+                "lastName": "Beno",
+                "instructorName": "C. Beno",
+                "firstName": "Carolynne",
+                "instructorEmail": "ctbeno@ucdavis.edu",
+                "fullName": "Carolynne Beno"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Philosophical, historical, and sociological study of education and the school in our society.",
+            "creditLimit": "",
+            "ge3": "SS,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1100",
+                "building": "Physics Building",
+                "description": "Discussion",
+                "buildingCode": "PHYSIC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00148"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "03215"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EDU 120 B01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "B01",
+            "printCRN": "55773",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Philosophical & Social Foundations of Education",
+            "subjectDesc": "Education",
+            "courseNum": "120",
+            "hidCRN": "55773",
+            "crn": "55773",
+            "subjectCode": "EDU"
+        },
+        "instructor": [
+            {
+                "lastName": "Beno",
+                "instructorName": "C. Beno",
+                "firstName": "Carolynne",
+                "instructorEmail": "ctbeno@ucdavis.edu",
+                "fullName": "Carolynne Beno"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Philosophical, historical, and sociological study of education and the school in our society.",
+            "creditLimit": "",
+            "ge3": "SS,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1210",
+                "building": "Young Hall",
+                "description": "Discussion",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00192"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "03215"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EDU 120 B02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "B02",
+            "printCRN": "55774",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Philosophical & Social Foundations of Education",
+            "subjectDesc": "Education",
+            "courseNum": "120",
+            "hidCRN": "55774",
+            "crn": "55774",
+            "subjectCode": "EDU"
+        },
+        "instructor": [
+            {
+                "lastName": "Beno",
+                "instructorName": "C. Beno",
+                "firstName": "Carolynne",
+                "instructorEmail": "ctbeno@ucdavis.edu",
+                "fullName": "Carolynne Beno"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Philosophical, historical, and sociological study of education and the school in our society.",
+            "creditLimit": "",
+            "ge3": "SS,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1310",
+                "building": "Young Hall",
+                "description": "Discussion",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00192"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "03215"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EDU 120 B03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "B03",
+            "printCRN": "55775",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Philosophical & Social Foundations of Education",
+            "subjectDesc": "Education",
+            "courseNum": "120",
+            "hidCRN": "55775",
+            "crn": "55775",
+            "subjectCode": "EDU"
+        },
+        "instructor": [
+            {
+                "lastName": "Beno",
+                "instructorName": "C. Beno",
+                "firstName": "Carolynne",
+                "instructorEmail": "ctbeno@ucdavis.edu",
+                "fullName": "Carolynne Beno"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "How material artifacts shape what and how children learn in school, at home, and in the community. Artifacts examined include books, computers, household appliances, toys and games, entertainment media, collectibles, sports equipment, clothing, folk arts and crafts, and neighborhood space.",
+            "creditLimit": "",
+            "ge3": "SS,VL,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "1210",
+                "building": "Temporary Classroom 3",
+                "description": "Lecture/Discussion",
+                "buildingCode": "TEMCL3",
+                "saturday": false,
+                "type": "LED",
+                "room": "RM03"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "9",
+                "startTime": "1340",
+                "building": "Temporary Classroom 3",
+                "description": "Extensive Writing/Discussion",
+                "buildingCode": "TEMCL3",
+                "saturday": false,
+                "type": "W-D",
+                "room": "RM03"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "F",
+                "startTime": "",
+                "building": "",
+                "description": "Fieldwork",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "FWK",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EDU 122 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "38640",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Children, Learning & Material Culture",
+            "subjectDesc": "Education",
+            "courseNum": "122",
+            "hidCRN": "38640",
+            "crn": "38640",
+            "subjectCode": "EDU"
+        },
+        "instructor": [
+            {
+                "lastName": "Mattingly",
+                "instructorName": "S. Mattingly",
+                "firstName": "Sophia",
+                "instructorEmail": "smgonfiotti@ucdavis.edu",
+                "fullName": "Sophia Mattingly"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Study of history, philosophy, principles and approaches to environmental education (EE) and outreach; learning theories, teaching strategies and techniques in EE and outreach; evaluation of EE curricula in non-formal and in-school contexts; observing, aiding and facilitating local environmental education programs.",
+            "creditLimit": "",
+            "ge3": "OL,SS",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1210",
+                "building": "Temporary Classroom 3",
+                "description": "Lecture/Discussion",
+                "buildingCode": "TEMCL3",
+                "saturday": false,
+                "type": "LED",
+                "room": "RM03"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EDU 142 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "55777",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Environmental Education",
+            "subjectDesc": "Education",
+            "courseNum": "142",
+            "hidCRN": "55777",
+            "crn": "55777",
+            "subjectCode": "EDU"
+        },
+        "instructor": [
+            {
+                "lastName": "Ballard",
+                "instructorName": "H. Ballard",
+                "firstName": "Heidi",
+                "instructorEmail": "hballard@ucdavis.edu",
+                "fullName": "Heidi Ballard"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Study of history, philosophy, principles and approaches to environmental education (EE) and outreach; learning theories, teaching strategies and techniques in EE and outreach; evaluation of EE curricula in non-formal and in-school contexts; observing, aiding and facilitating local environmental education programs.",
+            "creditLimit": "",
+            "ge3": "OL,SS",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1410",
+                "building": "Temporary Classroom 1",
+                "description": "Lecture/Discussion",
+                "buildingCode": "TEMCL1",
+                "saturday": false,
+                "type": "LED",
+                "room": "RM01"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1210",
+                "building": "Temporary Classroom 3",
+                "description": "Lecture/Discussion",
+                "buildingCode": "TEMCL3",
+                "saturday": false,
+                "type": "LED",
+                "room": "RM03"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EDU 142 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "56521",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Environmental Education",
+            "subjectDesc": "Education",
+            "courseNum": "142",
+            "hidCRN": "56521",
+            "crn": "56521",
+            "subjectCode": "EDU"
+        },
+        "instructor": [
+            {
+                "lastName": "Ballard",
+                "instructorName": "H. Ballard",
+                "firstName": "Heidi",
+                "instructorEmail": "hballard@ucdavis.edu",
+                "fullName": "Heidi Ballard"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to cultural diversity and education in a sociopolitical context. Interactive course. Small and large-group discussions explore, extend, and apply readings; range of writing genres for responses to assignments and course themes; lectures, slide shows, speakers, brief fieldwork, and presentations.",
+            "creditLimit": "",
+            "ge3": "DD,SS,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "1000",
+                "building": "Temporary Classroom 3",
+                "description": "Lecture/Discussion",
+                "buildingCode": "TEMCL3",
+                "saturday": false,
+                "type": "LED",
+                "room": "RM03"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EDU 150 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "38641",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Cultural Diversity & Education in a Sociopolitical Context",
+            "subjectDesc": "Education",
+            "courseNum": "150",
+            "hidCRN": "38641",
+            "crn": "38641",
+            "subjectCode": "EDU"
+        },
+        "instructor": [
+            {
+                "lastName": "Mattingly",
+                "instructorName": "S. Mattingly",
+                "firstName": "Sophia",
+                "instructorEmail": "smgonfiotti@ucdavis.edu",
+                "fullName": "Sophia Mattingly"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to cultural diversity and education in a sociopolitical context. Interactive course. Small and large-group discussions explore, extend, and apply readings; range of writing genres for responses to assignments and course themes; lectures, slide shows, speakers, brief fieldwork, and presentations.",
+            "creditLimit": "",
+            "ge3": "DD,SS,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1210",
+                "building": "Academic Surge Bldg.",
+                "description": "Lecture/Discussion",
+                "buildingCode": "ACADSR",
+                "saturday": false,
+                "type": "LED",
+                "room": "02368"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EDU 150 002",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "002",
+            "printCRN": "55776",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Cultural Diversity & Education in a Sociopolitical Context",
+            "subjectDesc": "Education",
+            "courseNum": "150",
+            "hidCRN": "55776",
+            "crn": "55776",
+            "subjectCode": "EDU"
+        },
+        "instructor": [
+            {
+                "lastName": "Enright",
+                "instructorName": "K. Enright",
+                "firstName": "Kerry",
+                "instructorEmail": "kaenright@ucdavis.edu",
+                "fullName": "Kerry Enright"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Exploration of effective teaching practices based on examination of how middle school students learn math and science. Selected readings, discussion and field experience in middle school classrooms. ",
+            "creditLimit": "",
+            "ge3": "SS,WE",
+            "crossListing": "GEL 181.",
+            "prereq": " Consent of Instructor.  Major in mathematics, science, or engineering; or completion of a one-year sequence of science or calculus. "
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1610",
+                "building": "Earth & Physical Sciences",
+                "description": "Lecture/Discussion",
+                "buildingCode": "EPHSCI",
+                "saturday": false,
+                "type": "LED",
+                "room": "01317"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "F",
+                "startTime": "",
+                "building": "",
+                "description": "Fieldwork",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "FWK",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "EDU 181 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "38647",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Teaching in Science & Mathematics",
+            "subjectDesc": "Education",
+            "courseNum": "181",
+            "hidCRN": "38647",
+            "crn": "38647",
+            "subjectCode": "EDU"
+        },
+        "instructor": [
+            {
+                "lastName": "Salim",
+                "instructorName": "I. Salim",
+                "firstName": "Ingrid",
+                "instructorEmail": "ihsalim@ucdavis.edu",
+                "fullName": "Ingrid Salim"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Exploration and creation of effective teaching practices based on examination of how high school students learn mathematics and science. Field experience in high school classrooms.",
+            "creditLimit": "",
+            "ge3": "OL,SS,WE",
+            "crossListing": "GEL 183.",
+            "prereq": " Major in mathematics, science, or engineering; or completion of a one-year sequence of science or calculus and consent of the instructor."
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "F",
+                "startTime": "",
+                "building": "",
+                "description": "Fieldwork",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "FWK",
+                "room": ""
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "0800",
+                "building": "Earth & Physical Sciences",
+                "description": "Lecture/Discussion",
+                "buildingCode": "EPHSCI",
+                "saturday": false,
+                "type": "LED",
+                "room": "01317"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "EDU 183 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "38648",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Teaching High School Mathematics & Science",
+            "subjectDesc": "Education",
+            "courseNum": "183",
+            "hidCRN": "38648",
+            "crn": "38648",
+            "subjectCode": "EDU"
+        },
+        "instructor": [
+            {
+                "lastName": "Pinter",
+                "instructorName": "S. Pinter",
+                "firstName": "Susann",
+                "instructorEmail": "spinter@ucdavis.edu",
+                "fullName": "Susann Pinter"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Leading of small voluntary discussion groups affiliated with the School's upper division courses under the supervision of, and at the option of, the course instructor, who will submit a written evaluation of the student's work.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "T",
+                "startTime": "",
+                "building": "",
+                "description": "Tutorial",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "TUT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "EDU 197T",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 2,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Tutoring in Education",
+            "subjectDesc": "Education",
+            "courseNum": "197T",
+            "hidCRN": "0E46C0C8EE",
+            "crn": "38660",
+            "subjectCode": "EDU"
+        },
+        "instructor": [
+            {
+                "lastName": "",
+                "instructorName": ". ",
+                "firstName": "",
+                "instructorEmail": "",
+                "fullName": " "
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed group study.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "EDU 198",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study",
+            "subjectDesc": "Education",
+            "courseNum": "198",
+            "hidCRN": "0E46C0C8EF",
+            "crn": "38661",
+            "subjectCode": "EDU"
+        },
+        "instructor": [
+            {
+                "lastName": "",
+                "instructorName": ". ",
+                "firstName": "",
+                "instructorEmail": "",
+                "fullName": " "
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special study for advanced undergraduates. May be taught abroad.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "EDU 199",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Study for Advanced Undergraduates",
+            "subjectDesc": "Education",
+            "courseNum": "199",
+            "hidCRN": "0E46C0C9EA",
+            "crn": "38674",
+            "subjectCode": "EDU"
+        },
+        "instructor": [
+            {
+                "lastName": "",
+                "instructorName": ". ",
+                "firstName": "",
+                "instructorEmail": "",
+                "fullName": " "
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to experimental and quasi-experimental statistical methods to evaluate the effectiveness of educational policies and practices. Analytic approaches include randomized control trials, regression discontinuity, difference-in-differences methods, instrumental variables, and fixed and random effects.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " EDU 204A;   or equivalent course covering multivariate regression. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1310",
+                "building": "Academic Surge Bldg.",
+                "description": "Lecture/Discussion",
+                "buildingCode": "ACADSR",
+                "saturday": false,
+                "type": "LED",
+                "room": "02362"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EDU 233 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55780",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Quasi-Experimental Methods in Educational Research",
+            "subjectDesc": "Education",
+            "courseNum": "233",
+            "hidCRN": "55780",
+            "crn": "55780",
+            "subjectCode": "EDU"
+        },
+        "instructor": [
+            {
+                "lastName": "Hart",
+                "instructorName": "C. Hart",
+                "firstName": "Cassandra",
+                "instructorEmail": "cmdhart@ucdavis.edu",
+                "fullName": "Cassandra Hart"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to qualitative interviewing, focused in particular on narrative and self-story as both practical method and theoretical stance. Complete a case-focused interview project during the course: designing an interview protocol, conducting the interview, transcribing, analyzing, and presenting their research.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " EDU 201 or equivalent course recommended."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "1310",
+                "building": "Academic Surge Bldg.",
+                "description": "Lecture/Discussion",
+                "buildingCode": "ACADSR",
+                "saturday": false,
+                "type": "LED",
+                "room": "02362"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EDU 239 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55781",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Interview Methods",
+            "subjectDesc": "Education",
+            "courseNum": "239",
+            "hidCRN": "55781",
+            "crn": "55781",
+            "subjectCode": "EDU"
+        },
+        "instructor": [
+            {
+                "lastName": "Martin",
+                "instructorName": "L. Martin",
+                "firstName": "Lee",
+                "instructorEmail": "leemartin@ucdavis.edu",
+                "fullName": "Lee Martin"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Critical study of selected issues of language, literacy, and culture as they relate to education.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "E",
+                "startTime": "1310",
+                "building": "Academic Surge Bldg.",
+                "description": "Seminar",
+                "buildingCode": "ACADSR",
+                "saturday": false,
+                "type": "SEM",
+                "room": "02362"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EDU 244 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55782",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Topical Seminar in Language, Literacy & Culture",
+            "subjectDesc": "Education",
+            "courseNum": "244",
+            "hidCRN": "55782",
+            "crn": "55782",
+            "subjectCode": "EDU"
+        },
+        "instructor": [
+            {
+                "lastName": "Jimenez-Silva",
+                "instructorName": "M. Jimenez-Silva",
+                "firstName": "Margarita",
+                "instructorEmail": "mjimenezsilva@ucdavis.edu",
+                "fullName": "Margarita Jimenez-Silva"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Selected topics in education. Designed to facilitate preparation for the qualifying examination or dissertation. Students will critically analyze scholarly work including their own works in progress.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "0900",
+                "building": "Academic Surge Bldg.",
+                "description": "Variable",
+                "buildingCode": "ACADSR",
+                "saturday": false,
+                "type": "VAR",
+                "room": "02362"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "EDU 292",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "001",
+            "printCRN": "@",
+            "unitsHigh": 4,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Topics in Education",
+            "subjectDesc": "Education",
+            "courseNum": "292",
+            "hidCRN": "084BC1C6ED",
+            "crn": "55783",
+            "subjectCode": "EDU"
+        },
+        "instructor": [
+            {
+                "lastName": "Wilkes",
+                "instructorName": "C. Wilkes",
+                "firstName": "Charles",
+                "instructorEmail": "cwilkes@ucdavis.edu",
+                "fullName": "Charles Wilkes"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Selected topics in education. Designed to facilitate preparation for the qualifying examination or dissertation. Students will critically analyze scholarly work including their own works in progress.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "0900",
+                "building": "Academic Surge Bldg.",
+                "description": "Variable",
+                "buildingCode": "ACADSR",
+                "saturday": false,
+                "type": "VAR",
+                "room": "02362"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "EDU 292",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "002",
+            "printCRN": "@",
+            "unitsHigh": 4,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Topics in Education",
+            "subjectDesc": "Education",
+            "courseNum": "292",
+            "hidCRN": "084BC1C6EA",
+            "crn": "55784",
+            "subjectCode": "EDU"
+        },
+        "instructor": [
+            {
+                "lastName": "Gee",
+                "instructorName": "K. Gee",
+                "firstName": "Kevin",
+                "instructorEmail": "kagee@ucdavis.edu",
+                "fullName": "Kevin Gee"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Selected topics in education. Designed to facilitate preparation for the qualifying examination or dissertation. Students will critically analyze scholarly work including their own works in progress.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1250",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "1000",
+                "building": "Academic Surge Bldg.",
+                "description": "Variable",
+                "buildingCode": "ACADSR",
+                "saturday": false,
+                "type": "VAR",
+                "room": "02362"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "EDU 292",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "003",
+            "printCRN": "@",
+            "unitsHigh": 4,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Topics in Education",
+            "subjectDesc": "Education",
+            "courseNum": "292",
+            "hidCRN": "084BC1C6EB",
+            "crn": "55785",
+            "subjectCode": "EDU"
+        },
+        "instructor": [
+            {
+                "lastName": "Higgs",
+                "instructorName": "J. Higgs",
+                "firstName": "Jennifer",
+                "instructorEmail": "jmhiggs@ucdavis.edu",
+                "fullName": "Jennifer Higgs"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Selected topics in education. Designed to facilitate preparation for the qualifying examination or dissertation. Students will critically analyze scholarly work including their own works in progress.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "1310",
+                "building": "Academic Surge Bldg.",
+                "description": "Variable",
+                "buildingCode": "ACADSR",
+                "saturday": false,
+                "type": "VAR",
+                "room": "02362"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "EDU 292",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "004",
+            "printCRN": "@",
+            "unitsHigh": 4,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Topics in Education",
+            "subjectDesc": "Education",
+            "courseNum": "292",
+            "hidCRN": "084BC1C6E8",
+            "crn": "55786",
+            "subjectCode": "EDU"
+        },
+        "instructor": [
+            {
+                "lastName": "Albano",
+                "instructorName": "A. Albano",
+                "firstName": "Anthony",
+                "instructorEmail": "adalbano@ucdavis.edu",
+                "fullName": "Anthony Albano"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Individual study.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "EDU 399",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Individual Study",
+            "subjectDesc": "Education",
+            "courseNum": "399",
+            "hidCRN": "0E46CECFEE",
+            "crn": "38810",
+            "subjectCode": "EDU"
+        },
+        "instructor": [
+            {
+                "lastName": "",
+                "instructorName": ". ",
+                "firstName": "",
+                "instructorEmail": "",
+                "fullName": " "
+            }
+        ]
+    }
+]

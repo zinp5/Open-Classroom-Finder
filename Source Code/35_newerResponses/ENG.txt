@@ -1,0 +1,4804 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to the engineering design process that incorporates the development of oral and written communication skills  integral to the design process. Conducted in workshop format with hands-on engagement in the design process.",
+            "creditLimit": "",
+            "ge3": "OL,SE,SS",
+            "crossListing": "",
+            "prereq": " Completion of Entry Level Writing Requirement (ELWR)."
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "0",
+                "startTime": "0900",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00000"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "S",
+                "startTime": "1000",
+                "building": "Kemper Hall",
+                "description": "Studio",
+                "buildingCode": "KEMPER",
+                "saturday": false,
+                "type": "STD",
+                "room": "01065"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "8",
+                "startTime": "",
+                "building": "",
+                "description": "Term Project",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "PRJ",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ENG 003Y A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "39465",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introduction to Engineering Design",
+            "subjectDesc": "Engineering",
+            "courseNum": "003Y",
+            "hidCRN": "39465",
+            "crn": "39465",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "Vuong",
+                "instructorName": "V. Vuong",
+                "firstName": "Vivian",
+                "instructorEmail": "vlvuong@ucdavis.edu",
+                "fullName": "Vivian Vuong"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to the engineering design process that incorporates the development of oral and written communication skills  integral to the design process. Conducted in workshop format with hands-on engagement in the design process.",
+            "creditLimit": "",
+            "ge3": "OL,SE,SS",
+            "crossListing": "",
+            "prereq": " Completion of Entry Level Writing Requirement (ELWR)."
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "0",
+                "startTime": "0900",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00000"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "S",
+                "startTime": "1210",
+                "building": "Kemper Hall",
+                "description": "Studio",
+                "buildingCode": "KEMPER",
+                "saturday": false,
+                "type": "STD",
+                "room": "01065"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "8",
+                "startTime": "",
+                "building": "",
+                "description": "Term Project",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "PRJ",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ENG 003Y A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "39466",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introduction to Engineering Design",
+            "subjectDesc": "Engineering",
+            "courseNum": "003Y",
+            "hidCRN": "39466",
+            "crn": "39466",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "Vuong",
+                "instructorName": "V. Vuong",
+                "firstName": "Vivian",
+                "instructorEmail": "vlvuong@ucdavis.edu",
+                "fullName": "Vivian Vuong"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to the engineering design process that incorporates the development of oral and written communication skills  integral to the design process. Conducted in workshop format with hands-on engagement in the design process.",
+            "creditLimit": "",
+            "ge3": "OL,SE,SS",
+            "crossListing": "",
+            "prereq": " Completion of Entry Level Writing Requirement (ELWR)."
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "0",
+                "startTime": "0900",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00000"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "S",
+                "startTime": "1410",
+                "building": "Kemper Hall",
+                "description": "Studio",
+                "buildingCode": "KEMPER",
+                "saturday": false,
+                "type": "STD",
+                "room": "01065"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "8",
+                "startTime": "",
+                "building": "",
+                "description": "Term Project",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "PRJ",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ENG 003Y A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "39467",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introduction to Engineering Design",
+            "subjectDesc": "Engineering",
+            "courseNum": "003Y",
+            "hidCRN": "39467",
+            "crn": "39467",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "Vuong",
+                "instructorName": "V. Vuong",
+                "firstName": "Vivian",
+                "instructorEmail": "vlvuong@ucdavis.edu",
+                "fullName": "Vivian Vuong"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to the engineering design process that incorporates the development of oral and written communication skills  integral to the design process. Conducted in workshop format with hands-on engagement in the design process.",
+            "creditLimit": "",
+            "ge3": "OL,SE,SS",
+            "crossListing": "",
+            "prereq": " Completion of Entry Level Writing Requirement (ELWR)."
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "0",
+                "startTime": "0900",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00000"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "8",
+                "startTime": "",
+                "building": "",
+                "description": "Term Project",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "PRJ",
+                "room": ""
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1250",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "S",
+                "startTime": "1100",
+                "building": "Kemper Hall",
+                "description": "Studio",
+                "buildingCode": "KEMPER",
+                "saturday": false,
+                "type": "STD",
+                "room": "01065"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ENG 003Y A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "39468",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introduction to Engineering Design",
+            "subjectDesc": "Engineering",
+            "courseNum": "003Y",
+            "hidCRN": "39468",
+            "crn": "39468",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "Vuong",
+                "instructorName": "V. Vuong",
+                "firstName": "Vivian",
+                "instructorEmail": "vlvuong@ucdavis.edu",
+                "fullName": "Vivian Vuong"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to the engineering design process that incorporates the development of oral and written communication skills  integral to the design process. Conducted in workshop format with hands-on engagement in the design process.",
+            "creditLimit": "",
+            "ge3": "OL,SE,SS",
+            "crossListing": "",
+            "prereq": " Completion of Entry Level Writing Requirement (ELWR)."
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "0",
+                "startTime": "0900",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00000"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "8",
+                "startTime": "",
+                "building": "",
+                "description": "Term Project",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "PRJ",
+                "room": ""
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "S",
+                "startTime": "1410",
+                "building": "Kemper Hall",
+                "description": "Studio",
+                "buildingCode": "KEMPER",
+                "saturday": false,
+                "type": "STD",
+                "room": "01065"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ENG 003Y A05",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A05",
+            "printCRN": "39469",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introduction to Engineering Design",
+            "subjectDesc": "Engineering",
+            "courseNum": "003Y",
+            "hidCRN": "39469",
+            "crn": "39469",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "Vuong",
+                "instructorName": "V. Vuong",
+                "firstName": "Vivian",
+                "instructorEmail": "vlvuong@ucdavis.edu",
+                "fullName": "Vivian Vuong"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to the engineering design process that incorporates the development of oral and written communication skills  integral to the design process. Conducted in workshop format with hands-on engagement in the design process.",
+            "creditLimit": "",
+            "ge3": "OL,SE,SS",
+            "crossListing": "",
+            "prereq": " Completion of Entry Level Writing Requirement (ELWR)."
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "0",
+                "startTime": "0900",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00000"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "S",
+                "startTime": "1000",
+                "building": "Kemper Hall",
+                "description": "Studio",
+                "buildingCode": "KEMPER",
+                "saturday": false,
+                "type": "STD",
+                "room": "01065"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "8",
+                "startTime": "",
+                "building": "",
+                "description": "Term Project",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "PRJ",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ENG 003Y A06",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A06",
+            "printCRN": "39470",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introduction to Engineering Design",
+            "subjectDesc": "Engineering",
+            "courseNum": "003Y",
+            "hidCRN": "39470",
+            "crn": "39470",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "Vuong",
+                "instructorName": "V. Vuong",
+                "firstName": "Vivian",
+                "instructorEmail": "vlvuong@ucdavis.edu",
+                "fullName": "Vivian Vuong"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to the engineering design process that incorporates the development of oral and written communication skills  integral to the design process. Conducted in workshop format with hands-on engagement in the design process.",
+            "creditLimit": "",
+            "ge3": "OL,SE,SS",
+            "crossListing": "",
+            "prereq": " Completion of Entry Level Writing Requirement (ELWR)."
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "0",
+                "startTime": "0900",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00000"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "S",
+                "startTime": "1210",
+                "building": "Kemper Hall",
+                "description": "Studio",
+                "buildingCode": "KEMPER",
+                "saturday": false,
+                "type": "STD",
+                "room": "01065"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "8",
+                "startTime": "",
+                "building": "",
+                "description": "Term Project",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "PRJ",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ENG 003Y A07",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A07",
+            "printCRN": "39471",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introduction to Engineering Design",
+            "subjectDesc": "Engineering",
+            "courseNum": "003Y",
+            "hidCRN": "39471",
+            "crn": "39471",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "Vuong",
+                "instructorName": "V. Vuong",
+                "firstName": "Vivian",
+                "instructorEmail": "vlvuong@ucdavis.edu",
+                "fullName": "Vivian Vuong"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to the engineering design process that incorporates the development of oral and written communication skills  integral to the design process. Conducted in workshop format with hands-on engagement in the design process.",
+            "creditLimit": "",
+            "ge3": "OL,SE,SS",
+            "crossListing": "",
+            "prereq": " Completion of Entry Level Writing Requirement (ELWR)."
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "0",
+                "startTime": "0900",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00000"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "S",
+                "startTime": "1410",
+                "building": "Kemper Hall",
+                "description": "Studio",
+                "buildingCode": "KEMPER",
+                "saturday": false,
+                "type": "STD",
+                "room": "01065"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "8",
+                "startTime": "",
+                "building": "",
+                "description": "Term Project",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "PRJ",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ENG 003Y A08",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A08",
+            "printCRN": "39472",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introduction to Engineering Design",
+            "subjectDesc": "Engineering",
+            "courseNum": "003Y",
+            "hidCRN": "39472",
+            "crn": "39472",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "Vuong",
+                "instructorName": "V. Vuong",
+                "firstName": "Vivian",
+                "instructorEmail": "vlvuong@ucdavis.edu",
+                "fullName": "Vivian Vuong"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Methodology for solving engineering problems. Engineering computing and visualization based on MATLAB. Engineering examples and applications.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " (MAT 017A C- or better or MAT 016A C- or better or MAT 019A C- or better or MAT 021A C- or better);  (MAT 017B C- or better { can be concurrent } or MAT 016B C- or better { can be concurrent } or MAT 019B C- or better { can be concurrent } or MAT 021B C- or better { can be concurrent })"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2000",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1910",
+                "building": "Academic Surge Bldg.",
+                "description": "Laboratory",
+                "buildingCode": "ACADSR",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01116"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1850",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1710",
+                "building": "Peter A Rock Hall",
+                "description": "Lecture",
+                "buildingCode": "ROCK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00194"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ENG 006 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "39473",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Engineering Problem Solving",
+            "subjectDesc": "Engineering",
+            "courseNum": "006",
+            "hidCRN": "39473",
+            "crn": "39473",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "Olowogemo",
+                "instructorName": "S. Olowogemo",
+                "firstName": "Semiu",
+                "instructorEmail": "solowogemo@ucdavis.edu",
+                "fullName": "Semiu Olowogemo"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Methodology for solving engineering problems. Engineering computing and visualization based on MATLAB. Engineering examples and applications.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " (MAT 017A C- or better or MAT 016A C- or better or MAT 019A C- or better or MAT 021A C- or better);  (MAT 017B C- or better { can be concurrent } or MAT 016B C- or better { can be concurrent } or MAT 019B C- or better { can be concurrent } or MAT 021B C- or better { can be concurrent })"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2000",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1910",
+                "building": "Academic Surge Bldg.",
+                "description": "Laboratory",
+                "buildingCode": "ACADSR",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01116"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1850",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1710",
+                "building": "Peter A Rock Hall",
+                "description": "Lecture",
+                "buildingCode": "ROCK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00194"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ENG 006 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "39474",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Engineering Problem Solving",
+            "subjectDesc": "Engineering",
+            "courseNum": "006",
+            "hidCRN": "39474",
+            "crn": "39474",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "Olowogemo",
+                "instructorName": "S. Olowogemo",
+                "firstName": "Semiu",
+                "instructorEmail": "solowogemo@ucdavis.edu",
+                "fullName": "Semiu Olowogemo"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Methodology for solving engineering problems. Engineering computing and visualization based on MATLAB. Engineering examples and applications.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " (MAT 017A C- or better or MAT 016A C- or better or MAT 019A C- or better or MAT 021A C- or better);  (MAT 017B C- or better { can be concurrent } or MAT 016B C- or better { can be concurrent } or MAT 019B C- or better { can be concurrent } or MAT 021B C- or better { can be concurrent })"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1900",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "C",
+                "startTime": "1810",
+                "building": "Academic Surge Bldg.",
+                "description": "Laboratory",
+                "buildingCode": "ACADSR",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01116"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1850",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1710",
+                "building": "Peter A Rock Hall",
+                "description": "Lecture",
+                "buildingCode": "ROCK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00194"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ENG 006 A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "39475",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Engineering Problem Solving",
+            "subjectDesc": "Engineering",
+            "courseNum": "006",
+            "hidCRN": "39475",
+            "crn": "39475",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "Olowogemo",
+                "instructorName": "S. Olowogemo",
+                "firstName": "Semiu",
+                "instructorEmail": "solowogemo@ucdavis.edu",
+                "fullName": "Semiu Olowogemo"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Methodology for solving engineering problems. Engineering computing and visualization based on MATLAB. Engineering examples and applications.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " (MAT 017A C- or better or MAT 016A C- or better or MAT 019A C- or better or MAT 021A C- or better);  (MAT 017B C- or better { can be concurrent } or MAT 016B C- or better { can be concurrent } or MAT 019B C- or better { can be concurrent } or MAT 021B C- or better { can be concurrent })"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1850",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1710",
+                "building": "Peter A Rock Hall",
+                "description": "Lecture",
+                "buildingCode": "ROCK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00194"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1610",
+                "building": "Academic Surge Bldg.",
+                "description": "Laboratory",
+                "buildingCode": "ACADSR",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01116"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ENG 006 A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "39476",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Engineering Problem Solving",
+            "subjectDesc": "Engineering",
+            "courseNum": "006",
+            "hidCRN": "39476",
+            "crn": "39476",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "Olowogemo",
+                "instructorName": "S. Olowogemo",
+                "firstName": "Semiu",
+                "instructorEmail": "solowogemo@ucdavis.edu",
+                "fullName": "Semiu Olowogemo"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Methodology for solving engineering problems. Engineering computing and visualization based on MATLAB. Engineering examples and applications.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " (MAT 017A C- or better or MAT 016A C- or better or MAT 019A C- or better or MAT 021A C- or better);  (MAT 017B C- or better { can be concurrent } or MAT 016B C- or better { can be concurrent } or MAT 019B C- or better { can be concurrent } or MAT 021B C- or better { can be concurrent })"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "C",
+                "startTime": "1510",
+                "building": "Academic Surge Bldg.",
+                "description": "Laboratory",
+                "buildingCode": "ACADSR",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01116"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1850",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1710",
+                "building": "Peter A Rock Hall",
+                "description": "Lecture",
+                "buildingCode": "ROCK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00194"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ENG 006 A05",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A05",
+            "printCRN": "39477",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Engineering Problem Solving",
+            "subjectDesc": "Engineering",
+            "courseNum": "006",
+            "hidCRN": "39477",
+            "crn": "39477",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "Olowogemo",
+                "instructorName": "S. Olowogemo",
+                "firstName": "Semiu",
+                "instructorEmail": "solowogemo@ucdavis.edu",
+                "fullName": "Semiu Olowogemo"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Methodology for solving engineering problems. Engineering computing and visualization based on MATLAB. Engineering examples and applications.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " (MAT 017A C- or better or MAT 016A C- or better or MAT 019A C- or better or MAT 021A C- or better);  (MAT 017B C- or better { can be concurrent } or MAT 016B C- or better { can be concurrent } or MAT 019B C- or better { can be concurrent } or MAT 021B C- or better { can be concurrent })"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2000",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "C",
+                "startTime": "1910",
+                "building": "Academic Surge Bldg.",
+                "description": "Laboratory",
+                "buildingCode": "ACADSR",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01116"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1850",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1710",
+                "building": "Peter A Rock Hall",
+                "description": "Lecture",
+                "buildingCode": "ROCK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00194"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ENG 006 A06",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A06",
+            "printCRN": "39478",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Engineering Problem Solving",
+            "subjectDesc": "Engineering",
+            "courseNum": "006",
+            "hidCRN": "39478",
+            "crn": "39478",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "Olowogemo",
+                "instructorName": "S. Olowogemo",
+                "firstName": "Semiu",
+                "instructorEmail": "solowogemo@ucdavis.edu",
+                "fullName": "Semiu Olowogemo"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Methodology for solving engineering problems. Engineering computing and visualization based on MATLAB. Engineering examples and applications.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " (MAT 017A C- or better or MAT 016A C- or better or MAT 019A C- or better or MAT 021A C- or better);  (MAT 017B C- or better { can be concurrent } or MAT 016B C- or better { can be concurrent } or MAT 019B C- or better { can be concurrent } or MAT 021B C- or better { can be concurrent })"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1850",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1710",
+                "building": "Peter A Rock Hall",
+                "description": "Lecture",
+                "buildingCode": "ROCK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00194"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2000",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1910",
+                "building": "Academic Surge Bldg.",
+                "description": "Laboratory",
+                "buildingCode": "ACADSR",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01116"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ENG 006 A07",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A07",
+            "printCRN": "39479",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Engineering Problem Solving",
+            "subjectDesc": "Engineering",
+            "courseNum": "006",
+            "hidCRN": "39479",
+            "crn": "39479",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "Olowogemo",
+                "instructorName": "S. Olowogemo",
+                "firstName": "Semiu",
+                "instructorEmail": "solowogemo@ucdavis.edu",
+                "fullName": "Semiu Olowogemo"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Methodology for solving engineering problems. Engineering computing and visualization based on MATLAB. Engineering examples and applications.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " (MAT 017A C- or better or MAT 016A C- or better or MAT 019A C- or better or MAT 021A C- or better);  (MAT 017B C- or better { can be concurrent } or MAT 016B C- or better { can be concurrent } or MAT 019B C- or better { can be concurrent } or MAT 021B C- or better { can be concurrent })"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1210",
+                "building": "Academic Surge Bldg.",
+                "description": "Laboratory",
+                "buildingCode": "ACADSR",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01116"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1850",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1710",
+                "building": "Peter A Rock Hall",
+                "description": "Lecture",
+                "buildingCode": "ROCK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00194"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ENG 006 A08",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A08",
+            "printCRN": "39480",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Engineering Problem Solving",
+            "subjectDesc": "Engineering",
+            "courseNum": "006",
+            "hidCRN": "39480",
+            "crn": "39480",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "Olowogemo",
+                "instructorName": "S. Olowogemo",
+                "firstName": "Semiu",
+                "instructorEmail": "solowogemo@ucdavis.edu",
+                "fullName": "Semiu Olowogemo"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Methodology for solving engineering problems. Engineering computing and visualization based on MATLAB. Engineering examples and applications.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " (MAT 017A C- or better or MAT 016A C- or better or MAT 019A C- or better or MAT 021A C- or better);  (MAT 017B C- or better { can be concurrent } or MAT 016B C- or better { can be concurrent } or MAT 019B C- or better { can be concurrent } or MAT 021B C- or better { can be concurrent })"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1850",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1710",
+                "building": "Peter A Rock Hall",
+                "description": "Lecture",
+                "buildingCode": "ROCK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00194"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2000",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1910",
+                "building": "Academic Surge Bldg.",
+                "description": "Laboratory",
+                "buildingCode": "ACADSR",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01116"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ENG 006 A09",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A09",
+            "printCRN": "39481",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Engineering Problem Solving",
+            "subjectDesc": "Engineering",
+            "courseNum": "006",
+            "hidCRN": "39481",
+            "crn": "39481",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "Olowogemo",
+                "instructorName": "S. Olowogemo",
+                "firstName": "Semiu",
+                "instructorEmail": "solowogemo@ucdavis.edu",
+                "fullName": "Semiu Olowogemo"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Methodology for solving engineering problems. Engineering computing and visualization based on MATLAB. Engineering examples and applications.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " (MAT 017A C- or better or MAT 016A C- or better or MAT 019A C- or better or MAT 021A C- or better);  (MAT 017B C- or better { can be concurrent } or MAT 016B C- or better { can be concurrent } or MAT 019B C- or better { can be concurrent } or MAT 021B C- or better { can be concurrent })"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "C",
+                "startTime": "0900",
+                "building": "Academic Surge Bldg.",
+                "description": "Laboratory",
+                "buildingCode": "ACADSR",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01116"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1850",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1710",
+                "building": "Peter A Rock Hall",
+                "description": "Lecture",
+                "buildingCode": "ROCK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00194"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ENG 006 A10",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A10",
+            "printCRN": "39482",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Engineering Problem Solving",
+            "subjectDesc": "Engineering",
+            "courseNum": "006",
+            "hidCRN": "39482",
+            "crn": "39482",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "Olowogemo",
+                "instructorName": "S. Olowogemo",
+                "firstName": "Semiu",
+                "instructorEmail": "solowogemo@ucdavis.edu",
+                "fullName": "Semiu Olowogemo"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Methodology for solving engineering problems. Engineering computing and visualization based on MATLAB. Engineering examples and applications.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " (MAT 017A C- or better or MAT 016A C- or better or MAT 019A C- or better or MAT 021A C- or better);  (MAT 017B C- or better { can be concurrent } or MAT 016B C- or better { can be concurrent } or MAT 019B C- or better { can be concurrent } or MAT 021B C- or better { can be concurrent })"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1850",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1710",
+                "building": "Peter A Rock Hall",
+                "description": "Lecture",
+                "buildingCode": "ROCK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00194"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1710",
+                "building": "Academic Surge Bldg.",
+                "description": "Laboratory",
+                "buildingCode": "ACADSR",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01116"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ENG 006 A11",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A11",
+            "printCRN": "39483",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Engineering Problem Solving",
+            "subjectDesc": "Engineering",
+            "courseNum": "006",
+            "hidCRN": "39483",
+            "crn": "39483",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "Olowogemo",
+                "instructorName": "S. Olowogemo",
+                "firstName": "Semiu",
+                "instructorEmail": "solowogemo@ucdavis.edu",
+                "fullName": "Semiu Olowogemo"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Students from all majors will learn the processes involved in modern entrepreneurship and identify an opportunity for innovation. The 3 C's of the entrepreneurial mindset (developed by KEEN) will be covered: Curiosity, Connections, and Creating Values. ",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00002"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ENG 008 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "39484",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Entrepreneurship",
+            "subjectDesc": "Engineering",
+            "courseNum": "008",
+            "hidCRN": "39484",
+            "crn": "39484",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "Anderson",
+                "instructorName": "A. Anderson",
+                "firstName": "Aaron",
+                "instructorEmail": "aaranderson@ucdavis.edu",
+                "fullName": "Aaron Anderson"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Basic electric circuit analysis techniques, including electrical quantities and elements, resistive circuits, transient and steady-state responses of RLC circuits, sinusoidal excitation and phasors, and complex frequency and network functions.",
+            "creditLimit": "",
+            "ge3": "SE,VL",
+            "crossListing": "",
+            "prereq": " MAT 021C;  C- or better recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01002"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1640",
+                "building": "Giedt",
+                "description": "Discussion",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01002"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ENG 017 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "39486",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Circuits I",
+            "subjectDesc": "Engineering",
+            "courseNum": "017",
+            "hidCRN": "39486",
+            "crn": "39486",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "Kolner",
+                "instructorName": "B. Kolner",
+                "firstName": "Brian",
+                "instructorEmail": "bhkolner@ucdavis.edu",
+                "fullName": "Brian Kolner"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Force systems and equilibrium conditions with emphasis on engineering problems.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " (PHY 009A C- or better or PHY 009HA C- or better);  MAT 021D C- or better { can be concurrent }"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1640",
+                "building": "Hunt",
+                "description": "Lecture",
+                "buildingCode": "HUNT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00100"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0900",
+                "building": "Giedt",
+                "description": "Discussion",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01006"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ENG 035 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "39489",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Statics",
+            "subjectDesc": "Engineering",
+            "courseNum": "035",
+            "hidCRN": "39489",
+            "crn": "39489",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "Velagic",
+                "instructorName": "D. Velagic",
+                "firstName": "Deni",
+                "instructorEmail": "dvelagic@ucdavis.edu",
+                "fullName": "Deni Velagic"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Force systems and equilibrium conditions with emphasis on engineering problems.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " (PHY 009A C- or better or PHY 009HA C- or better);  MAT 021D C- or better { can be concurrent }"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1640",
+                "building": "Hunt",
+                "description": "Lecture",
+                "buildingCode": "HUNT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00100"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1000",
+                "building": "Teaching and Learning Complex",
+                "description": "Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01212"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ENG 035 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "39490",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Statics",
+            "subjectDesc": "Engineering",
+            "courseNum": "035",
+            "hidCRN": "39490",
+            "crn": "39490",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "Velagic",
+                "instructorName": "D. Velagic",
+                "firstName": "Deni",
+                "instructorEmail": "dvelagic@ucdavis.edu",
+                "fullName": "Deni Velagic"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Force systems and equilibrium conditions with emphasis on engineering problems.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " (PHY 009A C- or better or PHY 009HA C- or better);  MAT 021D C- or better { can be concurrent }"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1640",
+                "building": "Hunt",
+                "description": "Lecture",
+                "buildingCode": "HUNT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00100"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1100",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00163"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ENG 035 A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "39491",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Statics",
+            "subjectDesc": "Engineering",
+            "courseNum": "035",
+            "hidCRN": "39491",
+            "crn": "39491",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "Velagic",
+                "instructorName": "D. Velagic",
+                "firstName": "Deni",
+                "instructorEmail": "dvelagic@ucdavis.edu",
+                "fullName": "Deni Velagic"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Force systems and equilibrium conditions with emphasis on engineering problems.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " (PHY 009A C- or better or PHY 009HA C- or better);  MAT 021D C- or better { can be concurrent }"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1640",
+                "building": "Hunt",
+                "description": "Lecture",
+                "buildingCode": "HUNT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00100"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1210",
+                "building": "Teaching and Learning Complex",
+                "description": "Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "03210"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ENG 035 A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "39492",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Statics",
+            "subjectDesc": "Engineering",
+            "courseNum": "035",
+            "hidCRN": "39492",
+            "crn": "39492",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "Velagic",
+                "instructorName": "D. Velagic",
+                "firstName": "Deni",
+                "instructorEmail": "dvelagic@ucdavis.edu",
+                "fullName": "Deni Velagic"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Force systems and equilibrium conditions with emphasis on engineering problems.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " (PHY 009A C- or better or PHY 009HA C- or better);  MAT 021D C- or better { can be concurrent }"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1640",
+                "building": "Hunt",
+                "description": "Lecture",
+                "buildingCode": "HUNT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00100"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1310",
+                "building": "Teaching and Learning Complex",
+                "description": "Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01212"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ENG 035 A05",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A05",
+            "printCRN": "39493",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Statics",
+            "subjectDesc": "Engineering",
+            "courseNum": "035",
+            "hidCRN": "39493",
+            "crn": "39493",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "Velagic",
+                "instructorName": "D. Velagic",
+                "firstName": "Deni",
+                "instructorEmail": "dvelagic@ucdavis.edu",
+                "fullName": "Deni Velagic"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to the properties of engineering materials and their relation to the internal structure of materials.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " (MAT 017C C- or better or MAT 016C C- or better or MAT 019C C- or better or MAT 021C C- or better);  (CHE 002B C- or better or CHE 004A C- or better);  (PHY 007B C- or better or PHY 009A C- or better or PHY 009HA C- or better)"
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1100",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01003"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1410",
+                "building": "Kemper Hall",
+                "description": "Laboratory",
+                "buildingCode": "KEMPER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00163"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ENG 045 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "39495",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Properties of Materials",
+            "subjectDesc": "Engineering",
+            "courseNum": "045",
+            "hidCRN": "39495",
+            "crn": "39495",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "Takamura",
+                "instructorName": "Y. Takamura",
+                "firstName": "Yayoi",
+                "instructorEmail": "ytakamura@ucdavis.edu",
+                "fullName": "Yayoi Takamura"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to the properties of engineering materials and their relation to the internal structure of materials.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " (MAT 017C C- or better or MAT 016C C- or better or MAT 019C C- or better or MAT 021C C- or better);  (CHE 002B C- or better or CHE 004A C- or better);  (PHY 007B C- or better or PHY 009A C- or better or PHY 009HA C- or better)"
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1100",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01003"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1900",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1610",
+                "building": "Kemper Hall",
+                "description": "Laboratory",
+                "buildingCode": "KEMPER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00163"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ENG 045 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "39496",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Properties of Materials",
+            "subjectDesc": "Engineering",
+            "courseNum": "045",
+            "hidCRN": "39496",
+            "crn": "39496",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "Takamura",
+                "instructorName": "Y. Takamura",
+                "firstName": "Yayoi",
+                "instructorEmail": "ytakamura@ucdavis.edu",
+                "fullName": "Yayoi Takamura"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to the properties of engineering materials and their relation to the internal structure of materials.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " (MAT 017C C- or better or MAT 016C C- or better or MAT 019C C- or better or MAT 021C C- or better);  (CHE 002B C- or better or CHE 004A C- or better);  (PHY 007B C- or better or PHY 009A C- or better or PHY 009HA C- or better)"
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1310",
+                "building": "Kemper Hall",
+                "description": "Laboratory",
+                "buildingCode": "KEMPER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00163"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1100",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01003"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ENG 045 A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "39497",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Properties of Materials",
+            "subjectDesc": "Engineering",
+            "courseNum": "045",
+            "hidCRN": "39497",
+            "crn": "39497",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "Takamura",
+                "instructorName": "Y. Takamura",
+                "firstName": "Yayoi",
+                "instructorEmail": "ytakamura@ucdavis.edu",
+                "fullName": "Yayoi Takamura"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed group study.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ENG 098",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 4,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study",
+            "subjectDesc": "Engineering",
+            "courseNum": "098",
+            "hidCRN": "0E47C2C7E7",
+            "crn": "39499",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed group study.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "1310",
+                "building": "Bainer Hall",
+                "description": "Variable",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "VAR",
+                "room": "01122"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ENG 098",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "001",
+            "printCRN": "@",
+            "unitsHigh": 4,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study",
+            "subjectDesc": "Engineering",
+            "courseNum": "098",
+            "hidCRN": "0E47C3CEEE",
+            "crn": "39500",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "Aldredge",
+                "instructorName": "R. Aldredge",
+                "firstName": "Ralph",
+                "instructorEmail": "rcaldredge@ucdavis.edu",
+                "fullName": "Ralph Aldredge"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed group study.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "",
+                "startTime": "",
+                "building": "",
+                "description": "",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ENG 098",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "006",
+            "printCRN": "@",
+            "unitsHigh": 4,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study",
+            "subjectDesc": "Engineering",
+            "courseNum": "098",
+            "hidCRN": "0E47C3CEED",
+            "crn": "39503",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "",
+                "instructorName": ". ",
+                "firstName": "",
+                "instructorEmail": "",
+                "fullName": " "
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to analog and digital circuit and system design through hands on laboratory design projects. ",
+            "creditLimit": "Students who have completed EEC 100 may receive only 1.5 units of credit.",
+            "ge3": "SE,VL",
+            "crossListing": "",
+            "prereq": " ENG 017;  C- or better recommended. "
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1710",
+                "building": "Walker Hall",
+                "description": "Lecture",
+                "buildingCode": "WALKER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01330"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0900",
+                "building": "Kemper Hall",
+                "description": "Laboratory",
+                "buildingCode": "KEMPER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02161"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ENG 100 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "39504",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Electronic Circuits & Systems",
+            "subjectDesc": "Engineering",
+            "courseNum": "100",
+            "hidCRN": "39504",
+            "crn": "39504",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "Al-Asaad",
+                "instructorName": "H. Al-Asaad",
+                "firstName": "Hussain",
+                "instructorEmail": "hsalasaad@ucdavis.edu",
+                "fullName": "Hussain Al-Asaad"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to analog and digital circuit and system design through hands on laboratory design projects. ",
+            "creditLimit": "Students who have completed EEC 100 may receive only 1.5 units of credit.",
+            "ge3": "SE,VL",
+            "crossListing": "",
+            "prereq": " ENG 017;  C- or better recommended. "
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1410",
+                "building": "Kemper Hall",
+                "description": "Laboratory",
+                "buildingCode": "KEMPER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02161"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1710",
+                "building": "Walker Hall",
+                "description": "Lecture",
+                "buildingCode": "WALKER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01330"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ENG 100 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "39505",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Electronic Circuits & Systems",
+            "subjectDesc": "Engineering",
+            "courseNum": "100",
+            "hidCRN": "39505",
+            "crn": "39505",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "Al-Asaad",
+                "instructorName": "H. Al-Asaad",
+                "firstName": "Hussain",
+                "instructorEmail": "hsalasaad@ucdavis.edu",
+                "fullName": "Hussain Al-Asaad"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Kinematics and kinetics of particles, systems of particles, and of rigid bodies; application of these topics are applied to engineering problems.",
+            "creditLimit": "Only 2 units of credit allowed to students who have previously taken ENG 036.",
+            "ge3": "SE,VL",
+            "crossListing": "",
+            "prereq": " ENG 035 C- or better;  (MAT 022B C- or better or MAT 027B C- or better)"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "0800",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01003"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1610",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00244"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ENG 102 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "39506",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Dynamics",
+            "subjectDesc": "Engineering",
+            "courseNum": "102",
+            "hidCRN": "39506",
+            "crn": "39506",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "Kong",
+                "instructorName": "Z. Kong",
+                "firstName": "Zhaodan",
+                "instructorEmail": "zdkong@ucdavis.edu",
+                "fullName": "Zhaodan Kong"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Kinematics and kinetics of particles, systems of particles, and of rigid bodies; application of these topics are applied to engineering problems.",
+            "creditLimit": "Only 2 units of credit allowed to students who have previously taken ENG 036.",
+            "ge3": "SE,VL",
+            "crossListing": "",
+            "prereq": " ENG 035 C- or better;  (MAT 022B C- or better or MAT 027B C- or better)"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0850",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0800",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00203"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "0800",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01003"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ENG 102 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "39507",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Dynamics",
+            "subjectDesc": "Engineering",
+            "courseNum": "102",
+            "hidCRN": "39507",
+            "crn": "39507",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "Kong",
+                "instructorName": "Z. Kong",
+                "firstName": "Zhaodan",
+                "instructorEmail": "zdkong@ucdavis.edu",
+                "fullName": "Zhaodan Kong"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Kinematics and kinetics of particles, systems of particles, and of rigid bodies; application of these topics are applied to engineering problems.",
+            "creditLimit": "Only 2 units of credit allowed to students who have previously taken ENG 036.",
+            "ge3": "SE,VL",
+            "crossListing": "",
+            "prereq": " ENG 035 C- or better;  (MAT 022B C- or better or MAT 027B C- or better)"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "0800",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01003"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1710",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00151"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ENG 102 A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "39508",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Dynamics",
+            "subjectDesc": "Engineering",
+            "courseNum": "102",
+            "hidCRN": "39508",
+            "crn": "39508",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "Kong",
+                "instructorName": "Z. Kong",
+                "firstName": "Zhaodan",
+                "instructorEmail": "zdkong@ucdavis.edu",
+                "fullName": "Zhaodan Kong"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Kinematics and kinetics of particles, systems of particles, and of rigid bodies; application of these topics are applied to engineering problems.",
+            "creditLimit": "Only 2 units of credit allowed to students who have previously taken ENG 036.",
+            "ge3": "SE,VL",
+            "crossListing": "",
+            "prereq": " ENG 035 C- or better;  (MAT 022B C- or better or MAT 027B C- or better)"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0900",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00203"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "0800",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01003"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ENG 102 A05",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A05",
+            "printCRN": "39509",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Dynamics",
+            "subjectDesc": "Engineering",
+            "courseNum": "102",
+            "hidCRN": "39509",
+            "crn": "39509",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "Kong",
+                "instructorName": "Z. Kong",
+                "firstName": "Zhaodan",
+                "instructorEmail": "zdkong@ucdavis.edu",
+                "fullName": "Zhaodan Kong"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Fluid properties, fluid statics, continuity and linear momentum equations for control volumes, flow of incompressible fluids in pipes, dimensional analysis and boundary-layer flows.",
+            "creditLimit": "Not open for credit to students who have completed ECH 150A.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " ENG 035 C- or better;  PHY 009B C- or better;  (MAT 022B C- or better or MAT 027B C- or better)"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1610",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01003"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1310",
+                "building": "Physics Building",
+                "description": "Discussion",
+                "buildingCode": "PHYSIC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00140"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ENG 103 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "39510",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Fluid Mechanics",
+            "subjectDesc": "Engineering",
+            "courseNum": "103",
+            "hidCRN": "39510",
+            "crn": "39510",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "Lee",
+                "instructorName": "S. Lee",
+                "firstName": "Seongkyu",
+                "instructorEmail": "skulee@ucdavis.edu",
+                "fullName": "Seongkyu Lee"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Fluid properties, fluid statics, continuity and linear momentum equations for control volumes, flow of incompressible fluids in pipes, dimensional analysis and boundary-layer flows.",
+            "creditLimit": "Not open for credit to students who have completed ECH 150A.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " ENG 035 C- or better;  PHY 009B C- or better;  (MAT 022B C- or better or MAT 027B C- or better)"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1610",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01003"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1100",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00207"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ENG 103 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "39511",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Fluid Mechanics",
+            "subjectDesc": "Engineering",
+            "courseNum": "103",
+            "hidCRN": "39511",
+            "crn": "39511",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "Lee",
+                "instructorName": "S. Lee",
+                "firstName": "Seongkyu",
+                "instructorEmail": "skulee@ucdavis.edu",
+                "fullName": "Seongkyu Lee"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Fluid properties, fluid statics, continuity and linear momentum equations for control volumes, flow of incompressible fluids in pipes, dimensional analysis and boundary-layer flows.",
+            "creditLimit": "Not open for credit to students who have completed ECH 150A.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " ENG 035 C- or better;  PHY 009B C- or better;  (MAT 022B C- or better or MAT 027B C- or better)"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1610",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01003"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1000",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00207"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ENG 103 A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "39512",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Fluid Mechanics",
+            "subjectDesc": "Engineering",
+            "courseNum": "103",
+            "hidCRN": "39512",
+            "crn": "39512",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "Lee",
+                "instructorName": "S. Lee",
+                "firstName": "Seongkyu",
+                "instructorEmail": "skulee@ucdavis.edu",
+                "fullName": "Seongkyu Lee"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Fluid properties, fluid statics, continuity and linear momentum equations for control volumes, flow of incompressible fluids in pipes, dimensional analysis and boundary-layer flows.",
+            "creditLimit": "Not open for credit to students who have completed ECH 150A.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " ENG 035 C- or better;  PHY 009B C- or better;  (MAT 022B C- or better or MAT 027B C- or better)"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1610",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01003"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1100",
+                "building": "Wickson Hall",
+                "description": "Discussion",
+                "buildingCode": "WICKSN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01020"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ENG 103 A05",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A05",
+            "printCRN": "39513",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Fluid Mechanics",
+            "subjectDesc": "Engineering",
+            "courseNum": "103",
+            "hidCRN": "39513",
+            "crn": "39513",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "Lee",
+                "instructorName": "S. Lee",
+                "firstName": "Seongkyu",
+                "instructorEmail": "skulee@ucdavis.edu",
+                "fullName": "Seongkyu Lee"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Uniaxial loading and deformation. General concepts of stress-strain-temperature relations and yield criteria. Torsion of shafts. Bending of beams. Deflections due to bending. Introduction to stability and buckling.",
+            "creditLimit": "",
+            "ge3": "QL,SE",
+            "crossListing": "",
+            "prereq": " ENG 035 C- or better;  (MAT 022B C- or better or MAT 027B C- or better)"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01002"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ENG 104 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "39514",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Mechanics of Materials",
+            "subjectDesc": "Engineering",
+            "courseNum": "104",
+            "hidCRN": "39514",
+            "crn": "39514",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "Jeremic",
+                "instructorName": "B. Jeremic",
+                "firstName": "Boris",
+                "instructorEmail": "jeremic@ucdavis.edu",
+                "fullName": "Boris Jeremic"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Experiments which illustrate the basic principles and verify the analysis procedures used in the mechanics of materials are performed using the basic tools and techniques of experimental stress analysis.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " ENG 104"
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1900",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1610",
+                "building": "Bainer Hall",
+                "description": "Laboratory",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01223"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ENG 104L 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "39515",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Mechanics of Materials Laboratory",
+            "subjectDesc": "Engineering",
+            "courseNum": "104L",
+            "hidCRN": "39515",
+            "crn": "39515",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "Bolander",
+                "instructorName": "J. Bolander",
+                "firstName": "John",
+                "instructorEmail": "jebolander@ucdavis.edu",
+                "fullName": "John Bolander"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Experiments which illustrate the basic principles and verify the analysis procedures used in the mechanics of materials are performed using the basic tools and techniques of experimental stress analysis.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " ENG 104"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0900",
+                "building": "Bainer Hall",
+                "description": "Laboratory",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01223"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ENG 104L 002",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "002",
+            "printCRN": "39516",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Mechanics of Materials Laboratory",
+            "subjectDesc": "Engineering",
+            "courseNum": "104L",
+            "hidCRN": "39516",
+            "crn": "39516",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "Bolander",
+                "instructorName": "J. Bolander",
+                "firstName": "John",
+                "instructorEmail": "jebolander@ucdavis.edu",
+                "fullName": "John Bolander"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Experiments which illustrate the basic principles and verify the analysis procedures used in the mechanics of materials are performed using the basic tools and techniques of experimental stress analysis.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " ENG 104"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0800",
+                "building": "Bainer Hall",
+                "description": "Laboratory",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01223"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ENG 104L 003",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "003",
+            "printCRN": "39517",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Mechanics of Materials Laboratory",
+            "subjectDesc": "Engineering",
+            "courseNum": "104L",
+            "hidCRN": "39517",
+            "crn": "39517",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "Bolander",
+                "instructorName": "J. Bolander",
+                "firstName": "John",
+                "instructorEmail": "jebolander@ucdavis.edu",
+                "fullName": "John Bolander"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Experiments which illustrate the basic principles and verify the analysis procedures used in the mechanics of materials are performed using the basic tools and techniques of experimental stress analysis.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " ENG 104"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1210",
+                "building": "Bainer Hall",
+                "description": "Laboratory",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01223"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ENG 104L 004",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "004",
+            "printCRN": "39518",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Mechanics of Materials Laboratory",
+            "subjectDesc": "Engineering",
+            "courseNum": "104L",
+            "hidCRN": "39518",
+            "crn": "39518",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "Bolander",
+                "instructorName": "J. Bolander",
+                "firstName": "John",
+                "instructorEmail": "jebolander@ucdavis.edu",
+                "fullName": "John Bolander"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Fundamentals of thermodynamics: heat energy and work, properties of pure substances, First and Second Law for closed and open systems, reversibility, entropy, thermodynamic temperature scales. Applications of thermodynamics to engineering systems. May be taught abroad.",
+            "creditLimit": "",
+            "ge3": "SE,VL",
+            "crossListing": "",
+            "prereq": " PHY 009B C- or better;  (MAT 022B C- or better or MAT 027B C- or better)"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0900",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00001"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00206"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ENG 105 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "39519",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Thermodynamics",
+            "subjectDesc": "Engineering",
+            "courseNum": "105",
+            "hidCRN": "39519",
+            "crn": "39519",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "Nazari",
+                "instructorName": "S. Nazari",
+                "firstName": "Shima",
+                "instructorEmail": "snazari@ucdavis.edu",
+                "fullName": "Shima Nazari"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Fundamentals of thermodynamics: heat energy and work, properties of pure substances, First and Second Law for closed and open systems, reversibility, entropy, thermodynamic temperature scales. Applications of thermodynamics to engineering systems. May be taught abroad.",
+            "creditLimit": "",
+            "ge3": "SE,VL",
+            "crossListing": "",
+            "prereq": " PHY 009B C- or better;  (MAT 022B C- or better or MAT 027B C- or better)"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1000",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00217"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00206"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ENG 105 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "39520",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Thermodynamics",
+            "subjectDesc": "Engineering",
+            "courseNum": "105",
+            "hidCRN": "39520",
+            "crn": "39520",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "Nazari",
+                "instructorName": "S. Nazari",
+                "firstName": "Shima",
+                "instructorEmail": "snazari@ucdavis.edu",
+                "fullName": "Shima Nazari"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Fundamentals of thermodynamics: heat energy and work, properties of pure substances, First and Second Law for closed and open systems, reversibility, entropy, thermodynamic temperature scales. Applications of thermodynamics to engineering systems. May be taught abroad.",
+            "creditLimit": "",
+            "ge3": "SE,VL",
+            "crossListing": "",
+            "prereq": " PHY 009B C- or better;  (MAT 022B C- or better or MAT 027B C- or better)"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1100",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00163"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00206"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ENG 105 A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "39521",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Thermodynamics",
+            "subjectDesc": "Engineering",
+            "courseNum": "105",
+            "hidCRN": "39521",
+            "crn": "39521",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "Nazari",
+                "instructorName": "S. Nazari",
+                "firstName": "Shima",
+                "instructorEmail": "snazari@ucdavis.edu",
+                "fullName": "Shima Nazari"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Fundamentals of thermodynamics: heat energy and work, properties of pure substances, First and Second Law for closed and open systems, reversibility, entropy, thermodynamic temperature scales. Applications of thermodynamics to engineering systems. May be taught abroad.",
+            "creditLimit": "",
+            "ge3": "SE,VL",
+            "crossListing": "",
+            "prereq": " PHY 009B C- or better;  (MAT 022B C- or better or MAT 027B C- or better)"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0900",
+                "building": "Hart Hall",
+                "description": "Discussion",
+                "buildingCode": "HART",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01116"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00206"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ENG 105 A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "39522",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Thermodynamics",
+            "subjectDesc": "Engineering",
+            "courseNum": "105",
+            "hidCRN": "39522",
+            "crn": "39522",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "Nazari",
+                "instructorName": "S. Nazari",
+                "firstName": "Shima",
+                "instructorEmail": "snazari@ucdavis.edu",
+                "fullName": "Shima Nazari"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Fundamentals of thermodynamics: heat energy and work, properties of pure substances, First and Second Law for closed and open systems, reversibility, entropy, thermodynamic temperature scales. Applications of thermodynamics to engineering systems. May be taught abroad.",
+            "creditLimit": "",
+            "ge3": "SE,VL",
+            "crossListing": "",
+            "prereq": " PHY 009B C- or better;  (MAT 022B C- or better or MAT 027B C- or better)"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1310",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00261"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00206"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ENG 105 A05",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A05",
+            "printCRN": "39523",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Thermodynamics",
+            "subjectDesc": "Engineering",
+            "courseNum": "105",
+            "hidCRN": "39523",
+            "crn": "39523",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "Nazari",
+                "instructorName": "S. Nazari",
+                "firstName": "Shima",
+                "instructorEmail": "snazari@ucdavis.edu",
+                "fullName": "Shima Nazari"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Technological innovation and product development. Working as a team to turn ideas into companies through customer development.",
+            "creditLimit": "No credit for students who have previously completed ENG 002 or ENG 080.",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": " ENG 008;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Bainer Hall",
+                "description": "Lecture",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01503"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ENG 108 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "39524",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Launching a Company",
+            "subjectDesc": "Engineering",
+            "courseNum": "108",
+            "hidCRN": "39524",
+            "crn": "39524",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "Costilla Reyes",
+                "instructorName": "A. Costilla Reyes",
+                "firstName": "Alfredo",
+                "instructorEmail": "acostillareyes@ucdavis.edu",
+                "fullName": "Alfredo Costilla Reyes"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Focus on scientific understanding and development of power generation that is the basis of modern society. Concentration on power generation methods that are sustainable, in particular, discussion of the most recent innovations.",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": " PHY 007C or PHY 009C;  upper division standing. "
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1730",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1610",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01002"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "",
+                "building": "",
+                "description": "Discussion",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "DIS",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ENG 188 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "39526",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Science & Technology of Sustainable Power Generation",
+            "subjectDesc": "Engineering",
+            "courseNum": "188",
+            "hidCRN": "39526",
+            "crn": "39526",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "Kissock",
+                "instructorName": "J. Kissock",
+                "firstName": "John",
+                "instructorEmail": "jkissock@ucdavis.edu",
+                "fullName": "John Kissock"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Organization of the engineering profession; introduction to contracts, specifications, business law, patents, and liability; discussion of professional, ethical, societal, and political issues related to engineering.",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01001"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ENG 190 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "39527",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Professional Responsibilities of Engineers",
+            "subjectDesc": "Engineering",
+            "courseNum": "190",
+            "hidCRN": "39527",
+            "crn": "39527",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "Ravani",
+                "instructorName": "B. Ravani",
+                "firstName": "Bahram",
+                "instructorEmail": "bravani@ucdavis.edu",
+                "fullName": "Bahram Ravani"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed group study. May be taught abroad.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ENG 198",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study",
+            "subjectDesc": "Engineering",
+            "courseNum": "198",
+            "hidCRN": "0E47C3CCE6",
+            "crn": "39528",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed group study. May be taught abroad.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "",
+                "startTime": "",
+                "building": "",
+                "description": "",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ENG 198",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "002",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study",
+            "subjectDesc": "Engineering",
+            "courseNum": "198",
+            "hidCRN": "0E47C3CDEE",
+            "crn": "39530",
+            "subjectCode": "ENG"
+        },
+        "instructor": [
+            {
+                "lastName": "",
+                "instructorName": ". ",
+                "firstName": "",
+                "instructorEmail": "",
+                "fullName": " "
+            }
+        ]
+    }
+]

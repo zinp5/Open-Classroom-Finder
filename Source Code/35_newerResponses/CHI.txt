@@ -1,0 +1,4642 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Analysis of the situation of the Chicana/o (Mexican-American) people, emphasizing their history, literature, political movements, education and related areas.",
+            "creditLimit": "",
+            "ge3": "AH,DD,OL,SS,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1000",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00261"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Khaira Lecture Hall",
+                "description": "Lecture",
+                "buildingCode": "KHAIRA",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00123"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CHI 010 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "34715",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Chicana/o Studies",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "010",
+            "hidCRN": "34715",
+            "crn": "34715",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Singh",
+                "instructorName": "M. Singh",
+                "firstName": "Michael",
+                "instructorEmail": "michaelsingh@ucdavis.edu",
+                "fullName": "Michael Singh"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Analysis of the situation of the Chicana/o (Mexican-American) people, emphasizing their history, literature, political movements, education and related areas.",
+            "creditLimit": "",
+            "ge3": "AH,DD,OL,SS,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1100",
+                "building": "Shrem Museum of Art",
+                "description": "Discussion",
+                "buildingCode": "SHREM",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01001"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Khaira Lecture Hall",
+                "description": "Lecture",
+                "buildingCode": "KHAIRA",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00123"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CHI 010 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "34716",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Chicana/o Studies",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "010",
+            "hidCRN": "34716",
+            "crn": "34716",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Singh",
+                "instructorName": "M. Singh",
+                "firstName": "Michael",
+                "instructorEmail": "michaelsingh@ucdavis.edu",
+                "fullName": "Michael Singh"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Analysis of the situation of the Chicana/o (Mexican-American) people, emphasizing their history, literature, political movements, education and related areas.",
+            "creditLimit": "",
+            "ge3": "AH,DD,OL,SS,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1210",
+                "building": "Wickson Hall",
+                "description": "Discussion",
+                "buildingCode": "WICKSN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01020"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Khaira Lecture Hall",
+                "description": "Lecture",
+                "buildingCode": "KHAIRA",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00123"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CHI 010 A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "34717",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Chicana/o Studies",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "010",
+            "hidCRN": "34717",
+            "crn": "34717",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Singh",
+                "instructorName": "M. Singh",
+                "firstName": "Michael",
+                "instructorEmail": "michaelsingh@ucdavis.edu",
+                "fullName": "Michael Singh"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Analysis of the situation of the Chicana/o (Mexican-American) people, emphasizing their history, literature, political movements, education and related areas.",
+            "creditLimit": "",
+            "ge3": "AH,DD,OL,SS,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1900",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1810",
+                "building": "Hart Hall",
+                "description": "Discussion",
+                "buildingCode": "HART",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01128"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Khaira Lecture Hall",
+                "description": "Lecture",
+                "buildingCode": "KHAIRA",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00123"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CHI 010 A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "34718",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Chicana/o Studies",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "010",
+            "hidCRN": "34718",
+            "crn": "34718",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Singh",
+                "instructorName": "M. Singh",
+                "firstName": "Michael",
+                "instructorEmail": "michaelsingh@ucdavis.edu",
+                "fullName": "Michael Singh"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Analysis of the situation of the Chicana/o (Mexican-American) people, emphasizing their history, literature, political movements, education and related areas.",
+            "creditLimit": "",
+            "ge3": "AH,DD,OL,SS,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1510",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00109"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Khaira Lecture Hall",
+                "description": "Lecture",
+                "buildingCode": "KHAIRA",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00123"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CHI 010 A05",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A05",
+            "printCRN": "34719",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Chicana/o Studies",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "010",
+            "hidCRN": "34719",
+            "crn": "34719",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Singh",
+                "instructorName": "M. Singh",
+                "firstName": "Michael",
+                "instructorEmail": "michaelsingh@ucdavis.edu",
+                "fullName": "Michael Singh"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Analysis of the situation of the Chicana/o (Mexican-American) people, emphasizing their history, literature, political movements, education and related areas.",
+            "creditLimit": "",
+            "ge3": "AH,DD,OL,SS,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1610",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00109"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Khaira Lecture Hall",
+                "description": "Lecture",
+                "buildingCode": "KHAIRA",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00123"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CHI 010 A06",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A06",
+            "printCRN": "34720",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Chicana/o Studies",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "010",
+            "hidCRN": "34720",
+            "crn": "34720",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Singh",
+                "instructorName": "M. Singh",
+                "firstName": "Michael",
+                "instructorEmail": "michaelsingh@ucdavis.edu",
+                "fullName": "Michael Singh"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Analysis of the situation of the Chicana/o (Mexican-American) people, emphasizing their history, literature, political movements, education and related areas.",
+            "creditLimit": "",
+            "ge3": "AH,DD,OL,SS,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1710",
+                "building": "Social Science & Humanities",
+                "description": "Discussion",
+                "buildingCode": "SOCSCI",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00090"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Khaira Lecture Hall",
+                "description": "Lecture",
+                "buildingCode": "KHAIRA",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00123"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CHI 010 A07",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A07",
+            "printCRN": "34721",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Chicana/o Studies",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "010",
+            "hidCRN": "34721",
+            "crn": "34721",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Singh",
+                "instructorName": "M. Singh",
+                "firstName": "Michael",
+                "instructorEmail": "michaelsingh@ucdavis.edu",
+                "fullName": "Michael Singh"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Analysis of the situation of the Chicana/o (Mexican-American) people, emphasizing their history, literature, political movements, education and related areas.",
+            "creditLimit": "",
+            "ge3": "AH,DD,OL,SS,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1610",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00107"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Khaira Lecture Hall",
+                "description": "Lecture",
+                "buildingCode": "KHAIRA",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00123"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CHI 010 A08",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A08",
+            "printCRN": "34722",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Chicana/o Studies",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "010",
+            "hidCRN": "34722",
+            "crn": "34722",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Singh",
+                "instructorName": "M. Singh",
+                "firstName": "Michael",
+                "instructorEmail": "michaelsingh@ucdavis.edu",
+                "fullName": "Michael Singh"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Analysis of the situation of the Chicana/o (Mexican-American) people, emphasizing their history, literature, political movements, education and related areas.",
+            "creditLimit": "",
+            "ge3": "AH,DD,OL,SS,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1710",
+                "building": "Hart Hall",
+                "description": "Discussion",
+                "buildingCode": "HART",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01128"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Khaira Lecture Hall",
+                "description": "Lecture",
+                "buildingCode": "KHAIRA",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00123"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CHI 010 A09",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A09",
+            "printCRN": "34723",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Chicana/o Studies",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "010",
+            "hidCRN": "34723",
+            "crn": "34723",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Singh",
+                "instructorName": "M. Singh",
+                "firstName": "Michael",
+                "instructorEmail": "michaelsingh@ucdavis.edu",
+                "fullName": "Michael Singh"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Analysis of the situation of the Chicana/o (Mexican-American) people, emphasizing their history, literature, political movements, education and related areas.",
+            "creditLimit": "",
+            "ge3": "AH,DD,OL,SS,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1510",
+                "building": "Teaching and Learning Complex",
+                "description": "Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01212"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Khaira Lecture Hall",
+                "description": "Lecture",
+                "buildingCode": "KHAIRA",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00123"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CHI 010 A10",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A10",
+            "printCRN": "34724",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Chicana/o Studies",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "010",
+            "hidCRN": "34724",
+            "crn": "34724",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Singh",
+                "instructorName": "M. Singh",
+                "firstName": "Michael",
+                "instructorEmail": "michaelsingh@ucdavis.edu",
+                "fullName": "Michael Singh"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Analysis of the situation of the Chicana/o (Mexican-American) people, emphasizing their history, literature, political movements, education and related areas.",
+            "creditLimit": "",
+            "ge3": "AH,DD,OL,SS,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1710",
+                "building": "The Grove (Surge III)",
+                "description": "Discussion",
+                "buildingCode": "GROVE",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01283"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Khaira Lecture Hall",
+                "description": "Lecture",
+                "buildingCode": "KHAIRA",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00123"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CHI 010 A11",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A11",
+            "printCRN": "34725",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Chicana/o Studies",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "010",
+            "hidCRN": "34725",
+            "crn": "34725",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Singh",
+                "instructorName": "M. Singh",
+                "firstName": "Michael",
+                "instructorEmail": "michaelsingh@ucdavis.edu",
+                "fullName": "Michael Singh"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Analysis of the situation of the Chicana/o (Mexican-American) people, emphasizing their history, literature, political movements, education and related areas.",
+            "creditLimit": "",
+            "ge3": "AH,DD,OL,SS,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1310",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00027"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Khaira Lecture Hall",
+                "description": "Lecture",
+                "buildingCode": "KHAIRA",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00123"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CHI 010 A12",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A12",
+            "printCRN": "34726",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Chicana/o Studies",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "010",
+            "hidCRN": "34726",
+            "crn": "34726",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Singh",
+                "instructorName": "M. Singh",
+                "firstName": "Michael",
+                "instructorEmail": "michaelsingh@ucdavis.edu",
+                "fullName": "Michael Singh"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Analysis of the situation of the Chicana/o (Mexican-American) people, emphasizing their history, literature, political movements, education and related areas.",
+            "creditLimit": "",
+            "ge3": "AH,DD,OL,SS,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1610",
+                "building": "Veihmeyer Hall",
+                "description": "Discussion",
+                "buildingCode": "VEIMYR",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00116"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Khaira Lecture Hall",
+                "description": "Lecture",
+                "buildingCode": "KHAIRA",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00123"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CHI 010 A13",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A13",
+            "printCRN": "34727",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Chicana/o Studies",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "010",
+            "hidCRN": "34727",
+            "crn": "34727",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Singh",
+                "instructorName": "M. Singh",
+                "firstName": "Michael",
+                "instructorEmail": "michaelsingh@ucdavis.edu",
+                "fullName": "Michael Singh"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Analysis of the situation of the Chicana/o (Mexican-American) people, emphasizing their history, literature, political movements, education and related areas.",
+            "creditLimit": "",
+            "ge3": "AH,DD,OL,SS,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1710",
+                "building": "The Grove (Surge III)",
+                "description": "Discussion",
+                "buildingCode": "GROVE",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01283"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Khaira Lecture Hall",
+                "description": "Lecture",
+                "buildingCode": "KHAIRA",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00123"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CHI 010 A14",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A14",
+            "printCRN": "34728",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Chicana/o Studies",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "010",
+            "hidCRN": "34728",
+            "crn": "34728",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Singh",
+                "instructorName": "M. Singh",
+                "firstName": "Michael",
+                "instructorEmail": "michaelsingh@ucdavis.edu",
+                "fullName": "Michael Singh"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Analysis of the situation of the Chicana/o (Mexican-American) people, emphasizing their history, literature, political movements, education and related areas.",
+            "creditLimit": "",
+            "ge3": "AH,DD,OL,SS,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1410",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00007"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Khaira Lecture Hall",
+                "description": "Lecture",
+                "buildingCode": "KHAIRA",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00123"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CHI 010 A15",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A15",
+            "printCRN": "34729",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Chicana/o Studies",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "010",
+            "hidCRN": "34729",
+            "crn": "34729",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Singh",
+                "instructorName": "M. Singh",
+                "firstName": "Michael",
+                "instructorEmail": "michaelsingh@ucdavis.edu",
+                "fullName": "Michael Singh"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Analysis of the situation of the Chicana/o (Mexican-American) people, emphasizing their history, literature, political movements, education and related areas.",
+            "creditLimit": "",
+            "ge3": "AH,DD,OL,SS,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1510",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00007"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Khaira Lecture Hall",
+                "description": "Lecture",
+                "buildingCode": "KHAIRA",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00123"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CHI 010 A16",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A16",
+            "printCRN": "34730",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Chicana/o Studies",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "010",
+            "hidCRN": "34730",
+            "crn": "34730",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Singh",
+                "instructorName": "M. Singh",
+                "firstName": "Michael",
+                "instructorEmail": "michaelsingh@ucdavis.edu",
+                "fullName": "Michael Singh"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Analysis of the situation of the Chicana/o (Mexican-American) people, emphasizing their history, literature, political movements, education and related areas.",
+            "creditLimit": "",
+            "ge3": "AH,DD,OL,SS,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1100",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00261"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Khaira Lecture Hall",
+                "description": "Lecture",
+                "buildingCode": "KHAIRA",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00123"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CHI 010 A17",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A17",
+            "printCRN": "55541",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Chicana/o Studies",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "010",
+            "hidCRN": "55541",
+            "crn": "55541",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Singh",
+                "instructorName": "M. Singh",
+                "firstName": "Michael",
+                "instructorEmail": "michaelsingh@ucdavis.edu",
+                "fullName": "Michael Singh"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Analysis of the situation of the Chicana/o (Mexican-American) people, emphasizing their history, literature, political movements, education and related areas.",
+            "creditLimit": "",
+            "ge3": "AH,DD,OL,SS,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Khaira Lecture Hall",
+                "description": "Lecture",
+                "buildingCode": "KHAIRA",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00123"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1210",
+                "building": "Storer Hall",
+                "description": "Discussion",
+                "buildingCode": "STORER",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01344"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CHI 010 A18",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A18",
+            "printCRN": "55542",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Chicana/o Studies",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "010",
+            "hidCRN": "55542",
+            "crn": "55542",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Singh",
+                "instructorName": "M. Singh",
+                "firstName": "Michael",
+                "instructorEmail": "michaelsingh@ucdavis.edu",
+                "fullName": "Michael Singh"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Analysis of the situation of the Chicana/o (Mexican-American) people, emphasizing their history, literature, political movements, education and related areas.",
+            "creditLimit": "",
+            "ge3": "AH,DD,OL,SS,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Khaira Lecture Hall",
+                "description": "Lecture",
+                "buildingCode": "KHAIRA",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00123"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1310",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00027"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CHI 010 A19",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A19",
+            "printCRN": "55543",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Chicana/o Studies",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "010",
+            "hidCRN": "55543",
+            "crn": "55543",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Singh",
+                "instructorName": "M. Singh",
+                "firstName": "Michael",
+                "instructorEmail": "michaelsingh@ucdavis.edu",
+                "fullName": "Michael Singh"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Analysis of the situation of the Chicana/o (Mexican-American) people, emphasizing their history, literature, political movements, education and related areas.",
+            "creditLimit": "",
+            "ge3": "AH,DD,OL,SS,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Khaira Lecture Hall",
+                "description": "Lecture",
+                "buildingCode": "KHAIRA",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00123"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1000",
+                "building": "Physics Building",
+                "description": "Discussion",
+                "buildingCode": "PHYSIC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00140"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CHI 010 A20",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A20",
+            "printCRN": "55544",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Chicana/o Studies",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "010",
+            "hidCRN": "55544",
+            "crn": "55544",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Singh",
+                "instructorName": "M. Singh",
+                "firstName": "Michael",
+                "instructorEmail": "michaelsingh@ucdavis.edu",
+                "fullName": "Michael Singh"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Overview of health issues of Chicanas/os and Latinas/os in the State of California; role of poverty/lack of education in limited access to health care.",
+            "creditLimit": "",
+            "ge3": "OL,WE",
+            "crossListing": "",
+            "prereq": " CHI 010"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1120",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1000",
+                "building": "Hoagland Hall",
+                "description": "Lecture",
+                "buildingCode": "HOAGLD",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00168"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1130",
+                "building": "Hoagland Hall",
+                "description": "Discussion",
+                "buildingCode": "HOAGLD",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00168"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CHI 021 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "34731",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Chicana/o & Latina/o Health Care Issues",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "021",
+            "hidCRN": "34731",
+            "crn": "34731",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Rojas",
+                "instructorName": "C. Rojas",
+                "firstName": "Clarissa",
+                "instructorEmail": "clarojas@ucdavis.edu",
+                "fullName": "Clarissa Rojas"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Dominant models of qualitative inquiry in educational and social science research as well as mestizo approaches to research with latinos. Emphasis given to choosing and designing culturally appropriate strategies to investigate latino health, education, social context, and policy issues.",
+            "creditLimit": "",
+            "ge3": "AH,OL,SS,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1610",
+                "building": "Storer Hall",
+                "description": "Discussion",
+                "buildingCode": "STORER",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01342"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1210",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture/Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LED",
+                "room": "03218"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CHI 023 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "34732",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Qualitative Research Methods",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "023",
+            "hidCRN": "34732",
+            "crn": "34732",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Medel-Herrero",
+                "instructorName": "A. Medel-Herrero",
+                "firstName": "Alvaro",
+                "instructorEmail": "amedelherrero@ucdavis.edu",
+                "fullName": "Alvaro Medel-Herrero"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Dominant models of qualitative inquiry in educational and social science research as well as mestizo approaches to research with latinos. Emphasis given to choosing and designing culturally appropriate strategies to investigate latino health, education, social context, and policy issues.",
+            "creditLimit": "",
+            "ge3": "AH,OL,SS,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1710",
+                "building": "Storer Hall",
+                "description": "Discussion",
+                "buildingCode": "STORER",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01342"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1210",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture/Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LED",
+                "room": "03218"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CHI 023 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "34733",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Qualitative Research Methods",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "023",
+            "hidCRN": "34733",
+            "crn": "34733",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Medel-Herrero",
+                "instructorName": "A. Medel-Herrero",
+                "firstName": "Alvaro",
+                "instructorEmail": "amedelherrero@ucdavis.edu",
+                "fullName": "Alvaro Medel-Herrero"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Overview of the major political institutions and ideologies of the United States and the Chicana/o people's historical and contemporary role in, effects from, and responses to them. Theory, method and critical analysis.",
+            "creditLimit": "",
+            "ge3": "DD,OL,SS,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1900",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1610",
+                "building": "Wellman Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LED",
+                "room": "00119"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CHI 030 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55545",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "United States Political Institutions & Chicanas/os",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "030",
+            "hidCRN": "55545",
+            "crn": "55545",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Soto",
+                "instructorName": "L. Soto",
+                "firstName": "Lilia",
+                "instructorEmail": "lisoto@ucdavis.edu",
+                "fullName": "Lilia Soto"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Issues surrounding food justice in Chicana/o and Indigenous Communities. Emphasis on discourses and practices of growing a food justice movement centered on the ecological care of the earth and decolonized environmental methodologies. \n",
+            "creditLimit": "",
+            "ge3": "SL,SS,VL,ACGH",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "1000",
+                "building": "Olson Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LED",
+                "room": "00251"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CHI 042 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "34736",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Food Justice: Chicana/o & Indigenous Communities ",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "042",
+            "hidCRN": "34736",
+            "crn": "34736",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Zepeda",
+                "instructorName": "S. Zepeda",
+                "firstName": "Susy",
+                "instructorEmail": "sjzepeda@ucdavis.edu",
+                "fullName": "Susy Zepeda"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Interdisciplinary survey of Chicana/o cultural representation in the 20th century. Examines Chicana/o culture within a national and transnational context. Explores how Chicano cultural forms and practices intersect with social/material forces, intellectual formations and cultural discourses. (Former CHI 020.)",
+            "creditLimit": "",
+            "ge3": "AH,DD,WC,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Max Kleiber Hall",
+                "description": "Lecture",
+                "buildingCode": "KLEIBR",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00003"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1510",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00141"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CHI 050 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "34737",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Chicana & Chicano Culture",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "050",
+            "hidCRN": "34737",
+            "crn": "34737",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Magana",
+                "instructorName": "M. Magana",
+                "firstName": "Maurice",
+                "instructorEmail": "mrmagana@ucdavis.edu",
+                "fullName": "Maurice Magana"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Interdisciplinary survey of Chicana/o cultural representation in the 20th century. Examines Chicana/o culture within a national and transnational context. Explores how Chicano cultural forms and practices intersect with social/material forces, intellectual formations and cultural discourses. (Former CHI 020.)",
+            "creditLimit": "",
+            "ge3": "AH,DD,WC,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Max Kleiber Hall",
+                "description": "Lecture",
+                "buildingCode": "KLEIBR",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00003"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1610",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00141"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CHI 050 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "34738",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Chicana & Chicano Culture",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "050",
+            "hidCRN": "34738",
+            "crn": "34738",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Magana",
+                "instructorName": "M. Magana",
+                "firstName": "Maurice",
+                "instructorEmail": "mrmagana@ucdavis.edu",
+                "fullName": "Maurice Magana"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Interdisciplinary survey of Chicana/o cultural representation in the 20th century. Examines Chicana/o culture within a national and transnational context. Explores how Chicano cultural forms and practices intersect with social/material forces, intellectual formations and cultural discourses. (Former CHI 020.)",
+            "creditLimit": "",
+            "ge3": "AH,DD,WC,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1000",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00027"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Max Kleiber Hall",
+                "description": "Lecture",
+                "buildingCode": "KLEIBR",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00003"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CHI 050 A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "34739",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Chicana & Chicano Culture",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "050",
+            "hidCRN": "34739",
+            "crn": "34739",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Magana",
+                "instructorName": "M. Magana",
+                "firstName": "Maurice",
+                "instructorEmail": "mrmagana@ucdavis.edu",
+                "fullName": "Maurice Magana"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Interdisciplinary survey of Chicana/o cultural representation in the 20th century. Examines Chicana/o culture within a national and transnational context. Explores how Chicano cultural forms and practices intersect with social/material forces, intellectual formations and cultural discourses. (Former CHI 020.)",
+            "creditLimit": "",
+            "ge3": "AH,DD,WC,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1610",
+                "building": "Hickey Gymnasium",
+                "description": "Discussion",
+                "buildingCode": "H GYM",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00290"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Max Kleiber Hall",
+                "description": "Lecture",
+                "buildingCode": "KLEIBR",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00003"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CHI 050 A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "34740",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Chicana & Chicano Culture",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "050",
+            "hidCRN": "34740",
+            "crn": "34740",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Magana",
+                "instructorName": "M. Magana",
+                "firstName": "Maurice",
+                "instructorEmail": "mrmagana@ucdavis.edu",
+                "fullName": "Maurice Magana"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Interdisciplinary survey of Chicana/o cultural representation in the 20th century. Examines Chicana/o culture within a national and transnational context. Explores how Chicano cultural forms and practices intersect with social/material forces, intellectual formations and cultural discourses. (Former CHI 020.)",
+            "creditLimit": "",
+            "ge3": "AH,DD,WC,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1710",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00101"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Max Kleiber Hall",
+                "description": "Lecture",
+                "buildingCode": "KLEIBR",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00003"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CHI 050 A06",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A06",
+            "printCRN": "34742",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Chicana & Chicano Culture",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "050",
+            "hidCRN": "34742",
+            "crn": "34742",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Magana",
+                "instructorName": "M. Magana",
+                "firstName": "Maurice",
+                "instructorEmail": "mrmagana@ucdavis.edu",
+                "fullName": "Maurice Magana"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Interdisciplinary survey of Chicana/o cultural representation in the 20th century. Examines Chicana/o culture within a national and transnational context. Explores how Chicano cultural forms and practices intersect with social/material forces, intellectual formations and cultural discourses. (Former CHI 020.)",
+            "creditLimit": "",
+            "ge3": "AH,DD,WC,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1210",
+                "building": "Physics Building",
+                "description": "Discussion",
+                "buildingCode": "PHYSIC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00148"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Max Kleiber Hall",
+                "description": "Lecture",
+                "buildingCode": "KLEIBR",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00003"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CHI 050 A07",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A07",
+            "printCRN": "34743",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Chicana & Chicano Culture",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "050",
+            "hidCRN": "34743",
+            "crn": "34743",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Magana",
+                "instructorName": "M. Magana",
+                "firstName": "Maurice",
+                "instructorEmail": "mrmagana@ucdavis.edu",
+                "fullName": "Maurice Magana"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Historical, critical, and theoretical survey of the cinemas of Latin America and their relationship to the emergence of U.S. Latino cinema. Emphasis on representation and social identity including gender, sexuality, class, race and ethnicity",
+            "creditLimit": "",
+            "ge3": "AH,VL,WC,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 20:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1050",
+                "building": "Chemistry",
+                "description": "Lecture/Discussion",
+                "buildingCode": "CHEM",
+                "saturday": false,
+                "type": "LED",
+                "room": "00179"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "3",
+                "startTime": "1310",
+                "building": "Chemistry",
+                "description": "Film Viewing",
+                "buildingCode": "CHEM",
+                "saturday": false,
+                "type": "F-V",
+                "room": "00179"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1610",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00007"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CHI 065 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "55752",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "New  Latin American Cinema",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "065",
+            "hidCRN": "55752",
+            "crn": "55752",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Posada",
+                "instructorName": "G. Posada",
+                "firstName": "Gilda",
+                "instructorEmail": "giposada@ucdavis.edu",
+                "fullName": "Gilda Posada"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Academic guidance combined with internship in community agencies serving Mexican/Latina/Latino/Chicana/Chicano clients. Students will use their bilingual skills and knowledge of history, culture, economics, politics and social issues. ",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " CHI 010;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "I",
+                "startTime": "",
+                "building": "",
+                "description": "Internship",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "INT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "CHI 092",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Internship",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "092",
+            "hidCRN": "0E4AC1CAE8",
+            "crn": "34746",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed group study.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "CHI 098",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "098",
+            "hidCRN": "0E4AC1CBEC",
+            "crn": "34752",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special study for undergraduates.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "CHI 099",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Study for Undergraduates",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "099",
+            "hidCRN": "0E4AC1CBE8",
+            "crn": "34756",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Critical examination of emerging Chicana/o Studies theoretical perspectives in light of contemporary intellectual frameworks in the social sciences, arts, and humanities. Includes analysis of practices of self-representation, and socio-cultural developments in the Chicana/o community.",
+            "creditLimit": "",
+            "ge3": "DD,SS,WC,ACGH,WE",
+            "crossListing": "",
+            "prereq": " CHI 010;  CHI 050"
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1730",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1610",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture/Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LED",
+                "room": "01214"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CHI 100 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "34765",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Chicana/o Theoretical Perspective",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "100",
+            "hidCRN": "34765",
+            "crn": "34765",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Diaz",
+                "instructorName": "V. Diaz",
+                "firstName": "Virginia",
+                "instructorEmail": "gdiaz@ucdavis.edu",
+                "fullName": "Virginia Diaz"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Exploration and research on effective grassroots community activism and mobilization efforts by Chicana/o students, along with their teachers, families, and other allies to protest structured inequality of the U.S. educational system. Mentoring and tutoring in a school under the supervision of a faculty member is required.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2000",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1710",
+                "building": "Olson Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LED",
+                "room": "00223"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "F",
+                "startTime": "",
+                "building": "",
+                "description": "Fieldwork",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "FWK",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CHI 102B 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55548",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Grassroots Community Activism & Mobilization Efforts Challenging Educational Inequity",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "102B",
+            "hidCRN": "55548",
+            "crn": "55548",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Brazil-Cruz",
+                "instructorName": "L. Brazil-Cruz",
+                "firstName": "Lisceth",
+                "instructorEmail": "lizcruz@ucdavis.edu",
+                "fullName": "Lisceth Brazil-Cruz"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "The Chicana/o experience in the American society and economy viewed from theoretical perspectives. Immigration, history of integration of Chicana/o labor into American class structure, education inequality, ethnicity, the family and Chicana/o politics. (Former course SOC 110.)",
+            "creditLimit": "",
+            "ge3": "DD,OL,SS,ACGH,WE",
+            "crossListing": "",
+            "prereq": " CHI 010 or SOC 001 or SOC 001V"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1030",
+                "building": "Young Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LED",
+                "room": "00194"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CHI 110 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "34767",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Sociology of the Chicana/o Experience",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "110",
+            "hidCRN": "34767",
+            "crn": "34767",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Hurtado Allen",
+                "instructorName": "Y. Hurtado Allen",
+                "firstName": "Yvonne",
+                "instructorEmail": "ytallen@ucdavis.edu",
+                "fullName": "Yvonne Hurtado Allen"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Study contemporary issues in reproductive health and reproductive politics, both globally and in the U.S., for women of color. ",
+            "creditLimit": "",
+            "ge3": "DD,SS,WC,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "1030",
+                "building": "Olson Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LED",
+                "room": "00250"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CHI 114 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "34769",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Women of Color Reproductive Health & Reproductive Politics in a Global Perspective",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "114",
+            "hidCRN": "34769",
+            "crn": "34769",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Deeb Sossa",
+                "instructorName": "N. Deeb Sossa",
+                "firstName": "Natalia",
+                "instructorEmail": "ndeebsossa@ucdavis.edu",
+                "fullName": "Natalia Deeb Sossa"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to the field of Chicana/o psychology. Analysis of socio-cultural context of Chicanas/os and Latinas/os. Special attention to issues of ethnic identity development, bilingualism, and development of self esteem. Impact of minority experience, migration, acculturation are examined.",
+            "creditLimit": "",
+            "ge3": "DD,OL,SS,ACGH,WE",
+            "crossListing": "",
+            "prereq": " CHI 021;  Introductory psychology course recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1530",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00002"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1540",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00002"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CHI 120 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "34770",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Chicana/o Psychology",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "120",
+            "hidCRN": "34770",
+            "crn": "34770",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Torreiro-Casal",
+                "instructorName": "M. Torreiro-Casal",
+                "firstName": "Monica",
+                "instructorEmail": "mtorreirocasal@ucdavis.edu",
+                "fullName": "Monica Torreiro-Casal"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Psychological and educational development of Chicano/Latino children and adolescents, with particular attention to the formation of ethnic, gender, class, race, and sexual identities.  ",
+            "creditLimit": "",
+            "ge3": "DD,OL,SS,ACGH,WE",
+            "crossListing": "",
+            "prereq": " CHI 010 or CHI 021"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Walker Hall",
+                "description": "Lecture",
+                "buildingCode": "WALKER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01310"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CHI 123 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55755",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Psychological perspectives on Chicana/o & Latina/o Children & Adolescents",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "123",
+            "hidCRN": "55755",
+            "crn": "55755",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Torreiro-Casal",
+                "instructorName": "M. Torreiro-Casal",
+                "firstName": "Monica",
+                "instructorEmail": "mtorreirocasal@ucdavis.edu",
+                "fullName": "Monica Torreiro-Casal"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Theories of U.S.-Mexican border relations, with an overview of the political, economic, and social relationships and an in-depth\nanalysis of immigration issues, border industrialization, women's organizations, economic crises, and legal issues.",
+            "creditLimit": "",
+            "ge3": "DD,SS,ACGH,WE",
+            "crossListing": "",
+            "prereq": " Upper division standing. "
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00006"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CHI 130 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "34771",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "United States-Mexican Border Relations ",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "130",
+            "hidCRN": "34771",
+            "crn": "34771",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Rojas",
+                "instructorName": "C. Rojas",
+                "firstName": "Clarissa",
+                "instructorEmail": "clarojas@ucdavis.edu",
+                "fullName": "Clarissa Rojas"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Historical and contemporary study of political and economic forces which define and influence the development of Chicana/o communities. Includes critiques of traditional and Marxian theories and concepts applicable to Chicana/o communities, case studies of Chicana/o communities,especially in California and Texas.",
+            "creditLimit": "",
+            "ge3": "DD,OL,ACGH,WE",
+            "crossListing": "",
+            "prereq": " Upper division standing; lower division Chicana/o Studies (CHI) course recommended. "
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Hutchison Hall",
+                "description": "Lecture",
+                "buildingCode": "HUTCH",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00115"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CHI 132 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "34772",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Political Economy of Chicana/o Communities",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "132",
+            "hidCRN": "34772",
+            "crn": "34772",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Magana",
+                "instructorName": "M. Magana",
+                "firstName": "Maurice",
+                "instructorEmail": "mrmagana@ucdavis.edu",
+                "fullName": "Maurice Magana"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Focuses on measuring Latino/Chicano health outcomes using a quantitative approach. Assesses main types of study designs and addresses measurement of disease frequency and health effects.",
+            "creditLimit": "",
+            "ge3": "DD,QL,SE,ACGH",
+            "crossListing": "",
+            "prereq": " Two years of high school algebra or the equivalent in college. "
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1000",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "02216"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CHI 140A 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55756",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Quantitative Methods: Chicano/Latino Health Research",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "140A",
+            "hidCRN": "55756",
+            "crn": "55756",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Medel-Herrero",
+                "instructorName": "A. Medel-Herrero",
+                "firstName": "Alvaro",
+                "instructorEmail": "amedelherrero@ucdavis.edu",
+                "fullName": "Alvaro Medel-Herrero"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Legacies of colonization and decolonization; indigenous forms of spirituality and sacredness. Emphasis on remembering traditions, practices, relations, and forms of indigenous knowledge.\n \n\n",
+            "creditLimit": "",
+            "ge3": "AH,WC,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00251"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CHI 148 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55546",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Decolonizing Spirit",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "148",
+            "hidCRN": "55546",
+            "crn": "55546",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Zepeda",
+                "instructorName": "S. Zepeda",
+                "firstName": "Susy",
+                "instructorEmail": "sjzepeda@ucdavis.edu",
+                "fullName": "Susy Zepeda"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Development of the Chicano Movement within the context of the socio-political movements of the 1960\u2019s in a national and global perspective. Ideological/political perspectives and the implications for political strategies.\n\n\n\n",
+            "creditLimit": "",
+            "ge3": "AH,DD,SS,WC,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00216"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CHI 150 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55757",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "The Chicana & Chicano Movement",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "150",
+            "hidCRN": "55757",
+            "crn": "55757",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Hurtado Allen",
+                "instructorName": "Y. Hurtado Allen",
+                "firstName": "Yvonne",
+                "instructorEmail": "ytallen@ucdavis.edu",
+                "fullName": "Yvonne Hurtado Allen"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Survey of Chicana/o poetry with special emphasis on its thematic and formal dimensions. Bilingual readings, lectures, discussions, and writing in Spanish. (Former course SPA 126C.)",
+            "creditLimit": "",
+            "ge3": "AH,DD,OL,WC,ACGH,WE",
+            "crossListing": "",
+            "prereq": " Intermediate Spanish or consent of instructor."
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "02218"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CHI 156 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55758",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Chicana/o Poetry",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "156",
+            "hidCRN": "55758",
+            "crn": "55758",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Salvatierra",
+                "instructorName": "L. Salvatierra",
+                "firstName": "Leon",
+                "instructorEmail": "salvatierra@ucdavis.edu",
+                "fullName": "Leon Salvatierra"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Contemporary Chicanx Literature within the broader umbrella of Latinx Literature. Genres, including fiction, nonfiction, and poetry, but also hybrid and mixed genre texts. New trends and topics relating to 21st Century Latinx authors, including intersectionality and multiple identities, AfroLatinx and Indigenous identity, Queer representation, Young Adult literature, and undocumented writers.",
+            "creditLimit": "",
+            "ge3": "AH",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1410",
+                "building": "Veihmeyer Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "VEIMYR",
+                "saturday": false,
+                "type": "LED",
+                "room": "00116"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CHI 158 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56258",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Contemporary Issues in Latinx Literature",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "158",
+            "hidCRN": "56258",
+            "crn": "56258",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Montoya",
+                "instructorName": "M. Montoya",
+                "firstName": "Maceo",
+                "instructorEmail": "mbmontoya@ucdavis.edu",
+                "fullName": "Maceo Montoya"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Issues and conflicts in the dismantling of the Contemporary Chicano Art Movement.  Response and challenge to the dominant culture.",
+            "creditLimit": "",
+            "ge3": "AH,DD,VL,WC,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00119"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CHI 170 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55759",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Contemporary Issues in Chicano Art",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "170",
+            "hidCRN": "55759",
+            "crn": "55759",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Posada",
+                "instructorName": "G. Posada",
+                "firstName": "Gilda",
+                "instructorEmail": "giposada@ucdavis.edu",
+                "fullName": "Gilda Posada"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "The Mural: a collective art process that empowers students and people through design and execution of mural paintings in the tradition of the Mexican Mural Movement; introduces materials and techniques.",
+            "creditLimit": "",
+            "ge3": "AH,VL",
+            "crossListing": "ART 171.",
+            "prereq": " CHI 070;  and Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "J",
+                "startTime": "",
+                "building": "",
+                "description": "Independent Study",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "IND",
+                "room": ""
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "S",
+                "startTime": "1210",
+                "building": "Hart Hall",
+                "description": "Studio",
+                "buildingCode": "HART",
+                "saturday": false,
+                "type": "STD",
+                "room": "01401"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CHI 171 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "34778",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Mexican & Chicano Mural Workshop",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "171",
+            "hidCRN": "34778",
+            "crn": "34778",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Arenas",
+                "instructorName": "J. Arenas",
+                "firstName": "Jose",
+                "instructorEmail": "jaarenas@ucdavis.edu",
+                "fullName": "Jose Arenas"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Comparative analysis of Latino youth gangs in Europe, Latin America, and the United States. Social, economic, political, and cultural factors leading to youth gangs as well as the responses are considered within a global perspective. ",
+            "creditLimit": "Not open for credit to students who have completed CHI 184S.",
+            "ge3": "DD,OL,SS,WC,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Hart Hall",
+                "description": "Lecture",
+                "buildingCode": "HART",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01150"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "CHI 184 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55760",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Latino Youth Gangs in Global Perspective",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "184",
+            "hidCRN": "55760",
+            "crn": "55760",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Talamantes",
+                "instructorName": "D. Talamantes",
+                "firstName": "Daniel",
+                "instructorEmail": "djtalamantes@ucdavis.edu",
+                "fullName": "Daniel Talamantes"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Academic guidance combined with internship in community agencies serving Mexican/Latina/Latino/Chicana/Chicano clients. Use of bilingual skills and knowledge of history, culture, economics, politics and social issues. Internship project required. ",
+            "creditLimit": "",
+            "ge3": "OL",
+            "crossListing": "",
+            "prereq": " (CHI 010 or CHI 021 or CHI 050);  (SPA 003 or SPA 003Y or SPA 003V);  Or equivalent of SPA 003."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "I",
+                "startTime": "",
+                "building": "",
+                "description": "Internship",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "INT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "CHI 192",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Internship in the Chicana/Chicano/Latina/Latino Community",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "192",
+            "hidCRN": "0E4AC1C6EF",
+            "crn": "34781",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Student is required to read, research, and write Honors Thesis on Chicana/o Studies topics.",
+            "creditLimit": "",
+            "ge3": "OL,WE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Senior standing in Chicana/o Studies major."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "CHI 194HA",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Senior Honors Research Project",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "194HA",
+            "hidCRN": "0E4AC1C6E6",
+            "crn": "34788",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed group study. May be taught abroad.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Upper division standing and consent of Program Chairperson."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "CHI 198",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "198",
+            "hidCRN": "0E4ACECEEE",
+            "crn": "34800",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed group study. May be taught abroad.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Upper division standing and consent of Program Chairperson."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "1210",
+                "building": "Hart Hall",
+                "description": "Variable",
+                "buildingCode": "HART",
+                "saturday": false,
+                "type": "VAR",
+                "room": "01116"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "CHI 198",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "001",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "198",
+            "hidCRN": "0848C7C6EA",
+            "crn": "56184",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Soto",
+                "instructorName": "L. Soto",
+                "firstName": "Lilia",
+                "instructorEmail": "lisoto@ucdavis.edu",
+                "fullName": "Lilia Soto"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed group study. May be taught abroad.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Upper division standing and consent of Program Chairperson."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "1610",
+                "building": "Hoagland Hall",
+                "description": "Variable",
+                "buildingCode": "HOAGLD",
+                "saturday": false,
+                "type": "VAR",
+                "room": "00108"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "CHI 198",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "002",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "198",
+            "hidCRN": "0848C5C6E8",
+            "crn": "56386",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "Montoya",
+                "instructorName": "M. Montoya",
+                "firstName": "Maceo",
+                "instructorEmail": "mbmontoya@ucdavis.edu",
+                "fullName": "Maceo Montoya"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special study for advanced undergraduates.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Upper division standing and consent of Program Chairperson."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "CHI 199",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Study for Advanced Undergraduates",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "199",
+            "hidCRN": "0E4ACECEE8",
+            "crn": "34806",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Group study for graduate students.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Graduate standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "CHI 298",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Group Study for Graduate Students",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "298",
+            "hidCRN": "0E4ACECCEE",
+            "crn": "34820",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special study for graduate students.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Graduate standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "CHI 299",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Study for Graduate Students",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "299",
+            "hidCRN": "0E4ACECCE9",
+            "crn": "34827",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Teaching assistant training practicum.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Graduate standing."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "CHI 396",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 4,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Teaching Assistant Training Practicum",
+            "subjectDesc": "Chicano Studies",
+            "courseNum": "396",
+            "hidCRN": "0E4ACECDE8",
+            "crn": "34836",
+            "subjectCode": "CHI"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    }
+]

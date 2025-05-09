@@ -1,0 +1,603 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Natural history, management, historical and current uses, and specialized disciplinary features of model and novel animal systems used in research. Development of conceptual approaches in organismal biology to improve experimental design and interpretation of interdisciplinary research studies. ",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " ABG 200A"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "0900",
+                "building": "Meyer Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "MEYER",
+                "saturday": false,
+                "type": "LED",
+                "room": "01131"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ABG 200B 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "30042",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Integrated Animal Biology II",
+            "subjectDesc": "Animal Biology Grad Gp",
+            "courseNum": "200B",
+            "hidCRN": "30042",
+            "crn": "30042",
+            "subjectCode": "ABG"
+        },
+        "instructor": [
+            {
+                "lastName": "Cheng",
+                "instructorName": "H. Cheng",
+                "firstName": "Hao",
+                "instructorEmail": "qtlcheng@ucdavis.edu",
+                "fullName": "Hao Cheng"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "History of nutritional energetics. Evaluation of energy transformations associated with food utilization. Energy expenditures at cellular, tissue, and animal levels as affected by diet and physiological state. Current and future feeding systems.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " (ABI 102,  ABI 103,  NPB 101);  or the equivalent courses."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1000",
+                "building": "Meyer Hall",
+                "description": "Lecture",
+                "buildingCode": "MEYER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01338"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ABG 205 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56269",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Advanced Nutritional Energetics",
+            "subjectDesc": "Animal Biology Grad Gp",
+            "courseNum": "205",
+            "hidCRN": "56269",
+            "crn": "56269",
+            "subjectCode": "ABG"
+        },
+        "instructor": [
+            {
+                "lastName": "Rossow",
+                "instructorName": "H. Rossow",
+                "firstName": "Heidi",
+                "instructorEmail": "harossow@ucdavis.edu",
+                "fullName": "Heidi Rossow"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to advanced techniques used for assisted reproductive technologies in mammals and birds, genetic engineering, gene editing, stem cell biology. Offered in alternate years. ",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " NPB 121;  BIS 101V or BIS 101;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1510",
+                "building": "Meyer Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "MEYER",
+                "saturday": false,
+                "type": "LED",
+                "room": "01338"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ABG 211",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Advances in Animal Biotechnology & Genetics",
+            "subjectDesc": "Animal Biology Grad Gp",
+            "courseNum": "211",
+            "hidCRN": "0848C7C7EC",
+            "crn": "56192",
+            "subjectCode": "ABG"
+        },
+        "instructor": [
+            {
+                "lastName": "Denicol",
+                "instructorName": "A. Denicol",
+                "firstName": "Anna",
+                "instructorEmail": "acdenicol@ucdavis.edu",
+                "fullName": "Anna Denicol"
+            },
+            {
+                "lastName": "Maga",
+                "instructorName": "E. Maga",
+                "firstName": "Elizabeth",
+                "instructorEmail": "eamaga@ucdavis.edu",
+                "fullName": "Elizabeth Maga"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Definition of Stress; Physiological mechanisms of adaptation to stress; Hormonal control of the systemic stress response; Mechanisms of the cellular stress response; Discussion of current trends in stress physiology and current methods for studying the stress response.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "MCP 255.",
+            "prereq": " Graduate standing."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "1000",
+                "building": "Meyer Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "MEYER",
+                "saturday": false,
+                "type": "LED",
+                "room": "01338"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "ABG 255 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56268",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Physiology of the Stress Response",
+            "subjectDesc": "Animal Biology Grad Gp",
+            "courseNum": "255",
+            "hidCRN": "56268",
+            "crn": "56268",
+            "subjectCode": "ABG"
+        },
+        "instructor": [
+            {
+                "lastName": "Kueltz",
+                "instructorName": "D. Kueltz",
+                "firstName": "Dietmar",
+                "instructorEmail": "dkueltz@ucdavis.edu",
+                "fullName": "Dietmar Kueltz"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Seminar on advanced topics in animal biology. Presentations by members of the Animal Biology Graduate Group and guest speakers.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Graduate standing."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "E",
+                "startTime": "1000",
+                "building": "Meyer Hall",
+                "description": "Seminar",
+                "buildingCode": "MEYER",
+                "saturday": false,
+                "type": "SEM",
+                "room": "01135"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ABG 290 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "30045",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Seminar in Animal Biology",
+            "subjectDesc": "Animal Biology Grad Gp",
+            "courseNum": "290",
+            "hidCRN": "30045",
+            "crn": "30045",
+            "subjectCode": "ABG"
+        },
+        "instructor": [
+            {
+                "lastName": "Makagon-Stuart",
+                "instructorName": "M. Makagon-Stuart",
+                "firstName": "Maja",
+                "instructorEmail": "mmmakagon@ucdavis.edu",
+                "fullName": "Maja Makagon-Stuart"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Student presentations of research in Animal Biology and discussions among participating students and Animal Biology faculty.  ",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Graduate standing."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "",
+                "building": "",
+                "description": "Discussion",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "DIS",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ABG 290C",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research Conference",
+            "subjectDesc": "Animal Biology Grad Gp",
+            "courseNum": "290C",
+            "hidCRN": "0E4EC6CAE8",
+            "crn": "30046",
+            "subjectCode": "ABG"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Group study in Animal Biology.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Graduate standing."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ABG 298",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Group Study in Animal Biology",
+            "subjectDesc": "Animal Biology Grad Gp",
+            "courseNum": "298",
+            "hidCRN": "0E4EC7CEEE",
+            "crn": "30100",
+            "subjectCode": "ABG"
+        },
+        "instructor": [
+            {
+                "lastName": "Watters",
+                "instructorName": "J. Watters",
+                "firstName": "Jason",
+                "instructorEmail": "jvwatters@ucdavis.edu",
+                "fullName": "Jason Watters"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Research with a faculty member in Animal Biology Graduate Group.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Graduate standing."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ABG 299",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 11,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research",
+            "subjectDesc": "Animal Biology Grad Gp",
+            "courseNum": "299",
+            "hidCRN": "0E4EC7CEEC",
+            "crn": "30102",
+            "subjectCode": "ABG"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Teaching assistant training practicum.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Graduate standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ABG 396",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 4,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Teaching Assistant Training Practicum",
+            "subjectDesc": "Animal Biology Grad Gp",
+            "courseNum": "396",
+            "hidCRN": "0E4EC7CBE9",
+            "crn": "30157",
+            "subjectCode": "ABG"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    }
+]

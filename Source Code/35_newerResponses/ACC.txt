@@ -1,0 +1,266 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Advanced treatment of recognition, measurement, and disclosure including pensions, accounting for income taxes, mergers and acquisitions, consolidations, special-purpose entities, and foreign subsidiaries. Includes accounting for governmental and nonprofit entities, as well as advanced treatment of international accounting standards.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " ACC 203"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "",
+                "building": "",
+                "description": "Lecture",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LEC",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ACC 205 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "30459",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Advanced Financial Reporting",
+            "subjectDesc": "Professional Accountancy",
+            "courseNum": "205",
+            "hidCRN": "30459",
+            "crn": "30459",
+            "subjectCode": "ACC"
+        },
+        "instructor": [
+            {
+                "lastName": "Tseng",
+                "instructorName": "A. Tseng",
+                "firstName": "Ayung",
+                "instructorEmail": "atseng@ucdavis.edu",
+                "fullName": "Ayung Tseng"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Detailed analysis of federal taxation of individuals. Topics include the timing of income recognition, deductions and credits for tax purposes, as well as the basics of property transactions.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " ACC 211;  (MGB 264 or MGP 264 or MGT 264)"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "",
+                "building": "",
+                "description": "Lecture",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LEC",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ACC 213 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56194",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Intermediate Tax Reporting & Analysis",
+            "subjectDesc": "Professional Accountancy",
+            "courseNum": "213",
+            "hidCRN": "56194",
+            "crn": "56194",
+            "subjectCode": "ACC"
+        },
+        "instructor": [
+            {
+                "lastName": "Gill",
+                "instructorName": "S. Gill",
+                "firstName": "Steven",
+                "instructorEmail": "drsgill@ucdavis.edu",
+                "fullName": "Steven Gill"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Evaluation of complex financial accounting reports by managers and persons outside the firm, such as investors, creditors, and financial analysts. Topics include cash flow vs. income measurement, ratio and valuation analysis, and the effects of international accounting standards.",
+            "creditLimit": "Not open for credit to students who have completed MGB 272 or MGP 272 or MGT 272.",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " ACC 203"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "",
+                "building": "",
+                "description": "Lecture",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LEC",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ACC 231 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "30460",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Analysis & Use of Accounting Reports",
+            "subjectDesc": "Professional Accountancy",
+            "courseNum": "231",
+            "hidCRN": "30460",
+            "crn": "30460",
+            "subjectCode": "ACC"
+        },
+        "instructor": [
+            {
+                "lastName": "Tseng",
+                "instructorName": "A. Tseng",
+                "firstName": "Ayung",
+                "instructorEmail": "atseng@ucdavis.edu",
+                "fullName": "Ayung Tseng"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Advanced treatment of the audit process and environment. Topics include audit planning and performance, evidence, internal controls, professional standards, and audit reports. Reviews, compilations and attestation services are examined, as are governmental agency audits.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " ACC 241"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "",
+                "building": "",
+                "description": "Lecture",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LEC",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ACC 243 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "30461",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Auditing & Attestation Services",
+            "subjectDesc": "Professional Accountancy",
+            "courseNum": "243",
+            "hidCRN": "30461",
+            "crn": "30461",
+            "subjectCode": "ACC"
+        },
+        "instructor": [
+            {
+                "lastName": "Mubako",
+                "instructorName": "G. Mubako",
+                "firstName": "Grace",
+                "instructorEmail": "gmubako@ucdavis.edu",
+                "fullName": "Grace Mubako"
+            }
+        ]
+    }
+]
