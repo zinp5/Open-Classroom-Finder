@@ -1,0 +1,2124 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Collaborations between artists and scientists. Roles of government, industry, and education in shaping collaborations in the 20th and 21st centuries. Interdisciplinary exploration of scientific and artistic ways of building knowledge, cultures, and infrastructures. \n",
+            "creditLimit": "",
+            "ge3": "AH,SL,SS,VL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "1030",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture/Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LED",
+                "room": "03213"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "STS 010 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "54354",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Art + Science: Intersections",
+            "subjectDesc": "Science & Technology Studies",
+            "courseNum": "010",
+            "hidCRN": "54354",
+            "crn": "54354",
+            "subjectCode": "STS"
+        },
+        "instructor": [
+            {
+                "lastName": "Perkov",
+                "instructorName": "K. Perkov",
+                "firstName": "Kayleigh",
+                "instructorEmail": "kperkov@ucdavis.edu",
+                "fullName": "Kayleigh Perkov"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Relationships among law, technology, and science. Scientific evidence and testimony, biology education, patenting, and sterilization.",
+            "creditLimit": "",
+            "ge3": "SS,ACGH",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1210",
+                "building": "Hart Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "HART",
+                "saturday": false,
+                "type": "LED",
+                "room": "01130"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1030",
+                "building": "Maria Manetti Shrem Art Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "MMSART",
+                "saturday": false,
+                "type": "LED",
+                "room": "00217"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "STS 011 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "54355",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Science on Trial: Law, Science, & Technology in the United States",
+            "subjectDesc": "Science & Technology Studies",
+            "courseNum": "011",
+            "hidCRN": "54355",
+            "crn": "54355",
+            "subjectCode": "STS"
+        },
+        "instructor": [
+            {
+                "lastName": "Con Diaz",
+                "instructorName": "G. Con Diaz",
+                "firstName": "Gerardo",
+                "instructorEmail": "condiaz@ucdavis.edu",
+                "fullName": "Gerardo Con Diaz"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Relationships among law, technology, and science. Scientific evidence and testimony, biology education, patenting, and sterilization.",
+            "creditLimit": "",
+            "ge3": "SS,ACGH",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1210",
+                "building": "Olson Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LED",
+                "room": "00151"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1030",
+                "building": "Maria Manetti Shrem Art Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "MMSART",
+                "saturday": false,
+                "type": "LED",
+                "room": "00217"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "STS 011 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "56002",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Science on Trial: Law, Science, & Technology in the United States",
+            "subjectDesc": "Science & Technology Studies",
+            "courseNum": "011",
+            "hidCRN": "56002",
+            "crn": "56002",
+            "subjectCode": "STS"
+        },
+        "instructor": [
+            {
+                "lastName": "Con Diaz",
+                "instructorName": "G. Con Diaz",
+                "firstName": "Gerardo",
+                "instructorEmail": "condiaz@ucdavis.edu",
+                "fullName": "Gerardo Con Diaz"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "History of media from 1945 to present, with particular focus on the development of the computer, digital network and Internet technologies in the context of other media infrastructures like radio, television and satellite networks. Analysis of inter-related cultural/political topics.",
+            "creditLimit": "",
+            "ge3": "AH,OL,SS,VL,WE",
+            "crossListing": "CTS 040B.",
+            "prereq": " STS 040A"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1610",
+                "building": "Cruess Hall",
+                "description": "Discussion",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01107"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "3",
+                "startTime": "",
+                "building": "",
+                "description": "Film Viewing",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "F-V",
+                "room": ""
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1340",
+                "building": "Cruess Hall",
+                "description": "Lecture",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01003"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "STS 040B A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "54359",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Media History 2 1945-Present",
+            "subjectDesc": "Science & Technology Studies",
+            "courseNum": "040B",
+            "hidCRN": "54359",
+            "crn": "54359",
+            "subjectCode": "STS"
+        },
+        "instructor": [
+            {
+                "lastName": "Johnson",
+                "instructorName": "C. Johnson",
+                "firstName": "Colin",
+                "instructorEmail": "cwrjohnson@ucdavis.edu",
+                "fullName": "Colin Johnson"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "History of media from 1945 to present, with particular focus on the development of the computer, digital network and Internet technologies in the context of other media infrastructures like radio, television and satellite networks. Analysis of inter-related cultural/political topics.",
+            "creditLimit": "",
+            "ge3": "AH,OL,SS,VL,WE",
+            "crossListing": "CTS 040B.",
+            "prereq": " STS 040A"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1710",
+                "building": "Cruess Hall",
+                "description": "Discussion",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01107"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "3",
+                "startTime": "",
+                "building": "",
+                "description": "Film Viewing",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "F-V",
+                "room": ""
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1340",
+                "building": "Storer Hall",
+                "description": "Lecture",
+                "buildingCode": "STORER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01342"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "STS 040B A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "54360",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Media History 2 1945-Present",
+            "subjectDesc": "Science & Technology Studies",
+            "courseNum": "040B",
+            "hidCRN": "54360",
+            "crn": "54360",
+            "subjectCode": "STS"
+        },
+        "instructor": [
+            {
+                "lastName": "Johnson",
+                "instructorName": "C. Johnson",
+                "firstName": "Colin",
+                "instructorEmail": "cwrjohnson@ucdavis.edu",
+                "fullName": "Colin Johnson"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed group study.",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "STS 098",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study",
+            "subjectDesc": "Science & Technology Studies",
+            "courseNum": "098",
+            "hidCRN": "084AC5C8EF",
+            "crn": "54361",
+            "subjectCode": "STS"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Anthropological approaches to scientific visualization techniques, informatics, simulations. Examination of different visualization techniques toward understanding the work involved in producing them, critical assessment of their power and limits, especially when visualizations are used socially to make claims.",
+            "creditLimit": "",
+            "ge3": "SS,VL,WE",
+            "crossListing": "ANT 109.",
+            "prereq": " STS 001 or STS 020 or ANT 002 recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "03212"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "9",
+                "startTime": "1340",
+                "building": "Teaching and Learning Complex",
+                "description": "Extensive Writing/Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "W-D",
+                "room": "03212"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "STS 109 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "54365",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Visualization in Science: A Critical Introduction",
+            "subjectDesc": "Science & Technology Studies",
+            "courseNum": "109",
+            "hidCRN": "54365",
+            "crn": "54365",
+            "subjectCode": "STS"
+        },
+        "instructor": [
+            {
+                "lastName": "Perkov",
+                "instructorName": "K. Perkov",
+                "firstName": "Kayleigh",
+                "instructorEmail": "kperkov@ucdavis.edu",
+                "fullName": "Kayleigh Perkov"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Analysis and visualization of historical and contemporary data about populations and societies using R. Critical exploration of visual communication of information about people over time and critical assessment of role of data collection and analysis in societies.",
+            "creditLimit": "",
+            "ge3": "DD,QL,SS",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "L",
+                "startTime": "0900",
+                "building": "Giedt",
+                "description": "Lecture/Lab",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LLA",
+                "room": "01006"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "STS 112 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "54367",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Visualizing Society with Data",
+            "subjectDesc": "Science & Technology Studies",
+            "courseNum": "112",
+            "hidCRN": "54367",
+            "crn": "54367",
+            "subjectCode": "STS"
+        },
+        "instructor": [
+            {
+                "lastName": "Jones",
+                "instructorName": "R. Jones",
+                "firstName": "Rebecca",
+                "instructorEmail": "rljones@ucdavis.edu",
+                "fullName": "Rebecca Jones"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to the global spread of information technologies like computers and smartphones. Special focus on their social, cultural, and commercial impact. ",
+            "creditLimit": "",
+            "ge3": "SS,WC,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "0830",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture/Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LED",
+                "room": "03212"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "STS 114 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56205",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "The Global Information Age",
+            "subjectDesc": "Science & Technology Studies",
+            "courseNum": "114",
+            "hidCRN": "56205",
+            "crn": "56205",
+            "subjectCode": "STS"
+        },
+        "instructor": [
+            {
+                "lastName": "Pohlmann",
+                "instructorName": "J. Pohlmann",
+                "firstName": "Jens",
+                "instructorEmail": "jpohlmann@ucdavis.edu",
+                "fullName": "Jens Pohlmann"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to critical medical anthropology. Topics include anthropological analysis of bio-medicine, psychiatry, systems of knowledge and healing, the body, emotions, and clinical encounters in a cross-cultural perspective. ",
+            "creditLimit": "",
+            "ge3": "SS,WC,WE",
+            "crossListing": "ANT 121.",
+            "prereq": " ANT 002 recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1730",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "1610",
+                "building": "Wellman Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LED",
+                "room": "00212"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "1740",
+                "building": "Wellman Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LED",
+                "room": "00212"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "STS 121 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56432",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Topics in Medical Anthropology",
+            "subjectDesc": "Science & Technology Studies",
+            "courseNum": "121",
+            "hidCRN": "56432",
+            "crn": "56432",
+            "subjectCode": "STS"
+        },
+        "instructor": [
+            {
+                "lastName": "Shakur",
+                "instructorName": "Z. Shakur",
+                "firstName": "Zunaira",
+                "instructorEmail": "zkomal@ucdavis.edu",
+                "fullName": "Zunaira Shakur"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Students will explore the life and times of Charles Darwin and will trace the development of evolutionary thinking before and after the Origin of Species to appreciate its place in Victorian society and in the corpus of Darwins thought.",
+            "creditLimit": "",
+            "ge3": "AH,SE,WE",
+            "crossListing": "",
+            "prereq": " Upper division standing or consent of instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1640",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01212"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "STS 131 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56003",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Darwin",
+            "subjectDesc": "Science & Technology Studies",
+            "courseNum": "131",
+            "hidCRN": "56003",
+            "crn": "56003",
+            "subjectCode": "STS"
+        },
+        "instructor": [
+            {
+                "lastName": "Wills",
+                "instructorName": "M. Wills",
+                "firstName": "Melissa",
+                "instructorEmail": "mawills@ucdavis.edu",
+                "fullName": "Melissa Wills"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Interdisciplinary approach to the relations between gender and science. Topics include the biological and cultural construction of sexual difference, the role of women as practitioners of science, and feminist approaches to science.",
+            "creditLimit": "",
+            "ge3": "DD,SS,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1510",
+                "building": "Kerr Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "KERR",
+                "saturday": false,
+                "type": "LED",
+                "room": "00293"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "STS 150 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "54376",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Gender & Science",
+            "subjectDesc": "Science & Technology Studies",
+            "courseNum": "150",
+            "hidCRN": "54376",
+            "crn": "54376",
+            "subjectCode": "STS"
+        },
+        "instructor": [
+            {
+                "lastName": "Mcdonald",
+                "instructorName": "M. Mcdonald",
+                "firstName": "Marie",
+                "instructorEmail": "mkmcdonald@ucdavis.edu",
+                "fullName": "Marie Mcdonald"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Critical and theoretical approaches to the emergence of new technologies since the invention of photography. Examine various approaches to media: formalist, semiotic, structuralist, Frankfurt School, cybernetics, visual and gamer theory.",
+            "creditLimit": "",
+            "ge3": "AH,SS,VL,WE",
+            "crossListing": "CDM 151",
+            "prereq": " CDM 002 or CDM 003 recommended"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1000",
+                "building": "Cruess Hall",
+                "description": "Discussion",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00220"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "3",
+                "startTime": "",
+                "building": "",
+                "description": "Film Viewing",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "F-V",
+                "room": ""
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Cruess Hall",
+                "description": "Lecture",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01002"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "STS 151 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "54377",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Media Theory",
+            "subjectDesc": "Science & Technology Studies",
+            "courseNum": "151",
+            "hidCRN": "54377",
+            "crn": "54377",
+            "subjectCode": "STS"
+        },
+        "instructor": [
+            {
+                "lastName": "Lenoir",
+                "instructorName": "T. Lenoir",
+                "firstName": "Timothy",
+                "instructorEmail": "lenoir@ucdavis.edu",
+                "fullName": "Timothy Lenoir"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Critical and theoretical approaches to the emergence of new technologies since the invention of photography. Examine various approaches to media: formalist, semiotic, structuralist, Frankfurt School, cybernetics, visual and gamer theory.",
+            "creditLimit": "",
+            "ge3": "AH,SS,VL,WE",
+            "crossListing": "CDM 151",
+            "prereq": " CDM 002 or CDM 003 recommended"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1100",
+                "building": "Cruess Hall",
+                "description": "Discussion",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00220"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "3",
+                "startTime": "",
+                "building": "",
+                "description": "Film Viewing",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "F-V",
+                "room": ""
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Cruess Hall",
+                "description": "Lecture",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01002"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "STS 151 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "54378",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Media Theory",
+            "subjectDesc": "Science & Technology Studies",
+            "courseNum": "151",
+            "hidCRN": "54378",
+            "crn": "54378",
+            "subjectCode": "STS"
+        },
+        "instructor": [
+            {
+                "lastName": "Lenoir",
+                "instructorName": "T. Lenoir",
+                "firstName": "Timothy",
+                "instructorEmail": "lenoir@ucdavis.edu",
+                "fullName": "Timothy Lenoir"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Critical and theoretical approaches to the emergence of new technologies since the invention of photography. Examine various approaches to media: formalist, semiotic, structuralist, Frankfurt School, cybernetics, visual and gamer theory.",
+            "creditLimit": "",
+            "ge3": "AH,SS,VL,WE",
+            "crossListing": "CDM 151",
+            "prereq": " CDM 002 or CDM 003 recommended"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1000",
+                "building": "Cruess Hall",
+                "description": "Discussion",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01107"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "3",
+                "startTime": "",
+                "building": "",
+                "description": "Film Viewing",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "F-V",
+                "room": ""
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Cruess Hall",
+                "description": "Lecture",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01002"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "STS 151 A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "54379",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Media Theory",
+            "subjectDesc": "Science & Technology Studies",
+            "courseNum": "151",
+            "hidCRN": "54379",
+            "crn": "54379",
+            "subjectCode": "STS"
+        },
+        "instructor": [
+            {
+                "lastName": "Lenoir",
+                "instructorName": "T. Lenoir",
+                "firstName": "Timothy",
+                "instructorEmail": "lenoir@ucdavis.edu",
+                "fullName": "Timothy Lenoir"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Critical and theoretical approaches to the emergence of new technologies since the invention of photography. Examine various approaches to media: formalist, semiotic, structuralist, Frankfurt School, cybernetics, visual and gamer theory.",
+            "creditLimit": "",
+            "ge3": "AH,SS,VL,WE",
+            "crossListing": "CDM 151",
+            "prereq": " CDM 002 or CDM 003 recommended"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1100",
+                "building": "Cruess Hall",
+                "description": "Discussion",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01107"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "3",
+                "startTime": "",
+                "building": "",
+                "description": "Film Viewing",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "F-V",
+                "room": ""
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Cruess Hall",
+                "description": "Lecture",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01002"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "STS 151 A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "54380",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Media Theory",
+            "subjectDesc": "Science & Technology Studies",
+            "courseNum": "151",
+            "hidCRN": "54380",
+            "crn": "54380",
+            "subjectCode": "STS"
+        },
+        "instructor": [
+            {
+                "lastName": "Lenoir",
+                "instructorName": "T. Lenoir",
+                "firstName": "Timothy",
+                "instructorEmail": "lenoir@ucdavis.edu",
+                "fullName": "Timothy Lenoir"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Work experience off and on campus in all subject areas offered in the program in Science & Technology Studies under the supervision of a  member of the faculty. ",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "I",
+                "startTime": "",
+                "building": "",
+                "description": "Internship",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "INT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "STS 192",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Internship",
+            "subjectDesc": "Science & Technology Studies",
+            "courseNum": "192",
+            "hidCRN": "084AC5C6EC",
+            "crn": "54382",
+            "subjectCode": "STS"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Development of a research thesis, supervised by a faculty member.",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": " STS 194A;  Consent of Instructor.  Recommended: senior standing & faculty approval."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "T",
+                "startTime": "",
+                "building": "",
+                "description": "Tutorial",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "TUT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "STS 194B 002",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "002",
+            "printCRN": "54387",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Advanced Research in Science & Technology Studies",
+            "subjectDesc": "Science & Technology Studies",
+            "courseNum": "194B",
+            "hidCRN": "54387",
+            "crn": "54387",
+            "subjectCode": "STS"
+        },
+        "instructor": [
+            {
+                "lastName": "Con Diaz",
+                "instructorName": "G. Con Diaz",
+                "firstName": "Gerardo",
+                "instructorEmail": "condiaz@ucdavis.edu",
+                "fullName": "Gerardo Con Diaz"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Development of a research thesis, supervised by a faculty member.",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": " STS 194A;  Consent of Instructor.  Recommended: senior standing & faculty approval."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "T",
+                "startTime": "",
+                "building": "",
+                "description": "Tutorial",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "TUT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "STS 194B 003",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "003",
+            "printCRN": "54388",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Advanced Research in Science & Technology Studies",
+            "subjectDesc": "Science & Technology Studies",
+            "courseNum": "194B",
+            "hidCRN": "54388",
+            "crn": "54388",
+            "subjectCode": "STS"
+        },
+        "instructor": [
+            {
+                "lastName": "",
+                "instructorName": ". ",
+                "firstName": "",
+                "instructorEmail": "",
+                "fullName": " "
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Analysis of real-world data in the form of case studies engaging current issues. Emphasizes teamwork in the identification of problems and sources of relevant data; data cleaning, exploration, analysis, and visualization using R; and interpretation and presentation of results to a variety of stakeholders in oral, visual, and textual formats.",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": " STS 101;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 20:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "",
+                "building": "",
+                "description": "Lecture/Discussion",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LED",
+                "room": ""
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "G",
+                "startTime": "1510",
+                "building": "Shields Library",
+                "description": "Discussion Laboratory",
+                "buildingCode": "SHLDS",
+                "saturday": false,
+                "type": "D/L",
+                "room": "00167"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "STS 195",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research in Data Studies",
+            "subjectDesc": "Science & Technology Studies",
+            "courseNum": "195",
+            "hidCRN": "084AC5C6E7",
+            "crn": "54389",
+            "subjectCode": "STS"
+        },
+        "instructor": [
+            {
+                "lastName": "Stahmer",
+                "instructorName": "C. Stahmer",
+                "firstName": "Carl",
+                "instructorEmail": "cstahmer@ucdavis.edu",
+                "fullName": "Carl Stahmer"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed group study.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "STS 198",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study",
+            "subjectDesc": "Science & Technology Studies",
+            "courseNum": "198",
+            "hidCRN": "084AC5C7EF",
+            "crn": "54391",
+            "subjectCode": "STS"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special study for advanced undergraduates.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "STS 199",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Study for Advanced Undergraduates",
+            "subjectDesc": "Science & Technology Studies",
+            "courseNum": "199",
+            "hidCRN": "084AC2CEEF",
+            "crn": "54401",
+            "subjectCode": "STS"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Recent topics, debates, and innovative methods in Science & Technology Studies. Issues may include the governance of technoscience, science and media, data studies, indigenous knowledge, science and globalization, citizen science, new and emerging technologies.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1210",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00235"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "STS 205 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56009",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Contemporary Issues in Science & Technology Studies",
+            "subjectDesc": "Science & Technology Studies",
+            "courseNum": "205",
+            "hidCRN": "56009",
+            "crn": "56009",
+            "subjectCode": "STS"
+        },
+        "instructor": [
+            {
+                "lastName": "Con Diaz",
+                "instructorName": "G. Con Diaz",
+                "firstName": "Gerardo",
+                "instructorEmail": "condiaz@ucdavis.edu",
+                "fullName": "Gerardo Con Diaz"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Interdisciplinary seminar in the history and philosophy of science. Focuses on issues such as historiography, methodology, and the conceptual foundations of science. ",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Graduate standing or consent of instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "E",
+                "startTime": "1510",
+                "building": "Teaching and Learning Complex",
+                "description": "Seminar",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "SEM",
+                "room": "2000E"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "STS 250 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56011",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "History & Philosophy of Science",
+            "subjectDesc": "Science & Technology Studies",
+            "courseNum": "250",
+            "hidCRN": "56011",
+            "crn": "56011",
+            "subjectCode": "STS"
+        },
+        "instructor": [
+            {
+                "lastName": "Lenoir",
+                "instructorName": "T. Lenoir",
+                "firstName": "Timothy",
+                "instructorEmail": "lenoir@ucdavis.edu",
+                "fullName": "Timothy Lenoir"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Group study.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "STS 298",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Group Study",
+            "subjectDesc": "Science & Technology Studies",
+            "courseNum": "298",
+            "hidCRN": "084AC2CEE6",
+            "crn": "54408",
+            "subjectCode": "STS"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Research,",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "STS 299",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research",
+            "subjectDesc": "Science & Technology Studies",
+            "courseNum": "299",
+            "hidCRN": "084AC2CFEB",
+            "crn": "54415",
+            "subjectCode": "STS"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Teaching assistant training practicum.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Graduate standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "STS 396",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 4,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Teaching Assistant Training Practicum",
+            "subjectDesc": "Science & Technology Studies",
+            "courseNum": "396",
+            "hidCRN": "084AC2CCEF",
+            "crn": "54421",
+            "subjectCode": "STS"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    }
+]

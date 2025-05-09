@@ -1,0 +1,398 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed group study.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Upper division standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "RNU 198",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study",
+            "subjectDesc": "Med - Radiology-Nuclear Med",
+            "courseNum": "198",
+            "hidCRN": "084DC4CBEF",
+            "crn": "53251",
+            "subjectCode": "RNU"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special study for advanced undergraduates.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Upper division standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "RNU 199",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Study for Advanced Undergraduates",
+            "subjectDesc": "Med - Radiology-Nuclear Med",
+            "courseNum": "199",
+            "hidCRN": "084DC4CBEC",
+            "crn": "53252",
+            "subjectCode": "RNU"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special study for graduate students.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Graduate standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "RNU 299",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research: Special Study for Graduate Students",
+            "subjectDesc": "Med - Radiology-Nuclear Med",
+            "courseNum": "299",
+            "hidCRN": "084DC4CBED",
+            "crn": "53253",
+            "subjectCode": "RNU"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Clerkship correlates radioisotopic methods with clinical, pathophysiological, and other diagnostic aspects of the patients care. Each patient reviewed with student by faculty member. Reading assignments, informal projects, and research techniques available.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Satisfactory completion of second-year medical school; RDI 461 recommended. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "RNU 463",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 8,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Clinical Clerkship in Nuclear Medicine",
+            "subjectDesc": "Med - Radiology-Nuclear Med",
+            "courseNum": "463",
+            "hidCRN": "084DC4CBEB",
+            "crn": "53255",
+            "subjectCode": "RNU"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Approved for graduate degree credit.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "RNU 498",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Group Study in Nuclear Medicine",
+            "subjectDesc": "Med - Radiology-Nuclear Med",
+            "courseNum": "498",
+            "hidCRN": "084DC4CBE8",
+            "crn": "53256",
+            "subjectCode": "RNU"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Research in Nuclear Medicine.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "RNU 499",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research in Nuclear Medicine",
+            "subjectDesc": "Med - Radiology-Nuclear Med",
+            "courseNum": "499",
+            "hidCRN": "084DC4CBE9",
+            "crn": "53257",
+            "subjectCode": "RNU"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    }
+]

@@ -1,0 +1,200 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Continuation of PUN 002. Introduction to listening, speaking, reading, and writing skills in Punjabi and to Punjabi culture. ",
+            "creditLimit": "",
+            "ge3": "AH,WC",
+            "crossListing": "",
+            "prereq": " PUN 002 or PUN 002V;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": true,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MTWRF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "1210",
+                "building": "Shrem Museum of Art",
+                "description": "Lecture/Discussion",
+                "buildingCode": "SHREM",
+                "saturday": false,
+                "type": "LED",
+                "room": "01301"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "PUN 003 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "53139",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Elementary Punjabi",
+            "subjectDesc": "Punjabi",
+            "courseNum": "003",
+            "hidCRN": "53139",
+            "crn": "53139",
+            "subjectCode": "PUN"
+        },
+        "instructor": [
+            {
+                "lastName": "Singh",
+                "instructorName": "K. Singh",
+                "firstName": "Kuldeep",
+                "instructorEmail": "kldsingh@ucdavis.edu",
+                "fullName": "Kuldeep Singh"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Continuation of PUN 002V. Introduction to listening, speaking, reading, and writing skills in Punjabi and to Punjabi culture. ",
+            "creditLimit": "",
+            "ge3": "AH,WC",
+            "crossListing": "",
+            "prereq": " PUN 002V;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1730",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "%",
+                "startTime": "1610",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Electronic Dis",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WED",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "PUN 003V 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "53140",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Elementary Punjabi",
+            "subjectDesc": "Punjabi",
+            "courseNum": "003V",
+            "hidCRN": "53140",
+            "crn": "53140",
+            "subjectCode": "PUN"
+        },
+        "instructor": [
+            {
+                "lastName": "Kaur",
+                "instructorName": "A. Kaur",
+                "firstName": "Arshinder",
+                "instructorEmail": "aplkaur@ucdavis.edu",
+                "fullName": "Arshinder Kaur"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Integrated listening, speaking, reading, and writing skills in formal and informal contexts in Intermediate Punjabi. Greater comprehension and production of meaningful verbal and written expression in Punjabi. Final research project related to topics in Punjabi literature and culture.",
+            "creditLimit": "",
+            "ge3": "AH,WC",
+            "crossListing": "",
+            "prereq": " PUN 022;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MTWR",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "1100",
+                "building": "Shrem Museum of Art",
+                "description": "Lecture/Discussion",
+                "buildingCode": "SHREM",
+                "saturday": false,
+                "type": "LED",
+                "room": "01001"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "PUN 023 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "53142",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Intermediate Punjabi",
+            "subjectDesc": "Punjabi",
+            "courseNum": "023",
+            "hidCRN": "53142",
+            "crn": "53142",
+            "subjectCode": "PUN"
+        },
+        "instructor": [
+            {
+                "lastName": "Singh",
+                "instructorName": "K. Singh",
+                "firstName": "Kuldeep",
+                "instructorEmail": "kldsingh@ucdavis.edu",
+                "fullName": "Kuldeep Singh"
+            }
+        ]
+    }
+]

@@ -1,0 +1,266 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Radiation Oncology is a unique discipline combining elements of clinical practice linked to complex physics based dosimetry and treatment planning. Included within this clinical environment is a strong basis in biology that underpins the clinical effectiveness of radiation treatment.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "RON 199",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "001",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Study for Advanced Undergraduates: Research in Radiation Biology",
+            "subjectDesc": "Med - Radiation Oncology",
+            "courseNum": "199",
+            "hidCRN": "084DC4CBE6",
+            "crn": "53258",
+            "subjectCode": "RON"
+        },
+        "instructor": [
+            {
+                "lastName": "Dieterich",
+                "instructorName": "S. Dieterich",
+                "firstName": "Sonja",
+                "instructorEmail": "sdieterich@ucdavis.edu",
+                "fullName": "Sonja Dieterich"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to radiation oncology. Students will participate in workup and treatment planning for radiation oncology patients and will be introduced to the concepts involved in clinical radiation oncology, radiation biology, and radiation physics.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " MDS 430;  MDS 431; third-year clinical clerkship; consent of instructor required."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "O",
+                "startTime": "",
+                "building": "",
+                "description": "Clinic",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "CLI",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "RON 463",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 9,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Radiation Oncology Clerkship",
+            "subjectDesc": "Med - Radiation Oncology",
+            "courseNum": "463",
+            "hidCRN": "084DC4C8E6",
+            "crn": "53268",
+            "subjectCode": "RON"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Away Advanced Clerkship in Radiation Oncology.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "RON 464",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "901",
+            "printCRN": "@",
+            "unitsHigh": 9,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Radiation Oncology Away Clerkship",
+            "subjectDesc": "Med - Radiation Oncology",
+            "courseNum": "464",
+            "hidCRN": "0848C1CCEA",
+            "crn": "56724",
+            "subjectCode": "RON"
+        },
+        "instructor": [
+            {
+                "lastName": "",
+                "instructorName": ". ",
+                "firstName": "",
+                "instructorEmail": "",
+                "fullName": " "
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Advanced-level research seminar in clinical and/or translational radiation oncology. Work with the course instructor to generate a testable hypothesis.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "RON 499",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 18,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Independent Study & Research in Therapeutic Radiology",
+            "subjectDesc": "Med - Radiation Oncology",
+            "courseNum": "499",
+            "hidCRN": "084DC4C9EF",
+            "crn": "53271",
+            "subjectCode": "RON"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    }
+]

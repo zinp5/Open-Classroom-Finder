@@ -1,0 +1,326 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Construction technologies for small farms. Design and construction of typical farm structures utilizing CAD, common construction tools and techniques while exploring the effects of wood properties on structures.",
+            "creditLimit": "",
+            "ge3": "OL,SE,VL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1100",
+                "building": "Western Ctr for Agric Equipmnt",
+                "description": "Lecture",
+                "buildingCode": "WCAE",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00000"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "L",
+                "startTime": "0900",
+                "building": "Western Ctr for Agric Equipmnt",
+                "description": "Lecture/Lab",
+                "buildingCode": "WCAE",
+                "saturday": false,
+                "type": "LLA",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "TAE 015 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "56036",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Agricultural & Wood Framed Structures",
+            "subjectDesc": "Technology-Ag & Environmental",
+            "courseNum": "015",
+            "hidCRN": "56036",
+            "crn": "56036",
+            "subjectCode": "TAE"
+        },
+        "instructor": [
+            {
+                "lastName": "Frank",
+                "instructorName": "D. Frank",
+                "firstName": "Daniel",
+                "instructorEmail": "dafrank@ucdavis.edu",
+                "fullName": "Daniel Frank"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Construction technologies for small farms. Design and construction of typical farm structures utilizing CAD, common construction tools and techniques while exploring the effects of wood properties on structures.",
+            "creditLimit": "",
+            "ge3": "OL,SE,VL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1100",
+                "building": "Western Ctr for Agric Equipmnt",
+                "description": "Lecture",
+                "buildingCode": "WCAE",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00000"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "L",
+                "startTime": "0900",
+                "building": "Western Ctr for Agric Equipmnt",
+                "description": "Lecture/Lab",
+                "buildingCode": "WCAE",
+                "saturday": false,
+                "type": "LLA",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "TAE 015 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "56037",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Agricultural & Wood Framed Structures",
+            "subjectDesc": "Technology-Ag & Environmental",
+            "courseNum": "015",
+            "hidCRN": "56037",
+            "crn": "56037",
+            "subjectCode": "TAE"
+        },
+        "instructor": [
+            {
+                "lastName": "Frank",
+                "instructorName": "D. Frank",
+                "firstName": "Daniel",
+                "instructorEmail": "dafrank@ucdavis.edu",
+                "fullName": "Daniel Frank"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "",
+            "creditLimit": "",
+            "ge3": "QL,VL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Hart Hall",
+                "description": "Lecture",
+                "buildingCode": "HART",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01128"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0900",
+                "building": "Katherine Esau Science Hall",
+                "description": "Laboratory",
+                "buildingCode": "ESAU",
+                "saturday": false,
+                "type": "LAB",
+                "room": "02060"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "TAE 030 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "54476",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Comm & Computing Tech",
+            "subjectDesc": "Technology-Ag & Environmental",
+            "courseNum": "030",
+            "hidCRN": "54476",
+            "crn": "54476",
+            "subjectCode": "TAE"
+        },
+        "instructor": [
+            {
+                "lastName": "Moghimi",
+                "instructorName": "A. Moghimi",
+                "firstName": "Ali",
+                "instructorEmail": "amoghimi@ucdavis.edu",
+                "fullName": "Ali Moghimi"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed group study. May be taught abroad.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "1310",
+                "building": "Western Ctr for Agric Equipmnt",
+                "description": "Variable",
+                "buildingCode": "WCAE",
+                "saturday": false,
+                "type": "VAR",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "TAE 198",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "001",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study",
+            "subjectDesc": "Technology-Ag & Environmental",
+            "courseNum": "198",
+            "hidCRN": "084AC2C9E9",
+            "crn": "54477",
+            "subjectCode": "TAE"
+        },
+        "instructor": [
+            {
+                "lastName": "Frank",
+                "instructorName": "D. Frank",
+                "firstName": "Daniel",
+                "instructorEmail": "dafrank@ucdavis.edu",
+                "fullName": "Daniel Frank"
+            }
+        ]
+    }
+]

@@ -1,0 +1,1607 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Overview of the history of wine, viticulture, fermentation, winery operations, the physiology of wine consumption, wines produced in California and other major wine-producing regions and the sensory evaluation of wine. May be taught abroad.",
+            "creditLimit": "",
+            "ge3": "SE,SS",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "California Hall",
+                "description": "Lecture",
+                "buildingCode": "CALIFO",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01100"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "VEN 003 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "54858",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Introduction to Winemaking",
+            "subjectDesc": "Viticulture & Enology",
+            "courseNum": "003",
+            "hidCRN": "54858",
+            "crn": "54858",
+            "subjectCode": "VEN"
+        },
+        "instructor": [
+            {
+                "lastName": "Ljepovic",
+                "instructorName": "Z. Ljepovic",
+                "firstName": "Zoran",
+                "instructorEmail": "zljepovic@ucdavis.edu",
+                "fullName": "Zoran Ljepovic"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special study for undergraduates.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "VEN 099",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Study for Undergraduates",
+            "subjectDesc": "Viticulture & Enology",
+            "courseNum": "099",
+            "hidCRN": "084ACECBE7",
+            "crn": "54859",
+            "subjectCode": "VEN"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Field oriented experience in the principles and practices of grapevine production, including vineyard establishment, vine training, trellising, canopy management practices, irrigation and water management, and methods of crop adjustment for improvement of fruit quality. One field trip required.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " VEN 002"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1430",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1310",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "03210"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "G",
+                "startTime": "0700",
+                "building": "Vineyard",
+                "description": "Discussion Laboratory",
+                "buildingCode": "VINYRD",
+                "saturday": false,
+                "type": "D/L",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "VEN 101C A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "54875",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Viticultural Practices",
+            "subjectDesc": "Viticulture & Enology",
+            "courseNum": "101C",
+            "hidCRN": "54875",
+            "crn": "54875",
+            "subjectCode": "VEN"
+        },
+        "instructor": [
+            {
+                "lastName": "Diaz Garcia",
+                "instructorName": "L. Diaz Garcia",
+                "firstName": "Luis",
+                "instructorEmail": "diazgarcia@ucdavis.edu",
+                "fullName": "Luis Diaz Garcia"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Landscape distribution, physical and chemical processes in viticultural soils. Site evaluation procedures, best soil management practices, vineyard fertilization, and soil health monitoring.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " (CHE 002B or CHE 002BH);  BIS 002A;  (PHY 001A,  PHY 001B { can be concurrent }) or PHY 007A { can be concurrent };  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "RMI Beer and Wine Facility",
+                "description": "Lecture",
+                "buildingCode": "RMIBWF",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01202"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "VEN 112 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55577",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Soils in Viticulture",
+            "subjectDesc": "Viticulture & Enology",
+            "courseNum": "112",
+            "hidCRN": "55577",
+            "crn": "55577",
+            "subjectCode": "VEN"
+        },
+        "instructor": [
+            {
+                "lastName": "Forrestel",
+                "instructorName": "E. Forrestel",
+                "firstName": "Elisabeth",
+                "instructorEmail": "ejforrestel@ucdavis.edu",
+                "fullName": "Elisabeth Forrestel"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Physiology, biochemistry, and genetics of microorganisms important in food fermentations. How microorganisms are used in fermentations and how raw materials are converted into finished fermented foods and beverages.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "FST 114.",
+            "prereq": " BIS 103;  MIC 102;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1100",
+                "building": "Maria Manetti Shrem Art Hall",
+                "description": "Lecture",
+                "buildingCode": "MMSART",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00217"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "VEN 114 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "54878",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Fermented Foods",
+            "subjectDesc": "Viticulture & Enology",
+            "courseNum": "114",
+            "hidCRN": "54878",
+            "crn": "54878",
+            "subjectCode": "VEN"
+        },
+        "instructor": [
+            {
+                "lastName": "Mills",
+                "instructorName": "D. Mills",
+                "firstName": "David",
+                "instructorEmail": "damills@ucdavis.edu",
+                "fullName": "David Mills"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Principles of sensory evaluation and application to wines. Factors influencing wine flavor, data from sensory analysis of model solutions. ",
+            "creditLimit": "",
+            "ge3": "QL,SE",
+            "crossListing": "",
+            "prereq": " PLS 120 or STA 106"
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1000",
+                "building": "RMI Sensory Lab Bldg",
+                "description": "Lecture",
+                "buildingCode": "RMISEN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "VEN 125 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "54879",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Wine Types & Sensory Evaluation",
+            "subjectDesc": "Viticulture & Enology",
+            "courseNum": "125",
+            "hidCRN": "54879",
+            "crn": "54879",
+            "subjectCode": "VEN"
+        },
+        "instructor": [
+            {
+                "lastName": "Heymann",
+                "instructorName": "H. Heymann",
+                "firstName": "Hildegarde",
+                "instructorEmail": "hheymann@ucdavis.edu",
+                "fullName": "Hildegarde Heymann"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Sensory evaluation of wines and model systems using discrimination tests, ranking, descriptive analysis and time-intensity analysis. Data will be analyzed by appropriate statistical tests and the results interpreted in extensive weekly lab reports.",
+            "creditLimit": "",
+            "ge3": "QL,SE,VL,WE",
+            "crossListing": "",
+            "prereq": " VEN 125 { can be concurrent }"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1410",
+                "building": "RMI Sensory Lab Bldg",
+                "description": "Laboratory",
+                "buildingCode": "RMISEN",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "VEN 125L 002",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "002",
+            "printCRN": "54881",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Sensory Evaluation of Wine Laboratory",
+            "subjectDesc": "Viticulture & Enology",
+            "courseNum": "125L",
+            "hidCRN": "54881",
+            "crn": "54881",
+            "subjectCode": "VEN"
+        },
+        "instructor": [
+            {
+                "lastName": "Heymann",
+                "instructorName": "H. Heymann",
+                "firstName": "Hildegarde",
+                "instructorEmail": "hheymann@ucdavis.edu",
+                "fullName": "Hildegarde Heymann"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Sensory and chemical impact of processing on wines; bench-scale analytical results to make and implement processing decisions; principles and theories of equipment operation and scale-up.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " VEN 123;  VEN 123L;  VEN 126;  VEN 126L;  VEN 135 { can be concurrent };  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0900",
+                "building": "RMI Beer and Wine Facility",
+                "description": "Laboratory",
+                "buildingCode": "RMIBWF",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "VEN 127L 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "54882",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Post-Fermentation Wine Processing Lab",
+            "subjectDesc": "Viticulture & Enology",
+            "courseNum": "127L",
+            "hidCRN": "54882",
+            "crn": "54882",
+            "subjectCode": "VEN"
+        },
+        "instructor": [
+            {
+                "lastName": "Block",
+                "instructorName": "D. Block",
+                "firstName": "David",
+                "instructorEmail": "deblock@ucdavis.edu",
+                "fullName": "David Block"
+            },
+            {
+                "lastName": "Ljepovic",
+                "instructorName": "Z. Ljepovic",
+                "firstName": "Zoran",
+                "instructorEmail": "zljepovic@ucdavis.edu",
+                "fullName": "Zoran Ljepovic"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Process technologies and process systems that are used in modern commercial wineries. Lectures, demonstrations, problem solving sessions, and possible field trips. Includes grape preparation and fermentation equipment; post-fermentation processing equipment; winery utilities, cleaning systems, and waste treatment.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " (PLS 021 or PLS 021V);  MAT 016A;  MAT 016B;  ((PHY 001A,  PHY 001B) or PHY 007A)"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "G",
+                "startTime": "1410",
+                "building": "RMI Beer and Wine Facility",
+                "description": "Discussion Laboratory",
+                "buildingCode": "RMIBWF",
+                "saturday": false,
+                "type": "D/L",
+                "room": "01202"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "RMI Beer and Wine Facility",
+                "description": "Lecture",
+                "buildingCode": "RMIBWF",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01202"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "G",
+                "startTime": "1210",
+                "building": "RMI Beer and Wine Facility",
+                "description": "Discussion Laboratory",
+                "buildingCode": "RMIBWF",
+                "saturday": false,
+                "type": "D/L",
+                "room": "01202"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "VEN 135 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "54883",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Wine Technology & Winery Systems",
+            "subjectDesc": "Viticulture & Enology",
+            "courseNum": "135",
+            "hidCRN": "54883",
+            "crn": "54883",
+            "subjectCode": "VEN"
+        },
+        "instructor": [
+            {
+                "lastName": "Block",
+                "instructorName": "D. Block",
+                "firstName": "David",
+                "instructorEmail": "deblock@ucdavis.edu",
+                "fullName": "David Block"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Regulatory and legal issues related to grape growing and winemaking. State and federal regulations for production and sale of alcoholic beverages. Land use, food and chemical safety regulations, crop insurance, wine distribution and importation, and direct-to-consumer sales.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1100",
+                "building": "RMI Beer and Wine Facility",
+                "description": "Lecture",
+                "buildingCode": "RMIBWF",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "VEN 170 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "54885",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Grape & Wine Industry Regulation",
+            "subjectDesc": "Viticulture & Enology",
+            "courseNum": "170",
+            "hidCRN": "54885",
+            "crn": "54885",
+            "subjectCode": "VEN"
+        },
+        "instructor": [
+            {
+                "lastName": "Block",
+                "instructorName": "D. Block",
+                "firstName": "David",
+                "instructorEmail": "deblock@ucdavis.edu",
+                "fullName": "David Block"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Outside speakers on a specific winemaking topic chosen for the quarter. Discussion with the speaker hosted by the faculty member(s) in charge.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " VEN 003"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1820",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "E",
+                "startTime": "1730",
+                "building": "RMI Sensory Lab Bldg",
+                "description": "Seminar",
+                "buildingCode": "RMISEN",
+                "saturday": false,
+                "type": "SEM",
+                "room": "00000"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1930",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1830",
+                "building": "RMI Sensory Lab Bldg",
+                "description": "Discussion",
+                "buildingCode": "RMISEN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "VEN 190X 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "54886",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Winemaking Seminar",
+            "subjectDesc": "Viticulture & Enology",
+            "courseNum": "190X",
+            "hidCRN": "54886",
+            "crn": "54886",
+            "subjectCode": "VEN"
+        },
+        "instructor": [
+            {
+                "lastName": "Montpetit",
+                "instructorName": "B. Montpetit",
+                "firstName": "Ben",
+                "instructorEmail": "benmontpetit@ucdavis.edu",
+                "fullName": "Ben Montpetit"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Work experience related to Fermentation Science (Enology) or Plant Science (Viticulture) majors. Internships must be approved and supervised by a member of the department or major faculty, but are arranged by the student.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Completion of 84 units. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "I",
+                "startTime": "",
+                "building": "",
+                "description": "Internship",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "INT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "VEN 192",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Internship",
+            "subjectDesc": "Viticulture & Enology",
+            "courseNum": "192",
+            "hidCRN": "084ACEC6E9",
+            "crn": "54887",
+            "subjectCode": "VEN"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed group study. May be taught abroad.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "VEN 198",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study",
+            "subjectDesc": "Viticulture & Enology",
+            "courseNum": "198",
+            "hidCRN": "084ACFCEED",
+            "crn": "54903",
+            "subjectCode": "VEN"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed group study. May be taught abroad.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "",
+                "startTime": "",
+                "building": "",
+                "description": "",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "VEN 198",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "018",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study",
+            "subjectDesc": "Viticulture & Enology",
+            "courseNum": "198",
+            "hidCRN": "084ACFCFE7",
+            "crn": "54919",
+            "subjectCode": "VEN"
+        },
+        "instructor": [
+            {
+                "lastName": "",
+                "instructorName": ". ",
+                "firstName": "",
+                "instructorEmail": "",
+                "fullName": " "
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special study for advanced undergraduates. May be taught abroad.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "VEN 199",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Study for Advanced Undergraduates",
+            "subjectDesc": "Viticulture & Enology",
+            "courseNum": "199",
+            "hidCRN": "084ACFCCEE",
+            "crn": "54920",
+            "subjectCode": "VEN"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Design of wineries. Includes process calculations, equipment selection, process layout and building choice and siting. Project scheduling, capital costs, and ten-year cash flow analysis for the winery. One field trip required.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " VEN 124;  VEN 135;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1100",
+                "building": "Veihmeyer Hall",
+                "description": "Lecture",
+                "buildingCode": "VEIMYR",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00116"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "VEN 235 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55576",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Winery Design",
+            "subjectDesc": "Viticulture & Enology",
+            "courseNum": "235",
+            "hidCRN": "55576",
+            "crn": "55576",
+            "subjectCode": "VEN"
+        },
+        "instructor": [
+            {
+                "lastName": "Runnebaum",
+                "instructorName": "R. Runnebaum",
+                "firstName": "Ron",
+                "instructorEmail": "rcrunnebaum@ucdavis.edu",
+                "fullName": "Ron Runnebaum"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Contemporary research topics in biological sciences. Discussion of recent research articles in a special topic area chosen by instructor. Intended to develop skills in critical evaluation of scientific publications.  ",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1310",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00235"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "VEN 270 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "54936",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Critical Evaluation of Scientific Literature",
+            "subjectDesc": "Viticulture & Enology",
+            "courseNum": "270",
+            "hidCRN": "54936",
+            "crn": "54936",
+            "subjectCode": "VEN"
+        },
+        "instructor": [
+            {
+                "lastName": "Cantu",
+                "instructorName": "D. Cantu",
+                "firstName": "Dario",
+                "instructorEmail": "dacantu@ucdavis.edu",
+                "fullName": "Dario Cantu"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Seminar.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "E",
+                "startTime": "1210",
+                "building": "RMI Sensory Lab Bldg",
+                "description": "Seminar",
+                "buildingCode": "RMISEN",
+                "saturday": false,
+                "type": "SEM",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "VEN 290 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "54937",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Seminar",
+            "subjectDesc": "Viticulture & Enology",
+            "courseNum": "290",
+            "hidCRN": "54937",
+            "crn": "54937",
+            "subjectCode": "VEN"
+        },
+        "instructor": [
+            {
+                "lastName": "Cantu",
+                "instructorName": "D. Cantu",
+                "firstName": "Dario",
+                "instructorEmail": "dacantu@ucdavis.edu",
+                "fullName": "Dario Cantu"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Planning and results of research programs, proposals, and experiments. Discussion and critical evaluation of original research being conducted by the group. Discussion led by individual research instructors for research group.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Graduate standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "",
+                "building": "",
+                "description": "Discussion",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "DIS",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "VEN 290C",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Advanced Research Conference",
+            "subjectDesc": "Viticulture & Enology",
+            "courseNum": "290C",
+            "hidCRN": "084ACFCDE6",
+            "crn": "54938",
+            "subjectCode": "VEN"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Designed for graduate students who desire teaching experience, but are not teaching assistants. Student contact primarily in laboratory or discussion sections, and under direction of a faculty member.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Graduate standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "T",
+                "startTime": "",
+                "building": "",
+                "description": "Tutorial",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "TUT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "VEN 297T",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Tutoring in Viticulture & Enology",
+            "subjectDesc": "Viticulture & Enology",
+            "courseNum": "297T",
+            "hidCRN": "084ACFCBE8",
+            "crn": "54956",
+            "subjectCode": "VEN"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Group study.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "VEN 298",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Group Study",
+            "subjectDesc": "Viticulture & Enology",
+            "courseNum": "298",
+            "hidCRN": "084ACFC9EC",
+            "crn": "54972",
+            "subjectCode": "VEN"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Research.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "VEN 299",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research",
+            "subjectDesc": "Viticulture & Enology",
+            "courseNum": "299",
+            "hidCRN": "084ACFC6E8",
+            "crn": "54986",
+            "subjectCode": "VEN"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Teaching assistant training practicum.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Graduate standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "VEN 396",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 4,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Teaching Assistant Training Practicum",
+            "subjectDesc": "Viticulture & Enology",
+            "courseNum": "396",
+            "hidCRN": "084BC6CEEA",
+            "crn": "55004",
+            "subjectCode": "VEN"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    }
+]

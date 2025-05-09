@@ -1,0 +1,4270 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to Spanish grammar and development of all language skills in a cultural context with special emphasis on communication.  ",
+            "creditLimit": "Not open for credit for students who have completed equivalent SPA 001S, SPA 001V, or SPA 001Y; students who have successfully completed SPA 002 or SPA 003 in the 10th or higher grade of high school may receive unit credit for this course on a P/NP grading basis only; although a passing grade will be charged to the student's P/NP option, no petition is required; all other students will receive a letter grade unless a P/NP petition is filed.",
+            "ge3": "AH,WC",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MTWRF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "1100",
+                "building": "Hart Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "HART",
+                "saturday": false,
+                "type": "LED",
+                "room": "01116"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "SPA 001 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "53771",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Elementary Spanish",
+            "subjectDesc": "Spanish",
+            "courseNum": "001",
+            "hidCRN": "53771",
+            "crn": "53771",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "Banuelos",
+                "instructorName": "E. Banuelos",
+                "firstName": "Eva",
+                "instructorEmail": "ebanuelos@ucdavis.edu",
+                "fullName": "Eva Banuelos"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to Spanish grammar and development of all language skills in a cultural context with special emphasis on communication.  ",
+            "creditLimit": "Not open for credit for students who have completed equivalent SPA 001S, SPA 001V, or SPA 001Y; students who have successfully completed SPA 002 or SPA 003 in the 10th or higher grade of high school may receive unit credit for this course on a P/NP grading basis only; although a passing grade will be charged to the student's P/NP option, no petition is required; all other students will receive a letter grade unless a P/NP petition is filed.",
+            "ge3": "AH,WC",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": true,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MTWRF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "1210",
+                "building": "Wellman Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LED",
+                "room": "00203"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "SPA 001 002",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "002",
+            "printCRN": "53772",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Elementary Spanish",
+            "subjectDesc": "Spanish",
+            "courseNum": "001",
+            "hidCRN": "53772",
+            "crn": "53772",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "Banuelos",
+                "instructorName": "E. Banuelos",
+                "firstName": "Eva",
+                "instructorEmail": "ebanuelos@ucdavis.edu",
+                "fullName": "Eva Banuelos"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to Spanish grammar and development of all language skills in a cultural context with special emphasis on communication. ",
+            "creditLimit": "Not open for credit for students who have completed equivalent SPA 001S, SPA 001Y, or SPA 001; students who have successfully completed SPA 002 or SPA 003 in the 10th or higher grade of high school may receive unit credit for this course on a P/NP grading basis only; although a passing grade will be charged to the student's P/NP option, no petition is required; all other students will receive a letter grade unless a P/NP petition is filed.",
+            "ge3": "AH,WC",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "0",
+                "startTime": "1610",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "SPA 001V 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55411",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Elementary Spanish",
+            "subjectDesc": "Spanish",
+            "courseNum": "001V",
+            "hidCRN": "55411",
+            "crn": "55411",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "Banuelos",
+                "instructorName": "E. Banuelos",
+                "firstName": "Eva",
+                "instructorEmail": "ebanuelos@ucdavis.edu",
+                "fullName": "Eva Banuelos"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to Spanish grammar and development of all language skills in a cultural context with special emphasis on communication.",
+            "creditLimit": "Not open for credit for students who have completed equivalent courses SPA 001, SPA 001V, or SPA 001S; students who have completed SPA 002 or SPA 003 in the 10th grade of high school may receive unit credit for this course on a P/NP basis only; although a passing grade will be charged to the student's P/NP option, no petition is required; all other students will receive a letter grade unless a P/NP petition is filed.",
+            "ge3": "AH,WC",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "%",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Electronic Dis",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WED",
+                "room": "00000"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00000"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1340",
+                "building": "The Grove (Surge III)",
+                "description": "Lecture/Discussion",
+                "buildingCode": "GROVE",
+                "saturday": false,
+                "type": "LED",
+                "room": "01283"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "SPA 001Y 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "53776",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Elementary Spanish",
+            "subjectDesc": "Spanish",
+            "courseNum": "001Y",
+            "hidCRN": "53776",
+            "crn": "53776",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "Banuelos",
+                "instructorName": "E. Banuelos",
+                "firstName": "Eva",
+                "instructorEmail": "ebanuelos@ucdavis.edu",
+                "fullName": "Eva Banuelos"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to Spanish grammar and development of all language skills in a cultural context with special emphasis on communication.",
+            "creditLimit": "Not open for credit for students who have completed equivalent courses SPA 001, SPA 001V, or SPA 001S; students who have completed SPA 002 or SPA 003 in the 10th grade of high school may receive unit credit for this course on a P/NP basis only; although a passing grade will be charged to the student's P/NP option, no petition is required; all other students will receive a letter grade unless a P/NP petition is filed.",
+            "ge3": "AH,WC",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "%",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Electronic Dis",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WED",
+                "room": "00000"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00000"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1210",
+                "building": "Hunt",
+                "description": "Lecture/Discussion",
+                "buildingCode": "HUNT",
+                "saturday": false,
+                "type": "LED",
+                "room": "00110"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "SPA 001Y 002",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "002",
+            "printCRN": "53777",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Elementary Spanish",
+            "subjectDesc": "Spanish",
+            "courseNum": "001Y",
+            "hidCRN": "53777",
+            "crn": "53777",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "Banuelos",
+                "instructorName": "E. Banuelos",
+                "firstName": "Eva",
+                "instructorEmail": "ebanuelos@ucdavis.edu",
+                "fullName": "Eva Banuelos"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to Spanish grammar and development of all language skills in a cultural context with special emphasis on communication.",
+            "creditLimit": "Not open for credit for students who have completed equivalent courses SPA 001, SPA 001V, or SPA 001S; students who have completed SPA 002 or SPA 003 in the 10th grade of high school may receive unit credit for this course on a P/NP basis only; although a passing grade will be charged to the student's P/NP option, no petition is required; all other students will receive a letter grade unless a P/NP petition is filed.",
+            "ge3": "AH,WC",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "%",
+                "startTime": "",
+                "building": "",
+                "description": "World Wide Web Electronic Dis",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "WED",
+                "room": ""
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "WVL",
+                "room": ""
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1030",
+                "building": "Wellman Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LED",
+                "room": "00127"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "SPA 001Y 003",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "003",
+            "printCRN": "55410",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Elementary Spanish",
+            "subjectDesc": "Spanish",
+            "courseNum": "001Y",
+            "hidCRN": "55410",
+            "crn": "55410",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "Banuelos",
+                "instructorName": "E. Banuelos",
+                "firstName": "Eva",
+                "instructorEmail": "ebanuelos@ucdavis.edu",
+                "fullName": "Eva Banuelos"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Continuation of SPA 001 and SPA 001S in the areas of grammar and basic language skills.",
+            "creditLimit": "Not open for credit for students who have completed equivalent SPA 002S, SPA 002V or SPA 002Y.",
+            "ge3": "AH,WC",
+            "crossListing": "",
+            "prereq": " SPA 001 or SPA 001S or SPA 001V or SPA 001Y"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": true,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MTWRF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "0900",
+                "building": "The Grove (Surge III)",
+                "description": "Lecture/Discussion",
+                "buildingCode": "GROVE",
+                "saturday": false,
+                "type": "LED",
+                "room": "01283"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "SPA 002 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "53778",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Elementary Spanish",
+            "subjectDesc": "Spanish",
+            "courseNum": "002",
+            "hidCRN": "53778",
+            "crn": "53778",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "Banuelos",
+                "instructorName": "E. Banuelos",
+                "firstName": "Eva",
+                "instructorEmail": "ebanuelos@ucdavis.edu",
+                "fullName": "Eva Banuelos"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Continuation of SPA 001 and SPA 001S in the areas of grammar and basic language skills.",
+            "creditLimit": "Not open for credit for students who have completed equivalent SPA 002S, SPA 002V or SPA 002Y.",
+            "ge3": "AH,WC",
+            "crossListing": "",
+            "prereq": " SPA 001 or SPA 001S or SPA 001V or SPA 001Y"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": true,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MTWRF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "1000",
+                "building": "Wellman Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LED",
+                "room": "00229"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "SPA 002 002",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "002",
+            "printCRN": "53779",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Elementary Spanish",
+            "subjectDesc": "Spanish",
+            "courseNum": "002",
+            "hidCRN": "53779",
+            "crn": "53779",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "Banuelos",
+                "instructorName": "E. Banuelos",
+                "firstName": "Eva",
+                "instructorEmail": "ebanuelos@ucdavis.edu",
+                "fullName": "Eva Banuelos"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Continuation of SPA 001 and SPA 001S in the areas of grammar and basic language skills.",
+            "creditLimit": "Not open for credit for students who have completed equivalent SPA 002S, SPA 002V or SPA 002Y.",
+            "ge3": "AH,WC",
+            "crossListing": "",
+            "prereq": " SPA 001 or SPA 001S or SPA 001V or SPA 001Y"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0850",
+                "tuesday": true,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MTWRF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "0800",
+                "building": "Wellman Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LED",
+                "room": "00103"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "SPA 002 003",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "003",
+            "printCRN": "53780",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Elementary Spanish",
+            "subjectDesc": "Spanish",
+            "courseNum": "002",
+            "hidCRN": "53780",
+            "crn": "53780",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "Banuelos",
+                "instructorName": "E. Banuelos",
+                "firstName": "Eva",
+                "instructorEmail": "ebanuelos@ucdavis.edu",
+                "fullName": "Eva Banuelos"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Continuation of SPA 001, SPA 001S, or previous high school experience in the areas of grammar and basic language skills. Online format combining synchronous chatting with technologically based materials.",
+            "creditLimit": "Not open for credit to students who have taken equivalent SPA 002, SPA 002S, SPA 002Y, or higher.",
+            "ge3": "AH,WC",
+            "crossListing": "",
+            "prereq": " SPA 001 or SPA 001S or SPA 001V or SPA 001Y"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "0",
+                "startTime": "1610",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00000"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "%",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Electronic Dis",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WED",
+                "room": "00000"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "%",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Electronic Dis",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WED",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "SPA 002V 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "53783",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Elementary Spanish",
+            "subjectDesc": "Spanish",
+            "courseNum": "002V",
+            "hidCRN": "53783",
+            "crn": "53783",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "Banuelos",
+                "instructorName": "E. Banuelos",
+                "firstName": "Eva",
+                "instructorEmail": "ebanuelos@ucdavis.edu",
+                "fullName": "Eva Banuelos"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Continuation of SPA 001 or SPA 001S in the areas of grammar and basic language skills. Hybrid format combining classroom instruction with technologically based materials.",
+            "creditLimit": "Not open for credit to students who have taken equivalent SPA 002, SPA 002S, or SPA 002V.",
+            "ge3": "AH,WC",
+            "crossListing": "",
+            "prereq": " SPA 001 or SPA 001Y or SPA 001V or SPA 001S"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "%",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Electronic Dis",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WED",
+                "room": "00000"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "0900",
+                "building": "Olson Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LED",
+                "room": "00105"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "SPA 002Y 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "53785",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Elementary Spanish",
+            "subjectDesc": "Spanish",
+            "courseNum": "002Y",
+            "hidCRN": "53785",
+            "crn": "53785",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "Banuelos",
+                "instructorName": "E. Banuelos",
+                "firstName": "Eva",
+                "instructorEmail": "ebanuelos@ucdavis.edu",
+                "fullName": "Eva Banuelos"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Continuation of SPA 001 or SPA 001S in the areas of grammar and basic language skills. Hybrid format combining classroom instruction with technologically based materials.",
+            "creditLimit": "Not open for credit to students who have taken equivalent SPA 002, SPA 002S, or SPA 002V.",
+            "ge3": "AH,WC",
+            "crossListing": "",
+            "prereq": " SPA 001 or SPA 001Y or SPA 001V or SPA 001S"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1210",
+                "building": "Olson Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LED",
+                "room": "00227"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "SPA 002Y 002",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "002",
+            "printCRN": "53786",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Elementary Spanish",
+            "subjectDesc": "Spanish",
+            "courseNum": "002Y",
+            "hidCRN": "53786",
+            "crn": "53786",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "Banuelos",
+                "instructorName": "E. Banuelos",
+                "firstName": "Eva",
+                "instructorEmail": "ebanuelos@ucdavis.edu",
+                "fullName": "Eva Banuelos"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Continuation of SPA 001 or SPA 001S in the areas of grammar and basic language skills. Hybrid format combining classroom instruction with technologically based materials.",
+            "creditLimit": "Not open for credit to students who have taken equivalent SPA 002, SPA 002S, or SPA 002V.",
+            "ge3": "AH,WC",
+            "crossListing": "",
+            "prereq": " SPA 001 or SPA 001Y or SPA 001V or SPA 001S"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "%",
+                "startTime": "",
+                "building": "",
+                "description": "World Wide Web Electronic Dis",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "WED",
+                "room": ""
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1030",
+                "building": "Wellman Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LED",
+                "room": "00123"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "SPA 002Y 003",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "003",
+            "printCRN": "55412",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Elementary Spanish",
+            "subjectDesc": "Spanish",
+            "courseNum": "002Y",
+            "hidCRN": "55412",
+            "crn": "55412",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "Banuelos",
+                "instructorName": "E. Banuelos",
+                "firstName": "Eva",
+                "instructorEmail": "ebanuelos@ucdavis.edu",
+                "fullName": "Eva Banuelos"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Completion of grammar sequence and continuing practice of all language skills using cultural texts. ",
+            "creditLimit": "Not open for credit for students who have completed equivalent SPA 003S, SPA 003V or SPA 003Y.",
+            "ge3": "AH,WC",
+            "crossListing": "",
+            "prereq": " SPA 002 or SPA 002S or SPA 002V or SPA 002Y"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": true,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MTWRF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "1210",
+                "building": "Olson Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LED",
+                "room": "00167"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "SPA 003 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "53787",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Elementary Spanish",
+            "subjectDesc": "Spanish",
+            "courseNum": "003",
+            "hidCRN": "53787",
+            "crn": "53787",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "Banuelos",
+                "instructorName": "E. Banuelos",
+                "firstName": "Eva",
+                "instructorEmail": "ebanuelos@ucdavis.edu",
+                "fullName": "Eva Banuelos"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Completion of grammar sequence and continuing practice of all language skills using cultural texts. ",
+            "creditLimit": "Not open for credit for students who have completed equivalent SPA 003S, SPA 003V or SPA 003Y.",
+            "ge3": "AH,WC",
+            "crossListing": "",
+            "prereq": " SPA 002 or SPA 002S or SPA 002V or SPA 002Y"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": true,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MTWRF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "1510",
+                "building": "Wellman Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LED",
+                "room": "00107"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "SPA 003 002",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "002",
+            "printCRN": "53788",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Elementary Spanish",
+            "subjectDesc": "Spanish",
+            "courseNum": "003",
+            "hidCRN": "53788",
+            "crn": "53788",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "Banuelos",
+                "instructorName": "E. Banuelos",
+                "firstName": "Eva",
+                "instructorEmail": "ebanuelos@ucdavis.edu",
+                "fullName": "Eva Banuelos"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Completion of grammar sequence and continuing practice of all language skills using cultural texts. ",
+            "creditLimit": "Not open for credit for students who have completed equivalent SPA 003S, SPA 003V or SPA 003Y.",
+            "ge3": "AH,WC",
+            "crossListing": "",
+            "prereq": " SPA 002 or SPA 002S or SPA 002V or SPA 002Y"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MTWRF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "1100",
+                "building": "Olson Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LED",
+                "room": "00167"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "SPA 003 003",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "003",
+            "printCRN": "53789",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Elementary Spanish",
+            "subjectDesc": "Spanish",
+            "courseNum": "003",
+            "hidCRN": "53789",
+            "crn": "53789",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "Banuelos",
+                "instructorName": "E. Banuelos",
+                "firstName": "Eva",
+                "instructorEmail": "ebanuelos@ucdavis.edu",
+                "fullName": "Eva Banuelos"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Completion of grammar sequence and continuing practice of all language skills using cultural texts. ",
+            "creditLimit": "Not open for credit for students who have completed equivalent SPA 003S, SPA 003V or SPA 003Y.",
+            "ge3": "AH,WC",
+            "crossListing": "",
+            "prereq": " SPA 002 or SPA 002S or SPA 002V or SPA 002Y"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": true,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MTWRF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "1310",
+                "building": "Olson Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LED",
+                "room": "00125"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "SPA 003 005",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "005",
+            "printCRN": "53791",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Elementary Spanish",
+            "subjectDesc": "Spanish",
+            "courseNum": "003",
+            "hidCRN": "53791",
+            "crn": "53791",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "Banuelos",
+                "instructorName": "E. Banuelos",
+                "firstName": "Eva",
+                "instructorEmail": "ebanuelos@ucdavis.edu",
+                "fullName": "Eva Banuelos"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Completion of grammar sequence and continuing practice of all language skills using cultural texts. ",
+            "creditLimit": "Not open for credit for students who have completed equivalent SPA 003S, SPA 003V or SPA 003Y.",
+            "ge3": "AH,WC",
+            "crossListing": "",
+            "prereq": " SPA 002 or SPA 002S or SPA 002V or SPA 002Y"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": true,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MTWRF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "0900",
+                "building": "Wellman Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LED",
+                "room": "00103"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "SPA 003 007",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "007",
+            "printCRN": "53793",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Elementary Spanish",
+            "subjectDesc": "Spanish",
+            "courseNum": "003",
+            "hidCRN": "53793",
+            "crn": "53793",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "Banuelos",
+                "instructorName": "E. Banuelos",
+                "firstName": "Eva",
+                "instructorEmail": "ebanuelos@ucdavis.edu",
+                "fullName": "Eva Banuelos"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Continuation of SPA 002, SPA 002S, SPA 002V or SPA 002Y. Online format combining synchronous chatting with technologically based materials.",
+            "creditLimit": "Not open to students who have taken equivalent SPA 003, SPA 003S, SPA 003Y, or higher.",
+            "ge3": "AH,WC",
+            "crossListing": "",
+            "prereq": " SPA 002 or SPA 002S or SPA 002V or SPA 002Y"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "0",
+                "startTime": "1210",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00000"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "%",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Electronic Dis",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WED",
+                "room": "00000"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "SPA 003V 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "53796",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Elementary Spanish",
+            "subjectDesc": "Spanish",
+            "courseNum": "003V",
+            "hidCRN": "53796",
+            "crn": "53796",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "Banuelos",
+                "instructorName": "E. Banuelos",
+                "firstName": "Eva",
+                "instructorEmail": "ebanuelos@ucdavis.edu",
+                "fullName": "Eva Banuelos"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Continuation of SPA 002, SPA 002S, SPA 002V or SPA 002Y. Online format combining synchronous chatting with technologically based materials.",
+            "creditLimit": "Not open to students who have taken equivalent SPA 003, SPA 003S, SPA 003Y, or higher.",
+            "ge3": "AH,WC",
+            "crossListing": "",
+            "prereq": " SPA 002 or SPA 002S or SPA 002V or SPA 002Y"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "0",
+                "startTime": "1610",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "SPA 003V 002",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "002",
+            "printCRN": "56643",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Elementary Spanish",
+            "subjectDesc": "Spanish",
+            "courseNum": "003V",
+            "hidCRN": "56643",
+            "crn": "56643",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "Banuelos",
+                "instructorName": "E. Banuelos",
+                "firstName": "Eva",
+                "instructorEmail": "ebanuelos@ucdavis.edu",
+                "fullName": "Eva Banuelos"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Completion of grammar sequence and continuing practice of all language skills using cultural texts. Hybrid format combining classroom instruction with technologically based materials.",
+            "creditLimit": "Not open to students who have taken equivalent SPA 003, SPA 003S, or SPA 003V.",
+            "ge3": "AH,WC",
+            "crossListing": "",
+            "prereq": " SPA 002 or SPA 002S or SPA 002V or SPA 002Y"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "%",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Electronic Dis",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WED",
+                "room": "00000"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "0900",
+                "building": "Olson Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LED",
+                "room": "00125"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "SPA 003Y 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "53798",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Elementary Spanish",
+            "subjectDesc": "Spanish",
+            "courseNum": "003Y",
+            "hidCRN": "53798",
+            "crn": "53798",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "Banuelos",
+                "instructorName": "E. Banuelos",
+                "firstName": "Eva",
+                "instructorEmail": "ebanuelos@ucdavis.edu",
+                "fullName": "Eva Banuelos"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Completion of grammar sequence and continuing practice of all language skills using cultural texts. Hybrid format combining classroom instruction with technologically based materials.",
+            "creditLimit": "Not open to students who have taken equivalent SPA 003, SPA 003S, or SPA 003V.",
+            "ge3": "AH,WC",
+            "crossListing": "",
+            "prereq": " SPA 002 or SPA 002S or SPA 002V or SPA 002Y"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "%",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Electronic Dis",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WED",
+                "room": "00000"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "0900",
+                "building": "Wellman Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LED",
+                "room": "00127"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "SPA 003Y 002",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "002",
+            "printCRN": "53799",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Elementary Spanish",
+            "subjectDesc": "Spanish",
+            "courseNum": "003Y",
+            "hidCRN": "53799",
+            "crn": "53799",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "Banuelos",
+                "instructorName": "E. Banuelos",
+                "firstName": "Eva",
+                "instructorEmail": "ebanuelos@ucdavis.edu",
+                "fullName": "Eva Banuelos"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Completion of grammar sequence and continuing practice of all language skills using cultural texts. Hybrid format combining classroom instruction with technologically based materials.",
+            "creditLimit": "Not open to students who have taken equivalent SPA 003, SPA 003S, or SPA 003V.",
+            "ge3": "AH,WC",
+            "crossListing": "",
+            "prereq": " SPA 002 or SPA 002S or SPA 002V or SPA 002Y"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "%",
+                "startTime": "",
+                "building": "",
+                "description": "World Wide Web Electronic Dis",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "WED",
+                "room": ""
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1030",
+                "building": "Wellman Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LED",
+                "room": "00027"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "SPA 003Y 003",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "003",
+            "printCRN": "55413",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Elementary Spanish",
+            "subjectDesc": "Spanish",
+            "courseNum": "003Y",
+            "hidCRN": "55413",
+            "crn": "55413",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "Banuelos",
+                "instructorName": "E. Banuelos",
+                "firstName": "Eva",
+                "instructorEmail": "ebanuelos@ucdavis.edu",
+                "fullName": "Eva Banuelos"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Continuation of SPA 003, SPA 003S, SPA 003V and SPA 003Y in the areas of grammar and basic language skills. Hybrid format combining classroom instruction with technologically based materials where learning takes place both face-to-face and online.",
+            "creditLimit": "Not open for credit to students who have taken equivalent SPA 021, SPA 021S or SPA 021V.",
+            "ge3": "AH,WC",
+            "crossListing": "",
+            "prereq": " SPA 003 or SPA 003S or SPA 003V or SPA 003Y"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "%",
+                "startTime": "",
+                "building": "",
+                "description": "World Wide Web Electronic Dis",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "WED",
+                "room": ""
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1030",
+                "building": "Robbins Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "ROBBNS",
+                "saturday": false,
+                "type": "LED",
+                "room": "00146"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "SPA 021Y 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55414",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Intermediate Spanish",
+            "subjectDesc": "Spanish",
+            "courseNum": "021Y",
+            "hidCRN": "55414",
+            "crn": "55414",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "Bradley",
+                "instructorName": "T. Bradley",
+                "firstName": "Travis",
+                "instructorEmail": "tgbradley@ucdavis.edu",
+                "fullName": "Travis Bradley"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Continuation of SPA 003, SPA 003S, SPA 003V and SPA 003Y in the areas of grammar and basic language skills. Hybrid format combining classroom instruction with technologically based materials where learning takes place both face-to-face and online.",
+            "creditLimit": "Not open for credit to students who have taken equivalent SPA 021, SPA 021S or SPA 021V.",
+            "ge3": "AH,WC",
+            "crossListing": "",
+            "prereq": " SPA 003 or SPA 003S or SPA 003V or SPA 003Y"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "0900",
+                "building": "Wellman Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LED",
+                "room": "00203"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "SPA 021Y 002",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "002",
+            "printCRN": "56642",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Intermediate Spanish",
+            "subjectDesc": "Spanish",
+            "courseNum": "021Y",
+            "hidCRN": "56642",
+            "crn": "56642",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "Bradley",
+                "instructorName": "T. Bradley",
+                "firstName": "Travis",
+                "instructorEmail": "tgbradley@ucdavis.edu",
+                "fullName": "Travis Bradley"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Continuation of SPA 021, SPA 021V, SPA 021Y, SPA 022S, or previous high school experience in the areas of grammar and intermediate language skills. Online format combining synchronous chatting with technologically based materials.",
+            "creditLimit": "Not open for credit to students who have taken SPA 022, SPA 022Y, or SPA 022S.",
+            "ge3": "AH,WC",
+            "crossListing": "",
+            "prereq": " SPA 021 or SPA 021S or SPA 021V or SPA 021Y;  Or equivalent from previous high school language experience."
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "0",
+                "startTime": "1610",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00000"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "%",
+                "startTime": "",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Electronic Dis",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WED",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "SPA 022V 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "53804",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Intermediate Spanish",
+            "subjectDesc": "Spanish",
+            "courseNum": "022V",
+            "hidCRN": "53804",
+            "crn": "53804",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "Bradley",
+                "instructorName": "T. Bradley",
+                "firstName": "Travis",
+                "instructorEmail": "tgbradley@ucdavis.edu",
+                "fullName": "Travis Bradley"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Continuation of SPA 021, SPA 021S, or SPA 021V in the areas of grammar and basic language skills. Online format combining synchronous chatting with technologically based materials.",
+            "creditLimit": "Not open to students who have taken equivalent SPA 022, SPA 022S or SPA 022V.",
+            "ge3": "AH,WC",
+            "crossListing": "",
+            "prereq": " SPA 021 or SPA 021S or SPA 021V or SPA 021Y"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "%",
+                "startTime": "",
+                "building": "",
+                "description": "World Wide Web Electronic Dis",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "WED",
+                "room": ""
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1030",
+                "building": "Wellman Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LED",
+                "room": "00203"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "SPA 022Y 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55415",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Intermediate Spanish",
+            "subjectDesc": "Spanish",
+            "courseNum": "022Y",
+            "hidCRN": "55415",
+            "crn": "55415",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "Bradley",
+                "instructorName": "T. Bradley",
+                "firstName": "Travis",
+                "instructorEmail": "tgbradley@ucdavis.edu",
+                "fullName": "Travis Bradley"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Development of writing skills by way of reading, discussion, and analysis of authentic materials, literary texts, and videos. Selective review of grammar. Composition, journals, individual and group projects.  ",
+            "creditLimit": "Not open for students who have completed equivalent SPA 023S.",
+            "ge3": "AH,WC,WE",
+            "crossListing": "",
+            "prereq": " SPA 022 or SPA 022S or SPA 022V or SPA 022Y"
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1000",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00105"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "SPA 023 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "53807",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Spanish Composition I",
+            "subjectDesc": "Spanish",
+            "courseNum": "023",
+            "hidCRN": "53807",
+            "crn": "53807",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "Bradley",
+                "instructorName": "T. Bradley",
+                "firstName": "Travis",
+                "instructorEmail": "tgbradley@ucdavis.edu",
+                "fullName": "Travis Bradley"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Development of writing skills by way of reading, discussion, and analysis of authentic materials, literary texts, and videos. Selective review of grammar. Composition, journals, individual and group projects.  ",
+            "creditLimit": "Not open for students who have completed equivalent SPA 023S.",
+            "ge3": "AH,WC,WE",
+            "crossListing": "",
+            "prereq": " SPA 022 or SPA 022S or SPA 022V or SPA 022Y"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00141"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "SPA 023 002",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "002",
+            "printCRN": "53808",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Spanish Composition I",
+            "subjectDesc": "Spanish",
+            "courseNum": "023",
+            "hidCRN": "53808",
+            "crn": "53808",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "Bradley",
+                "instructorName": "T. Bradley",
+                "firstName": "Travis",
+                "instructorEmail": "tgbradley@ucdavis.edu",
+                "fullName": "Travis Bradley"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Development of advanced level writing skills, with emphasis on how to write argumentative prose, essays, and research papers. Introduction to the analysis of literary genres. Compositions, journals, individual and group projects. ",
+            "creditLimit": "Not open for credit for students who have completed equivalent SPA 024S.",
+            "ge3": "AH,WC,WE",
+            "crossListing": "",
+            "prereq": " SPA 023 or SPA 023S"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00125"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "SPA 024 002",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "002",
+            "printCRN": "53809",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Spanish Composition II",
+            "subjectDesc": "Spanish",
+            "courseNum": "024",
+            "hidCRN": "53809",
+            "crn": "53809",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "Bradley",
+                "instructorName": "T. Bradley",
+                "firstName": "Travis",
+                "instructorEmail": "tgbradley@ucdavis.edu",
+                "fullName": "Travis Bradley"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Development of advanced level writing skills, with emphasis on how to write argumentative prose, essays, and research papers. Introduction to the analysis of literary genres. Compositions, journals, individual and group projects. ",
+            "creditLimit": "Not open for credit for students who have completed equivalent SPA 024S.",
+            "ge3": "AH,WC,WE",
+            "crossListing": "",
+            "prereq": " SPA 023 or SPA 023S"
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1000",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00103"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "SPA 024 003",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "003",
+            "printCRN": "53810",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Spanish Composition II",
+            "subjectDesc": "Spanish",
+            "courseNum": "024",
+            "hidCRN": "53810",
+            "crn": "53810",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "Bradley",
+                "instructorName": "T. Bradley",
+                "firstName": "Travis",
+                "instructorEmail": "tgbradley@ucdavis.edu",
+                "fullName": "Travis Bradley"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Course two of a three quarter series providing bilingual students whose heritage language is Spanish with the linguistic and learning skills required for successfully completing upper division courses in Spanish. Oral presentations and compositions on themes relevant to the Latinx/Chicanx experience in the U.S.",
+            "creditLimit": "",
+            "ge3": "AH,WC,WE",
+            "crossListing": "",
+            "prereq": " SPA 031;  Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "1210",
+                "building": "Wellman Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LED",
+                "room": "00123"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "T",
+                "startTime": "",
+                "building": "",
+                "description": "Tutorial",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "TUT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "SPA 032 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "53811",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Spanish for Heritage Speakers II",
+            "subjectDesc": "Spanish",
+            "courseNum": "032",
+            "hidCRN": "53811",
+            "crn": "53811",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "Banuelos",
+                "instructorName": "E. Banuelos",
+                "firstName": "Eva",
+                "instructorEmail": "ebanuelos@ucdavis.edu",
+                "fullName": "Eva Banuelos"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Course three of a three quarter series providing bilingual students whose heritage language is Spanish with the linguistic and learning skills required for successfully completing upper division courses in Spanish. Oral presentations and compositions on themes relevant to the Latinx/Chicanx experience in the U.S.",
+            "creditLimit": "",
+            "ge3": "AH,WC,WE",
+            "crossListing": "",
+            "prereq": " SPA 032;  Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "0900",
+                "building": "Wellman Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LED",
+                "room": "00127"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "T",
+                "startTime": "",
+                "building": "",
+                "description": "Tutorial",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "TUT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "SPA 033 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "53812",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Spanish for Heritage Speakers III",
+            "subjectDesc": "Spanish",
+            "courseNum": "033",
+            "hidCRN": "53812",
+            "crn": "53812",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "Banuelos",
+                "instructorName": "E. Banuelos",
+                "firstName": "Eva",
+                "instructorEmail": "ebanuelos@ucdavis.edu",
+                "fullName": "Eva Banuelos"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Primarily for lower division students.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of instructor and department chairperson. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "SPA 098",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study",
+            "subjectDesc": "Spanish",
+            "courseNum": "098",
+            "hidCRN": "084DCECFEA",
+            "crn": "53814",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special study for undergraduates.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "SPA 099",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Study for Undergraduates",
+            "subjectDesc": "Spanish",
+            "courseNum": "099",
+            "hidCRN": "084DCECCED",
+            "crn": "53823",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Principles of literary criticism applied to the study of fiction, drama, poetry, and essay of major literary writers of the Hispanic world.  ",
+            "creditLimit": "Not open for credit to students who have taken SPA 100S.",
+            "ge3": "AH,OL,WC,WE",
+            "crossListing": "",
+            "prereq": " SPA 024 or SPA 024S or SPA 033"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1310",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00141"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "SPA 100 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55416",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Principles of Hispanic Literature & Criticism",
+            "subjectDesc": "Spanish",
+            "courseNum": "100",
+            "hidCRN": "55416",
+            "crn": "55416",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "Oriel",
+                "instructorName": "C. Oriel",
+                "firstName": "Charles",
+                "instructorEmail": "cmoriel@ucdavis.edu",
+                "fullName": "Charles Oriel"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Sound structure of modern Spanish; theoretical analysis of selected problems in pronunciation. Strongly recommended for prospective teachers of Spanish.",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": " (SPA 024 or SPA 033);  LIN 001 recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1340",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00201"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "SPA 113 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55494",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Spanish Pronunciation",
+            "subjectDesc": "Spanish",
+            "courseNum": "113",
+            "hidCRN": "55494",
+            "crn": "55494",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "Bradley",
+                "instructorName": "T. Bradley",
+                "firstName": "Travis",
+                "instructorEmail": "tgbradley@ucdavis.edu",
+                "fullName": "Travis Bradley"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Exploration of the major theoretical and practical issues concerning learning Spanish as a second language. For students interested in teaching Spanish as a career.",
+            "creditLimit": "Not open to students who have taken equivalent SPA 116S.",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": " SPA 024 or SPA 033;  or Consent of Instructor.  LIN 001 recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Social Science & Humanities",
+                "description": "Lecture",
+                "buildingCode": "SOCSCI",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00080"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "SPA 116 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "53829",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Applied Spanish Linguistics",
+            "subjectDesc": "Spanish",
+            "courseNum": "116",
+            "hidCRN": "53829",
+            "crn": "53829",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "Bradley",
+                "instructorName": "T. Bradley",
+                "firstName": "Travis",
+                "instructorEmail": "tgbradley@ucdavis.edu",
+                "fullName": "Travis Bradley"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Critical interpretation of Don Quijote Part One by Cervantes. Focused study of key elements within the socio-cultural context of Golden Age Spain. Don Quijote as prototype for the modern novel.",
+            "creditLimit": "",
+            "ge3": "AH,WC,WE",
+            "crossListing": "",
+            "prereq": " SPA 100 or SPA 100S or SPA 141 or SPA 141S or SPA 168 or SPA 170 or SPA 170S"
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1100",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00201"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "SPA 134A 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56200",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Don Quijote I ",
+            "subjectDesc": "Spanish",
+            "courseNum": "134A",
+            "hidCRN": "56200",
+            "crn": "56200",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "Oriel",
+                "instructorName": "C. Oriel",
+                "firstName": "Charles",
+                "instructorEmail": "cmoriel@ucdavis.edu",
+                "fullName": "Charles Oriel"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to history, geography and culture of Spain. Art, history of ideas, and everyday cultural manifestations.  Introduction to critical reading and textual analysis.",
+            "creditLimit": "Not open for students who have completed equivalent SPA 141S.",
+            "ge3": "AH,VL,WC",
+            "crossListing": "",
+            "prereq": " SPA 024 or SPA 024S or SPA 033"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00201"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "SPA 141 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "53831",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Spanish Culture",
+            "subjectDesc": "Spanish",
+            "courseNum": "141",
+            "hidCRN": "53831",
+            "crn": "53831",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "Newcomb",
+                "instructorName": "R. Newcomb",
+                "firstName": "Robert",
+                "instructorEmail": "rpnewcomb@ucdavis.edu",
+                "fullName": "Robert Newcomb"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special topics in the study of Spanish literature and culture. May be taught abroad.",
+            "creditLimit": "",
+            "ge3": "AH,OL,WC,WE",
+            "crossListing": "",
+            "prereq": " SPA 100 or SPA 100S or SPA 141 or SPA 141S or SPA 168 or SPA 170 or SPA 170S"
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1000",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00201"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "SPA 142 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55492",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Topics in Spanish Cultural & Literary Studies",
+            "subjectDesc": "Spanish",
+            "courseNum": "142",
+            "hidCRN": "55492",
+            "crn": "55492",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "Martinez-Carazo",
+                "instructorName": "C. Martinez-Carazo",
+                "firstName": "Cristina",
+                "instructorEmail": "cmmartinezcarazo@ucdavis.edu",
+                "fullName": "Cristina Martinez-Carazo"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Latin American literature from 1900 to the present. Reading selections include fiction, poetry, drama, essays, testimonio, etc.",
+            "creditLimit": "",
+            "ge3": "AH,WC",
+            "crossListing": "",
+            "prereq": " SPA 100 or SPA 100S or SPA 141 or SPA 141S or SPA 168 or SPA 170 or SPA 170S"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00212"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "2",
+                "startTime": "",
+                "building": "",
+                "description": "Term Paper/Discussion",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "T-D",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "SPA 151 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "53835",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Survey of Latin American Literature 1900 to Present",
+            "subjectDesc": "Spanish",
+            "courseNum": "151",
+            "hidCRN": "53835",
+            "crn": "53835",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "Bernucci",
+                "instructorName": "L. Bernucci",
+                "firstName": "Leopoldo",
+                "instructorEmail": "lmbernucci@ucdavis.edu",
+                "fullName": "Leopoldo Bernucci"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Evolution of the Latin American short story from the 19th century to the present. Emphasis on the contemporary period.",
+            "creditLimit": "",
+            "ge3": "AH,WC",
+            "crossListing": "",
+            "prereq": " SPA 100 or SPA 100S or SPA 141 or SPA 141S or SPA 168 or SPA 170 or SPA 170S"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00201"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "SPA 153 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "53836",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Latin American Short Story",
+            "subjectDesc": "Spanish",
+            "courseNum": "153",
+            "hidCRN": "53836",
+            "crn": "53836",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "Peluffo",
+                "instructorName": "A. Peluffo",
+                "firstName": "Ana",
+                "instructorEmail": "aopeluffo@ucdavis.edu",
+                "fullName": "Ana Peluffo"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Analysis of cultural dynamics of border contexts (contact zones) in which Spanish speaking populations are prominent. Contexts may include one or more of the following: US-Mexico, US-Caribbean, Mexico-Central America, Dominican Republic-Haiti, Spain-Portugal, Colombia-Venezuela, Argentina-Brazil, among others.",
+            "creditLimit": "",
+            "ge3": "AH,WC",
+            "crossListing": "",
+            "prereq": " SPA 024 or SPA 024S or SPA 033;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1340",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00212"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "SPA 167 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55497",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Borders of the Spanish Speaking World",
+            "subjectDesc": "Spanish",
+            "courseNum": "167",
+            "hidCRN": "55497",
+            "crn": "55497",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "Vazquez Enriquez",
+                "instructorName": "E. Vazquez Enriquez",
+                "firstName": "Emily",
+                "instructorEmail": "ecvazquez@ucdavis.edu",
+                "fullName": "Emily Vazquez Enriquez"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to history, geography and culture of Latin America. Multiple genres of cultural production and representation, with a focus on cultural diversity and regional difference. Introduction to critical reading and textual analysis.",
+            "creditLimit": "Not open for students who have completed equivalent SPA 170S.",
+            "ge3": "AH,VL,WC,WE",
+            "crossListing": "",
+            "prereq": " SPA 024 or SPA 024S or SPA 033"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00146"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "SPA 170 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "53839",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Latin American Culture",
+            "subjectDesc": "Spanish",
+            "courseNum": "170",
+            "hidCRN": "53839",
+            "crn": "53839",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "Irwin",
+                "instructorName": "R. Irwin",
+                "firstName": "Robert",
+                "instructorEmail": "rmirwin@ucdavis.edu",
+                "fullName": "Robert Irwin"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Interdisciplinary survey on the relationship between California and Latin America (1500s-present). Latin American representations of California and Californian representations of Latin America, as well as borderlands texts, with a special focus on Mexican-American perspectives. Conducted in Spanish.",
+            "creditLimit": "",
+            "ge3": "DD,ACGH",
+            "crossListing": "",
+            "prereq": " SPA 024 or SPA 024S or SPA 033"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "2",
+                "startTime": "",
+                "building": "",
+                "description": "Term Paper/Discussion",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "T-D",
+                "room": ""
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00212"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "SPA 177 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "53840",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "California & Latin America",
+            "subjectDesc": "Spanish",
+            "courseNum": "177",
+            "hidCRN": "53840",
+            "crn": "53840",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "Irwin",
+                "instructorName": "R. Irwin",
+                "firstName": "Robert",
+                "instructorEmail": "rmirwin@ucdavis.edu",
+                "fullName": "Robert Irwin"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Internships in fields where Spanish language skills can be used and perfected (teaching, counseling, translating-interpreting).",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " SPA 023;  and Consent of Instructor.  Junior standing; major in Spanish, Chicano Studies, or a related field. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "I",
+                "startTime": "",
+                "building": "",
+                "description": "Internship",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "INT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "SPA 192I",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Internship in Spanish",
+            "subjectDesc": "Spanish",
+            "courseNum": "192I",
+            "hidCRN": "084DCECAEF",
+            "crn": "53841",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Guided research, under the direction of a faculty member, leading to a senior honors thesis on a topic in Spanish literature, civilization, or language studies.  ",
+            "creditLimit": "",
+            "ge3": "AH,WC,WE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Senior standing and qualificaiton for the Spanish honors program. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "SPA 194H",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Study for Honors Students",
+            "subjectDesc": "Spanish",
+            "courseNum": "194H",
+            "hidCRN": "084DCECBEC",
+            "crn": "53852",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Tutoring in undergraduate courses including leadership in small voluntary discussion groups affiliated with departmental courses.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Upper division standing and permission of the chair. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "T",
+                "startTime": "",
+                "building": "",
+                "description": "Tutorial",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "TUT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "SPA 197T",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 4,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Tutoring in Spanish",
+            "subjectDesc": "Spanish",
+            "courseNum": "197T",
+            "hidCRN": "084DCEC8EF",
+            "crn": "53861",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Tutoring in public schools under the guidance of a regular teacher and supervision by a departmental faculty member.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Upper division standing and permission of the chair. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "T",
+                "startTime": "",
+                "building": "",
+                "description": "Tutorial",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "TUT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "SPA 197TC",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 4,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Tutoring in the Community",
+            "subjectDesc": "Spanish",
+            "courseNum": "197TC",
+            "hidCRN": "084DCEC8E8",
+            "crn": "53866",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed group study. May be taught abroad.",
+            "creditLimit": "",
+            "ge3": "AH,WC,WE",
+            "crossListing": "",
+            "prereq": " Consent of instructor and department chairperson. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "SPA 198",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study",
+            "subjectDesc": "Spanish",
+            "courseNum": "198",
+            "hidCRN": "084DCEC9EF",
+            "crn": "53871",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special study of a topic or an author to be determined in consultation with an individual faculty member. May be taught abroad.",
+            "creditLimit": "",
+            "ge3": "AH,WC,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "SPA 199",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Study for Advanced Undergraduates",
+            "subjectDesc": "Spanish",
+            "courseNum": "199",
+            "hidCRN": "084DCEC6EF",
+            "crn": "53881",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "Oriel",
+                "instructorName": "C. Oriel",
+                "firstName": "Charles",
+                "instructorEmail": "cmoriel@ucdavis.edu",
+                "fullName": "Charles Oriel"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Analyzes the sound patterns of Spanish from both linear and non-linear perspectives. Students will develop a clear understanding of what phonology is and the nature of Spanish phonology, as defined by modern linguistic analysis.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Some knowledge of phonetics is required and consent of instructor; LIN 109 and LIN 139 highly recommended."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1900",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "E",
+                "startTime": "1610",
+                "building": "Olson Hall",
+                "description": "Seminar",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "SEM",
+                "room": "00144"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "SPA 205 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55496",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Spanish Phonology ",
+            "subjectDesc": "Spanish",
+            "courseNum": "205",
+            "hidCRN": "55496",
+            "crn": "55496",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "Bradley",
+                "instructorName": "T. Bradley",
+                "firstName": "Travis",
+                "instructorEmail": "tgbradley@ucdavis.edu",
+                "fullName": "Travis Bradley"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Discussion of select contemporary theoretical debates in Latin American Cultural Studies.  Application of critical questions to the analysis of cultural texts.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1900",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "E",
+                "startTime": "1610",
+                "building": "Olson Hall",
+                "description": "Seminar",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "SEM",
+                "room": "00109"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "SPA 230 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55498",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Topics in Latin American Cultural Studies",
+            "subjectDesc": "Spanish",
+            "courseNum": "230",
+            "hidCRN": "55498",
+            "crn": "55498",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "Vazquez Enriquez",
+                "instructorName": "E. Vazquez Enriquez",
+                "firstName": "Emily",
+                "instructorEmail": "ecvazquez@ucdavis.edu",
+                "fullName": "Emily Vazquez Enriquez"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Artistic development of a major Latin American writer and his/her intellectual and literary milieu or study of a special topic, period, or genre.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Graduate standing or consent of instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1900",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "E",
+                "startTime": "1610",
+                "building": "Olson Hall",
+                "description": "Seminar",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "SEM",
+                "room": "00144"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "SPA 274 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56390",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Studies of a Major Writer, Period, or Genre in Latin American Literature",
+            "subjectDesc": "Spanish",
+            "courseNum": "274",
+            "hidCRN": "56390",
+            "crn": "56390",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "Bernucci",
+                "instructorName": "L. Bernucci",
+                "firstName": "Leopoldo",
+                "instructorEmail": "lmbernucci@ucdavis.edu",
+                "fullName": "Leopoldo Bernucci"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Group study.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Graduate standing."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "E",
+                "startTime": "",
+                "building": "",
+                "description": "Seminar",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "SEM",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "SPA 298",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 4,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Group Study",
+            "subjectDesc": "Spanish",
+            "courseNum": "298",
+            "hidCRN": "084DCEC7E6",
+            "crn": "53898",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Research.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "SPA 299",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research",
+            "subjectDesc": "Spanish",
+            "courseNum": "299",
+            "hidCRN": "084DCFCEEC",
+            "crn": "53902",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Teaching assistant training practicum.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Graduate standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "SPA 396",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 4,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Teaching Assistant Training Practicum",
+            "subjectDesc": "Spanish",
+            "courseNum": "396",
+            "hidCRN": "084DCFCCEF",
+            "crn": "53921",
+            "subjectCode": "SPA"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    }
+]

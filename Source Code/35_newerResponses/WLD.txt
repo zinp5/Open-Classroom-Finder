@@ -1,0 +1,1256 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1210",
+                "building": "Bainer Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "LED",
+                "room": "01134"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "WLD 911 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55332",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Wkload - Math Co 16A",
+            "subjectDesc": "Workload",
+            "courseNum": "911",
+            "hidCRN": "55332",
+            "crn": "55332",
+            "subjectCode": "WLD"
+        },
+        "instructor": [
+            {
+                "lastName": "Parmenter",
+                "instructorName": "J. Parmenter",
+                "firstName": "James",
+                "instructorEmail": "jjparmenter@ucdavis.edu",
+                "fullName": "James Parmenter"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "0900",
+                "building": "Dutton Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "DUTTON",
+                "saturday": false,
+                "type": "LED",
+                "room": "03216"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "WLD 911 002",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "002",
+            "printCRN": "55333",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Wkload - Math Co 16A",
+            "subjectDesc": "Workload",
+            "courseNum": "911",
+            "hidCRN": "55333",
+            "crn": "55333",
+            "subjectCode": "WLD"
+        },
+        "instructor": [
+            {
+                "lastName": "Tavitas",
+                "instructorName": "R. Tavitas",
+                "firstName": "Ryan",
+                "instructorEmail": "stavitas@ucdavis.edu",
+                "fullName": "Ryan Tavitas"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "0900",
+                "building": "Bainer Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "LED",
+                "room": "01134"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "WLD 912 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55334",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Wkload - Math Co 16B",
+            "subjectDesc": "Workload",
+            "courseNum": "912",
+            "hidCRN": "55334",
+            "crn": "55334",
+            "subjectCode": "WLD"
+        },
+        "instructor": [
+            {
+                "lastName": "Acosta",
+                "instructorName": "G. Acosta",
+                "firstName": "Grant",
+                "instructorEmail": "gnacosta@ucdavis.edu",
+                "fullName": "Grant Acosta"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "0900",
+                "building": "Dutton Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "DUTTON",
+                "saturday": false,
+                "type": "LED",
+                "room": "03216"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "WLD 912 002",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "002",
+            "printCRN": "55335",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Wkload - Math Co 16B",
+            "subjectDesc": "Workload",
+            "courseNum": "912",
+            "hidCRN": "55335",
+            "crn": "55335",
+            "subjectCode": "WLD"
+        },
+        "instructor": [
+            {
+                "lastName": "Tavitas",
+                "instructorName": "R. Tavitas",
+                "firstName": "Ryan",
+                "instructorEmail": "stavitas@ucdavis.edu",
+                "fullName": "Ryan Tavitas"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1340",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture/Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LED",
+                "room": "03218"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "WLD 913 002",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "002",
+            "printCRN": "55337",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Wkload - Math Co 16C",
+            "subjectDesc": "Workload",
+            "courseNum": "913",
+            "hidCRN": "55337",
+            "crn": "55337",
+            "subjectCode": "WLD"
+        },
+        "instructor": [
+            {
+                "lastName": "Acosta",
+                "instructorName": "G. Acosta",
+                "firstName": "Grant",
+                "instructorEmail": "gnacosta@ucdavis.edu",
+                "fullName": "Grant Acosta"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "1000",
+                "building": "Olson Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LED",
+                "room": "00159"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "WLD 913 003",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "003",
+            "printCRN": "55338",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Wkload - Math Co 16C",
+            "subjectDesc": "Workload",
+            "courseNum": "913",
+            "hidCRN": "55338",
+            "crn": "55338",
+            "subjectCode": "WLD"
+        },
+        "instructor": [
+            {
+                "lastName": "Acosta",
+                "instructorName": "G. Acosta",
+                "firstName": "Grant",
+                "instructorEmail": "gnacosta@ucdavis.edu",
+                "fullName": "Grant Acosta"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "1210",
+                "building": "Olson Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LED",
+                "room": "00141"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "WLD 913 004",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "004",
+            "printCRN": "55339",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Wkload - Math Co 16C",
+            "subjectDesc": "Workload",
+            "courseNum": "913",
+            "hidCRN": "55339",
+            "crn": "55339",
+            "subjectCode": "WLD"
+        },
+        "instructor": [
+            {
+                "lastName": "Parmenter",
+                "instructorName": "J. Parmenter",
+                "firstName": "James",
+                "instructorEmail": "jjparmenter@ucdavis.edu",
+                "fullName": "James Parmenter"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "1210",
+                "building": "Wellman Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LED",
+                "room": "00233"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "WLD 921 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55340",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Wkload - Math Co 21A",
+            "subjectDesc": "Workload",
+            "courseNum": "921",
+            "hidCRN": "55340",
+            "crn": "55340",
+            "subjectCode": "WLD"
+        },
+        "instructor": [
+            {
+                "lastName": "Tavitas",
+                "instructorName": "R. Tavitas",
+                "firstName": "Ryan",
+                "instructorEmail": "stavitas@ucdavis.edu",
+                "fullName": "Ryan Tavitas"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1510",
+                "building": "Olson Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LED",
+                "room": "00125"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "WLD 922 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55341",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Wkload - Math Co 21B",
+            "subjectDesc": "Workload",
+            "courseNum": "922",
+            "hidCRN": "55341",
+            "crn": "55341",
+            "subjectCode": "WLD"
+        },
+        "instructor": [
+            {
+                "lastName": "Parmenter",
+                "instructorName": "J. Parmenter",
+                "firstName": "James",
+                "instructorEmail": "jjparmenter@ucdavis.edu",
+                "fullName": "James Parmenter"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "1000",
+                "building": "Dutton Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "DUTTON",
+                "saturday": false,
+                "type": "LED",
+                "room": "02258"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "WLD 923 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55342",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Wkload - Math Co 21C",
+            "subjectDesc": "Workload",
+            "courseNum": "923",
+            "hidCRN": "55342",
+            "crn": "55342",
+            "subjectCode": "WLD"
+        },
+        "instructor": [
+            {
+                "lastName": "Davis",
+                "instructorName": "C. Davis",
+                "firstName": "Claire",
+                "instructorEmail": "cladavis@ucdavis.edu",
+                "fullName": "Claire Davis"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1210",
+                "building": "Dutton Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "DUTTON",
+                "saturday": false,
+                "type": "LED",
+                "room": "03216"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "WLD 931 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55343",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Wkload - Stats Co 13",
+            "subjectDesc": "Workload",
+            "courseNum": "931",
+            "hidCRN": "55343",
+            "crn": "55343",
+            "subjectCode": "WLD"
+        },
+        "instructor": [
+            {
+                "lastName": "Healey",
+                "instructorName": "J. Healey",
+                "firstName": "Jennifer",
+                "instructorEmail": "jjhealey@ucdavis.edu",
+                "fullName": "Jennifer Healey"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "0900",
+                "building": "Dutton Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "DUTTON",
+                "saturday": false,
+                "type": "LED",
+                "room": "03218"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "WLD 940 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55344",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Wkload - Physics Pre 9A",
+            "subjectDesc": "Workload",
+            "courseNum": "940",
+            "hidCRN": "55344",
+            "crn": "55344",
+            "subjectCode": "WLD"
+        },
+        "instructor": [
+            {
+                "lastName": "Harrold",
+                "instructorName": "D. Harrold",
+                "firstName": "Duff",
+                "instructorEmail": "drharrold@ucdavis.edu",
+                "fullName": "Duff Harrold"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "0900",
+                "building": "Bainer Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "LED",
+                "room": "01128"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "WLD 941 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55345",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Wkload - Physics Co 9A",
+            "subjectDesc": "Workload",
+            "courseNum": "941",
+            "hidCRN": "55345",
+            "crn": "55345",
+            "subjectCode": "WLD"
+        },
+        "instructor": [
+            {
+                "lastName": "Harrold",
+                "instructorName": "D. Harrold",
+                "firstName": "Duff",
+                "instructorEmail": "drharrold@ucdavis.edu",
+                "fullName": "Duff Harrold"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "1310",
+                "building": "Dutton Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "DUTTON",
+                "saturday": false,
+                "type": "LED",
+                "room": "03218"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "WLD 942 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55346",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Wkload - Physics Co 9B",
+            "subjectDesc": "Workload",
+            "courseNum": "942",
+            "hidCRN": "55346",
+            "crn": "55346",
+            "subjectCode": "WLD"
+        },
+        "instructor": [
+            {
+                "lastName": "Harrold",
+                "instructorName": "D. Harrold",
+                "firstName": "Duff",
+                "instructorEmail": "drharrold@ucdavis.edu",
+                "fullName": "Duff Harrold"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1210",
+                "building": "Dutton Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "DUTTON",
+                "saturday": false,
+                "type": "LED",
+                "room": "03218"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "WLD 943 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55347",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Wkload - Physics Co 9C",
+            "subjectDesc": "Workload",
+            "courseNum": "943",
+            "hidCRN": "55347",
+            "crn": "55347",
+            "subjectCode": "WLD"
+        },
+        "instructor": [
+            {
+                "lastName": "Harrold",
+                "instructorName": "D. Harrold",
+                "firstName": "Duff",
+                "instructorEmail": "drharrold@ucdavis.edu",
+                "fullName": "Duff Harrold"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1030",
+                "building": "Dutton Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "DUTTON",
+                "saturday": false,
+                "type": "LED",
+                "room": "03216"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "WLD 952 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55348",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Wkload-Chemistry Co 2B",
+            "subjectDesc": "Workload",
+            "courseNum": "952",
+            "hidCRN": "55348",
+            "crn": "55348",
+            "subjectCode": "WLD"
+        },
+        "instructor": [
+            {
+                "lastName": "Jones",
+                "instructorName": "M. Jones",
+                "firstName": "Mariya",
+                "instructorEmail": "mdjones@ucdavis.edu",
+                "fullName": "Mariya Jones"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "1000",
+                "building": "Dutton Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "DUTTON",
+                "saturday": false,
+                "type": "LED",
+                "room": "03216"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "WLD 952 003",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "003",
+            "printCRN": "55350",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Wkload-Chemistry Co 2B",
+            "subjectDesc": "Workload",
+            "courseNum": "952",
+            "hidCRN": "55350",
+            "crn": "55350",
+            "subjectCode": "WLD"
+        },
+        "instructor": [
+            {
+                "lastName": "Pratt",
+                "instructorName": "J. Pratt",
+                "firstName": "Jade",
+                "instructorEmail": "jkpratt@ucdavis.edu",
+                "fullName": "Jade Pratt"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "V",
+                "startTime": "1310",
+                "building": "Dutton Hall",
+                "description": "Variable",
+                "buildingCode": "DUTTON",
+                "saturday": false,
+                "type": "VAR",
+                "room": "03216"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "WLD 991",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "001",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Wkload - ISP",
+            "subjectDesc": "Workload",
+            "courseNum": "991",
+            "hidCRN": "084BC5CBEC",
+            "crn": "55352",
+            "subjectCode": "WLD"
+        },
+        "instructor": [
+            {
+                "lastName": "Pratt",
+                "instructorName": "J. Pratt",
+                "firstName": "Jade",
+                "instructorEmail": "jkpratt@ucdavis.edu",
+                "fullName": "Jade Pratt"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "V",
+                "startTime": "1510",
+                "building": "Dutton Hall",
+                "description": "Variable",
+                "buildingCode": "DUTTON",
+                "saturday": false,
+                "type": "VAR",
+                "room": "03216"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "WLD 991",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "002",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Wkload - ISP",
+            "subjectDesc": "Workload",
+            "courseNum": "991",
+            "hidCRN": "0848C2CFE7",
+            "crn": "56419",
+            "subjectCode": "WLD"
+        },
+        "instructor": [
+            {
+                "lastName": "Pratt",
+                "instructorName": "J. Pratt",
+                "firstName": "Jade",
+                "instructorEmail": "jkpratt@ucdavis.edu",
+                "fullName": "Jade Pratt"
+            }
+        ]
+    }
+]

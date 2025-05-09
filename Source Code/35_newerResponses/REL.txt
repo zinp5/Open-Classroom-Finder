@@ -1,0 +1,662 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Consideration of major themes, issues and methods in the contemporary study of religion.  Perspectives from diverse cultural settings employed to consider modern historical, philosophical, and social contexts that inform understandings of religion.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Graduate standing or consent of instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "E",
+                "startTime": "1310",
+                "building": "Sproul Hall",
+                "description": "Seminar",
+                "buildingCode": "SPROUL",
+                "saturday": false,
+                "type": "SEM",
+                "room": "00922"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "REL 200C 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55402",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Contemporary Approaches to the Study of Religion",
+            "subjectDesc": "Study of Religion",
+            "courseNum": "200C",
+            "hidCRN": "55402",
+            "crn": "55402",
+            "subjectCode": "REL"
+        },
+        "instructor": [
+            {
+                "lastName": "Janowitz",
+                "instructorName": "N. Janowitz",
+                "firstName": "Naomi",
+                "instructorEmail": "nhjanowitz@ucdavis.edu",
+                "fullName": "Naomi Janowitz"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Individually guided research to survey the field of study, under the supervision of a faculty member. Four units total over two or more quarters are required by the end of the second year.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "8",
+                "startTime": "",
+                "building": "",
+                "description": "Term Project",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "PRJ",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "REL 200D",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 2,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Field Profile Seminar I & II",
+            "subjectDesc": "Study of Religion",
+            "courseNum": "200D",
+            "hidCRN": "084DC4CEEF",
+            "crn": "53201",
+            "subjectCode": "REL"
+        },
+        "instructor": [
+            {
+                "lastName": "Venkatesan",
+                "instructorName": "A. Venkatesan",
+                "firstName": "Archana",
+                "instructorEmail": "avenkatesan@ucdavis.edu",
+                "fullName": "Archana Venkatesan"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed Independent Study in the Thematic Area of Specialization (TAOS), Regional Area of Specialization (RAOS), or Area of Competence (AOC) culminating in a term paper.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "J",
+                "startTime": "",
+                "building": "",
+                "description": "Independent Study",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "IND",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "REL 297 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56468",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Independent Study: Thematic & Regional Area of Specialization or Area of Competence",
+            "subjectDesc": "Study of Religion",
+            "courseNum": "297",
+            "hidCRN": "56468",
+            "crn": "56468",
+            "subjectCode": "REL"
+        },
+        "instructor": [
+            {
+                "lastName": "",
+                "instructorName": ". ",
+                "firstName": "",
+                "instructorEmail": "",
+                "fullName": " "
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed Independent Study in the Thematic Area of Specialization (TAOS), Regional Area of Specialization (RAOS), or Area of Competence (AOC) culminating in a term paper.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "J",
+                "startTime": "",
+                "building": "",
+                "description": "Independent Study",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "IND",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "REL 297 002",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "002",
+            "printCRN": "56469",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Independent Study: Thematic & Regional Area of Specialization or Area of Competence",
+            "subjectDesc": "Study of Religion",
+            "courseNum": "297",
+            "hidCRN": "56469",
+            "crn": "56469",
+            "subjectCode": "REL"
+        },
+        "instructor": [
+            {
+                "lastName": "",
+                "instructorName": ". ",
+                "firstName": "",
+                "instructorEmail": "",
+                "fullName": " "
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Research",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Graduate standing or consent of instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "REL 299",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research",
+            "subjectDesc": "Study of Religion",
+            "courseNum": "299",
+            "hidCRN": "084DC4CEE7",
+            "crn": "53209",
+            "subjectCode": "REL"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Dissertation Writing.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Advanced to candidacy for the Ph.D. program. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "REL 299D",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Dissertation Writing",
+            "subjectDesc": "Study of Religion",
+            "courseNum": "299D",
+            "hidCRN": "084DC4CAEF",
+            "crn": "53241",
+            "subjectCode": "REL"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Dissertation Writing.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Advanced to candidacy for the Ph.D. program. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "REL 299D",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "004",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Dissertation Writing",
+            "subjectDesc": "Study of Religion",
+            "courseNum": "299D",
+            "hidCRN": "084DC4CAEB",
+            "crn": "53245",
+            "subjectCode": "REL"
+        },
+        "instructor": [
+            {
+                "lastName": "Mroczek",
+                "instructorName": "E. Mroczek",
+                "firstName": "Eva",
+                "instructorEmail": "emroczek@ucdavis.edu",
+                "fullName": "Eva Mroczek"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Dissertation Writing.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Advanced to candidacy for the Ph.D. program. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "REL 299D",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "005",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Dissertation Writing",
+            "subjectDesc": "Study of Religion",
+            "courseNum": "299D",
+            "hidCRN": "084DC4CAE8",
+            "crn": "53246",
+            "subjectCode": "REL"
+        },
+        "instructor": [
+            {
+                "lastName": "Miller",
+                "instructorName": "F. Miller",
+                "firstName": "Flagg",
+                "instructorEmail": "fmiller@ucdavis.edu",
+                "fullName": "Flagg Miller"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Dissertation Writing.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Advanced to candidacy for the Ph.D. program. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "REL 299D",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "006",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Dissertation Writing",
+            "subjectDesc": "Study of Religion",
+            "courseNum": "299D",
+            "hidCRN": "084DC4CAE9",
+            "crn": "53247",
+            "subjectCode": "REL"
+        },
+        "instructor": [
+            {
+                "lastName": "Janowitz",
+                "instructorName": "N. Janowitz",
+                "firstName": "Naomi",
+                "instructorEmail": "nhjanowitz@ucdavis.edu",
+                "fullName": "Naomi Janowitz"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Dissertation Writing.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Advanced to candidacy for the Ph.D. program. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "REL 299D",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "007",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Dissertation Writing",
+            "subjectDesc": "Study of Religion",
+            "courseNum": "299D",
+            "hidCRN": "084DC4CAE6",
+            "crn": "53248",
+            "subjectCode": "REL"
+        },
+        "instructor": [
+            {
+                "lastName": "Sanders",
+                "instructorName": "S. Sanders",
+                "firstName": "Seth",
+                "instructorEmail": "ssanders@ucdavis.edu",
+                "fullName": "Seth Sanders"
+            }
+        ]
+    }
+]

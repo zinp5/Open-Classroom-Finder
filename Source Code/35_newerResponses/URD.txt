@@ -1,0 +1,68 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to making presentations and writing compositions in the Urdu form of Hindi/Urdu using the Nasta\u2019liq script in the context of the shared culture of Hindi/Urdu. Emphasis on short student presentations and compositions in Urdu. Includes an introduction to the Hindi form of Hindi/Urdu using the Devanagari script at the elementary level.",
+            "creditLimit": "Not open for credit to students who have taken HIN 003.",
+            "ge3": "AH,SS,WC",
+            "crossListing": "",
+            "prereq": " URD 002;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MTWRF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "1100",
+                "building": "Olson Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LED",
+                "room": "00101"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "URD 003 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55860",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Elementary Urdu",
+            "subjectDesc": "Urdu",
+            "courseNum": "003",
+            "hidCRN": "55860",
+            "crn": "55860",
+            "subjectCode": "URD"
+        },
+        "instructor": [
+            {
+                "lastName": "Fatema",
+                "instructorName": "S. Fatema",
+                "firstName": "Shagufta",
+                "instructorEmail": "sfatema@ucdavis.edu",
+                "fullName": "Shagufta Fatema"
+            }
+        ]
+    }
+]

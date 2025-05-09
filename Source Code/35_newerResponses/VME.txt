@@ -1,0 +1,590 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to the dynamics and control of infectious disease in wildlife, including zoonotic diseases and those threatening endangered species. Basic epidemiological models and application to field data. Scientists' role in developing disease control policies.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " BIS 002A;  BIS 002B;  BIS 002C;  or equivalent. EVE 100 is recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1540",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00126"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "VME 158 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55066",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Infectious Disease in Ecology & Conservation",
+            "subjectDesc": "VM Medicine and Epidemiology",
+            "courseNum": "158",
+            "hidCRN": "55066",
+            "crn": "55066",
+            "subjectCode": "VME"
+        },
+        "instructor": [
+            {
+                "lastName": "Papageorgiou",
+                "instructorName": "S. Papageorgiou",
+                "firstName": "Sophia",
+                "instructorEmail": "spapageorgiou@ucdavis.edu",
+                "fullName": "Sophia Papageorgiou"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special studies for advanced undergraduates. May be taught abroad.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "VME 199",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Studies for Advanced Undergraduates",
+            "subjectDesc": "VM Medicine and Epidemiology",
+            "courseNum": "199",
+            "hidCRN": "084BC6C8E6",
+            "crn": "55068",
+            "subjectCode": "VME"
+        },
+        "instructor": [
+            {
+                "lastName": "Hawkins",
+                "instructorName": "M. Hawkins",
+                "firstName": "Michelle",
+                "instructorEmail": "mghawkins@ucdavis.edu",
+                "fullName": "Michelle Hawkins"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Clinical and epidemiologic properties and application of diagnostic tests for disease, with emphasis on selecting tests; validating, evaluating, and interpreting new tests individually and in aggregate; determining cutoff values; and developing testing strategies.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " MPM 205 or EPI 205;  Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1210",
+                "building": "Gladys Valley Hall",
+                "description": "Discussion",
+                "buildingCode": "VALLEY",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01010"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "",
+                "building": "",
+                "description": "Laboratory",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LAB",
+                "room": ""
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "",
+                "building": "",
+                "description": "Lecture",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LEC",
+                "room": ""
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1310",
+                "building": "Gladys Valley Hall",
+                "description": "Discussion",
+                "buildingCode": "VALLEY",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01010"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "VME 217 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56536",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Evaluation & Use of Diagnostic Tests",
+            "subjectDesc": "VM Medicine and Epidemiology",
+            "courseNum": "217",
+            "hidCRN": "56536",
+            "crn": "56536",
+            "subjectCode": "VME"
+        },
+        "instructor": [
+            {
+                "lastName": "Jackson",
+                "instructorName": "W. Jackson",
+                "firstName": "Wendi",
+                "instructorEmail": "wenjackson@ucdavis.edu",
+                "fullName": "Wendi Jackson"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Group study in selected areas of the clinical sciences.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Student in School of Veterinary Medicine or consent of instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "VME 298",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Group Study",
+            "subjectDesc": "VM Medicine and Epidemiology",
+            "courseNum": "298",
+            "hidCRN": "084BC6C9E8",
+            "crn": "55076",
+            "subjectCode": "VME"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Group study in selected areas of the clinical sciences.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Student in School of Veterinary Medicine or consent of instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "",
+                "startTime": "",
+                "building": "",
+                "description": "",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "VME 298",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "002",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Group Study",
+            "subjectDesc": "VM Medicine and Epidemiology",
+            "courseNum": "298",
+            "hidCRN": "084BC6C9E6",
+            "crn": "55078",
+            "subjectCode": "VME"
+        },
+        "instructor": [
+            {
+                "lastName": "",
+                "instructorName": ". ",
+                "firstName": "",
+                "instructorEmail": "",
+                "fullName": " "
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Research.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "VME 299",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research",
+            "subjectDesc": "VM Medicine and Epidemiology",
+            "courseNum": "299",
+            "hidCRN": "084BC6C6ED",
+            "crn": "55083",
+            "subjectCode": "VME"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Research.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "VME 299",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "020",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research",
+            "subjectDesc": "VM Medicine and Epidemiology",
+            "courseNum": "299",
+            "hidCRN": "084BC7CEEC",
+            "crn": "55102",
+            "subjectCode": "VME"
+        },
+        "instructor": [
+            {
+                "lastName": "Depenbrock",
+                "instructorName": "S. Depenbrock",
+                "firstName": "Sarah",
+                "instructorEmail": "smdepenbrock@ucdavis.edu",
+                "fullName": "Sarah Depenbrock"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Research.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "VME 299",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "032",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research",
+            "subjectDesc": "VM Medicine and Epidemiology",
+            "courseNum": "299",
+            "hidCRN": "084BC7CEEB",
+            "crn": "55105",
+            "subjectCode": "VME"
+        },
+        "instructor": [
+            {
+                "lastName": "Bird",
+                "instructorName": "B. Bird",
+                "firstName": "Brian",
+                "instructorEmail": "bhbird@ucdavis.edu",
+                "fullName": "Brian Bird"
+            }
+        ]
+    }
+]

@@ -1,0 +1,834 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Continuation of grammar and language skills developed in RUS 002.",
+            "creditLimit": "",
+            "ge3": "AH,OL,WC",
+            "crossListing": "",
+            "prereq": " RUS 002"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": true,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MTWRF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "0900",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00018"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "",
+                "building": "",
+                "description": "Laboratory",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LAB",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "RUS 003 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "53324",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Elementary Russian",
+            "subjectDesc": "Russian",
+            "courseNum": "003",
+            "hidCRN": "53324",
+            "crn": "53324",
+            "subjectCode": "RUS"
+        },
+        "instructor": [
+            {
+                "lastName": "Avramenko",
+                "instructorName": "L. Avramenko",
+                "firstName": "Liliana",
+                "instructorEmail": "lavramenko@ucdavis.edu",
+                "fullName": "Liliana Avramenko"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Grammar review. Intermediate conversation and continued reading of literature. Social and cultural practices in contemporary Russia; introduction to Russian history.",
+            "creditLimit": "",
+            "ge3": "AH,OL,WC",
+            "crossListing": "",
+            "prereq": " RUS 005"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MTWR",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1000",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00001"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "",
+                "building": "",
+                "description": "Laboratory",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LAB",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "RUS 006 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "53325",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Intermediate Russian",
+            "subjectDesc": "Russian",
+            "courseNum": "006",
+            "hidCRN": "53325",
+            "crn": "53325",
+            "subjectCode": "RUS"
+        },
+        "instructor": [
+            {
+                "lastName": "Galmant",
+                "instructorName": "J. Galmant",
+                "firstName": "Jekaterina",
+                "instructorEmail": "jgalmant@ucdavis.edu",
+                "fullName": "Jekaterina Galmant"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed group study.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "RUS 098",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study",
+            "subjectDesc": "Russian",
+            "courseNum": "098",
+            "hidCRN": "084DC5CCE8",
+            "crn": "53326",
+            "subjectCode": "RUS"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special study for undergraduates.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "RUS 099",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Study for Undergraduates",
+            "subjectDesc": "Russian",
+            "courseNum": "099",
+            "hidCRN": "084DC5CCE7",
+            "crn": "53329",
+            "subjectCode": "RUS"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Continuation of RUS 101B. Topics in Russian grammar for the advanced student. Reading and discussion of journalistic texts and classic and contemporary literature. Conversational exercises utilizing literary and colloquial variants of current Russian speech.",
+            "creditLimit": "",
+            "ge3": "AH,WC",
+            "crossListing": "",
+            "prereq": " RUS 101B"
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "1100",
+                "building": "Olson Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LED",
+                "room": "00018"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "RUS 101C 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "53334",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Advanced Russian",
+            "subjectDesc": "Russian",
+            "courseNum": "101C",
+            "hidCRN": "53334",
+            "crn": "53334",
+            "subjectCode": "RUS"
+        },
+        "instructor": [
+            {
+                "lastName": "Avramenko",
+                "instructorName": "L. Avramenko",
+                "firstName": "Liliana",
+                "instructorEmail": "lavramenko@ucdavis.edu",
+                "fullName": "Liliana Avramenko"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Intensive conversational practice and discussion based on current events and contemporary texts.",
+            "creditLimit": "",
+            "ge3": "AH,OL,WC",
+            "crossListing": "",
+            "prereq": " RUS 006"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1210",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00018"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "RUS 105 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "53335",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Advanced Russian Conversation",
+            "subjectDesc": "Russian",
+            "courseNum": "105",
+            "hidCRN": "53335",
+            "crn": "53335",
+            "subjectCode": "RUS"
+        },
+        "instructor": [
+            {
+                "lastName": "Avramenko",
+                "instructorName": "L. Avramenko",
+                "firstName": "Liliana",
+                "instructorEmail": "lavramenko@ucdavis.edu",
+                "fullName": "Liliana Avramenko"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Contemporary Russian culture, with a particular focus on film and digital media made since the end of the Soviet Union in 1991. Films and texts supplemented by historical and sociological readings.",
+            "creditLimit": "",
+            "ge3": "AH,WC,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1340",
+                "building": "Bainer Hall",
+                "description": "Lecture",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01130"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "RUS 130 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56033",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Contemporary Russian Culture & Media",
+            "subjectDesc": "Russian",
+            "courseNum": "130",
+            "hidCRN": "56033",
+            "crn": "56033",
+            "subjectCode": "RUS"
+        },
+        "instructor": [
+            {
+                "lastName": "Kaminer",
+                "instructorName": "J. Kaminer",
+                "firstName": "Jenny",
+                "instructorEmail": "jekaminer@ucdavis.edu",
+                "fullName": "Jenny Kaminer"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Guided research, under the direction of a faculty member, leading to a senior honors thesis on a topic in Russian studies.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Open only to majors of senior standing who qualify for honors program. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "J",
+                "startTime": "",
+                "building": "",
+                "description": "Independent Study",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "IND",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "RUS 194H",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Study for Honors Students",
+            "subjectDesc": "Russian",
+            "courseNum": "194H",
+            "hidCRN": "084DC5CDE6",
+            "crn": "53338",
+            "subjectCode": "RUS"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Writing an honors thesis, under the direction of a faculty member, on a topic in Russian studies.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " RUS 194H"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "J",
+                "startTime": "",
+                "building": "",
+                "description": "Independent Study",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "IND",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "RUS 195H",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Honors Thesis",
+            "subjectDesc": "Russian",
+            "courseNum": "195H",
+            "hidCRN": "084DC5CAEC",
+            "crn": "53342",
+            "subjectCode": "RUS"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Tutoring in undergraduate courses, including leadership in small voluntary discussion groups affiliated with departmental courses.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Upper division standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "T",
+                "startTime": "",
+                "building": "",
+                "description": "Tutorial",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "TUT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "RUS 197T",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 4,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Tutoring in Russian",
+            "subjectDesc": "Russian",
+            "courseNum": "197T",
+            "hidCRN": "084DC5CAE8",
+            "crn": "53346",
+            "subjectCode": "RUS"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed group study.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "RUS 198",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study",
+            "subjectDesc": "Russian",
+            "courseNum": "198",
+            "hidCRN": "084DC5CAE6",
+            "crn": "53348",
+            "subjectCode": "RUS"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special study for advanced undergraduates.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "RUS 199",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Study for Advanced Undergraduates",
+            "subjectDesc": "Russian",
+            "courseNum": "199",
+            "hidCRN": "084DC5CBEC",
+            "crn": "53352",
+            "subjectCode": "RUS"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    }
+]

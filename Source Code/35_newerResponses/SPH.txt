@@ -1,0 +1,1231 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Students apply theory and concepts learned in the classroom through field work in a community health agency.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Lower division standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "I",
+                "startTime": "",
+                "building": "",
+                "description": "Internship",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "INT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "SPH 092",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Internship in Community Health",
+            "subjectDesc": "Med - Public Health Sciences",
+            "courseNum": "092",
+            "hidCRN": "084DCFCDEC",
+            "crn": "53932",
+            "subjectCode": "SPH"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Provide basic concepts and controversies in public health, basic science of public health, social and behavioral factors in health and disease, environmental and occupational health issues, the relationship of public health to the medical care system and health care reform.",
+            "creditLimit": "",
+            "ge3": "SE,SS",
+            "crossListing": "",
+            "prereq": " Undergraduate standing."
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1640",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00002"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "SPH 101 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "53939",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Public Health",
+            "subjectDesc": "Med - Public Health Sciences",
+            "courseNum": "101",
+            "hidCRN": "53939",
+            "crn": "53939",
+            "subjectCode": "SPH"
+        },
+        "instructor": [
+            {
+                "lastName": "Garcia",
+                "instructorName": "L. Garcia",
+                "firstName": "Lorena",
+                "instructorEmail": "lgarcia@ucdavis.edu",
+                "fullName": "Lorena Garcia"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Practice of epidemiology as it relates to human populations. Content is fundamental to the Public Health minor and a required core course.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1610",
+                "building": "California Hall",
+                "description": "Lecture",
+                "buildingCode": "CALIFO",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01100"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1710",
+                "building": "California Hall",
+                "description": "Discussion",
+                "buildingCode": "CALIFO",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01100"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "SPH 102 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "53940",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Human Epidemiology",
+            "subjectDesc": "Med - Public Health Sciences",
+            "courseNum": "102",
+            "hidCRN": "53940",
+            "crn": "53940",
+            "subjectCode": "SPH"
+        },
+        "instructor": [
+            {
+                "lastName": "Taylor",
+                "instructorName": "L. Taylor",
+                "firstName": "Loralyn",
+                "instructorEmail": "dltaylor@ucdavis.edu",
+                "fullName": "Loralyn Taylor"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Provides an overview of the evidence on the multiple effects of globalization policies on health.",
+            "creditLimit": "",
+            "ge3": "SS,WC",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Hunt",
+                "description": "Lecture",
+                "buildingCode": "HUNT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00100"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "SPH 104 003",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "003",
+            "printCRN": "53941",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Globalization & Health: Evidence & Policies",
+            "subjectDesc": "Med - Public Health Sciences",
+            "courseNum": "104",
+            "hidCRN": "53941",
+            "crn": "53941",
+            "subjectCode": "SPH"
+        },
+        "instructor": [
+            {
+                "lastName": "Taylor",
+                "instructorName": "L. Taylor",
+                "firstName": "Loralyn",
+                "instructorEmail": "dltaylor@ucdavis.edu",
+                "fullName": "Loralyn Taylor"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to the principles and practice of health disparities research.",
+            "creditLimit": "",
+            "ge3": "DD,SS",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1530",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01010"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "SPH 113 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "53942",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Health Disparities in the U.S.",
+            "subjectDesc": "Med - Public Health Sciences",
+            "courseNum": "113",
+            "hidCRN": "53942",
+            "crn": "53942",
+            "subjectCode": "SPH"
+        },
+        "instructor": [
+            {
+                "lastName": "Taylor",
+                "instructorName": "L. Taylor",
+                "firstName": "Loralyn",
+                "instructorEmail": "dltaylor@ucdavis.edu",
+                "fullName": "Loralyn Taylor"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Air pollution and chemicals in our environment, covering relevant tools through a series of case studies.  Air pollution, environmental justice issues related to air pollution, including variability in exposure across cities, and the increased impacts of air pollution on individuals. Regulations, interventions to reduce exposure, estimating health burden, and the impacts of climate change.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1510",
+                "building": "Olson Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LED",
+                "room": "00167"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "SPH 114 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "53943",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Air Pollution & Chemicals in the Environment",
+            "subjectDesc": "Med - Public Health Sciences",
+            "courseNum": "114",
+            "hidCRN": "53943",
+            "crn": "53943",
+            "subjectCode": "SPH"
+        },
+        "instructor": [
+            {
+                "lastName": "Bennett",
+                "instructorName": "D. Bennett",
+                "firstName": "Deborah",
+                "instructorEmail": "dhbennett@ucdavis.edu",
+                "fullName": "Deborah Bennett"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Approaches to organizing and representing health data with a focus on visualization. Components of health data, visualization tools, methods and users for decision making and analysis.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Upper division standing or consent of instructor."
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "1410",
+                "building": "Olson Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LED",
+                "room": "00223"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "SPH 122 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "53944",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Data Organization & Visualization in Health Informatics",
+            "subjectDesc": "Med - Public Health Sciences",
+            "courseNum": "122",
+            "hidCRN": "53944",
+            "crn": "53944",
+            "subjectCode": "SPH"
+        },
+        "instructor": [
+            {
+                "lastName": "Carroll",
+                "instructorName": "M. Carroll",
+                "firstName": "Mark",
+                "instructorEmail": "mjcarroll@ucdavis.edu",
+                "fullName": "Mark Carroll"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Health issues confronting Asian Americans & Pacific Islanders.",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "ASA 132.",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1410",
+                "building": "Hutchison Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "HUTCH",
+                "saturday": false,
+                "type": "LED",
+                "room": "00102"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "SPH 132 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55447",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Health Issues Confronting Asian Americans & Pacific Islanders",
+            "subjectDesc": "Med - Public Health Sciences",
+            "courseNum": "132",
+            "hidCRN": "55447",
+            "crn": "55447",
+            "subjectCode": "SPH"
+        },
+        "instructor": [
+            {
+                "lastName": "Chen",
+                "instructorName": "E. Chen",
+                "firstName": "Edgar",
+                "instructorEmail": "ewongchen@ucdavis.edu",
+                "fullName": "Edgar Chen"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Seminar on key issues and current topics in public health.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "E",
+                "startTime": "1000",
+                "building": "Teaching and Learning Complex",
+                "description": "Seminar",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "SEM",
+                "room": "02010"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "SPH 190 002",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "002",
+            "printCRN": "53945",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Topics in Public Health",
+            "subjectDesc": "Med - Public Health Sciences",
+            "courseNum": "190",
+            "hidCRN": "53945",
+            "crn": "53945",
+            "subjectCode": "SPH"
+        },
+        "instructor": [
+            {
+                "lastName": "Taylor",
+                "instructorName": "L. Taylor",
+                "firstName": "Loralyn",
+                "instructorEmail": "dltaylor@ucdavis.edu",
+                "fullName": "Loralyn Taylor"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "The student, through fieldwork in a community health agency, learns to apply theory and concepts learned in the classroom.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Upper division and graduate students. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "I",
+                "startTime": "",
+                "building": "",
+                "description": "Internship",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "INT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "SPH 192",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Internship in Community Health Practice",
+            "subjectDesc": "Med - Public Health Sciences",
+            "courseNum": "192",
+            "hidCRN": "084DCFCAE8",
+            "crn": "53946",
+            "subjectCode": "SPH"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Study and experience for undergraduate students in any number of areas in community and international health.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Undergraduate standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "SPH 198",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Study in Community & International Health",
+            "subjectDesc": "Med - Public Health Sciences",
+            "courseNum": "198",
+            "hidCRN": "084DCFCBE7",
+            "crn": "53959",
+            "subjectCode": "SPH"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Study and experience for undergraduate students in any number of areas in community and international health.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Undergraduate standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1200",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "1100",
+                "building": "Facility Assigned by Instr.",
+                "description": "Variable",
+                "buildingCode": "NOFAC",
+                "saturday": false,
+                "type": "VAR",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "SPH 198",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "003",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Study in Community & International Health",
+            "subjectDesc": "Med - Public Health Sciences",
+            "courseNum": "198",
+            "hidCRN": "084DCFC8EF",
+            "crn": "53961",
+            "subjectCode": "SPH"
+        },
+        "instructor": [
+            {
+                "lastName": "Tong",
+                "instructorName": "E. Tong",
+                "firstName": "Elisa",
+                "instructorEmail": "ektong@ucdavis.edu",
+                "fullName": "Elisa Tong"
+            },
+            {
+                "lastName": "Tseregounis",
+                "instructorName": "I. Tseregounis",
+                "firstName": "Iraklis",
+                "instructorEmail": "eitse@ucdavis.edu",
+                "fullName": "Iraklis Tseregounis"
+            },
+            {
+                "lastName": "Dove",
+                "instructorName": "M. Dove",
+                "firstName": "Melanie",
+                "instructorEmail": "mdove@ucdavis.edu",
+                "fullName": "Melanie Dove"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Student will work with faculty member in areas of research interest, including but not limited to injury control, international health, health policy, occupational and environmental health, health promotion and wellness, women's health, and health demographics.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Undergraduate standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "SPH 199",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research in Community & International Health",
+            "subjectDesc": "Med - Public Health Sciences",
+            "courseNum": "199",
+            "hidCRN": "084DCFC9EE",
+            "crn": "53970",
+            "subjectCode": "SPH"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "In-depth integration of advanced epidemiological concepts. Theory, methods, and applications for observational studies including random and systematic error, confounding, counterfactuals, causal inference, effect modification, internal and external validity, estimability, and interpretation of effect measures, and advanced study designs.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "EPI 207.",
+            "prereq": " EPI 206"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "1410",
+                "building": "Gladys Valley Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "VALLEY",
+                "saturday": false,
+                "type": "LED",
+                "room": "01010"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "SPH 207",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Advanced Epidemiologic Methodology",
+            "subjectDesc": "Med - Public Health Sciences",
+            "courseNum": "207",
+            "hidCRN": "084DCFC6EF",
+            "crn": "53981",
+            "subjectCode": "SPH"
+        },
+        "instructor": [
+            {
+                "lastName": "Kass",
+                "instructorName": "P. Kass",
+                "firstName": "Philip",
+                "instructorEmail": "phkass@ucdavis.edu",
+                "fullName": "Philip Kass"
+            },
+            {
+                "lastName": "Hussain",
+                "instructorName": "S. Hussain",
+                "firstName": "Shehnaz",
+                "instructorEmail": "skhussain@ucdavis.edu",
+                "fullName": "Shehnaz Hussain"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Practical fieldwork experience in public health.  Placement site will vary based on the interest and experience of each student.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Open to Master of Public Health students. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "SPH 297",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 16,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Public Health Practicum",
+            "subjectDesc": "Med - Public Health Sciences",
+            "courseNum": "297",
+            "hidCRN": "084DCFC7EC",
+            "crn": "53992",
+            "subjectCode": "SPH"
+        },
+        "instructor": [
+            {
+                "lastName": "Gonsalves",
+                "instructorName": "M. Gonsalves",
+                "firstName": "Marcella",
+                "instructorEmail": "mdgonsalves@ucdavis.edu",
+                "fullName": "Marcella Gonsalves"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Study and experience for graduate students in any number of areas in community and international health.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Graduate student in good academic standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "SPH 298",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Study in Community & International Health",
+            "subjectDesc": "Med - Public Health Sciences",
+            "courseNum": "298",
+            "hidCRN": "084DCFC7EA",
+            "crn": "53994",
+            "subjectCode": "SPH"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Study and experience for graduate students in any number of areas in community and international health.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Graduate student in good academic standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1200",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "1000",
+                "building": "Facility Assigned by Instr.",
+                "description": "Variable",
+                "buildingCode": "NOFAC",
+                "saturday": false,
+                "type": "VAR",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "SPH 298",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "010",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Study in Community & International Health",
+            "subjectDesc": "Med - Public Health Sciences",
+            "courseNum": "298",
+            "hidCRN": "084AC6CEEA",
+            "crn": "54004",
+            "subjectCode": "SPH"
+        },
+        "instructor": [
+            {
+                "lastName": "Pear",
+                "instructorName": "V. Pear",
+                "firstName": "Veronica",
+                "instructorEmail": "vapear@ucdavis.edu",
+                "fullName": "Veronica Pear"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Work with faculty member in areas of research interest, including but not limited to injury control, international health, health policy, occupational and environmental health, health promotion and wellness, women's health, and health demographics.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Graduate standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "SPH 299",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research in Community & International Health",
+            "subjectDesc": "Med - Public Health Sciences",
+            "courseNum": "299",
+            "hidCRN": "084AC6CFE9",
+            "crn": "54017",
+            "subjectCode": "SPH"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    }
+]

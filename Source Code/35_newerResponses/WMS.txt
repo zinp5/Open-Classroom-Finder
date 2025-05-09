@@ -1,0 +1,134 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Interdisciplinary investigation of how specific cultures represent gender difference. Examine a variety of cultural forms and phenomena including film, television, literature, music, popular movements, and institutions.",
+            "creditLimit": "",
+            "ge3": "AH,DD,SS,VL,WC,ACGH,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "1000",
+                "building": "Shrem Museum of Art",
+                "description": "Lecture/Discussion",
+                "buildingCode": "SHREM",
+                "saturday": false,
+                "type": "LED",
+                "room": "01301"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "WMS 020 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55525",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Cultural Representations of Gender",
+            "subjectDesc": "Women's Studies",
+            "courseNum": "020",
+            "hidCRN": "55525",
+            "crn": "55525",
+            "subjectCode": "WMS"
+        },
+        "instructor": [
+            {
+                "lastName": "Jafri",
+                "instructorName": "B. Jafri",
+                "firstName": "Beenash",
+                "instructorEmail": "bjafri@ucdavis.edu",
+                "fullName": "Beenash Jafri"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Interpretations of poststructuralist, postmodern, and postcolonial thought from a critical feminist perspective; includes methods of applying theory to concrete social/cultural problems of gender, race, sexuality, class.\n",
+            "creditLimit": "",
+            "ge3": "AH,DD,SS,ACGH,WE",
+            "crossListing": "",
+            "prereq": " WMS 060;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1410",
+                "building": "Wellman Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LED",
+                "room": "00115"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "WMS 137 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55365",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Contemporary Debates in Western Feminist Theory",
+            "subjectDesc": "Women's Studies",
+            "courseNum": "137",
+            "hidCRN": "55365",
+            "crn": "55365",
+            "subjectCode": "WMS"
+        },
+        "instructor": [
+            {
+                "lastName": "Thompson",
+                "instructorName": "S. Thompson",
+                "firstName": "Sarah",
+                "instructorEmail": "sjthompson@ucdavis.edu",
+                "fullName": "Sarah Thompson"
+            }
+        ]
+    }
+]

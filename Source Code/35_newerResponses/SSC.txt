@@ -1,0 +1,676 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Work experience off and on campus in soil science. Internship supervised\nby a member of the faculty.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Lower division standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "I",
+                "startTime": "",
+                "building": "",
+                "description": "Internship",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "INT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "SSC 092",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Soil Science Internship",
+            "subjectDesc": "Soil Science",
+            "courseNum": "092",
+            "hidCRN": "084AC6CAE8",
+            "crn": "54046",
+            "subjectCode": "SSC"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Availability of nutrients in organic and conventional agricultural, vineyard, orchard and plantation forest soils; management of fertilizers, cover crops, compost, sewage sludge and manures for crop production and to prevent loss to the environment is emphasized.",
+            "creditLimit": "",
+            "ge3": "QL,SE,SL,VL,WE",
+            "crossListing": "",
+            "prereq": " SSC 100;  Or the equivalent."
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Bainer Hall",
+                "description": "Lecture",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01130"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0900",
+                "building": "Plant&Environmental Sci Bldg",
+                "description": "Laboratory",
+                "buildingCode": "PLESC",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01149"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "SSC 109 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "54059",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Sustainable Nutrient  Management",
+            "subjectDesc": "Soil Science",
+            "courseNum": "109",
+            "hidCRN": "54059",
+            "crn": "54059",
+            "subjectCode": "SSC"
+        },
+        "instructor": [
+            {
+                "lastName": "Horwath",
+                "instructorName": "W. Horwath",
+                "firstName": "William",
+                "instructorEmail": "wrhorwath@ucdavis.edu",
+                "fullName": "William Horwath"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Availability of nutrients in organic and conventional agricultural, vineyard, orchard and plantation forest soils; management of fertilizers, cover crops, compost, sewage sludge and manures for crop production and to prevent loss to the environment is emphasized.",
+            "creditLimit": "",
+            "ge3": "QL,SE,SL,VL,WE",
+            "crossListing": "",
+            "prereq": " SSC 100;  Or the equivalent."
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Bainer Hall",
+                "description": "Lecture",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01130"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1410",
+                "building": "Plant&Environmental Sci Bldg",
+                "description": "Laboratory",
+                "buildingCode": "PLESC",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01149"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "SSC 109 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "54060",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Sustainable Nutrient  Management",
+            "subjectDesc": "Soil Science",
+            "courseNum": "109",
+            "hidCRN": "54060",
+            "crn": "54060",
+            "subjectCode": "SSC"
+        },
+        "instructor": [
+            {
+                "lastName": "Horwath",
+                "instructorName": "W. Horwath",
+                "firstName": "William",
+                "instructorEmail": "wrhorwath@ucdavis.edu",
+                "fullName": "William Horwath"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Overview of living constituents of soils, their interactions, importance to, and impact on biogeochemical cycles, decomposition, and soil properties. Practical applications of soil biological diversity are emphasized.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " SSC 100 or equivalent recommended. "
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1100",
+                "building": "Hoagland Hall",
+                "description": "Discussion",
+                "buildingCode": "HOAGLD",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00168"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1100",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00115"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "SSC 112 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "54061",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Soil Ecology ",
+            "subjectDesc": "Soil Science",
+            "courseNum": "112",
+            "hidCRN": "54061",
+            "crn": "54061",
+            "subjectCode": "SSC"
+        },
+        "instructor": [
+            {
+                "lastName": "Lazcano Larkin",
+                "instructorName": "M. Lazcano Larkin",
+                "firstName": "Maria",
+                "instructorEmail": "clazcano@ucdavis.edu",
+                "fullName": "Maria Lazcano Larkin"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Recognition and description of soils; chemical, biological and physical processes of soil formation. Factors of soil formation. Interactions of soils with diverse ecosystems. Introduction to soil classification. Practice using soil taxonomy. Practical experience describing soil properties in the field.",
+            "creditLimit": "",
+            "ge3": "QL,SE,SL,VL",
+            "crossListing": "",
+            "prereq": " SSC 100;  GEL 050 recommended. "
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1410",
+                "building": "Plant&Environmental Sci Bldg",
+                "description": "Laboratory",
+                "buildingCode": "PLESC",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01149"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "03210"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "SSC 120 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "54065",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Soil Genesis, Morphology, & Classification",
+            "subjectDesc": "Soil Science",
+            "courseNum": "120",
+            "hidCRN": "54065",
+            "crn": "54065",
+            "subjectCode": "SSC"
+        },
+        "instructor": [
+            {
+                "lastName": "Lybrand",
+                "instructorName": "R. Lybrand",
+                "firstName": "Rebecca",
+                "instructorEmail": "ralybrand@ucdavis.edu",
+                "fullName": "Rebecca Lybrand"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Seminars and critical review of problems, issues, and research in soil science.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Graduate standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "1400",
+                "building": "Facility Assigned by Instr.",
+                "description": "Variable",
+                "buildingCode": "NOFAC",
+                "saturday": false,
+                "type": "VAR",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "SSC 290",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "007",
+            "printCRN": "@",
+            "unitsHigh": 4,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Topics in Soil Science",
+            "subjectDesc": "Soil Science",
+            "courseNum": "290",
+            "hidCRN": "084AC7CEE6",
+            "crn": "54108",
+            "subjectCode": "SSC"
+        },
+        "instructor": [
+            {
+                "lastName": "O'geen",
+                "instructorName": "A. O'geen",
+                "firstName": "Anthony",
+                "instructorEmail": "atogeen@ucdavis.edu",
+                "fullName": "Anthony O'geen"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Group Study",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "SSC 298",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Group Study ",
+            "subjectDesc": "Soil Science",
+            "courseNum": "298",
+            "hidCRN": "084AC7CFED",
+            "crn": "54113",
+            "subjectCode": "SSC"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Group Study",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "",
+                "startTime": "",
+                "building": "",
+                "description": "",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "SSC 298",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "015",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Group Study ",
+            "subjectDesc": "Soil Science",
+            "courseNum": "298",
+            "hidCRN": "084AC7CCE9",
+            "crn": "54127",
+            "subjectCode": "SSC"
+        },
+        "instructor": [
+            {
+                "lastName": "",
+                "instructorName": ". ",
+                "firstName": "",
+                "instructorEmail": "",
+                "fullName": " "
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Research.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "SSC 299",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research",
+            "subjectDesc": "Soil Science",
+            "courseNum": "299",
+            "hidCRN": "084AC7CCE6",
+            "crn": "54128",
+            "subjectCode": "SSC"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    }
+]

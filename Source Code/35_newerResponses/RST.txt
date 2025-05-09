@@ -1,0 +1,1376 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to comparative religion, focusing on different religious traditions in the contemporary world.",
+            "creditLimit": "",
+            "ge3": "AH,DD,WC,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1640",
+                "building": "Cruess Hall",
+                "description": "Lecture",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00107"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1710",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00205"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "RST 001F A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "53272",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Religion Today",
+            "subjectDesc": "Religious Studies",
+            "courseNum": "001F",
+            "hidCRN": "53272",
+            "crn": "53272",
+            "subjectCode": "RST"
+        },
+        "instructor": [
+            {
+                "lastName": "Miller",
+                "instructorName": "F. Miller",
+                "firstName": "Flagg",
+                "instructorEmail": "fmiller@ucdavis.edu",
+                "fullName": "Flagg Miller"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to comparative religion, focusing on different religious traditions in the contemporary world.",
+            "creditLimit": "",
+            "ge3": "AH,DD,WC,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1640",
+                "building": "Cruess Hall",
+                "description": "Lecture",
+                "buildingCode": "CRUESS",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00107"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1900",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1810",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00205"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "RST 001F A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "53273",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Religion Today",
+            "subjectDesc": "Religious Studies",
+            "courseNum": "001F",
+            "hidCRN": "53273",
+            "crn": "53273",
+            "subjectCode": "RST"
+        },
+        "instructor": [
+            {
+                "lastName": "Miller",
+                "instructorName": "F. Miller",
+                "firstName": "Flagg",
+                "instructorEmail": "fmiller@ucdavis.edu",
+                "fullName": "Flagg Miller"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "New Testament literature from critical, historical, and theological perspectives.",
+            "creditLimit": "",
+            "ge3": "AH,WC,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00147"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1710",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00105"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "RST 040 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "55396",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "New Testament",
+            "subjectDesc": "Religious Studies",
+            "courseNum": "040",
+            "hidCRN": "55396",
+            "crn": "55396",
+            "subjectCode": "RST"
+        },
+        "instructor": [
+            {
+                "lastName": "Terry",
+                "instructorName": "W. Terry",
+                "firstName": "Wendy",
+                "instructorEmail": "wrterry@ucdavis.edu",
+                "fullName": "Wendy Terry"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "New Testament literature from critical, historical, and theological perspectives.",
+            "creditLimit": "",
+            "ge3": "AH,WC,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00147"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1900",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1810",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00105"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "RST 040 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "55397",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "New Testament",
+            "subjectDesc": "Religious Studies",
+            "courseNum": "040",
+            "hidCRN": "55397",
+            "crn": "55397",
+            "subjectCode": "RST"
+        },
+        "instructor": [
+            {
+                "lastName": "Terry",
+                "instructorName": "W. Terry",
+                "firstName": "Wendy",
+                "instructorEmail": "wrterry@ucdavis.edu",
+                "fullName": "Wendy Terry"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Representations of actual and fictional religious movements in science fiction and fantasy writing and film. Examination of: the characteristics of religion and religiosity in fictional religious movements; the relationship between religion, science, and technology in modern speculative fiction.",
+            "creditLimit": "",
+            "ge3": "AH,VL,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00107"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "RST 042 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55398",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Religion & Science Fiction",
+            "subjectDesc": "Religious Studies",
+            "courseNum": "042",
+            "hidCRN": "55398",
+            "crn": "55398",
+            "subjectCode": "RST"
+        },
+        "instructor": [
+            {
+                "lastName": "Eastland",
+                "instructorName": "L. Eastland",
+                "firstName": "Lauren",
+                "instructorEmail": "lreastland@ucdavis.edu",
+                "fullName": "Lauren Eastland"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed group study.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Primarily for lower division students. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "RST 098",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study",
+            "subjectDesc": "Religious Studies",
+            "courseNum": "098",
+            "hidCRN": "084DC4C6EB",
+            "crn": "53285",
+            "subjectCode": "RST"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special study for lower division undergraduates.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "RST 099",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Study for Lower Division Undergraduates",
+            "subjectDesc": "Religious Studies",
+            "courseNum": "099",
+            "hidCRN": "084DC4C6E8",
+            "crn": "53286",
+            "subjectCode": "RST"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Historical and descriptive analysis of selected key figures in mystical traditions and readings of representative mystical texts. Analytic term paper.",
+            "creditLimit": "",
+            "ge3": "AH,OL,VL,WC,WE",
+            "crossListing": "",
+            "prereq": " One lower division Religious Studies course. "
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1530",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00025"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "RST 115 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56219",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Mysticism",
+            "subjectDesc": "Religious Studies",
+            "courseNum": "115",
+            "hidCRN": "56219",
+            "crn": "56219",
+            "subjectCode": "RST"
+        },
+        "instructor": [
+            {
+                "lastName": "Brizendine",
+                "instructorName": "R. Brizendine",
+                "firstName": "Ryan",
+                "instructorEmail": "rbrizendine@ucdavis.edu",
+                "fullName": "Ryan Brizendine"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Thematic study of a phenomenon in more than one religious tradition or of the relationship between religion and another cultural phenomenon. Topics may include archeology and the Bible, women and religion, religion and violence. ",
+            "creditLimit": "",
+            "ge3": "WC,WE",
+            "crossListing": "",
+            "prereq": " RST 001 or RST 002 or RST 003A or RST 003B or RST 003C;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1340",
+                "building": "Olson Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LED",
+                "room": "00101"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "RST 130 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "53287",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Topics in Religious Studies",
+            "subjectDesc": "Religious Studies",
+            "courseNum": "130",
+            "hidCRN": "53287",
+            "crn": "53287",
+            "subjectCode": "RST"
+        },
+        "instructor": [
+            {
+                "lastName": "Little",
+                "instructorName": "L. Little",
+                "firstName": "Layne",
+                "instructorEmail": "lrlittle@ucdavis.edu",
+                "fullName": "Layne Little"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Exploration of the Indian epic, Ramayana, through the lens of literature, performance, and visual art. Emphasis on the text's diversity and its contemporary global relevance. Topics include Ramayanas in Southeast Asia, and in various South Asian diaspora communities. ",
+            "creditLimit": "",
+            "ge3": "AH,WC,WE",
+            "crossListing": "COM 156.",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00251"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "RST 158 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55393",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "The Ramayana",
+            "subjectDesc": "Religious Studies",
+            "courseNum": "158",
+            "hidCRN": "55393",
+            "crn": "55393",
+            "subjectCode": "RST"
+        },
+        "instructor": [
+            {
+                "lastName": "Venkatesan",
+                "instructorName": "A. Venkatesan",
+                "firstName": "Archana",
+                "instructorEmail": "avenkatesan@ucdavis.edu",
+                "fullName": "Archana Venkatesan"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Islam as a lived religion in the Indian subcontinent, Central Asia, China, and Southeast Asia. Emphasis is on primary sources studied comparatively and historically.",
+            "creditLimit": "",
+            "ge3": "AH,WC,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "1210",
+                "building": "Olson Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LED",
+                "room": "00207"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "RST 165 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56032",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Islam in Asia",
+            "subjectDesc": "Religious Studies",
+            "courseNum": "165",
+            "hidCRN": "56032",
+            "crn": "56032",
+            "subjectCode": "RST"
+        },
+        "instructor": [
+            {
+                "lastName": "Brizendine",
+                "instructorName": "R. Brizendine",
+                "firstName": "Ryan",
+                "instructorEmail": "rbrizendine@ucdavis.edu",
+                "fullName": "Ryan Brizendine"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "A historical survey of the development of the language of symbolism and iconography in Hinduism. ",
+            "creditLimit": "",
+            "ge3": "AH,VL,WC,WE",
+            "crossListing": "AHI 153.",
+            "prereq": " RST 068: Hinduism or RST 069: Hindu Mythology recommended, but not required. "
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00147"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1710",
+                "building": "Storer Hall",
+                "description": "Discussion",
+                "buildingCode": "STORER",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01344"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "RST 181 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "55400",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Hindu Gods & Hindu Symbols",
+            "subjectDesc": "Religious Studies",
+            "courseNum": "181",
+            "hidCRN": "55400",
+            "crn": "55400",
+            "subjectCode": "RST"
+        },
+        "instructor": [
+            {
+                "lastName": "Little",
+                "instructorName": "L. Little",
+                "firstName": "Layne",
+                "instructorEmail": "lrlittle@ucdavis.edu",
+                "fullName": "Layne Little"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "A historical survey of the development of the language of symbolism and iconography in Hinduism. ",
+            "creditLimit": "",
+            "ge3": "AH,VL,WC,WE",
+            "crossListing": "AHI 153.",
+            "prereq": " RST 068: Hinduism or RST 069: Hindu Mythology recommended, but not required. "
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00147"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1900",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1810",
+                "building": "Storer Hall",
+                "description": "Discussion",
+                "buildingCode": "STORER",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01344"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "RST 181 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "55401",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Hindu Gods & Hindu Symbols",
+            "subjectDesc": "Religious Studies",
+            "courseNum": "181",
+            "hidCRN": "55401",
+            "crn": "55401",
+            "subjectCode": "RST"
+        },
+        "instructor": [
+            {
+                "lastName": "Little",
+                "instructorName": "L. Little",
+                "firstName": "Layne",
+                "instructorEmail": "lrlittle@ucdavis.edu",
+                "fullName": "Layne Little"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Guided research, under the direction of a faculty member approved by the Program Director, leading to a senior honors thesis on a religious studies topic.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "RST 194HA",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Study for Honors Students",
+            "subjectDesc": "Religious Studies",
+            "courseNum": "194HA",
+            "hidCRN": "084DC4C7EB",
+            "crn": "53295",
+            "subjectCode": "RST"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Guided research, under the direction of a faculty member approved by the Program Director, leading to a senior honors thesis on a religious studies topic.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "RST 194HB",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Study for Honors Students",
+            "subjectDesc": "Religious Studies",
+            "courseNum": "194HB",
+            "hidCRN": "084DC4C7E8",
+            "crn": "53296",
+            "subjectCode": "RST"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed group study.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Upper division standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "RST 198",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study",
+            "subjectDesc": "Religious Studies",
+            "courseNum": "198",
+            "hidCRN": "084DC4C7E6",
+            "crn": "53298",
+            "subjectCode": "RST"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special study for advanced undergraduates.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "RST 199",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Study for Advanced Undergraduates",
+            "subjectDesc": "Religious Studies",
+            "courseNum": "199",
+            "hidCRN": "084DC5CEE8",
+            "crn": "53306",
+            "subjectCode": "RST"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed research.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "RST 299",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Research",
+            "subjectDesc": "Religious Studies",
+            "courseNum": "299",
+            "hidCRN": "084DC5CFE9",
+            "crn": "53317",
+            "subjectCode": "RST"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Teaching assistant training practicum.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Graduate standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "RST 396",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 4,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Teaching Assistant Training Practicum",
+            "subjectDesc": "Religious Studies",
+            "courseNum": "396",
+            "hidCRN": "084DC5CFE7",
+            "crn": "53319",
+            "subjectCode": "RST"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    }
+]

@@ -1,0 +1,617 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Integrated physiological systems, cardiovascular and nervous systems and how drugs and toxicants act to perturb function.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " PTX 201;  PTX 202"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MTWR",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Gladys Valley Hall",
+                "description": "Lecture",
+                "buildingCode": "VALLEY",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01010"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "PTX 203 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "53048",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Principles of Pharmacology & Toxicology III",
+            "subjectDesc": "Pharmacology-Toxicology (Grad)",
+            "courseNum": "203",
+            "hidCRN": "53048",
+            "crn": "53048",
+            "subjectCode": "PTX"
+        },
+        "instructor": [
+            {
+                "lastName": "Gelli",
+                "instructorName": "A. Gelli",
+                "firstName": "Angela",
+                "instructorEmail": "acgelli@ucdavis.edu",
+                "fullName": "Angela Gelli"
+            },
+            {
+                "lastName": "Lein",
+                "instructorName": "P. Lein",
+                "firstName": "Pamela",
+                "instructorEmail": "pjlein@ucdavis.edu",
+                "fullName": "Pamela Lein"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Broad scope of topics in electrophysiology techniques and applications.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "MCP 215.",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "",
+                "startTime": "",
+                "building": "",
+                "description": "",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "PTX 215 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "53049",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Electrophysiology Techniques & Applications",
+            "subjectDesc": "Pharmacology-Toxicology (Grad)",
+            "courseNum": "215",
+            "hidCRN": "53049",
+            "crn": "53049",
+            "subjectCode": "PTX"
+        },
+        "instructor": [
+            {
+                "lastName": "",
+                "instructorName": ". ",
+                "firstName": "",
+                "instructorEmail": "",
+                "fullName": " "
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "In-depth coverage of selected topics for graduate students in Pharmacology-Toxicology and related disciplines. Topics determined by instructor in charge for each quarter.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " PTX 201;  and Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "PTX 230",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 3,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Advanced Topics in Pharmacology & Toxicology",
+            "subjectDesc": "Pharmacology-Toxicology (Grad)",
+            "courseNum": "230",
+            "hidCRN": "084DC6CBEE",
+            "crn": "53050",
+            "subjectCode": "PTX"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Current topics in pharmacology and toxicology.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "E",
+                "startTime": "1210",
+                "building": "Genome & Biomed. Sciences Fac.",
+                "description": "Seminar",
+                "buildingCode": "GENBIO",
+                "saturday": false,
+                "type": "SEM",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "PTX 290 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "53052",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Seminar",
+            "subjectDesc": "Pharmacology-Toxicology (Grad)",
+            "courseNum": "290",
+            "hidCRN": "53052",
+            "crn": "53052",
+            "subjectCode": "PTX"
+        },
+        "instructor": [
+            {
+                "lastName": "Horne",
+                "instructorName": "M. Horne",
+                "firstName": "Mary",
+                "instructorEmail": "mhorne@ucdavis.edu",
+                "fullName": "Mary Horne"
+            },
+            {
+                "lastName": "Ghosh",
+                "instructorName": "P. Ghosh",
+                "firstName": "Paramita",
+                "instructorEmail": "paghosh@ucdavis.edu",
+                "fullName": "Paramita Ghosh"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Current topics in pharmacology and toxicology.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "E",
+                "startTime": "1210",
+                "building": "Facility Assigned by Instr.",
+                "description": "Seminar",
+                "buildingCode": "NOFAC",
+                "saturday": false,
+                "type": "SEM",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "PTX 290 002",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "002",
+            "printCRN": "53053",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Seminar",
+            "subjectDesc": "Pharmacology-Toxicology (Grad)",
+            "courseNum": "290",
+            "hidCRN": "53053",
+            "crn": "53053",
+            "subjectCode": "PTX"
+        },
+        "instructor": [
+            {
+                "lastName": "Knych",
+                "instructorName": "H. Knych",
+                "firstName": "Heather",
+                "instructorEmail": "hkknych@ucdavis.edu",
+                "fullName": "Heather Knych"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Current topics in pharmacology and toxicology.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "",
+                "startTime": "",
+                "building": "",
+                "description": "",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "PTX 290 003",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "003",
+            "printCRN": "53054",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Seminar",
+            "subjectDesc": "Pharmacology-Toxicology (Grad)",
+            "courseNum": "290",
+            "hidCRN": "53054",
+            "crn": "53054",
+            "subjectCode": "PTX"
+        },
+        "instructor": [
+            {
+                "lastName": "",
+                "instructorName": ". ",
+                "firstName": "",
+                "instructorEmail": "",
+                "fullName": " "
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Current topics in pharmacology and toxicology.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "E",
+                "startTime": "",
+                "building": "",
+                "description": "Seminar",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "SEM",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "PTX 290 004",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "004",
+            "printCRN": "53055",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Seminar",
+            "subjectDesc": "Pharmacology-Toxicology (Grad)",
+            "courseNum": "290",
+            "hidCRN": "53055",
+            "crn": "53055",
+            "subjectCode": "PTX"
+        },
+        "instructor": [
+            {
+                "lastName": "Goncharova",
+                "instructorName": "E. Goncharova",
+                "firstName": "Elena",
+                "instructorEmail": "eagoncharova@ucdavis.edu",
+                "fullName": "Elena Goncharova"
+            },
+            {
+                "lastName": "Van Winkle",
+                "instructorName": "L. Van Winkle",
+                "firstName": "Laura",
+                "instructorEmail": "lsvanwinkle@ucdavis.edu",
+                "fullName": "Laura Van Winkle"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Provide credit for participation in and attendance at research conferences.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "",
+                "building": "",
+                "description": "Lecture/Discussion",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LED",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "PTX 290C 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "53057",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Advanced Research Conference",
+            "subjectDesc": "Pharmacology-Toxicology (Grad)",
+            "courseNum": "290C",
+            "hidCRN": "53057",
+            "crn": "53057",
+            "subjectCode": "PTX"
+        },
+        "instructor": [
+            {
+                "lastName": "Van Winkle",
+                "instructorName": "L. Van Winkle",
+                "firstName": "Laura",
+                "instructorEmail": "lsvanwinkle@ucdavis.edu",
+                "fullName": "Laura Van Winkle"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Research with a faculty member in the Pharmacology & Toxicology Graduate Group.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "PTX 299",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research",
+            "subjectDesc": "Pharmacology-Toxicology (Grad)",
+            "courseNum": "299",
+            "hidCRN": "084DC6CBE6",
+            "crn": "53058",
+            "subjectCode": "PTX"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    }
+]

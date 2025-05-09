@@ -1,0 +1,68 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Total involvement in patient care involving surgical preparation, treatment, operative care, and follow-up. Developing and understanding reconstruction and aesthetic plastic surgery. Microvascular surgery included. Student rotation.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " SUR 430;  and Consent of Instructor.  Third- or fourth-year medical students."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "PSU 460",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 18,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Clinical Plastic Surgery Elective",
+            "subjectDesc": "Med - Plastic Surgery",
+            "courseNum": "460",
+            "hidCRN": "084CCFCAE6",
+            "crn": "52948",
+            "subjectCode": "PSU"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    }
+]
