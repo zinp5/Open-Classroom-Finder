@@ -1,0 +1,52 @@
+Steps to run OCF
+---------------------------------------------------------
+1. Place "TimeDisplayer.py" and "csvFormatFull.txt" in same folder
+2. run "TimeDisplayer.py" however you run python
+3. Select desired time and hall
+4. Once done reading times, close the graph. the program will automatically loop again
+
+
+Steps to completely build on your own
+------------------------------------------------------------
+Pseudo:
+Grab course tiles
+Run loop against schedule builder using course tiles to get class info
+clean and organize class info
+print desired class
+
+1. (Grab course title html) Run "GrabRawCourseTitle.py", pass output "rawcoursetitles.txt" to folder of "CoursetitlesParse.cpp"
+
+2. (Parse course title html) Run "CourseTitlesParse.cpp", pass "rawcoursetitles.txt" as input, pass output to "CourseNamesParsed.txt" to folder of "LoopForSchedBuilderSearch.py"
+
+3. (Search schedule builder and grab time html's) Run "LoopForSchedBuildSearch.py" with "CourseNamesParsed.txt" in the same folder. Output will be in folder named "responses".
+		"responses" must exist before running. in the "responses" folder, there will be individual output for each course name
+
+4. (Combine raw schedule response html) Run "UnparsedFileCombiner.py", manually edit input folderpath to wherever "responses" exists. Output file "UnparsedCombined.txt" will be placed in same folder as "UnparsedFileCombiner.py"
+
+5. (Parse combined raw schedule) Run "2ndclassTimeParse.cpp", pass "UnparsedCombined.txt" as input, pass ouput to "csvFormatFull.txt" into the same folder as "TimeDisplayer.py"
+
+6. (Display times) Run "TimeDisplayer.py" with "csvFormatFull.txt" in the same folder.
+
+
+HTML data guide 
+------------------------------------------------------------------
+coursetitles ::::: taken from registrar. used in schedulebuildersearch loop to scan each class code
+responses :::: taken from schedule builder. holds all classes and their accompanied data
+
+
+Important URLs
+---------------------------------------------------
+https://registrar-apps.ucdavis.edu/courses/search/index.cfm :::::::::::: holds each class code
+https://my.ucdavis.edu/schedulebuilder/cf/search/search.cfc ::::::::::: schedule builder search link. Must have accompanied payload with this before calling
+
+
+
+
+(Depreciated) Important URLs
+---------------------------------------------------------------
+url1 = "https://registrar-apps.ucdavis.edu/courses/search/course_search_results.cfm" :::::::::::::: registrar sisweb search
+url2 = "https://registrar-apps.ucdavis.edu/courses/search/index.cfm" :::::::::::::::::::::::::::::: registrarsisweb no search
+url3 = "https://my.ucdavis.edu/schedulebuilder/index.cfm" ::::::::::::::::::::::::::::::::::::::::::: schedule builder main login
+url4 = "https://cas.ucdavis.edu/cas/login?service=https://my.ucdavis.edu/schedulebuilder/index.cfm" ::::: schedule builder login
+url5 = "https://my.ucdavis.edu/schedulebuilder/index.cfm?termCode=202503&helpTour=" :::::::::::::::::: schedule builder after quarter is selected
+url6 = "https://my.ucdavis.edu/schedulebuilder/cf/search/search.cfc" :::::::::::::::::::::::::::::::: schedule builder search

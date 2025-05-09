@@ -1,0 +1,85 @@
+--------------------------- the big deal ---------------------------------------
+i like studying in empty classrooms. i focus better in them idk why.
+I figured there would be some way to figure out which classes were empty using code so I made it
+--------------------------- the big deal ---------------------------------------
+
+
+------------------------- base ------------------------------
+the bread and butter of this project is grabbing html and parsing said html
+
+html can be grabbed from a website using a lot of methods. I used Python's "requests" library
+html can be parsed using a lot of methods. I used plain old CPP
+
+after that, we clean, organize, and display
+the parsed data can be cleaned and organized using a lot of methods. I used plain old CPP
+the cleaned can be displayed using python
+------------------------- base ------------------------------
+
+
+------------------ basic html grabbing -----------------
+as said earlier, i use requests (and a healthy amount of chatgpt)
+
+Simply find the url you want to go to and make a request to it.
+
+It gets a little more complicated when you want to grab html from a search (this is done in "loopforschedbuildsearch.py")
+------------------ basic html grabbing -----------------
+
+
+------------------ more complicated html grabbing -----------------
+its not much more complicated.
+instead of the plain old URL, you need the "search url", more formally the "POST endpoint"(as per chatgpt)
+	this is a modified URL that will make a search for you from your "request" and give you a "response"
+
+A simple example of this can be found on the registrar website link :::https://registrar-apps.ucdavis.edu/courses/search/index.cfm:::
+	For an example, navigate to the registrar link and inspect the page. Once in inspect mode, head over to the Network tab and observe
+		to test how the POST endpoint works, select in the subject area, "African american studies" and press "search"
+		notice how you now have two things, GET and POST.
+	
+		GET: I dont know tbh. its not important to us. ask chatgpt if u care ig.
+		POST: Click on the POST and read the info that comes up.
+			Notice the URL is different than before ::::: https://registrar-apps.ucdavis.edu/courses/search/course_search_results.cfm
+			Click the "Request" tab, notice the info listed. this info are the parameters/payload.
+			Click the "Response" tab, notice the info listed. This is the raw html of the payload itself
+
+when we grab html using python, we make a request and recieve the response.
+------------------ more complicated html grabbing -----------------
+
+
+------------------ parsing and cleaning -----------------
+this is just some while loops.
+and for loops
+------------------ parsing and cleaning -----------------
+
+
+------------------ organizing -----------------
+data is organized in cpp using a double map unordered method
+
+unordered maps will group all things related to some thing in the same place
+
+for the first map, i grouped by day. for the second map, i grouped by hall
+
+So for example it would look like
+
+Tuesday
+	Wellman: timedata1, timedata2
+	TLC: timedata1, timedata2, timedata3
+
+Wednesday
+	TLC: timedata1, timedata2
+	Young: timedata1
+
+etc..ect..
+
+
+Theory behind organization:
+Well, it doesnt matter what the occupancy is on friday if i want to find occupancies on monday, so let me group by day
+And since its impossible to display all of classes that happen on any given day, i decided to group by hall.
+
+
+in hind sight, it may have been better to display the top 10~30 longest time unoccupied given the current time. whatever. maybe in version2.
+------------------ organizing -----------------
+
+
+------------------ displaying times -----------------
+this was 95% chatgpt. I wont lie to you.
+------------------ displaying times -----------------
