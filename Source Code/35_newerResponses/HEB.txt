@@ -1,0 +1,286 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Speaking, listening comprehension, reading and writing fundamentals of modern Hebrew.",
+            "creditLimit": "",
+            "ge3": "AH,OL,WC",
+            "crossListing": "",
+            "prereq": " HEB 002;  Or the equivalent. "
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": true,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MTWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "1000",
+                "building": "Wellman Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LED",
+                "room": "00003"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1000",
+                "building": "Wellman Hall",
+                "description": "Laboratory",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00003"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "HEB 003 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "43226",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Elementary Hebrew",
+            "subjectDesc": "Hebrew",
+            "courseNum": "003",
+            "hidCRN": "43226",
+            "crn": "43226",
+            "subjectCode": "HEB"
+        },
+        "instructor": [
+            {
+                "lastName": "Eisinger",
+                "instructorName": "I. Eisinger",
+                "firstName": "Itay",
+                "instructorEmail": "ieisinger@ucdavis.edu",
+                "fullName": "Itay Eisinger"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Continued development of grammar, composition, language skills required for reading literary texts and conversing about contemporary topics at an advanced level. History of the Hebrew language. Further development of writing and translating skills.",
+            "creditLimit": "Not open to students who have taken HEB 100C or HEB 102.",
+            "ge3": "AH,OL,WC",
+            "crossListing": "",
+            "prereq": " HEB 022;  Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MTWR",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "1310",
+                "building": "Olson Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LED",
+                "room": "00267"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "HEB 023 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "43227",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Intermediate Modern Hebrew III",
+            "subjectDesc": "Hebrew",
+            "courseNum": "023",
+            "hidCRN": "43227",
+            "crn": "43227",
+            "subjectCode": "HEB"
+        },
+        "instructor": [
+            {
+                "lastName": "Eisinger",
+                "instructorName": "I. Eisinger",
+                "firstName": "Itay",
+                "instructorEmail": "ieisinger@ucdavis.edu",
+                "fullName": "Itay Eisinger"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed group study. ",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "HEB 098",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study",
+            "subjectDesc": "Hebrew",
+            "courseNum": "098",
+            "hidCRN": "094DC4CCE6",
+            "crn": "43228",
+            "subjectCode": "HEB"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special study. ",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "HEB 099",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Study for Undergraduates",
+            "subjectDesc": "Hebrew",
+            "courseNum": "099",
+            "hidCRN": "094DC4CCE7",
+            "crn": "43229",
+            "subjectCode": "HEB"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    }
+]

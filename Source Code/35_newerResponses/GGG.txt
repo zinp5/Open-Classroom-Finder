@@ -1,0 +1,511 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Basic concepts of quantitative and population genetics including gene and genotypic frequencies, multiple factor hypothesis, phenotypic and genotypic values, heritability, selection, genetic variation, the detection of quantitative trait loci and evolution in populations. Experimental and analytical methods.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " GGG 201A;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1000",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "03212"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1310",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00001"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Hutchison Hall",
+                "description": "Lecture",
+                "buildingCode": "HUTCH",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00073"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "GGG 201D 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56112",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Quantitative & Population Genetics",
+            "subjectDesc": "Genetics (Graduate Group)",
+            "courseNum": "201D",
+            "hidCRN": "56112",
+            "crn": "56112",
+            "subjectCode": "GGG"
+        },
+        "instructor": [
+            {
+                "lastName": "Segal",
+                "instructorName": "D. Segal",
+                "firstName": "David",
+                "instructorEmail": "djsegal@ucdavis.edu",
+                "fullName": "David Segal"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Gene therapy from basic concepts to clinical applications. Topics include the human genome and genetic variation, genetic diseases, methods to manipulate gene expression, viral and non-viral delivery vectors, history and progress of gene therapy, case studies, and ethical issues.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "PHA 225.",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "0900",
+                "building": "Storer Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "STORER",
+                "saturday": false,
+                "type": "LED",
+                "room": "01342"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "GGG 225 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "42757",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Gene & Cellular Therapies",
+            "subjectDesc": "Genetics (Graduate Group)",
+            "courseNum": "225",
+            "hidCRN": "42757",
+            "crn": "42757",
+            "subjectCode": "GGG"
+        },
+        "instructor": [
+            {
+                "lastName": "Halmai",
+                "instructorName": "J. Halmai",
+                "firstName": "Julian",
+                "instructorEmail": "jhalmai@ucdavis.edu",
+                "fullName": "Julian Halmai"
+            },
+            {
+                "lastName": "Fink",
+                "instructorName": "K. Fink",
+                "firstName": "Kyle",
+                "instructorEmail": "kdfink@ucdavis.edu",
+                "fullName": "Kyle Fink"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Topics of current interest in evolutionary, population, and developmental genetics.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1510",
+                "building": "Green Hall",
+                "description": "Discussion",
+                "buildingCode": "GREENH",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01022"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "GGG 290 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56114",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Seminar in Evolutionary, Developmental & Population Genetics",
+            "subjectDesc": "Genetics (Graduate Group)",
+            "courseNum": "290",
+            "hidCRN": "56114",
+            "crn": "56114",
+            "subjectCode": "GGG"
+        },
+        "instructor": [
+            {
+                "lastName": "Schreier",
+                "instructorName": "A. Schreier",
+                "firstName": "Andrea",
+                "instructorEmail": "amdrauch@ucdavis.edu",
+                "fullName": "Andrea Schreier"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Student-given seminars on topics in genetics, with critiques by instructor and peers.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "1",
+                "startTime": "1100",
+                "building": "Tupper Hall",
+                "description": "Conference",
+                "buildingCode": "TUPPER",
+                "saturday": false,
+                "type": "CON",
+                "room": "02133"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "GGG 290A 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "42759",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Graduate Student Conference in Genetics",
+            "subjectDesc": "Genetics (Graduate Group)",
+            "courseNum": "290A",
+            "hidCRN": "42759",
+            "crn": "42759",
+            "subjectCode": "GGG"
+        },
+        "instructor": [
+            {
+                "lastName": "Meyers",
+                "instructorName": "B. Meyers",
+                "firstName": "Blake",
+                "instructorEmail": "bcmeyers@ucdavis.edu",
+                "fullName": "Blake Meyers"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Group study of selected topics in genetics.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "GGG 298",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Group Study",
+            "subjectDesc": "Genetics (Graduate Group)",
+            "courseNum": "298",
+            "hidCRN": "094CC1C8EF",
+            "crn": "42761",
+            "subjectCode": "GGG"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Research.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "GGG 299",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research",
+            "subjectDesc": "Genetics (Graduate Group)",
+            "courseNum": "299",
+            "hidCRN": "094CC1C9EC",
+            "crn": "42772",
+            "subjectCode": "GGG"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Practical experience in the methods and problems of teaching genetics. Includes analysis of texts and supporting material, discussion of teaching techniques, preparing for and conducting discussion or laboratory sections, formulating examinations under supervision of instructor.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Graduate standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "GGG 300",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 3,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Methods in Teaching Genetics",
+            "subjectDesc": "Genetics (Graduate Group)",
+            "courseNum": "300",
+            "hidCRN": "094CCEC7EE",
+            "crn": "42890",
+            "subjectCode": "GGG"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    }
+]

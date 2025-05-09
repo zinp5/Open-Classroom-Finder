@@ -1,0 +1,4296 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to the study of the Earth. Earth's physical and chemical structure; internal and surface processes that mold the Earth; geological hazards and resources. ",
+            "creditLimit": "Not open for credit to students who have taken GEL 050; only 2 credits for students who have taken GEL 002.",
+            "ge3": "SE,SL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01001"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1310",
+                "building": "Earth & Physical Sciences",
+                "description": "Discussion",
+                "buildingCode": "EPHSCI",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01309"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "GEL 001 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "42250",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "The Earth",
+            "subjectDesc": "Geology",
+            "courseNum": "001",
+            "hidCRN": "42250",
+            "crn": "42250",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "Funston",
+                "instructorName": "G. Funston",
+                "firstName": "Gregory",
+                "instructorEmail": "gfunston@ucdavis.edu",
+                "fullName": "Gregory Funston"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to the study of the Earth. Earth's physical and chemical structure; internal and surface processes that mold the Earth; geological hazards and resources. ",
+            "creditLimit": "Not open for credit to students who have taken GEL 050; only 2 credits for students who have taken GEL 002.",
+            "ge3": "SE,SL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01001"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1510",
+                "building": "Earth & Physical Sciences",
+                "description": "Discussion",
+                "buildingCode": "EPHSCI",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01309"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "GEL 001 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "42251",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "The Earth",
+            "subjectDesc": "Geology",
+            "courseNum": "001",
+            "hidCRN": "42251",
+            "crn": "42251",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "Funston",
+                "instructorName": "G. Funston",
+                "firstName": "Gregory",
+                "instructorEmail": "gfunston@ucdavis.edu",
+                "fullName": "Gregory Funston"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to the study of the Earth. Earth's physical and chemical structure; internal and surface processes that mold the Earth; geological hazards and resources. ",
+            "creditLimit": "Not open for credit to students who have taken GEL 050; only 2 credits for students who have taken GEL 002.",
+            "ge3": "SE,SL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01001"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1210",
+                "building": "Earth & Physical Sciences",
+                "description": "Discussion",
+                "buildingCode": "EPHSCI",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01316"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "GEL 001 A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "42252",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "The Earth",
+            "subjectDesc": "Geology",
+            "courseNum": "001",
+            "hidCRN": "42252",
+            "crn": "42252",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "Funston",
+                "instructorName": "G. Funston",
+                "firstName": "Gregory",
+                "instructorEmail": "gfunston@ucdavis.edu",
+                "fullName": "Gregory Funston"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to the study of the Earth. Earth's physical and chemical structure; internal and surface processes that mold the Earth; geological hazards and resources. ",
+            "creditLimit": "Not open for credit to students who have taken GEL 050; only 2 credits for students who have taken GEL 002.",
+            "ge3": "SE,SL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1100",
+                "building": "Earth & Physical Sciences",
+                "description": "Discussion",
+                "buildingCode": "EPHSCI",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01316"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01001"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "GEL 001 A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "42253",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "The Earth",
+            "subjectDesc": "Geology",
+            "courseNum": "001",
+            "hidCRN": "42253",
+            "crn": "42253",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "Funston",
+                "instructorName": "G. Funston",
+                "firstName": "Gregory",
+                "instructorEmail": "gfunston@ucdavis.edu",
+                "fullName": "Gregory Funston"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to the study of the Earth. Earth's physical and chemical structure; internal and surface processes that mold the Earth; geological hazards and resources. ",
+            "creditLimit": "Not open for credit to students who have taken GEL 050; only 2 credits for students who have taken GEL 002.",
+            "ge3": "SE,SL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1000",
+                "building": "Earth & Physical Sciences",
+                "description": "Discussion",
+                "buildingCode": "EPHSCI",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01316"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01001"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "GEL 001 A05",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A05",
+            "printCRN": "42254",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "The Earth",
+            "subjectDesc": "Geology",
+            "courseNum": "001",
+            "hidCRN": "42254",
+            "crn": "42254",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "Funston",
+                "instructorName": "G. Funston",
+                "firstName": "Gregory",
+                "instructorEmail": "gfunston@ucdavis.edu",
+                "fullName": "Gregory Funston"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to the study of the Earth. Earth's physical and chemical structure; internal and surface processes that mold the Earth; geological hazards and resources. ",
+            "creditLimit": "Not open for credit to students who have taken GEL 050; only 2 credits for students who have taken GEL 002.",
+            "ge3": "SE,SL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01001"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1000",
+                "building": "Earth & Physical Sciences",
+                "description": "Discussion",
+                "buildingCode": "EPHSCI",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01316"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "GEL 001 A06",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A06",
+            "printCRN": "42255",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "The Earth",
+            "subjectDesc": "Geology",
+            "courseNum": "001",
+            "hidCRN": "42255",
+            "crn": "42255",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "Funston",
+                "instructorName": "G. Funston",
+                "firstName": "Gregory",
+                "instructorEmail": "gfunston@ucdavis.edu",
+                "fullName": "Gregory Funston"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to the study of the Earth. Earth's physical and chemical structure; internal and surface processes that mold the Earth; geological hazards and resources. ",
+            "creditLimit": "Not open for credit to students who have taken GEL 050; only 2 credits for students who have taken GEL 002.",
+            "ge3": "SE,SL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01001"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1100",
+                "building": "Earth & Physical Sciences",
+                "description": "Discussion",
+                "buildingCode": "EPHSCI",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01316"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "GEL 001 A09",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A09",
+            "printCRN": "55552",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "The Earth",
+            "subjectDesc": "Geology",
+            "courseNum": "001",
+            "hidCRN": "55552",
+            "crn": "55552",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "Funston",
+                "instructorName": "G. Funston",
+                "firstName": "Gregory",
+                "instructorEmail": "gfunston@ucdavis.edu",
+                "fullName": "Gregory Funston"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to evolutionary biology, paleobiology, ecology and paleoecology, using dinosaurs as case studies.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1100",
+                "building": "Social Science & Humanities",
+                "description": "Lecture",
+                "buildingCode": "SOCSCI",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01100"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "GEL 012 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "42256",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Evolution & Paleobiology of Dinosaurs",
+            "subjectDesc": "Geology",
+            "courseNum": "012",
+            "hidCRN": "42256",
+            "crn": "42256",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "Gold",
+                "instructorName": "D. Gold",
+                "firstName": "David",
+                "instructorEmail": "dgold@ucdavis.edu",
+                "fullName": "David Gold"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introductory survey of the marine environment. Oceanic physical phenomena, chemical constituents and chemistry of water, geological history, the seas biota and human utilization of marine resources",
+            "creditLimit": "Not open for credit to students who have taken GEL 116.",
+            "ge3": "SE,SL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1340",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01001"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "GEL 016 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "42257",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "The Oceans",
+            "subjectDesc": "Geology",
+            "courseNum": "016",
+            "hidCRN": "42257",
+            "crn": "42257",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "Palmer",
+                "instructorName": "H. Palmer",
+                "firstName": "Hannah",
+                "instructorEmail": "hmpalmer@ucdavis.edu",
+                "fullName": "Hannah Palmer"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Impact of earthquakes, tsunami, volcanoes, landslides, and floods on humans, structures, and the environment. Discussion of the causes and effects of disasters and catastrophes, and on prediction, preparation, and mitigation of natural hazards.",
+            "creditLimit": "",
+            "ge3": "SE,SL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01001"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "GEL 017 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "42258",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Earthquakes & Other Earth Hazards",
+            "subjectDesc": "Geology",
+            "courseNum": "017",
+            "hidCRN": "42258",
+            "crn": "42258",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "Deblois",
+                "instructorName": "M. Deblois",
+                "firstName": "Mark",
+                "instructorEmail": "mcdeblois@ucdavis.edu",
+                "fullName": "Mark Deblois"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "The geologic history of California, the origin of rocks and the environments in which they were formed, the structure of the rocks and the interpretation of their structural history, mineral resources, and appreciation of the California landscape. Offered in alternate years.",
+            "creditLimit": "",
+            "ge3": "SE,SL,VL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00194"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "GEL 020 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "42259",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Geology of California",
+            "subjectDesc": "Geology",
+            "courseNum": "020",
+            "hidCRN": "42259",
+            "crn": "42259",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "Cowgill",
+                "instructorName": "E. Cowgill",
+                "firstName": "Eric",
+                "instructorEmail": "escowgill@ucdavis.edu",
+                "fullName": "Eric Cowgill"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Appreciation of the geologic framework underlying the inherent beauty of U.S. National Parks. Relationship of individual parks to geologic processes such as mountain building, volcanism, stream erosion, glacial action and landscape evolution.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1000",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01001"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "GEL 025 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "42260",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Geology of National Parks",
+            "subjectDesc": "Geology",
+            "courseNum": "025",
+            "hidCRN": "42260",
+            "crn": "42260",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "Osleger",
+                "instructorName": "D. Osleger",
+                "firstName": "David",
+                "instructorEmail": "daosleger@ucdavis.edu",
+                "fullName": "David Osleger"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Role of eruptions, and eruptive products of volcanoes in shaping the planet's surface, influencing its environment, and providing essential human resources.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00202"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "GEL 032 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55553",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Volcanoes",
+            "subjectDesc": "Geology",
+            "courseNum": "032",
+            "hidCRN": "55553",
+            "crn": "55553",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "Cooper",
+                "instructorName": "K. Cooper",
+                "firstName": "Kari",
+                "instructorEmail": "kmcooper@ucdavis.edu",
+                "fullName": "Kari Cooper"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to geomorphology, climate and geology of rivers and watersheds, with case examples from California.  Assessment of impacts of logging, agriculture, mining, urbanization and water supply on river processes.  Optional river field trips.",
+            "creditLimit": "",
+            "ge3": "SE,SL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1100",
+                "building": "Max Kleiber Hall",
+                "description": "Lecture",
+                "buildingCode": "KLEIBR",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00003"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "GEL 035 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "42261",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Rivers",
+            "subjectDesc": "Geology",
+            "courseNum": "035",
+            "hidCRN": "42261",
+            "crn": "42261",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "Yarnell-Hayes",
+                "instructorName": "S. Yarnell-Hayes",
+                "firstName": "Sarah",
+                "instructorEmail": "smyarnell@ucdavis.edu",
+                "fullName": "Sarah Yarnell-Hayes"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Nature of the sun, moon, and planets as determined by recent manned and unmanned exploration of the solar system. Comparison of terrestrial, lunar, and planetary geological processes. Search for life on other planets. Origin and evolution of the solar system. (Former course GEL 113 & GEL 113G.)",
+            "creditLimit": "",
+            "ge3": "SE,VL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1410",
+                "building": "Earth & Physical Sciences",
+                "description": "Discussion",
+                "buildingCode": "EPHSCI",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01309"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01001"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "GEL 036 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "42262",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "The Solar System",
+            "subjectDesc": "Geology",
+            "courseNum": "036",
+            "hidCRN": "42262",
+            "crn": "42262",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "Yin",
+                "instructorName": "Q. Yin",
+                "firstName": "Qing-Zhu",
+                "instructorEmail": "qyin@ucdavis.edu",
+                "fullName": "Qing-Zhu Yin"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Nature of the sun, moon, and planets as determined by recent manned and unmanned exploration of the solar system. Comparison of terrestrial, lunar, and planetary geological processes. Search for life on other planets. Origin and evolution of the solar system. (Former course GEL 113 & GEL 113G.)",
+            "creditLimit": "",
+            "ge3": "SE,VL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1210",
+                "building": "Earth & Physical Sciences",
+                "description": "Discussion",
+                "buildingCode": "EPHSCI",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01316"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01001"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "GEL 036 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "42263",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "The Solar System",
+            "subjectDesc": "Geology",
+            "courseNum": "036",
+            "hidCRN": "42263",
+            "crn": "42263",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "Yin",
+                "instructorName": "Q. Yin",
+                "firstName": "Qing-Zhu",
+                "instructorEmail": "qyin@ucdavis.edu",
+                "fullName": "Qing-Zhu Yin"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Nature of the sun, moon, and planets as determined by recent manned and unmanned exploration of the solar system. Comparison of terrestrial, lunar, and planetary geological processes. Search for life on other planets. Origin and evolution of the solar system. (Former course GEL 113 & GEL 113G.)",
+            "creditLimit": "",
+            "ge3": "SE,VL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1100",
+                "building": "Earth & Physical Sciences",
+                "description": "Discussion",
+                "buildingCode": "EPHSCI",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01309"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01001"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "GEL 036 A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "42264",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "The Solar System",
+            "subjectDesc": "Geology",
+            "courseNum": "036",
+            "hidCRN": "42264",
+            "crn": "42264",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "Yin",
+                "instructorName": "Q. Yin",
+                "firstName": "Qing-Zhu",
+                "instructorEmail": "qyin@ucdavis.edu",
+                "fullName": "Qing-Zhu Yin"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Nature of the sun, moon, and planets as determined by recent manned and unmanned exploration of the solar system. Comparison of terrestrial, lunar, and planetary geological processes. Search for life on other planets. Origin and evolution of the solar system. (Former course GEL 113 & GEL 113G.)",
+            "creditLimit": "",
+            "ge3": "SE,VL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01001"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1210",
+                "building": "Earth & Physical Sciences",
+                "description": "Discussion",
+                "buildingCode": "EPHSCI",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01316"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "GEL 036 A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "42265",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "The Solar System",
+            "subjectDesc": "Geology",
+            "courseNum": "036",
+            "hidCRN": "42265",
+            "crn": "42265",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "Yin",
+                "instructorName": "Q. Yin",
+                "firstName": "Qing-Zhu",
+                "instructorEmail": "qyin@ucdavis.edu",
+                "fullName": "Qing-Zhu Yin"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "The Earth, its materials, its internal and external processes, its development through time by sea-floor spreading and global plate tectonics. ",
+            "creditLimit": "Students with credit for GEL 001 or the equivalent may receive only 2 units for GEL 050.",
+            "ge3": "SE,SL",
+            "crossListing": "",
+            "prereq": " High school physics and chemistry. "
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01001"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "GEL 050 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "42266",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Physical Geology ",
+            "subjectDesc": "Geology",
+            "courseNum": "050",
+            "hidCRN": "42266",
+            "crn": "42266",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "Pinter",
+                "instructorName": "N. Pinter",
+                "firstName": "Nicholas",
+                "instructorEmail": "npinter@ucdavis.edu",
+                "fullName": "Nicholas Pinter"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to classification and recognition of minerals and rocks and to interpretation of topographic and geologic maps and aerial photographs. ",
+            "creditLimit": "Students with credit for GEL 001L or the equivalent may receive only 1 unit for GEL 050L.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " GEL 050 { can be concurrent }"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1310",
+                "building": "Earth & Physical Sciences",
+                "description": "Laboratory",
+                "buildingCode": "EPHSCI",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01316"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "GEL 050L 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "42267",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Physical Geology Laboratory",
+            "subjectDesc": "Geology",
+            "courseNum": "050L",
+            "hidCRN": "42267",
+            "crn": "42267",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "Pinter",
+                "instructorName": "N. Pinter",
+                "firstName": "Nicholas",
+                "instructorEmail": "npinter@ucdavis.edu",
+                "fullName": "Nicholas Pinter"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to classification and recognition of minerals and rocks and to interpretation of topographic and geologic maps and aerial photographs. ",
+            "creditLimit": "Students with credit for GEL 001L or the equivalent may receive only 1 unit for GEL 050L.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " GEL 050 { can be concurrent }"
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1900",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1610",
+                "building": "Earth & Physical Sciences",
+                "description": "Laboratory",
+                "buildingCode": "EPHSCI",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01316"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "GEL 050L 002",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "002",
+            "printCRN": "42268",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Physical Geology Laboratory",
+            "subjectDesc": "Geology",
+            "courseNum": "050L",
+            "hidCRN": "42268",
+            "crn": "42268",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "Pinter",
+                "instructorName": "N. Pinter",
+                "firstName": "Nicholas",
+                "instructorEmail": "npinter@ucdavis.edu",
+                "fullName": "Nicholas Pinter"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to classification and recognition of minerals and rocks and to interpretation of topographic and geologic maps and aerial photographs. ",
+            "creditLimit": "Students with credit for GEL 001L or the equivalent may receive only 1 unit for GEL 050L.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " GEL 050 { can be concurrent }"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "C",
+                "startTime": "1310",
+                "building": "Earth & Physical Sciences",
+                "description": "Laboratory",
+                "buildingCode": "EPHSCI",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01316"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "GEL 050L 003",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "003",
+            "printCRN": "42269",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Physical Geology Laboratory",
+            "subjectDesc": "Geology",
+            "courseNum": "050L",
+            "hidCRN": "42269",
+            "crn": "42269",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "Pinter",
+                "instructorName": "N. Pinter",
+                "firstName": "Nicholas",
+                "instructorEmail": "npinter@ucdavis.edu",
+                "fullName": "Nicholas Pinter"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to classification and recognition of minerals and rocks and to interpretation of topographic and geologic maps and aerial photographs. ",
+            "creditLimit": "Students with credit for GEL 001L or the equivalent may receive only 1 unit for GEL 050L.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " GEL 050 { can be concurrent }"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1900",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "C",
+                "startTime": "1610",
+                "building": "Earth & Physical Sciences",
+                "description": "Laboratory",
+                "buildingCode": "EPHSCI",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01348"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "GEL 050L 004",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "004",
+            "printCRN": "42270",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Physical Geology Laboratory",
+            "subjectDesc": "Geology",
+            "courseNum": "050L",
+            "hidCRN": "42270",
+            "crn": "42270",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "Pinter",
+                "instructorName": "N. Pinter",
+                "firstName": "Nicholas",
+                "instructorEmail": "npinter@ucdavis.edu",
+                "fullName": "Nicholas Pinter"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to classification and recognition of minerals and rocks and to interpretation of topographic and geologic maps and aerial photographs. ",
+            "creditLimit": "Students with credit for GEL 001L or the equivalent may receive only 1 unit for GEL 050L.",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " GEL 050 { can be concurrent }"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1900",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "C",
+                "startTime": "1610",
+                "building": "Earth & Physical Sciences",
+                "description": "Laboratory",
+                "buildingCode": "EPHSCI",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01314"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "GEL 050L 005",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "005",
+            "printCRN": "42271",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Physical Geology Laboratory",
+            "subjectDesc": "Geology",
+            "courseNum": "050L",
+            "hidCRN": "42271",
+            "crn": "42271",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "Pinter",
+                "instructorName": "N. Pinter",
+                "firstName": "Nicholas",
+                "instructorEmail": "npinter@ucdavis.edu",
+                "fullName": "Nicholas Pinter"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Exploration of how students learn and develop understanding in science and mathematics classrooms. Introduction to case studies and interview techniques and their use in K-6 classrooms to illuminate factors that affect student learning. ",
+            "creditLimit": "",
+            "ge3": "SS,VL,WE",
+            "crossListing": "EDU 081.",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "F",
+                "startTime": "",
+                "building": "",
+                "description": "Fieldwork",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "FWK",
+                "room": ""
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1410",
+                "building": "Earth & Physical Sciences",
+                "description": "Lecture/Discussion",
+                "buildingCode": "EPHSCI",
+                "saturday": false,
+                "type": "LED",
+                "room": "01317"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "GEL 081 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "42272",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Learning in Science & Mathematics",
+            "subjectDesc": "Geology",
+            "courseNum": "081",
+            "hidCRN": "42272",
+            "crn": "42272",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "Bettis",
+                "instructorName": "M. Bettis",
+                "firstName": "Megan",
+                "instructorEmail": "mmckenzie@ucdavis.edu",
+                "fullName": "Megan Bettis"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Exploration of how students learn and develop understanding in science and mathematics classrooms. Introduction to case studies and interview techniques and their use in K-6 classrooms to illuminate factors that affect student learning. ",
+            "creditLimit": "",
+            "ge3": "SS,VL,WE",
+            "crossListing": "EDU 081.",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1410",
+                "building": "Earth & Physical Sciences",
+                "description": "Lecture/Discussion",
+                "buildingCode": "EPHSCI",
+                "saturday": false,
+                "type": "LED",
+                "room": "01317"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "F",
+                "startTime": "",
+                "building": "",
+                "description": "Fieldwork",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "FWK",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "GEL 081 002",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "002",
+            "printCRN": "42273",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Learning in Science & Mathematics",
+            "subjectDesc": "Geology",
+            "courseNum": "081",
+            "hidCRN": "42273",
+            "crn": "42273",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "Mendle",
+                "instructorName": "A. Mendle",
+                "firstName": "Alvin",
+                "instructorEmail": "ammendle@ucdavis.edu",
+                "fullName": "Alvin Mendle"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Work-learn experience on and off campus in all subject areas offered by the department.  Internships supervised by a member of the faculty.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Lower division standing."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "I",
+                "startTime": "",
+                "building": "",
+                "description": "Internship",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "INT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "GEL 092",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Internship",
+            "subjectDesc": "Geology",
+            "courseNum": "092",
+            "hidCRN": "094CC4C9EA",
+            "crn": "42274",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed group study.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "GEL 098",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study",
+            "subjectDesc": "Geology",
+            "courseNum": "098",
+            "hidCRN": "094CC4C9E9",
+            "crn": "42277",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special study for undergraduates.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Lower division standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "GEL 099",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Study for Undergraduates",
+            "subjectDesc": "Geology",
+            "courseNum": "099",
+            "hidCRN": "094CC4C6ED",
+            "crn": "42283",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Field mapping projects and writing geological reports. Weekly classroom meetings devoted to preparation of maps, cross sections, stratigraphic sections, rock descriptions, and reports. Seven-eight days for field trips will occur on weekends during the quarter.",
+            "creditLimit": "",
+            "ge3": "SE,SL,VL,WE",
+            "crossListing": "",
+            "prereq": " GEL 101;  GEL 101L"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Earth & Physical Sciences",
+                "description": "Lecture",
+                "buildingCode": "EPHSCI",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01316"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "F",
+                "startTime": "",
+                "building": "Off Campus",
+                "description": "Fieldwork",
+                "buildingCode": "OFFCAM",
+                "saturday": false,
+                "type": "FWK",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "GEL 103 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "42309",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Field Geology",
+            "subjectDesc": "Geology",
+            "courseNum": "103",
+            "hidCRN": "42309",
+            "crn": "42309",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "Oskin",
+                "instructorName": "M. Oskin",
+                "firstName": "Michael",
+                "instructorEmail": "meoskin@ucdavis.edu",
+                "fullName": "Michael Oskin"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Evolution and ecological structure of the biosphere from the origin of life to the present.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " GEL 003 or GEL 053 or BIS 002A or BIS 002B"
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1000",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01215"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "GEL 107 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55554",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Earth History: Paleobiology",
+            "subjectDesc": "Geology",
+            "courseNum": "107",
+            "hidCRN": "55554",
+            "crn": "55554",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "Funston",
+                "instructorName": "G. Funston",
+                "firstName": "Gregory",
+                "instructorEmail": "gfunston@ucdavis.edu",
+                "fullName": "Gregory Funston"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Exercises in determining the ecological functions and evolution of individuals, populations, and communities of fossil organisms in field and laboratory.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " GEL 107 { can be concurrent }"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "C",
+                "startTime": "1310",
+                "building": "Earth & Physical Sciences",
+                "description": "Laboratory",
+                "buildingCode": "EPHSCI",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01309"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "GEL 107L 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55688",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Earth History: Paleobiology Laboratory",
+            "subjectDesc": "Geology",
+            "courseNum": "107L",
+            "hidCRN": "55688",
+            "crn": "55688",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "Funston",
+                "instructorName": "G. Funston",
+                "firstName": "Gregory",
+                "instructorEmail": "gfunston@ucdavis.edu",
+                "fullName": "Gregory Funston"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Geological and environmental factors controlling climate change, the greenhouse effect with a detailed analysis of the history of Earth's climate fluctuations over the last 600 million years. Past and present climate records are used to examine potential future climatic scenarios.",
+            "creditLimit": "",
+            "ge3": "SE,SL,WE",
+            "crossListing": "",
+            "prereq": " (GEL 001 or GEL 050 or GEL 116N or ESP 116N);  CHE 002A;  Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1340",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00106"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "GEL 108 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "42310",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Earth History: Paleoclimates",
+            "subjectDesc": "Geology",
+            "courseNum": "108",
+            "hidCRN": "42310",
+            "crn": "42310",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "Sun",
+                "instructorName": "C. Sun",
+                "firstName": "Chijun",
+                "instructorEmail": "cjsun@ucdavis.edu",
+                "fullName": "Chijun Sun"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Sediment formation, transport, and deposition. Interpretations of sedimentary processes across landscapes and through time in the context of environmental and geological problems. Reconstruction of ancient environmental change from sedimentary rocks.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " GEL 001 or GEL 050"
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1100",
+                "building": "Earth & Physical Sciences",
+                "description": "Lecture",
+                "buildingCode": "EPHSCI",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01348"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "GEL 109 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "42311",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Earth History: Sediments & Strata",
+            "subjectDesc": "Geology",
+            "courseNum": "109",
+            "hidCRN": "42311",
+            "crn": "42311",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "Sumner",
+                "instructorName": "D. Sumner",
+                "firstName": "Dawn",
+                "instructorEmail": "dysumner@ucdavis.edu",
+                "fullName": "Dawn Sumner"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Methods of stratigraphic and sedimentologic analysis of modern and ancient sediments. Identification of major sediment and sedimentary rock types. Outcrop and subsurface analysis of sedimentary basins. GE credit with concurrent enrollment in GEL 109. Includes four one-day field trips.",
+            "creditLimit": "",
+            "ge3": "SE,WE",
+            "crossListing": "",
+            "prereq": " GEL 050L;  GEL 109 { can be concurrent }"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "C",
+                "startTime": "1310",
+                "building": "Earth & Physical Sciences",
+                "description": "Laboratory",
+                "buildingCode": "EPHSCI",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01348"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "GEL 109L 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "42312",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Earth History: Sediments & Strata Laboratory",
+            "subjectDesc": "Geology",
+            "courseNum": "109L",
+            "hidCRN": "42312",
+            "crn": "42312",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "Sumner",
+                "instructorName": "D. Sumner",
+                "firstName": "Dawn",
+                "instructorEmail": "dysumner@ucdavis.edu",
+                "fullName": "Dawn Sumner"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Methods of stratigraphic and sedimentologic analysis of modern and ancient sediments. Identification of major sediment and sedimentary rock types. Outcrop and subsurface analysis of sedimentary basins. GE credit with concurrent enrollment in GEL 109. Includes four one-day field trips.",
+            "creditLimit": "",
+            "ge3": "SE,WE",
+            "crossListing": "",
+            "prereq": " GEL 050L;  GEL 109 { can be concurrent }"
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1900",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1610",
+                "building": "Earth & Physical Sciences",
+                "description": "Laboratory",
+                "buildingCode": "EPHSCI",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01348"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "GEL 109L 002",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "002",
+            "printCRN": "42313",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Earth History: Sediments & Strata Laboratory",
+            "subjectDesc": "Geology",
+            "courseNum": "109L",
+            "hidCRN": "42313",
+            "crn": "42313",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "Sumner",
+                "instructorName": "D. Sumner",
+                "firstName": "Dawn",
+                "instructorEmail": "dysumner@ucdavis.edu",
+                "fullName": "Dawn Sumner"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Long-term and large-scale perspectives on the origins of the universe, stars and planets, life, human evolution, the rise of civilization and the modern world. Multi-disciplinary approach to \"Big History\" involving cosmology, astronomy, geology, climatology, biology, anthropology, archeology and traditional history.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01214"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "GEL 120 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "42317",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Origins: From the Big Bang to Today",
+            "subjectDesc": "Geology",
+            "courseNum": "120",
+            "hidCRN": "42317",
+            "crn": "42317",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "Osleger",
+                "instructorName": "D. Osleger",
+                "firstName": "David",
+                "instructorEmail": "daosleger@ucdavis.edu",
+                "fullName": "David Osleger"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Integrative multidisciplinary field analysis of streams. Class project examines hydrology, geomorphology, water quality and aquatic and riparian ecology of degraded and pristine stream systems. Includes cooperative two-week field survey in remote wilderness settings with students from diverse scientific backgrounds.   \n\n",
+            "creditLimit": "",
+            "ge3": "SE,WE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Upper division or graduate standing in any physical science, biological science, or engineering. "
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "G",
+                "startTime": "1310",
+                "building": "Earth & Physical Sciences",
+                "description": "Discussion Laboratory",
+                "buildingCode": "EPHSCI",
+                "saturday": false,
+                "type": "D/L",
+                "room": "01348"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "F",
+                "startTime": "",
+                "building": "",
+                "description": "Fieldwork",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "FWK",
+                "room": ""
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1710",
+                "building": "Earth & Physical Sciences",
+                "description": "Lecture",
+                "buildingCode": "EPHSCI",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01316"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "GEL 136 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56401",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Ecogeomorphology of Rivers & Streams",
+            "subjectDesc": "Geology",
+            "courseNum": "136",
+            "hidCRN": "56401",
+            "crn": "56401",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "Yarnell-Hayes",
+                "instructorName": "S. Yarnell-Hayes",
+                "firstName": "Sarah",
+                "instructorEmail": "smyarnell@ucdavis.edu",
+                "fullName": "Sarah Yarnell-Hayes"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to the origin and geologic evolution of ocean basins. Composition and structure of oceanic crust; marine volcanism; and deposition of marine sediments. Interpretation of geologic history of the ocean floor in terms of sea-floor spreading theory.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "ESP 150B.",
+            "prereq": " GEL 050 or (GEL 116N or ESP 116N)"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00119"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "GEL 150B 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "42319",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Geological Oceanography",
+            "subjectDesc": "Geology",
+            "courseNum": "150B",
+            "hidCRN": "42319",
+            "crn": "42319",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "Griffin",
+                "instructorName": "A. Griffin",
+                "firstName": "Alyssa",
+                "instructorEmail": "ajgriffin@ucdavis.edu",
+                "fullName": "Alyssa Griffin"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Geophysical methods applied to determining subsurface structure in tectonics, hydrogeology, geotechnical engineering, and hydrocarbon & mineral exploration. Theory, survey design & interpretation of gravity, electrical resistivity, electromagnetic, reflection & refraction seismology, and ground-penetrating radar measurements.",
+            "creditLimit": "",
+            "ge3": "QL,SE,SL",
+            "crossListing": "",
+            "prereq": " (GEL 001 C- or better or GEL 050 C- or better);  (MAT 017C C- or better or MAT 016C C- or better or MAT 019C C- or better or MAT 021C C- or better);  (PHY 007A C- or better or PHY 009A C- or better);  (PHY 007B C- or better or PHY 009B C- or better);  (GEL 056 C- or better or PHY 007C C- or better or PHY 009C C- or better)"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1030",
+                "building": "Earth & Physical Sciences",
+                "description": "Lecture/Discussion",
+                "buildingCode": "EPHSCI",
+                "saturday": false,
+                "type": "LED",
+                "room": "01348"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "GEL 161 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55555",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Geophysical Field Methods",
+            "subjectDesc": "Geology",
+            "courseNum": "161",
+            "hidCRN": "55555",
+            "crn": "55555",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "Billen",
+                "instructorName": "M. Billen",
+                "firstName": "Magali",
+                "instructorEmail": "mibillen@ucdavis.edu",
+                "fullName": "Magali Billen"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Exploration of effective teaching practices based on examination of how middle school students learn math and science. Selected readings, discussion and field experience in middle school classrooms. ",
+            "creditLimit": "",
+            "ge3": "SS,WE",
+            "crossListing": "EDU 181.",
+            "prereq": " Consent of Instructor.  Major in mathematics, science, or engineering; or completion of a one-year sequence of science or calculus. "
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1610",
+                "building": "Earth & Physical Sciences",
+                "description": "Lecture/Discussion",
+                "buildingCode": "EPHSCI",
+                "saturday": false,
+                "type": "LED",
+                "room": "01317"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "F",
+                "startTime": "",
+                "building": "",
+                "description": "Fieldwork",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "FWK",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "GEL 181 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "42320",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Teaching in Science & Mathematics",
+            "subjectDesc": "Geology",
+            "courseNum": "181",
+            "hidCRN": "42320",
+            "crn": "42320",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "Salim",
+                "instructorName": "I. Salim",
+                "firstName": "Ingrid",
+                "instructorEmail": "ihsalim@ucdavis.edu",
+                "fullName": "Ingrid Salim"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Exploration and creation of effective teaching practices based on examination of how high school students learn mathematics and science. Field experience in high school classrooms.",
+            "creditLimit": "",
+            "ge3": "OL,SS,WE",
+            "crossListing": "EDU 183.",
+            "prereq": " Major in mathematics, science, or engineering; or completion of a one-year sequence of science or calculus and consent of the instructor."
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "F",
+                "startTime": "",
+                "building": "",
+                "description": "Fieldwork",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "FWK",
+                "room": ""
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "0800",
+                "building": "Earth & Physical Sciences",
+                "description": "Lecture/Discussion",
+                "buildingCode": "EPHSCI",
+                "saturday": false,
+                "type": "LED",
+                "room": "01317"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "GEL 183 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "42321",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Teaching High School Mathematics & Science ",
+            "subjectDesc": "Geology",
+            "courseNum": "183",
+            "hidCRN": "42321",
+            "crn": "42321",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "Pinter",
+                "instructorName": "S. Pinter",
+                "firstName": "Susann",
+                "instructorEmail": "spinter@ucdavis.edu",
+                "fullName": "Susann Pinter"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "STEM Learning Assistant Seminar. Theoretical and practical issues of effective teaching in discussion/labs: student-centered, active, cooperative learning environments, responsive teaching, and differentiated classroom instruction.",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1510",
+                "building": "Earth & Physical Sciences",
+                "description": "Lecture/Discussion",
+                "buildingCode": "EPHSCI",
+                "saturday": false,
+                "type": "LED",
+                "room": "01317"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "GEL 186 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "42322",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Facilitating Learning in STEM Classrooms",
+            "subjectDesc": "Geology",
+            "courseNum": "186",
+            "hidCRN": "42322",
+            "crn": "42322",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "Stevenson",
+                "instructorName": "M. Stevenson",
+                "firstName": "Mary",
+                "instructorEmail": "mbstevenson@ucdavis.edu",
+                "fullName": "Mary Stevenson"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "STEM Learning Assistant Seminar. Theoretical and practical issues of effective teaching in discussion/labs: student-centered, active, cooperative learning environments, responsive teaching, and differentiated classroom instruction.",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1000",
+                "building": "Earth & Physical Sciences",
+                "description": "Lecture/Discussion",
+                "buildingCode": "EPHSCI",
+                "saturday": false,
+                "type": "LED",
+                "room": "01317"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "GEL 186 002",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "002",
+            "printCRN": "42323",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Facilitating Learning in STEM Classrooms",
+            "subjectDesc": "Geology",
+            "courseNum": "186",
+            "hidCRN": "42323",
+            "crn": "42323",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "Stevenson",
+                "instructorName": "M. Stevenson",
+                "firstName": "Mary",
+                "instructorEmail": "mbstevenson@ucdavis.edu",
+                "fullName": "Mary Stevenson"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Supervised work experience in geology.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Upper division standing; project approval prior to internship. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "I",
+                "startTime": "",
+                "building": "",
+                "description": "Internship",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "INT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "GEL 192",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Internship in Geology ",
+            "subjectDesc": "Geology",
+            "courseNum": "192",
+            "hidCRN": "094CC5CCEB",
+            "crn": "42325",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Guided independent study of a selected topic, leading to the writing of a senior thesis.",
+            "creditLimit": "",
+            "ge3": "SE,WE",
+            "crossListing": "",
+            "prereq": " Open to Geology majors who have completed 135 units and who do not qualify for the Honors Program. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "J",
+                "startTime": "",
+                "building": "",
+                "description": "Independent Study",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "IND",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "GEL 194A",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Senior Thesis",
+            "subjectDesc": "Geology",
+            "courseNum": "194A",
+            "hidCRN": "094CC5CBEA",
+            "crn": "42354",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Guided independent study of a selected topic, leading to the writing of a senior thesis.",
+            "creditLimit": "",
+            "ge3": "SE,WE",
+            "crossListing": "",
+            "prereq": " Open to Geology majors who have completed 135 units and who do not qualify for the Honors Program. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "J",
+                "startTime": "",
+                "building": "",
+                "description": "Independent Study",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "IND",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "GEL 194B",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Senior Thesis",
+            "subjectDesc": "Geology",
+            "courseNum": "194B",
+            "hidCRN": "094CC5C6EF",
+            "crn": "42381",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Guided independent study of a selected topic, leading to the writing of an honors thesis.",
+            "creditLimit": "",
+            "ge3": "SE,WE",
+            "crossListing": "",
+            "prereq": " Open to Geology majors who have completed 135 units and who qualify for the Honors Program. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "J",
+                "startTime": "",
+                "building": "",
+                "description": "Independent Study",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "IND",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "GEL 194HA",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Senior Honors Project",
+            "subjectDesc": "Geology",
+            "courseNum": "194HA",
+            "hidCRN": "094CC2CEE6",
+            "crn": "42408",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Guided independent study of a selected topic, leading to the writing of an honors thesis.",
+            "creditLimit": "",
+            "ge3": "SE,WE",
+            "crossListing": "",
+            "prereq": " Open to Geology majors who have completed 135 units and who qualify for the Honors Program. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "J",
+                "startTime": "",
+                "building": "",
+                "description": "Independent Study",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "IND",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "GEL 194HB",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Senior Honors Project",
+            "subjectDesc": "Geology",
+            "courseNum": "194HB",
+            "hidCRN": "094CC2CDEB",
+            "crn": "42435",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Group study focused on topics in Geology.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Senior standing in Geology or consent of instructor."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "GEL 198",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study",
+            "subjectDesc": "Geology",
+            "courseNum": "198",
+            "hidCRN": "094CC2C8EC",
+            "crn": "42462",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Group study focused on topics in Geology.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Senior standing in Geology or consent of instructor."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "V",
+                "startTime": "1610",
+                "building": "Earth & Physical Sciences",
+                "description": "Variable",
+                "buildingCode": "EPHSCI",
+                "saturday": false,
+                "type": "VAR",
+                "room": "01317"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "GEL 198",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "031",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study",
+            "subjectDesc": "Geology",
+            "courseNum": "198",
+            "hidCRN": "084BC3CBE9",
+            "crn": "55557",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "Scarisbrick",
+                "instructorName": "N. Scarisbrick",
+                "firstName": "Natalie",
+                "instructorEmail": "",
+                "fullName": "Natalie Scarisbrick"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special study for advanced undergraduates.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "GEL 199",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Study for Advanced Undergraduates",
+            "subjectDesc": "Geology",
+            "courseNum": "199",
+            "hidCRN": "094CC2C7EF",
+            "crn": "42491",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Fieldwork over spring break. Application of stratigraphic techniques to research problems. Collection, compilation, and interpretation of field data. Integration of data with models for deposition and interpretations of Earth history. Topics will vary. Offered irregularly.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " GEL 109;  GEL 110;  or Consent of Instructor.  GEL 206 recommended. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "F",
+                "startTime": "",
+                "building": "",
+                "description": "Fieldwork",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "FWK",
+                "room": ""
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "",
+                "building": "",
+                "description": "Lecture",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LEC",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "GEL 205 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55558",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Advanced Field Stratigraphy",
+            "subjectDesc": "Geology",
+            "courseNum": "205",
+            "hidCRN": "55558",
+            "crn": "55558",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "Sumner",
+                "instructorName": "D. Sumner",
+                "firstName": "Dawn",
+                "instructorEmail": "dysumner@ucdavis.edu",
+                "fullName": "Dawn Sumner"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Impacts of management and land use activities on the geomorphology of rivers and streams. Evaluation and use of analytical tools for river assessment. Assessment of river and stream restoration strategies and emerging issues in river management.    ",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " GEL 139;  Or equivalent; graduate standing."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2000",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "E",
+                "startTime": "1710",
+                "building": "Earth & Physical Sciences",
+                "description": "Seminar",
+                "buildingCode": "EPHSCI",
+                "saturday": false,
+                "type": "SEM",
+                "room": "01309"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "GEL 230 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55556",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Geomorphology & River Management",
+            "subjectDesc": "Geology",
+            "courseNum": "230",
+            "hidCRN": "55556",
+            "crn": "55556",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "Pinter",
+                "instructorName": "N. Pinter",
+                "firstName": "Nicholas",
+                "instructorEmail": "npinter@ucdavis.edu",
+                "fullName": "Nicholas Pinter"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Presentation and discussion of current topics in geology by visiting lecturers, staff, and students.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "E",
+                "startTime": "1210",
+                "building": "Earth & Physical Sciences",
+                "description": "Seminar",
+                "buildingCode": "EPHSCI",
+                "saturday": false,
+                "type": "SEM",
+                "room": "01309"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1310",
+                "building": "Earth & Physical Sciences",
+                "description": "Discussion",
+                "buildingCode": "EPHSCI",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01119"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "GEL 290 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "42519",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Seminar in Geology",
+            "subjectDesc": "Geology",
+            "courseNum": "290",
+            "hidCRN": "42519",
+            "crn": "42519",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "Yin",
+                "instructorName": "Q. Yin",
+                "firstName": "Qing-Zhu",
+                "instructorEmail": "qyin@ucdavis.edu",
+                "fullName": "Qing-Zhu Yin"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Group study.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "GEL 298",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Group Study",
+            "subjectDesc": "Geology",
+            "courseNum": "298",
+            "hidCRN": "094CC3CCEE",
+            "crn": "42520",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Group study.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "1310",
+                "building": "Earth & Physical Sciences",
+                "description": "Variable",
+                "buildingCode": "EPHSCI",
+                "saturday": false,
+                "type": "VAR",
+                "room": "01119"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "GEL 298",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "024",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Group Study",
+            "subjectDesc": "Geology",
+            "courseNum": "298",
+            "hidCRN": "094CC3CAEC",
+            "crn": "42542",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "Montanez",
+                "instructorName": "I. Montanez",
+                "firstName": "Isabel",
+                "instructorEmail": "ipmontanez@ucdavis.edu",
+                "fullName": "Isabel Montanez"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Research.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "GEL 299",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research",
+            "subjectDesc": "Geology",
+            "courseNum": "299",
+            "hidCRN": "094CC3CAE9",
+            "crn": "42547",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Teaching assistant training.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "GEL 396",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 4,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Teaching Assistant Training Practicum",
+            "subjectDesc": "Geology",
+            "courseNum": "396",
+            "hidCRN": "094CC3C9EA",
+            "crn": "42574",
+            "subjectCode": "GEL"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    }
+]

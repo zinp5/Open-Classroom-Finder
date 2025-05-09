@@ -1,0 +1,332 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Arson and explosives, quality assurance and accreditation, the law and science interface and court testimony as practiced in the forensic sciences. Third in a series of three courses that covers the curriculum requirements of the Forensic Education Program Accreditation Committee (FEPAC).",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Enrolled in the Forensic Science Graduate Program."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1900",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1610",
+                "building": "Off Campus",
+                "description": "Lecture",
+                "buildingCode": "OFFCAM",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "FOR 201C 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "41489",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Forensic Science Fundamentals-C",
+            "subjectDesc": "Forensic Science",
+            "courseNum": "201C",
+            "hidCRN": "41489",
+            "crn": "41489",
+            "subjectCode": "FOR"
+        },
+        "instructor": [
+            {
+                "lastName": "Hall",
+                "instructorName": "A. Hall",
+                "firstName": "Ashley",
+                "instructorEmail": "asmhall@ucdavis.edu",
+                "fullName": "Ashley Hall"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Processing and evaluating complex homicide scenes. Functions and activities of police agencies. Recognition, documentation, identification, and collection of evidence. Event sequence reconstruction. Evidence collection, preservation, report writing. Courtroom presentation.\n",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1900",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1610",
+                "building": "Off Campus",
+                "description": "Lecture",
+                "buildingCode": "OFFCAM",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "FOR 240 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "41490",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Homicide Crime Scene Investigation",
+            "subjectDesc": "Forensic Science",
+            "courseNum": "240",
+            "hidCRN": "41490",
+            "crn": "41490",
+            "subjectCode": "FOR"
+        },
+        "instructor": [
+            {
+                "lastName": "Hess",
+                "instructorName": "P. Hess",
+                "firstName": "Philip",
+                "instructorEmail": "phess@ucdavis.edu",
+                "fullName": "Philip Hess"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Review organization/function of the human genome, recent developments, next generation sequencing techniques including the preparation of DNA samples, principles of the new generation sequencing assay formats and biochemical reactions. Includes quality control parameter, and bioinformatic approaches.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Undergraduate courses in fundamental and applied principles of: genetics, biochemistry, and molecular biology, or consent of instructor.  "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1900",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1600",
+                "building": "Off Campus",
+                "description": "Lecture",
+                "buildingCode": "OFFCAM",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "FOR 277",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Forensic Genetics; Next Generation Techniques & Applications",
+            "subjectDesc": "Forensic Science",
+            "courseNum": "277",
+            "hidCRN": "084BC3C8EB",
+            "crn": "55565",
+            "subjectCode": "FOR"
+        },
+        "instructor": [
+            {
+                "lastName": "Miller",
+                "instructorName": "N. Miller",
+                "firstName": "Nicholas",
+                "instructorEmail": "njmill@ucdavis.edu",
+                "fullName": "Nicholas Miller"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Individual and/or group conference on problems, progress and techniques in forensic science and research.  ",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "J",
+                "startTime": "",
+                "building": "",
+                "description": "Independent Study",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "IND",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "FOR 290C 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "41492",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Graduate Research Conference in Forensic Science",
+            "subjectDesc": "Forensic Science",
+            "courseNum": "290C",
+            "hidCRN": "41492",
+            "crn": "41492",
+            "subjectCode": "FOR"
+        },
+        "instructor": [
+            {
+                "lastName": "Hall",
+                "instructorName": "A. Hall",
+                "firstName": "Ashley",
+                "instructorEmail": "asmhall@ucdavis.edu",
+                "fullName": "Ashley Hall"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Research in Forensic Science.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "FOR 299",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research in Forensic Science",
+            "subjectDesc": "Forensic Science",
+            "courseNum": "299",
+            "hidCRN": "094FC2C7EA",
+            "crn": "41494",
+            "subjectCode": "FOR"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    }
+]

@@ -1,0 +1,616 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Fundamental principles of food service management, including quantity food preparation, institutional equipment, receiving and storage, service, menu planning, merchandising, and safety. Students earn food safety certification.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " FST 100B;  (FST 101B or NUT 106)"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "J",
+                "startTime": "",
+                "building": "",
+                "description": "Independent Study",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "IND",
+                "room": ""
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00106"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "FSM 120 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "41835",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Principles of Quantity Food Production",
+            "subjectDesc": "Food Service Management",
+            "courseNum": "120",
+            "hidCRN": "41835",
+            "crn": "41835",
+            "subjectCode": "FSM"
+        },
+        "instructor": [
+            {
+                "lastName": "Frank",
+                "instructorName": "J. Frank",
+                "firstName": "Joan",
+                "instructorEmail": "jsfrank@ucdavis.edu",
+                "fullName": "Joan Frank"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Laboratory experience in quantity food production and service.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " FSM 120"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 20:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0650",
+                "building": "Meyer Hall",
+                "description": "Laboratory",
+                "buildingCode": "MEYER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01131"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "FSM 120L 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "41836",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Quantity Food Production Laboratory",
+            "subjectDesc": "Food Service Management",
+            "courseNum": "120L",
+            "hidCRN": "41836",
+            "crn": "41836",
+            "subjectCode": "FSM"
+        },
+        "instructor": [
+            {
+                "lastName": "Steinberg",
+                "instructorName": "F. Steinberg",
+                "firstName": "Francene",
+                "instructorEmail": "fmsteinberg@ucdavis.edu",
+                "fullName": "Francene Steinberg"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Laboratory experience in quantity food production and service.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " FSM 120"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 20:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0650",
+                "building": "Meyer Hall",
+                "description": "Laboratory",
+                "buildingCode": "MEYER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01131"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "FSM 120L 002",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "002",
+            "printCRN": "41837",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Quantity Food Production Laboratory",
+            "subjectDesc": "Food Service Management",
+            "courseNum": "120L",
+            "hidCRN": "41837",
+            "crn": "41837",
+            "subjectCode": "FSM"
+        },
+        "instructor": [
+            {
+                "lastName": "Frank",
+                "instructorName": "J. Frank",
+                "firstName": "Joan",
+                "instructorEmail": "jsfrank@ucdavis.edu",
+                "fullName": "Joan Frank"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Laboratory experience in quantity food production and service.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " FSM 120"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 20:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0650",
+                "building": "Meyer Hall",
+                "description": "Laboratory",
+                "buildingCode": "MEYER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01131"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "FSM 120L 003",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "003",
+            "printCRN": "41838",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Quantity Food Production Laboratory",
+            "subjectDesc": "Food Service Management",
+            "courseNum": "120L",
+            "hidCRN": "41838",
+            "crn": "41838",
+            "subjectCode": "FSM"
+        },
+        "instructor": [
+            {
+                "lastName": "Steinberg",
+                "instructorName": "F. Steinberg",
+                "firstName": "Francene",
+                "instructorEmail": "fmsteinberg@ucdavis.edu",
+                "fullName": "Francene Steinberg"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Laboratory experience in quantity food production and service.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " FSM 120"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 20:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0650",
+                "building": "Meyer Hall",
+                "description": "Laboratory",
+                "buildingCode": "MEYER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01131"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "FSM 120L 004",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "004",
+            "printCRN": "41839",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Quantity Food Production Laboratory",
+            "subjectDesc": "Food Service Management",
+            "courseNum": "120L",
+            "hidCRN": "41839",
+            "crn": "41839",
+            "subjectCode": "FSM"
+        },
+        "instructor": [
+            {
+                "lastName": "Frank",
+                "instructorName": "J. Frank",
+                "firstName": "Joan",
+                "instructorEmail": "jsfrank@ucdavis.edu",
+                "fullName": "Joan Frank"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Work experience on or off campus in practical aspects of food service management, supervised by a faculty member.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  One upper division course in Food Service Management (FSM). "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "I",
+                "startTime": "",
+                "building": "",
+                "description": "Internship",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "INT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "FSM 192",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Internship",
+            "subjectDesc": "Food Service Management",
+            "courseNum": "192",
+            "hidCRN": "094FCECAEE",
+            "crn": "41840",
+            "subjectCode": "FSM"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Tutoring of students in food service management, assistance with discussion groups or laboratory sections; weekly conference with instructor in charge of course; written evaluations.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Dietetics or related major; completion of the Food Service Management (FSM) course in which tutoring is done. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "T",
+                "startTime": "",
+                "building": "",
+                "description": "Tutorial",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "TUT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "FSM 197T",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Tutoring in Food Service Management",
+            "subjectDesc": "Food Service Management",
+            "courseNum": "197T",
+            "hidCRN": "094FCECAEC",
+            "crn": "41842",
+            "subjectCode": "FSM"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed group study.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "FSM 198",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study",
+            "subjectDesc": "Food Service Management",
+            "courseNum": "198",
+            "hidCRN": "094FCECAEA",
+            "crn": "41844",
+            "subjectCode": "FSM"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special study for advanced undergraduates.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "FSM 199",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Study for Advanced Undergraduates",
+            "subjectDesc": "Food Service Management",
+            "courseNum": "199",
+            "hidCRN": "094FCECAE8",
+            "crn": "41846",
+            "subjectCode": "FSM"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    }
+]

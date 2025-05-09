@@ -1,0 +1,2970 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Diversity of life in the sea; adaptations to physical/chemical ocean environment; marine science research methods; utilization of living marine resources by humans; factors and processes that influence diversity of sea life, including humans.",
+            "creditLimit": "",
+            "ge3": "SE,SL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00206"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "EVE 012 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "40862",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Life in the Sea",
+            "subjectDesc": "Evolution and Ecology",
+            "courseNum": "012",
+            "hidCRN": "40862",
+            "crn": "40862",
+            "subjectCode": "EVE"
+        },
+        "instructor": [
+            {
+                "lastName": "Brown",
+                "instructorName": "A. Brown",
+                "firstName": "Anya",
+                "instructorEmail": "anybrown@ucdavis.edu",
+                "fullName": "Anya Brown"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Natural history and urban ecology of Davis. Basics of ecological observation, community science and service, and California\u2019s unique natural communities. If fee is paid, completion of the course provides certification in the UC California Naturalist Program. ",
+            "creditLimit": "",
+            "ge3": "SE,SL,WE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1310",
+                "building": "Shrem Museum of Art",
+                "description": "Lecture",
+                "buildingCode": "SHREM",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01303"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "F",
+                "startTime": "",
+                "building": "Facility Assigned by Instr.",
+                "description": "Fieldwork",
+                "buildingCode": "NOFAC",
+                "saturday": false,
+                "type": "FWK",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EVE 016 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "40863",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Wild Davis: A California Naturalist Certification Course",
+            "subjectDesc": "Evolution and Ecology",
+            "courseNum": "016",
+            "hidCRN": "40863",
+            "crn": "40863",
+            "subjectCode": "EVE"
+        },
+        "instructor": [
+            {
+                "lastName": "Gerhart",
+                "instructorName": "L. Gerhart",
+                "firstName": "Laci",
+                "instructorEmail": "lgerhart@ucdavis.edu",
+                "fullName": "Laci Gerhart"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Work experience off and on campus in all subject areas offered in the Department of Evolution & Ecology. Internships supervised by a member of the faculty.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Lower division standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "I",
+                "startTime": "",
+                "building": "",
+                "description": "Internship",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "INT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "EVE 092",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Internship",
+            "subjectDesc": "Evolution and Ecology",
+            "courseNum": "092",
+            "hidCRN": "094ECEC8EA",
+            "crn": "40864",
+            "subjectCode": "EVE"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed group study.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "EVE 098",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study",
+            "subjectDesc": "Evolution and Ecology",
+            "courseNum": "098",
+            "hidCRN": "094ECEC7EA",
+            "crn": "40894",
+            "subjectCode": "EVE"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special study for lower division students.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "EVE 099",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Study for Lower Division Students",
+            "subjectDesc": "Evolution and Ecology",
+            "courseNum": "099",
+            "hidCRN": "094ECEC7EB",
+            "crn": "40895",
+            "subjectCode": "EVE"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "General survey of the origins of biological diversity and evolutionary mechanisms.",
+            "creditLimit": "",
+            "ge3": "QL,SE,SL",
+            "crossListing": "",
+            "prereq": " (BIS 002A,  BIS 002B,  BIS 002C);  (MAT 016A or MAT 017A or MAT 019A or MAT 021A);  (MAT 017B or MAT 019B or MAT 021B);  STA 100 recommended. "
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0900",
+                "building": "Storer Hall",
+                "description": "Discussion",
+                "buildingCode": "STORER",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00347"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Social Science & Humanities",
+                "description": "Lecture",
+                "buildingCode": "SOCSCI",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01100"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EVE 100 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "40935",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Evolution",
+            "subjectDesc": "Evolution and Ecology",
+            "courseNum": "100",
+            "hidCRN": "40935",
+            "crn": "40935",
+            "subjectCode": "EVE"
+        },
+        "instructor": [
+            {
+                "lastName": "Fisher",
+                "instructorName": "K. Fisher",
+                "firstName": "Kaleigh",
+                "instructorEmail": "kalfisher@ucdavis.edu",
+                "fullName": "Kaleigh Fisher"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "General survey of the origins of biological diversity and evolutionary mechanisms.",
+            "creditLimit": "",
+            "ge3": "QL,SE,SL",
+            "crossListing": "",
+            "prereq": " (BIS 002A,  BIS 002B,  BIS 002C);  (MAT 016A or MAT 017A or MAT 019A or MAT 021A);  (MAT 017B or MAT 019B or MAT 021B);  STA 100 recommended. "
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1000",
+                "building": "Storer Hall",
+                "description": "Discussion",
+                "buildingCode": "STORER",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00347"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Social Science & Humanities",
+                "description": "Lecture",
+                "buildingCode": "SOCSCI",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01100"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EVE 100 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "40936",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Evolution",
+            "subjectDesc": "Evolution and Ecology",
+            "courseNum": "100",
+            "hidCRN": "40936",
+            "crn": "40936",
+            "subjectCode": "EVE"
+        },
+        "instructor": [
+            {
+                "lastName": "Fisher",
+                "instructorName": "K. Fisher",
+                "firstName": "Kaleigh",
+                "instructorEmail": "kalfisher@ucdavis.edu",
+                "fullName": "Kaleigh Fisher"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "General survey of the origins of biological diversity and evolutionary mechanisms.",
+            "creditLimit": "",
+            "ge3": "QL,SE,SL",
+            "crossListing": "",
+            "prereq": " (BIS 002A,  BIS 002B,  BIS 002C);  (MAT 016A or MAT 017A or MAT 019A or MAT 021A);  (MAT 017B or MAT 019B or MAT 021B);  STA 100 recommended. "
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1100",
+                "building": "Storer Hall",
+                "description": "Discussion",
+                "buildingCode": "STORER",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00347"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Social Science & Humanities",
+                "description": "Lecture",
+                "buildingCode": "SOCSCI",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01100"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EVE 100 A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "40937",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Evolution",
+            "subjectDesc": "Evolution and Ecology",
+            "courseNum": "100",
+            "hidCRN": "40937",
+            "crn": "40937",
+            "subjectCode": "EVE"
+        },
+        "instructor": [
+            {
+                "lastName": "Fisher",
+                "instructorName": "K. Fisher",
+                "firstName": "Kaleigh",
+                "instructorEmail": "kalfisher@ucdavis.edu",
+                "fullName": "Kaleigh Fisher"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "General survey of the origins of biological diversity and evolutionary mechanisms.",
+            "creditLimit": "",
+            "ge3": "QL,SE,SL",
+            "crossListing": "",
+            "prereq": " (BIS 002A,  BIS 002B,  BIS 002C);  (MAT 016A or MAT 017A or MAT 019A or MAT 021A);  (MAT 017B or MAT 019B or MAT 021B);  STA 100 recommended. "
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1210",
+                "building": "Storer Hall",
+                "description": "Discussion",
+                "buildingCode": "STORER",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00347"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Social Science & Humanities",
+                "description": "Lecture",
+                "buildingCode": "SOCSCI",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01100"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EVE 100 A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "40938",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Evolution",
+            "subjectDesc": "Evolution and Ecology",
+            "courseNum": "100",
+            "hidCRN": "40938",
+            "crn": "40938",
+            "subjectCode": "EVE"
+        },
+        "instructor": [
+            {
+                "lastName": "Fisher",
+                "instructorName": "K. Fisher",
+                "firstName": "Kaleigh",
+                "instructorEmail": "kalfisher@ucdavis.edu",
+                "fullName": "Kaleigh Fisher"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "General survey of the origins of biological diversity and evolutionary mechanisms.",
+            "creditLimit": "",
+            "ge3": "QL,SE,SL",
+            "crossListing": "",
+            "prereq": " (BIS 002A,  BIS 002B,  BIS 002C);  (MAT 016A or MAT 017A or MAT 019A or MAT 021A);  (MAT 017B or MAT 019B or MAT 021B);  STA 100 recommended. "
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1310",
+                "building": "Storer Hall",
+                "description": "Discussion",
+                "buildingCode": "STORER",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00347"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Social Science & Humanities",
+                "description": "Lecture",
+                "buildingCode": "SOCSCI",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01100"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EVE 100 A05",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A05",
+            "printCRN": "40939",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Evolution",
+            "subjectDesc": "Evolution and Ecology",
+            "courseNum": "100",
+            "hidCRN": "40939",
+            "crn": "40939",
+            "subjectCode": "EVE"
+        },
+        "instructor": [
+            {
+                "lastName": "Fisher",
+                "instructorName": "K. Fisher",
+                "firstName": "Kaleigh",
+                "instructorEmail": "kalfisher@ucdavis.edu",
+                "fullName": "Kaleigh Fisher"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "General survey of the origins of biological diversity and evolutionary mechanisms.",
+            "creditLimit": "",
+            "ge3": "QL,SE,SL",
+            "crossListing": "",
+            "prereq": " (BIS 002A,  BIS 002B,  BIS 002C);  (MAT 016A or MAT 017A or MAT 019A or MAT 021A);  (MAT 017B or MAT 019B or MAT 021B);  STA 100 recommended. "
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1410",
+                "building": "Storer Hall",
+                "description": "Discussion",
+                "buildingCode": "STORER",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00347"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Social Science & Humanities",
+                "description": "Lecture",
+                "buildingCode": "SOCSCI",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01100"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EVE 100 A06",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A06",
+            "printCRN": "40940",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Evolution",
+            "subjectDesc": "Evolution and Ecology",
+            "courseNum": "100",
+            "hidCRN": "40940",
+            "crn": "40940",
+            "subjectCode": "EVE"
+        },
+        "instructor": [
+            {
+                "lastName": "Fisher",
+                "instructorName": "K. Fisher",
+                "firstName": "Kaleigh",
+                "instructorEmail": "kalfisher@ucdavis.edu",
+                "fullName": "Kaleigh Fisher"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "General survey of the origins of biological diversity and evolutionary mechanisms.",
+            "creditLimit": "",
+            "ge3": "QL,SE,SL",
+            "crossListing": "",
+            "prereq": " (BIS 002A,  BIS 002B,  BIS 002C);  (MAT 016A or MAT 017A or MAT 019A or MAT 021A);  (MAT 017B or MAT 019B or MAT 021B);  STA 100 recommended. "
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1510",
+                "building": "Storer Hall",
+                "description": "Discussion",
+                "buildingCode": "STORER",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00347"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Social Science & Humanities",
+                "description": "Lecture",
+                "buildingCode": "SOCSCI",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01100"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EVE 100 A07",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A07",
+            "printCRN": "40941",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Evolution",
+            "subjectDesc": "Evolution and Ecology",
+            "courseNum": "100",
+            "hidCRN": "40941",
+            "crn": "40941",
+            "subjectCode": "EVE"
+        },
+        "instructor": [
+            {
+                "lastName": "Fisher",
+                "instructorName": "K. Fisher",
+                "firstName": "Kaleigh",
+                "instructorEmail": "kalfisher@ucdavis.edu",
+                "fullName": "Kaleigh Fisher"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "General survey of the origins of biological diversity and evolutionary mechanisms.",
+            "creditLimit": "",
+            "ge3": "QL,SE,SL",
+            "crossListing": "",
+            "prereq": " (BIS 002A,  BIS 002B,  BIS 002C);  (MAT 016A or MAT 017A or MAT 019A or MAT 021A);  (MAT 017B or MAT 019B or MAT 021B);  STA 100 recommended. "
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1610",
+                "building": "Storer Hall",
+                "description": "Discussion",
+                "buildingCode": "STORER",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00347"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Social Science & Humanities",
+                "description": "Lecture",
+                "buildingCode": "SOCSCI",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01100"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EVE 100 A08",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A08",
+            "printCRN": "40942",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Evolution",
+            "subjectDesc": "Evolution and Ecology",
+            "courseNum": "100",
+            "hidCRN": "40942",
+            "crn": "40942",
+            "subjectCode": "EVE"
+        },
+        "instructor": [
+            {
+                "lastName": "Fisher",
+                "instructorName": "K. Fisher",
+                "firstName": "Kaleigh",
+                "instructorEmail": "kalfisher@ucdavis.edu",
+                "fullName": "Kaleigh Fisher"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "General survey of the origins of biological diversity and evolutionary mechanisms.",
+            "creditLimit": "",
+            "ge3": "QL,SE,SL",
+            "crossListing": "",
+            "prereq": " (BIS 002A,  BIS 002B,  BIS 002C);  (MAT 016A or MAT 017A or MAT 019A or MAT 021A);  (MAT 017B or MAT 019B or MAT 021B);  STA 100 recommended. "
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0900",
+                "building": "Storer Hall",
+                "description": "Discussion",
+                "buildingCode": "STORER",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01350"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Social Science & Humanities",
+                "description": "Lecture",
+                "buildingCode": "SOCSCI",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01100"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EVE 100 A09",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A09",
+            "printCRN": "40943",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Evolution",
+            "subjectDesc": "Evolution and Ecology",
+            "courseNum": "100",
+            "hidCRN": "40943",
+            "crn": "40943",
+            "subjectCode": "EVE"
+        },
+        "instructor": [
+            {
+                "lastName": "Fisher",
+                "instructorName": "K. Fisher",
+                "firstName": "Kaleigh",
+                "instructorEmail": "kalfisher@ucdavis.edu",
+                "fullName": "Kaleigh Fisher"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "General survey of the origins of biological diversity and evolutionary mechanisms.",
+            "creditLimit": "",
+            "ge3": "QL,SE,SL",
+            "crossListing": "",
+            "prereq": " (BIS 002A,  BIS 002B,  BIS 002C);  (MAT 016A or MAT 017A or MAT 019A or MAT 021A);  (MAT 017B or MAT 019B or MAT 021B);  STA 100 recommended. "
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1000",
+                "building": "Storer Hall",
+                "description": "Discussion",
+                "buildingCode": "STORER",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01350"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Social Science & Humanities",
+                "description": "Lecture",
+                "buildingCode": "SOCSCI",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01100"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EVE 100 A10",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A10",
+            "printCRN": "40944",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Evolution",
+            "subjectDesc": "Evolution and Ecology",
+            "courseNum": "100",
+            "hidCRN": "40944",
+            "crn": "40944",
+            "subjectCode": "EVE"
+        },
+        "instructor": [
+            {
+                "lastName": "Fisher",
+                "instructorName": "K. Fisher",
+                "firstName": "Kaleigh",
+                "instructorEmail": "kalfisher@ucdavis.edu",
+                "fullName": "Kaleigh Fisher"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "General survey of the origins of biological diversity and evolutionary mechanisms.",
+            "creditLimit": "",
+            "ge3": "QL,SE,SL",
+            "crossListing": "",
+            "prereq": " (BIS 002A,  BIS 002B,  BIS 002C);  (MAT 016A or MAT 017A or MAT 019A or MAT 021A);  (MAT 017B or MAT 019B or MAT 021B);  STA 100 recommended. "
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1100",
+                "building": "Storer Hall",
+                "description": "Discussion",
+                "buildingCode": "STORER",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01350"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Social Science & Humanities",
+                "description": "Lecture",
+                "buildingCode": "SOCSCI",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01100"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EVE 100 A11",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A11",
+            "printCRN": "40945",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Evolution",
+            "subjectDesc": "Evolution and Ecology",
+            "courseNum": "100",
+            "hidCRN": "40945",
+            "crn": "40945",
+            "subjectCode": "EVE"
+        },
+        "instructor": [
+            {
+                "lastName": "Fisher",
+                "instructorName": "K. Fisher",
+                "firstName": "Kaleigh",
+                "instructorEmail": "kalfisher@ucdavis.edu",
+                "fullName": "Kaleigh Fisher"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "General survey of the origins of biological diversity and evolutionary mechanisms.",
+            "creditLimit": "",
+            "ge3": "QL,SE,SL",
+            "crossListing": "",
+            "prereq": " (BIS 002A,  BIS 002B,  BIS 002C);  (MAT 016A or MAT 017A or MAT 019A or MAT 021A);  (MAT 017B or MAT 019B or MAT 021B);  STA 100 recommended. "
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1210",
+                "building": "Storer Hall",
+                "description": "Discussion",
+                "buildingCode": "STORER",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01350"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Social Science & Humanities",
+                "description": "Lecture",
+                "buildingCode": "SOCSCI",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01100"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EVE 100 A12",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A12",
+            "printCRN": "40946",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Evolution",
+            "subjectDesc": "Evolution and Ecology",
+            "courseNum": "100",
+            "hidCRN": "40946",
+            "crn": "40946",
+            "subjectCode": "EVE"
+        },
+        "instructor": [
+            {
+                "lastName": "Fisher",
+                "instructorName": "K. Fisher",
+                "firstName": "Kaleigh",
+                "instructorEmail": "kalfisher@ucdavis.edu",
+                "fullName": "Kaleigh Fisher"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "General survey of the origins of biological diversity and evolutionary mechanisms.",
+            "creditLimit": "",
+            "ge3": "QL,SE,SL",
+            "crossListing": "",
+            "prereq": " (BIS 002A,  BIS 002B,  BIS 002C);  (MAT 016A or MAT 017A or MAT 019A or MAT 021A);  (MAT 017B or MAT 019B or MAT 021B);  STA 100 recommended. "
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1310",
+                "building": "Storer Hall",
+                "description": "Discussion",
+                "buildingCode": "STORER",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01350"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Social Science & Humanities",
+                "description": "Lecture",
+                "buildingCode": "SOCSCI",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01100"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EVE 100 A13",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A13",
+            "printCRN": "55591",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Evolution",
+            "subjectDesc": "Evolution and Ecology",
+            "courseNum": "100",
+            "hidCRN": "55591",
+            "crn": "55591",
+            "subjectCode": "EVE"
+        },
+        "instructor": [
+            {
+                "lastName": "Fisher",
+                "instructorName": "K. Fisher",
+                "firstName": "Kaleigh",
+                "instructorEmail": "kalfisher@ucdavis.edu",
+                "fullName": "Kaleigh Fisher"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "General survey of the origins of biological diversity and evolutionary mechanisms.",
+            "creditLimit": "",
+            "ge3": "QL,SE,SL",
+            "crossListing": "",
+            "prereq": " (BIS 002A,  BIS 002B,  BIS 002C);  (MAT 016A or MAT 017A or MAT 019A or MAT 021A);  (MAT 017B or MAT 019B or MAT 021B);  STA 100 recommended. "
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1410",
+                "building": "Storer Hall",
+                "description": "Discussion",
+                "buildingCode": "STORER",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01350"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Social Science & Humanities",
+                "description": "Lecture",
+                "buildingCode": "SOCSCI",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01100"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EVE 100 A14",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A14",
+            "printCRN": "55592",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Evolution",
+            "subjectDesc": "Evolution and Ecology",
+            "courseNum": "100",
+            "hidCRN": "55592",
+            "crn": "55592",
+            "subjectCode": "EVE"
+        },
+        "instructor": [
+            {
+                "lastName": "Fisher",
+                "instructorName": "K. Fisher",
+                "firstName": "Kaleigh",
+                "instructorEmail": "kalfisher@ucdavis.edu",
+                "fullName": "Kaleigh Fisher"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Origin and evolution of invasive plant species and weeds, reproduction and dispersal, seed ecology, modeling of population dynamics, interactions between invasive species, native species, and crops, biological control. Laboratories emphasize design of competition experiments and identification of weedy species.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "PLB 119.",
+            "prereq": " (BIS 001A,  BIS 001B,  BIS 001C) or (BIS 002A,  BIS 002B,  BIS 002C);  introductory statistics recommended. "
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "C",
+                "startTime": "1310",
+                "building": "Katherine Esau Science Hall",
+                "description": "Laboratory",
+                "buildingCode": "ESAU",
+                "saturday": false,
+                "type": "LAB",
+                "room": "03075"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1000",
+                "building": "Wickson Hall",
+                "description": "Lecture",
+                "buildingCode": "WICKSN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01020"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "EVE 119 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "55593",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Population Biology of Invasive Plants & Weeds",
+            "subjectDesc": "Evolution and Ecology",
+            "courseNum": "119",
+            "hidCRN": "55593",
+            "crn": "55593",
+            "subjectCode": "EVE"
+        },
+        "instructor": [
+            {
+                "lastName": "Rejmanek",
+                "instructorName": "M. Rejmanek",
+                "firstName": "Marcel",
+                "instructorEmail": "mrejmanek@ucdavis.edu",
+                "fullName": "Marcel Rejmanek"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Origin and evolution of invasive plant species and weeds, reproduction and dispersal, seed ecology, modeling of population dynamics, interactions between invasive species, native species, and crops, biological control. Laboratories emphasize design of competition experiments and identification of weedy species.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "PLB 119.",
+            "prereq": " (BIS 001A,  BIS 001B,  BIS 001C) or (BIS 002A,  BIS 002B,  BIS 002C);  introductory statistics recommended. "
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1000",
+                "building": "Wickson Hall",
+                "description": "Lecture",
+                "buildingCode": "WICKSN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01020"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1310",
+                "building": "Katherine Esau Science Hall",
+                "description": "Laboratory",
+                "buildingCode": "ESAU",
+                "saturday": false,
+                "type": "LAB",
+                "room": "03075"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "EVE 119 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "55594",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Population Biology of Invasive Plants & Weeds",
+            "subjectDesc": "Evolution and Ecology",
+            "courseNum": "119",
+            "hidCRN": "55594",
+            "crn": "55594",
+            "subjectCode": "EVE"
+        },
+        "instructor": [
+            {
+                "lastName": "Rejmanek",
+                "instructorName": "M. Rejmanek",
+                "firstName": "Marcel",
+                "instructorEmail": "mrejmanek@ucdavis.edu",
+                "fullName": "Marcel Rejmanek"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Diversity, phylogeny, and taxonomy of lycophytes, ferns, and seed plants (gymnosperms and angiosperms), emphasizing relationships and distinguishing characteristics of families and genera represented in the California flora. Principles and methods of phylogeny reconstruction, classification, and plant nomenclature. Practice identifying plants to species using taxonomic keys.",
+            "creditLimit": "No credit if student has taken PLB/PLS 102 or EVE/PLB 108.",
+            "ge3": "SE,VL",
+            "crossListing": "PLB 127, PLS 127.",
+            "prereq": " BIS 002C or PLS 002;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1530",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00126"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1530",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1240",
+                "building": "Katherine Esau Science Hall",
+                "description": "Laboratory",
+                "buildingCode": "ESAU",
+                "saturday": false,
+                "type": "LAB",
+                "room": "03067"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "EVE 127 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "40948",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Systematics of Vascular Plants",
+            "subjectDesc": "Evolution and Ecology",
+            "courseNum": "127",
+            "hidCRN": "40948",
+            "crn": "40948",
+            "subjectCode": "EVE"
+        },
+        "instructor": [
+            {
+                "lastName": "Potter",
+                "instructorName": "D. Potter",
+                "firstName": "Daniel",
+                "instructorEmail": "dpotter@ucdavis.edu",
+                "fullName": "Daniel Potter"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Diversity, phylogeny, and taxonomy of lycophytes, ferns, and seed plants (gymnosperms and angiosperms), emphasizing relationships and distinguishing characteristics of families and genera represented in the California flora. Principles and methods of phylogeny reconstruction, classification, and plant nomenclature. Practice identifying plants to species using taxonomic keys.",
+            "creditLimit": "No credit if student has taken PLB/PLS 102 or EVE/PLB 108.",
+            "ge3": "SE,VL",
+            "crossListing": "PLB 127, PLS 127.",
+            "prereq": " BIS 002C or PLS 002;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1530",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00126"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1530",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1240",
+                "building": "Katherine Esau Science Hall",
+                "description": "Laboratory",
+                "buildingCode": "ESAU",
+                "saturday": false,
+                "type": "LAB",
+                "room": "03075"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "EVE 127 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "40949",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Systematics of Vascular Plants",
+            "subjectDesc": "Evolution and Ecology",
+            "courseNum": "127",
+            "hidCRN": "40949",
+            "crn": "40949",
+            "subjectCode": "EVE"
+        },
+        "instructor": [
+            {
+                "lastName": "Potter",
+                "instructorName": "D. Potter",
+                "firstName": "Daniel",
+                "instructorEmail": "dpotter@ucdavis.edu",
+                "fullName": "Daniel Potter"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Diversity, phylogeny, and taxonomy of lycophytes, ferns, and seed plants (gymnosperms and angiosperms), emphasizing relationships and distinguishing characteristics of families and genera represented in the California flora. Principles and methods of phylogeny reconstruction, classification, and plant nomenclature. Practice identifying plants to species using taxonomic keys.",
+            "creditLimit": "No credit if student has taken PLB/PLS 102 or EVE/PLB 108.",
+            "ge3": "SE,VL",
+            "crossListing": "PLB 127, PLS 127.",
+            "prereq": " BIS 002C or PLS 002;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1530",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00126"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1830",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1540",
+                "building": "Katherine Esau Science Hall",
+                "description": "Laboratory",
+                "buildingCode": "ESAU",
+                "saturday": false,
+                "type": "LAB",
+                "room": "03067"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "EVE 127 A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "40950",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Systematics of Vascular Plants",
+            "subjectDesc": "Evolution and Ecology",
+            "courseNum": "127",
+            "hidCRN": "40950",
+            "crn": "40950",
+            "subjectCode": "EVE"
+        },
+        "instructor": [
+            {
+                "lastName": "Potter",
+                "instructorName": "D. Potter",
+                "firstName": "Daniel",
+                "instructorEmail": "dpotter@ucdavis.edu",
+                "fullName": "Daniel Potter"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Diversity, phylogeny, and taxonomy of lycophytes, ferns, and seed plants (gymnosperms and angiosperms), emphasizing relationships and distinguishing characteristics of families and genera represented in the California flora. Principles and methods of phylogeny reconstruction, classification, and plant nomenclature. Practice identifying plants to species using taxonomic keys.",
+            "creditLimit": "No credit if student has taken PLB/PLS 102 or EVE/PLB 108.",
+            "ge3": "SE,VL",
+            "crossListing": "PLB 127, PLS 127.",
+            "prereq": " BIS 002C or PLS 002;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1530",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00126"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1830",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1540",
+                "building": "Katherine Esau Science Hall",
+                "description": "Laboratory",
+                "buildingCode": "ESAU",
+                "saturday": false,
+                "type": "LAB",
+                "room": "03075"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "EVE 127 A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "40951",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Systematics of Vascular Plants",
+            "subjectDesc": "Evolution and Ecology",
+            "courseNum": "127",
+            "hidCRN": "40951",
+            "crn": "40951",
+            "subjectCode": "EVE"
+        },
+        "instructor": [
+            {
+                "lastName": "Potter",
+                "instructorName": "D. Potter",
+                "firstName": "Daniel",
+                "instructorEmail": "dpotter@ucdavis.edu",
+                "fullName": "Daniel Potter"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Experimental design in field ecology. Examination of primary literature, experimental design, independent and collaborative research, analysis of data, development of original research paper based on field experiments.",
+            "creditLimit": "",
+            "ge3": "QL,SE,WE",
+            "crossListing": "ENT 180B.",
+            "prereq": " EVE 180A or ENT 180A"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "F",
+                "startTime": "1310",
+                "building": "Storer Hall",
+                "description": "Fieldwork",
+                "buildingCode": "STORER",
+                "saturday": false,
+                "type": "FWK",
+                "room": "01343"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "L",
+                "startTime": "1310",
+                "building": "Storer Hall",
+                "description": "Lecture/Lab",
+                "buildingCode": "STORER",
+                "saturday": false,
+                "type": "LLA",
+                "room": "01343"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EVE 180B 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55461",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Experimental Ecology & Evolution in the Field",
+            "subjectDesc": "Evolution and Ecology",
+            "courseNum": "180B",
+            "hidCRN": "55461",
+            "crn": "55461",
+            "subjectCode": "EVE"
+        },
+        "instructor": [
+            {
+                "lastName": "Yang",
+                "instructorName": "L. Yang",
+                "firstName": "Louie",
+                "instructorEmail": "lhyang@ucdavis.edu",
+                "fullName": "Louie Yang"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to research methods in biology. Presentation and discussion\nof research by faculty, graduate, and undergraduate students.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Upper division standing in Evolution & Ecology or related biological science. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "",
+                "building": "",
+                "description": "Discussion",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "DIS",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "EVE 189",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Biological Research",
+            "subjectDesc": "Evolution and Ecology",
+            "courseNum": "189",
+            "hidCRN": "094ECFCBEC",
+            "crn": "40952",
+            "subjectCode": "EVE"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Work experience off and on campus in all subject areas offered in the Department of Evolution & Ecology. Internships supervised by a member of the faculty.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Completion of 84 units. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "I",
+                "startTime": "",
+                "building": "",
+                "description": "Internship",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "INT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "EVE 192",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Internship",
+            "subjectDesc": "Evolution and Ecology",
+            "courseNum": "192",
+            "hidCRN": "094ECFC7EE",
+            "crn": "40990",
+            "subjectCode": "EVE"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Students pursue intensive research under the guidance of a faculty advisor. Students are expected to complete the full three-quarter sequence culminating in the writing of an honors thesis.",
+            "creditLimit": "",
+            "ge3": "SE,WE",
+            "crossListing": "",
+            "prereq": " Students who have completed 135 units and qualify for the Honors Program (as defined by the current catalog). "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "",
+                "building": "",
+                "description": "Laboratory",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LAB",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "EVE 194HA",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research Honors",
+            "subjectDesc": "Evolution and Ecology",
+            "courseNum": "194HA",
+            "hidCRN": "094FC6CCE9",
+            "crn": "41027",
+            "subjectCode": "EVE"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Students pursue intensive research under the guidance of a faculty advisor. Students are expected to complete the full three-quarter sequence culminating in the writing of an honors thesis.",
+            "creditLimit": "",
+            "ge3": "SE,WE",
+            "crossListing": "",
+            "prereq": " Students who have completed 135 units and qualify for the Honors Program (as defined by the current catalog). "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "",
+                "building": "",
+                "description": "Laboratory",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LAB",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "EVE 194HB",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research Honors",
+            "subjectDesc": "Evolution and Ecology",
+            "courseNum": "194HB",
+            "hidCRN": "094FC6CBED",
+            "crn": "41053",
+            "subjectCode": "EVE"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Students pursue intensive research under the guidance of a faculty advisor. Students are expected to complete the full three-quarter sequence culminating in the writing of an honors thesis.",
+            "creditLimit": "",
+            "ge3": "SE,WE",
+            "crossListing": "",
+            "prereq": " Students who have completed 135 units and qualify for the Honors Program (as defined by the current catalog). "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "",
+                "building": "",
+                "description": "Laboratory",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LAB",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "EVE 194HC",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research Honors",
+            "subjectDesc": "Evolution and Ecology",
+            "courseNum": "194HC",
+            "hidCRN": "094FC6C9E7",
+            "crn": "41079",
+            "subjectCode": "EVE"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Assisting the instructor by tutoring students in a Biological Sciences 2B laboratory. Tutoring is voluntary and is supervised by a Laboratory Teaching Assistant and the Laboratory Coordinator.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " BIS 001B B or better"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "T",
+                "startTime": "",
+                "building": "",
+                "description": "Tutorial",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "TUT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "EVE 197T",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 2,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Tutoring in Biological Sciences 2B",
+            "subjectDesc": "Evolution and Ecology",
+            "courseNum": "197T",
+            "hidCRN": "094FC7CEEA",
+            "crn": "41104",
+            "subjectCode": "EVE"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed group study.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "EVE 198",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study",
+            "subjectDesc": "Evolution and Ecology",
+            "courseNum": "198",
+            "hidCRN": "094FC7CAEE",
+            "crn": "41140",
+            "subjectCode": "EVE"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special study for advanced undergraduates.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "EVE 199",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Study for Advanced Undergraduates",
+            "subjectDesc": "Evolution and Ecology",
+            "courseNum": "199",
+            "hidCRN": "094FC7C6EE",
+            "crn": "41180",
+            "subjectCode": "EVE"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Presentation and discussion of faculty and graduate student research in biology.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Graduate standing.  "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "",
+                "building": "",
+                "description": "Discussion",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "DIS",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "EVE 290C",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research Conference",
+            "subjectDesc": "Evolution and Ecology",
+            "courseNum": "290C",
+            "hidCRN": "094FC4CFE6",
+            "crn": "41218",
+            "subjectCode": "EVE"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Group study.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "EVE 298",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Group Study",
+            "subjectDesc": "Evolution and Ecology",
+            "courseNum": "298",
+            "hidCRN": "094FC4CBE6",
+            "crn": "41258",
+            "subjectCode": "EVE"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Research.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "EVE 299",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research",
+            "subjectDesc": "Evolution and Ecology",
+            "courseNum": "299",
+            "hidCRN": "094FC4C7ED",
+            "crn": "41293",
+            "subjectCode": "EVE"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Practical experience in the methods and problems of teaching. Includes analyses of texts and supporting material, discussion of teaching techniques and preparing and conducting of laboratory and discussion sections.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Graduate standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "",
+                "building": "",
+                "description": "Discussion",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "DIS",
+                "room": ""
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "",
+                "building": "",
+                "description": "Lecture",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LEC",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "EVE 390",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Methods of Teaching",
+            "subjectDesc": "Evolution and Ecology",
+            "courseNum": "390",
+            "hidCRN": "094FC5CDEA",
+            "crn": "41334",
+            "subjectCode": "EVE"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    }
+]

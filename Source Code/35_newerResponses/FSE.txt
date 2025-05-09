@@ -1,0 +1,75 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Teaching practicum in a college-level science course. Planning and facilitation of class sessions in a college-level setting. Assessment of student learning under the guidance of a science faculty mentor. Teaching assignments must be approved by the instructor of record and the students' thesis advisor.\n\n",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "I",
+                "startTime": "",
+                "building": "",
+                "description": "Internship",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "INT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "FSE 392 001",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "001",
+            "printCRN": "41834",
+            "unitsHigh": 6,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Teaching Practicum in the Sciences",
+            "subjectDesc": "Future Undergrad Sci Educators",
+            "courseNum": "392",
+            "hidCRN": "41834",
+            "crn": "41834",
+            "subjectCode": "FSE"
+        },
+        "instructor": [
+            {
+                "lastName": "Ellefson",
+                "instructorName": "M. Ellefson",
+                "firstName": "Marina",
+                "instructorEmail": "mlellefson@ucdavis.edu",
+                "fullName": "Marina Ellefson"
+            },
+            {
+                "lastName": "Monfared",
+                "instructorName": "M. Monfared",
+                "firstName": "Mona",
+                "instructorEmail": "mmmonfared@ucdavis.edu",
+                "fullName": "Mona Monfared"
+            }
+        ]
+    }
+]

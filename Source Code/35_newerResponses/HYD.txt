@@ -1,0 +1,1198 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Water resources issues. How water has been used to gain and wield socio-political power. Water resources development in California as related to current and future sustainability of water quantity and quality. Roles of science and policy in solving water problems.",
+            "creditLimit": "",
+            "ge3": "SE,SL,SS",
+            "crossListing": "SAS 010.",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1310",
+                "building": "Teaching and Learning Complex",
+                "description": "Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "02215"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1310",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00006"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "HYD 010 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "43702",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Water, Power, Society",
+            "subjectDesc": "Hydrologic Science",
+            "courseNum": "010",
+            "hidCRN": "43702",
+            "crn": "43702",
+            "subjectCode": "HYD"
+        },
+        "instructor": [
+            {
+                "lastName": "Hernes",
+                "instructorName": "P. Hernes",
+                "firstName": "Peter",
+                "instructorEmail": "pjhernes@ucdavis.edu",
+                "fullName": "Peter Hernes"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Work experience off and on campus in Hydrologic Science. Internship supervised by a member of the faculty.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Lower division student. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "I",
+                "startTime": "",
+                "building": "",
+                "description": "Internship",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "INT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "HYD 092",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Hydrologic Science Internship",
+            "subjectDesc": "Hydrologic Science",
+            "courseNum": "092",
+            "hidCRN": "094DC1CEED",
+            "crn": "43703",
+            "subjectCode": "HYD"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Principles of plant interactions with soil and atmospheric water environments and practical applications to crop management (e.g., irrigation) and plant eco-physiology (e.g., drought). ",
+            "creditLimit": "Not open for credit to students who have completed WSC 104.",
+            "ge3": "QL,SE,SL",
+            "crossListing": "",
+            "prereq": " (SSC 100 { can be concurrent } or SSC 107 { can be concurrent });  (PLS 100A { can be concurrent } or PLB 111 { can be concurrent });  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1100",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00203"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1610",
+                "building": "Social Science & Humanities",
+                "description": "Discussion",
+                "buildingCode": "SOCSCI",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00070"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "HYD 124 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "43720",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Plant-Water-Soil Relationships",
+            "subjectDesc": "Hydrologic Science",
+            "courseNum": "124",
+            "hidCRN": "43720",
+            "crn": "43720",
+            "subjectCode": "HYD"
+        },
+        "instructor": [
+            {
+                "lastName": "Shackel",
+                "instructorName": "K. Shackel",
+                "firstName": "Kenneth",
+                "instructorEmail": "kashackel@ucdavis.edu",
+                "fullName": "Kenneth Shackel"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Principles of plant interactions with soil and atmospheric water environments and practical applications to crop management (e.g., irrigation) and plant eco-physiology (e.g., drought). ",
+            "creditLimit": "Not open for credit to students who have completed WSC 104.",
+            "ge3": "QL,SE,SL",
+            "crossListing": "",
+            "prereq": " (SSC 100 { can be concurrent } or SSC 107 { can be concurrent });  (PLS 100A { can be concurrent } or PLB 111 { can be concurrent });  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1100",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00203"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1410",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00144"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "HYD 124 A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "43721",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Plant-Water-Soil Relationships",
+            "subjectDesc": "Hydrologic Science",
+            "courseNum": "124",
+            "hidCRN": "43721",
+            "crn": "43721",
+            "subjectCode": "HYD"
+        },
+        "instructor": [
+            {
+                "lastName": "Shackel",
+                "instructorName": "K. Shackel",
+                "firstName": "Kenneth",
+                "instructorEmail": "kashackel@ucdavis.edu",
+                "fullName": "Kenneth Shackel"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Applications of deterministic and stochastic mathematical programming techniques to water resource planning, analysis, design and management. Water allocation, capacity expansion, and reservoir operation. Conjunctive use of surface water and groundwater. Water quality management. Irrigation planning and operation models.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "EBS 243.",
+            "prereq": " HYD 141 or ECI 142"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1830",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1710",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00109"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "HYD 243 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "43766",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Water Resource Planning & Management",
+            "subjectDesc": "Hydrologic Science",
+            "courseNum": "243",
+            "hidCRN": "43766",
+            "crn": "43766",
+            "subjectCode": "HYD"
+        },
+        "instructor": [
+            {
+                "lastName": "Sandoval Solis",
+                "instructorName": "S. Sandoval Solis",
+                "firstName": "Samuel",
+                "instructorEmail": "samsandoval@ucdavis.edu",
+                "fullName": "Samuel Sandoval Solis"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Selecting and building groundwater flow and transport models. Planning, preparation, execution, presentation, and review of modeling projects. Review of methods, assumptions, and limitations of groundwater models; practicing with MODFLOW, MT3D, associated GUI, and with other groundwater modeling software of choice.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Plant&Environmental Sci Bldg",
+                "description": "Lecture",
+                "buildingCode": "PLESC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01137"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1120",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1100",
+                "building": "Plant&Environmental Sci Bldg",
+                "description": "Lecture/Discussion",
+                "buildingCode": "PLESC",
+                "saturday": false,
+                "type": "LED",
+                "room": "01137"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "L",
+                "startTime": "1130",
+                "building": "Plant&Environmental Sci Bldg",
+                "description": "Lecture/Lab",
+                "buildingCode": "PLESC",
+                "saturday": false,
+                "type": "LLA",
+                "room": "01137"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "HYD 274 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56193",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Practice of Groundwater Flow & Transport Modeling ",
+            "subjectDesc": "Hydrologic Science",
+            "courseNum": "274",
+            "hidCRN": "56193",
+            "crn": "56193",
+            "subjectCode": "HYD"
+        },
+        "instructor": [
+            {
+                "lastName": "Harter",
+                "instructorName": "T. Harter",
+                "firstName": "Thomas",
+                "instructorEmail": "thharter@ucdavis.edu",
+                "fullName": "Thomas Harter"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Sustainably managing groundwater in agricultural regions for global food security and human health; global geography of agriculture and groundwater; groundwater flow in ag regions; agricultural groundwater management and water law; groundwater quality issues in agricultural regions (nitrate, emerging contaminants); assessment of groundwater non-point source pollution; groundwater-environment-food nexus (to surface water, groundwater-dependent ecosystems); policy, compliance, and monitoring.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1120",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1030",
+                "building": "Veihmeyer Hall",
+                "description": "Discussion",
+                "buildingCode": "VEIMYR",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00220"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "0",
+                "startTime": "",
+                "building": "",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "WVL",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "HYD 285Y 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56217",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Global Groundwater-Agriculture Nexus",
+            "subjectDesc": "Hydrologic Science",
+            "courseNum": "285Y",
+            "hidCRN": "56217",
+            "crn": "56217",
+            "subjectCode": "HYD"
+        },
+        "instructor": [
+            {
+                "lastName": "Harter",
+                "instructorName": "T. Harter",
+                "firstName": "Thomas",
+                "instructorEmail": "thharter@ucdavis.edu",
+                "fullName": "Thomas Harter"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "In depth investigation of advanced topics in remote sensing applications, measurements, and theory.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "GEO 286.",
+            "prereq": " ERS 186;  consent of instructor, or equivalent; ERS 186L recommended."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "WF",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Hoagland Hall",
+                "description": "Lecture",
+                "buildingCode": "HOAGLD",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00145"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "WF",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1310",
+                "building": "Hoagland Hall",
+                "description": "Discussion",
+                "buildingCode": "HOAGLD",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00145"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "HYD 286 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "43768",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Selected Topics in Environmental Remote Sensing",
+            "subjectDesc": "Hydrologic Science",
+            "courseNum": "286",
+            "hidCRN": "43768",
+            "crn": "43768",
+            "subjectCode": "HYD"
+        },
+        "instructor": [
+            {
+                "lastName": "Jin",
+                "instructorName": "Y. Jin",
+                "firstName": "Yufang",
+                "instructorEmail": "yujin@ucdavis.edu",
+                "fullName": "Yufang Jin"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Research.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Graduate standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "HYD 299",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research",
+            "subjectDesc": "Hydrologic Science",
+            "courseNum": "299",
+            "hidCRN": "094DC1C7E7",
+            "crn": "43799",
+            "subjectCode": "HYD"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Research.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Graduate standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "HYD 299",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "017",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research",
+            "subjectDesc": "Hydrologic Science",
+            "courseNum": "299",
+            "hidCRN": "094DCECFE8",
+            "crn": "43816",
+            "subjectCode": "HYD"
+        },
+        "instructor": [
+            {
+                "lastName": "Largier",
+                "instructorName": "J. Largier",
+                "firstName": "John",
+                "instructorEmail": "jlargier@ucdavis.edu",
+                "fullName": "John Largier"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Research.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Graduate standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "HYD 299",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "018",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research",
+            "subjectDesc": "Hydrologic Science",
+            "courseNum": "299",
+            "hidCRN": "094DCECFE9",
+            "crn": "43817",
+            "subjectCode": "HYD"
+        },
+        "instructor": [
+            {
+                "lastName": "Lund",
+                "instructorName": "J. Lund",
+                "firstName": "Jay",
+                "instructorEmail": "jrlund@ucdavis.edu",
+                "fullName": "Jay Lund"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Research.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Graduate standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "HYD 299",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "019",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research",
+            "subjectDesc": "Hydrologic Science",
+            "courseNum": "299",
+            "hidCRN": "094DCECFE6",
+            "crn": "43818",
+            "subjectCode": "HYD"
+        },
+        "instructor": [
+            {
+                "lastName": "Paw U",
+                "instructorName": "K. Paw U",
+                "firstName": "Kyaw",
+                "instructorEmail": "ktpawu@ucdavis.edu",
+                "fullName": "Kyaw Paw U"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Research.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Graduate standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "HYD 299",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "020",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research",
+            "subjectDesc": "Hydrologic Science",
+            "courseNum": "299",
+            "hidCRN": "094DCECFE7",
+            "crn": "43819",
+            "subjectCode": "HYD"
+        },
+        "instructor": [
+            {
+                "lastName": "Pandey",
+                "instructorName": "P. Pandey",
+                "firstName": "Pramod",
+                "instructorEmail": "pkpandey@ucdavis.edu",
+                "fullName": "Pramod Pandey"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Research.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Graduate standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "HYD 299",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "021",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research",
+            "subjectDesc": "Hydrologic Science",
+            "courseNum": "299",
+            "hidCRN": "094DCECCEE",
+            "crn": "43820",
+            "subjectCode": "HYD"
+        },
+        "instructor": [
+            {
+                "lastName": "Suvocarev",
+                "instructorName": "K. Suvocarev",
+                "firstName": "Kosana",
+                "instructorEmail": "ksuvocarev@ucdavis.edu",
+                "fullName": "Kosana Suvocarev"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Research.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Graduate standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "HYD 299",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "022",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research",
+            "subjectDesc": "Hydrologic Science",
+            "courseNum": "299",
+            "hidCRN": "094DCECCEF",
+            "crn": "43821",
+            "subjectCode": "HYD"
+        },
+        "instructor": [
+            {
+                "lastName": "Daccache",
+                "instructorName": "A. Daccache",
+                "firstName": "Andre",
+                "instructorEmail": "adaccache@ucdavis.edu",
+                "fullName": "Andre Daccache"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Research.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Graduate standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "HYD 299",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "023",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research",
+            "subjectDesc": "Hydrologic Science",
+            "courseNum": "299",
+            "hidCRN": "094DCECCEC",
+            "crn": "43822",
+            "subjectCode": "HYD"
+        },
+        "instructor": [
+            {
+                "lastName": "Jessoe",
+                "instructorName": "K. Jessoe",
+                "firstName": "Katrina",
+                "instructorEmail": "kkjessoe@ucdavis.edu",
+                "fullName": "Katrina Jessoe"
+            }
+        ]
+    }
+]

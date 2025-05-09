@@ -1,0 +1,68 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to making presentations and writing compositions in the Hindi form of Hindi/Urdu using the Devanagari script in the context of the shared culture of Hindi/Urdu. Includes an introduction to the Urdu form of Hindi/Urdu using the Nasta\u02bfliq script at the elementary level.",
+            "creditLimit": "Not credit if student has taken HIN 003.",
+            "ge3": "AH,SS,WC",
+            "crossListing": "",
+            "prereq": " HND 002;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": true,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MTWRF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "1210",
+                "building": "Everson Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "EVERSN",
+                "saturday": false,
+                "type": "LED",
+                "room": "00176"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "HND 003 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55859",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Elementary Hindi",
+            "subjectDesc": "Hindi",
+            "courseNum": "003",
+            "hidCRN": "55859",
+            "crn": "55859",
+            "subjectCode": "HND"
+        },
+        "instructor": [
+            {
+                "lastName": "Chauhan",
+                "instructorName": "P. Chauhan",
+                "firstName": "Poonam",
+                "instructorEmail": "chauhan@ucdavis.edu",
+                "fullName": "Poonam Chauhan"
+            }
+        ]
+    }
+]

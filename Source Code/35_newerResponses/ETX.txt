@@ -1,0 +1,3016 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Hazardous substances, their effects on humans and their actions and movement in the environment. Emphasis on substances of current concern. ",
+            "creditLimit": "",
+            "ge3": "SE,SL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1100",
+                "building": "Peter A Rock Hall",
+                "description": "Lecture",
+                "buildingCode": "ROCK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00194"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ETX 010 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "40567",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Environmental Toxicology",
+            "subjectDesc": "Environmental Toxicology",
+            "courseNum": "010",
+            "hidCRN": "40567",
+            "crn": "40567",
+            "subjectCode": "ETX"
+        },
+        "instructor": [
+            {
+                "lastName": "La Merrill",
+                "instructorName": "M. La Merrill",
+                "firstName": "Michele",
+                "instructorEmail": "mlamerrill@ucdavis.edu",
+                "fullName": "Michele La Merrill"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Overview of chemical use and abuse in our society. Effects of chemicals (therapeutic drugs, pesticides, food additives, herbal remedies, environmental contaminants, and recreational drugs) on humans and other living systems.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1640",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "02010"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ETX 030 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "40568",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Chemical & Drug Use & Abuse",
+            "subjectDesc": "Environmental Toxicology",
+            "courseNum": "030",
+            "hidCRN": "40568",
+            "crn": "40568",
+            "subjectCode": "ETX"
+        },
+        "instructor": [
+            {
+                "lastName": "Ehrlich",
+                "instructorName": "A. Ehrlich",
+                "firstName": "Allison",
+                "instructorEmail": "akehrlich@ucdavis.edu",
+                "fullName": "Allison Ehrlich"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Work experience off and on campus in all subject areas offered in the College of Agricultural & Environmental Sciences. Internships supervised by a member of the faculty.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Lower division standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "I",
+                "startTime": "",
+                "building": "",
+                "description": "Internship",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "INT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ETX 092",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Internship",
+            "subjectDesc": "Environmental Toxicology",
+            "courseNum": "092",
+            "hidCRN": "094EC3C8E7",
+            "crn": "40569",
+            "subjectCode": "ETX"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special study for undergraduates.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ETX 099",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Study for Undergraduates",
+            "subjectDesc": "Environmental Toxicology",
+            "courseNum": "099",
+            "hidCRN": "094EC3C6ED",
+            "crn": "40583",
+            "subjectCode": "ETX"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Sample preparation methods for trace analysis of environmental toxicants. Concept and techniques of advanced analytical instrumentation. Interpretation and use of analytical data.",
+            "creditLimit": "Not open for credit to students who have completed ETX 112B.",
+            "ge3": "SE,VL",
+            "crossListing": "",
+            "prereq": " ETX 102A"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01218"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1710",
+                "building": "Teaching and Learning Complex",
+                "description": "Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01218"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0900",
+                "building": "Meyer Hall",
+                "description": "Laboratory",
+                "buildingCode": "MEYER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01312"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "ETX 102B A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "40596",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Quantitative Analysis of Environmental Toxicants",
+            "subjectDesc": "Environmental Toxicology",
+            "courseNum": "102B",
+            "hidCRN": "40596",
+            "crn": "40596",
+            "subjectCode": "ETX"
+        },
+        "instructor": [
+            {
+                "lastName": "Hengel",
+                "instructorName": "M. Hengel",
+                "firstName": "Mathew",
+                "instructorEmail": "mjhengel@ucdavis.edu",
+                "fullName": "Mathew Hengel"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Sample preparation methods for trace analysis of environmental toxicants. Concept and techniques of advanced analytical instrumentation. Interpretation and use of analytical data.",
+            "creditLimit": "Not open for credit to students who have completed ETX 112B.",
+            "ge3": "SE,VL",
+            "crossListing": "",
+            "prereq": " ETX 102A"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01218"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1710",
+                "building": "Teaching and Learning Complex",
+                "description": "Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01218"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1310",
+                "building": "Meyer Hall",
+                "description": "Laboratory",
+                "buildingCode": "MEYER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01312"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "ETX 102B A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "40597",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Quantitative Analysis of Environmental Toxicants",
+            "subjectDesc": "Environmental Toxicology",
+            "courseNum": "102B",
+            "hidCRN": "40597",
+            "crn": "40597",
+            "subjectCode": "ETX"
+        },
+        "instructor": [
+            {
+                "lastName": "Hengel",
+                "instructorName": "M. Hengel",
+                "firstName": "Mathew",
+                "instructorEmail": "mjhengel@ucdavis.edu",
+                "fullName": "Mathew Hengel"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Sample preparation methods for trace analysis of environmental toxicants. Concept and techniques of advanced analytical instrumentation. Interpretation and use of analytical data.",
+            "creditLimit": "Not open for credit to students who have completed ETX 112B.",
+            "ge3": "SE,VL",
+            "crossListing": "",
+            "prereq": " ETX 102A"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01218"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1710",
+                "building": "Teaching and Learning Complex",
+                "description": "Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01218"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0900",
+                "building": "Meyer Hall",
+                "description": "Laboratory",
+                "buildingCode": "MEYER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01312"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "ETX 102B A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "40598",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Quantitative Analysis of Environmental Toxicants",
+            "subjectDesc": "Environmental Toxicology",
+            "courseNum": "102B",
+            "hidCRN": "40598",
+            "crn": "40598",
+            "subjectCode": "ETX"
+        },
+        "instructor": [
+            {
+                "lastName": "Hengel",
+                "instructorName": "M. Hengel",
+                "firstName": "Mathew",
+                "instructorEmail": "mjhengel@ucdavis.edu",
+                "fullName": "Mathew Hengel"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Sample preparation methods for trace analysis of environmental toxicants. Concept and techniques of advanced analytical instrumentation. Interpretation and use of analytical data.",
+            "creditLimit": "Not open for credit to students who have completed ETX 112B.",
+            "ge3": "SE,VL",
+            "crossListing": "",
+            "prereq": " ETX 102A"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01218"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1710",
+                "building": "Teaching and Learning Complex",
+                "description": "Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01218"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1310",
+                "building": "Meyer Hall",
+                "description": "Laboratory",
+                "buildingCode": "MEYER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01312"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "ETX 102B A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "40599",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Quantitative Analysis of Environmental Toxicants",
+            "subjectDesc": "Environmental Toxicology",
+            "courseNum": "102B",
+            "hidCRN": "40599",
+            "crn": "40599",
+            "subjectCode": "ETX"
+        },
+        "instructor": [
+            {
+                "lastName": "Hengel",
+                "instructorName": "M. Hengel",
+                "firstName": "Mathew",
+                "instructorEmail": "mjhengel@ucdavis.edu",
+                "fullName": "Mathew Hengel"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Sample preparation methods for trace analysis of environmental toxicants. Concept and techniques of advanced analytical instrumentation. Interpretation and use of analytical data.",
+            "creditLimit": "Not open for credit to students who have completed ETX 112B.",
+            "ge3": "SE,VL",
+            "crossListing": "",
+            "prereq": " ETX 102A"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01218"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1710",
+                "building": "Teaching and Learning Complex",
+                "description": "Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01218"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0900",
+                "building": "Meyer Hall",
+                "description": "Laboratory",
+                "buildingCode": "MEYER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01312"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "ETX 102B A05",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A05",
+            "printCRN": "40600",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Quantitative Analysis of Environmental Toxicants",
+            "subjectDesc": "Environmental Toxicology",
+            "courseNum": "102B",
+            "hidCRN": "40600",
+            "crn": "40600",
+            "subjectCode": "ETX"
+        },
+        "instructor": [
+            {
+                "lastName": "Hengel",
+                "instructorName": "M. Hengel",
+                "firstName": "Mathew",
+                "instructorEmail": "mjhengel@ucdavis.edu",
+                "fullName": "Mathew Hengel"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Sample preparation methods for trace analysis of environmental toxicants. Concept and techniques of advanced analytical instrumentation. Interpretation and use of analytical data.",
+            "creditLimit": "Not open for credit to students who have completed ETX 112B.",
+            "ge3": "SE,VL",
+            "crossListing": "",
+            "prereq": " ETX 102A"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01218"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1710",
+                "building": "Teaching and Learning Complex",
+                "description": "Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01218"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1310",
+                "building": "Meyer Hall",
+                "description": "Laboratory",
+                "buildingCode": "MEYER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01312"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "ETX 102B A06",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A06",
+            "printCRN": "40601",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Quantitative Analysis of Environmental Toxicants",
+            "subjectDesc": "Environmental Toxicology",
+            "courseNum": "102B",
+            "hidCRN": "40601",
+            "crn": "40601",
+            "subjectCode": "ETX"
+        },
+        "instructor": [
+            {
+                "lastName": "Hengel",
+                "instructorName": "M. Hengel",
+                "firstName": "Mathew",
+                "instructorEmail": "mjhengel@ucdavis.edu",
+                "fullName": "Mathew Hengel"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Sample preparation methods for trace analysis of environmental toxicants. Concept and techniques of advanced analytical instrumentation. Interpretation and use of analytical data.",
+            "creditLimit": "Not open for credit to students who have completed ETX 112B.",
+            "ge3": "SE,VL",
+            "crossListing": "",
+            "prereq": " ETX 102A"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01218"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1710",
+                "building": "Teaching and Learning Complex",
+                "description": "Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01218"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0900",
+                "building": "Meyer Hall",
+                "description": "Laboratory",
+                "buildingCode": "MEYER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01312"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "ETX 102B A07",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A07",
+            "printCRN": "40602",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Quantitative Analysis of Environmental Toxicants",
+            "subjectDesc": "Environmental Toxicology",
+            "courseNum": "102B",
+            "hidCRN": "40602",
+            "crn": "40602",
+            "subjectCode": "ETX"
+        },
+        "instructor": [
+            {
+                "lastName": "Hengel",
+                "instructorName": "M. Hengel",
+                "firstName": "Mathew",
+                "instructorEmail": "mjhengel@ucdavis.edu",
+                "fullName": "Mathew Hengel"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Sample preparation methods for trace analysis of environmental toxicants. Concept and techniques of advanced analytical instrumentation. Interpretation and use of analytical data.",
+            "creditLimit": "Not open for credit to students who have completed ETX 112B.",
+            "ge3": "SE,VL",
+            "crossListing": "",
+            "prereq": " ETX 102A"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01218"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1710",
+                "building": "Teaching and Learning Complex",
+                "description": "Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01218"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1310",
+                "building": "Meyer Hall",
+                "description": "Laboratory",
+                "buildingCode": "MEYER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01312"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "ETX 102B A08",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A08",
+            "printCRN": "40603",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Quantitative Analysis of Environmental Toxicants",
+            "subjectDesc": "Environmental Toxicology",
+            "courseNum": "102B",
+            "hidCRN": "40603",
+            "crn": "40603",
+            "subjectCode": "ETX"
+        },
+        "instructor": [
+            {
+                "lastName": "Hengel",
+                "instructorName": "M. Hengel",
+                "firstName": "Mathew",
+                "instructorEmail": "mjhengel@ucdavis.edu",
+                "fullName": "Mathew Hengel"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Experimental approaches for assessing the biological effects of toxicants.",
+            "creditLimit": "Not open for credit to students who have taken ETX 114B.",
+            "ge3": "SE,VL,WE",
+            "crossListing": "",
+            "prereq": " ETX 103A"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1310",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01006"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0850",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0800",
+                "building": "Meyer Hall",
+                "description": "Discussion",
+                "buildingCode": "MEYER",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01330"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0900",
+                "building": "Meyer Hall",
+                "description": "Laboratory",
+                "buildingCode": "MEYER",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01312"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "ETX 103B A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "40604",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Biological Effects of Toxicants: Experimental Approaches",
+            "subjectDesc": "Environmental Toxicology",
+            "courseNum": "103B",
+            "hidCRN": "40604",
+            "crn": "40604",
+            "subjectCode": "ETX"
+        },
+        "instructor": [
+            {
+                "lastName": "Grettenberger",
+                "instructorName": "C. Grettenberger",
+                "firstName": "Christen",
+                "instructorEmail": "clgrettenberger@ucdavis.edu",
+                "fullName": "Christen Grettenberger"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Experimental approaches for assessing the biological effects of toxicants.",
+            "creditLimit": "Not open for credit to students who have taken ETX 114B.",
+            "ge3": "SE,VL,WE",
+            "crossListing": "",
+            "prereq": " ETX 103A"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "",
+                "startTime": "",
+                "building": "",
+                "description": "",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "ETX 103B A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "40605",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Biological Effects of Toxicants: Experimental Approaches",
+            "subjectDesc": "Environmental Toxicology",
+            "courseNum": "103B",
+            "hidCRN": "40605",
+            "crn": "40605",
+            "subjectCode": "ETX"
+        },
+        "instructor": [
+            {
+                "lastName": "",
+                "instructorName": ". ",
+                "firstName": "",
+                "instructorEmail": "",
+                "fullName": " "
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to mass spectrometry, including ionization techniques, mass analyzers, interpretation of mass spectra, and applications of mass spectrometry. Emphasis on fundamental concepts of mass spectrometry necessary to identify and quantify organic molecules. ",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " CHE 118C or CHE 128C"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1530",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1410",
+                "building": "Meyer Hall",
+                "description": "Lecture",
+                "buildingCode": "MEYER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01135"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ETX 111 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56233",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Mass Spectrometry",
+            "subjectDesc": "Environmental Toxicology",
+            "courseNum": "111",
+            "hidCRN": "56233",
+            "crn": "56233",
+            "subjectCode": "ETX"
+        },
+        "instructor": [
+            {
+                "lastName": "Nguyen",
+                "instructorName": "T. Nguyen",
+                "firstName": "Tran",
+                "instructorEmail": "tbn@ucdavis.edu",
+                "fullName": "Tran Nguyen"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Chemistry and biochemistry of toxins occurring in foods, including plant and animal toxins, intentional and unintentional food additives. The assessment of food safety and toxic hazards.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "FST 128.",
+            "prereq": " BIS 102;  BIS 103"
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1000",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00147"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ETX 128 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "40606",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Food Toxicology",
+            "subjectDesc": "Environmental Toxicology",
+            "courseNum": "128",
+            "hidCRN": "40606",
+            "crn": "40606",
+            "subjectCode": "ETX"
+        },
+        "instructor": [
+            {
+                "lastName": "Nicklisch",
+                "instructorName": "S. Nicklisch",
+                "firstName": "Sascha",
+                "instructorEmail": "nicklisch@ucdavis.edu",
+                "fullName": "Sascha Nicklisch"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Current practices of health risk assessment of environmental chemicals using toxicological principles and their application to regulatory control of these chemicals.",
+            "creditLimit": "",
+            "ge3": "QL,SE,SL,VL",
+            "crossListing": "",
+            "prereq": " ETX 101;  ETX 114A recommended. "
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1640",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01007"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ETX 135 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56142",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Health Risk Assessment of Toxicants",
+            "subjectDesc": "Environmental Toxicology",
+            "courseNum": "135",
+            "hidCRN": "56142",
+            "crn": "56142",
+            "subjectCode": "ETX"
+        },
+        "instructor": [
+            {
+                "lastName": "Marder",
+                "instructorName": "M. Marder",
+                "firstName": "M Elizabeth",
+                "instructorEmail": "ekmarder@ucdavis.edu",
+                "fullName": "M Elizabeth Marder"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Effects of recent human alterations to the natural environment on the evolutionary trajectories of diverse species, including our own.",
+            "creditLimit": "",
+            "ge3": "SE,SL,WE",
+            "crossListing": "",
+            "prereq": " BIS 002B"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "0900",
+                "building": "Hoagland Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "HOAGLD",
+                "saturday": false,
+                "type": "LED",
+                "room": "00113"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ETX 150 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "40607",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Evolution in Human-Altered Environments",
+            "subjectDesc": "Environmental Toxicology",
+            "courseNum": "150",
+            "hidCRN": "40607",
+            "crn": "40607",
+            "subjectCode": "ETX"
+        },
+        "instructor": [
+            {
+                "lastName": "Whitehead",
+                "instructorName": "A. Whitehead",
+                "firstName": "Andrew",
+                "instructorEmail": "awhitehead@ucdavis.edu",
+                "fullName": "Andrew Whitehead"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Metal contaminants in the environment (air, water, and soil) and their effects on the health of the environment and humans. How the chemistry of metals ultimately controls their environmental fate and toxicity, application of numerical models, and discussion of case studies. ",
+            "creditLimit": "",
+            "ge3": "QL,SE,SL,VL",
+            "crossListing": "",
+            "prereq": " ETX 102A or (CHE 008B or CHE 118B or CHE 128B);  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1000",
+                "building": "Meyer Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "MEYER",
+                "saturday": false,
+                "type": "LED",
+                "room": "01138"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ETX 180 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "40608",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Chemistry & Toxicology of Metals ",
+            "subjectDesc": "Environmental Toxicology",
+            "courseNum": "180",
+            "hidCRN": "40608",
+            "crn": "40608",
+            "subjectCode": "ETX"
+        },
+        "instructor": [
+            {
+                "lastName": "Poulin",
+                "instructorName": "B. Poulin",
+                "firstName": "Brett",
+                "instructorEmail": "bapoulin@ucdavis.edu",
+                "fullName": "Brett Poulin"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Selected topics presented by students, faculty, or outside speakers covering current research and instructional activities within environmental toxicology. Reports and discussion concerning oral and written presentations, literature sources, and career opportunities.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "E",
+                "startTime": "",
+                "building": "",
+                "description": "Seminar",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "SEM",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ETX 190",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Seminar",
+            "subjectDesc": "Environmental Toxicology",
+            "courseNum": "190",
+            "hidCRN": "094EC0CEE7",
+            "crn": "40609",
+            "subjectCode": "ETX"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Selected topics presented by students, faculty, or outside speakers covering current research and instructional activities within environmental toxicology. Reports and discussion concerning oral and written presentations, literature sources, and career opportunities.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "E",
+                "startTime": "1610",
+                "building": "Meyer Hall",
+                "description": "Seminar",
+                "buildingCode": "MEYER",
+                "saturday": false,
+                "type": "SEM",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ETX 190 010",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "010",
+            "printCRN": "40613",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Seminar",
+            "subjectDesc": "Environmental Toxicology",
+            "courseNum": "190",
+            "hidCRN": "40613",
+            "crn": "40613",
+            "subjectCode": "ETX"
+        },
+        "instructor": [
+            {
+                "lastName": "Zhang",
+                "instructorName": "Q. Zhang",
+                "firstName": "Qi",
+                "instructorEmail": "dkwzhang@ucdavis.edu",
+                "fullName": "Qi Zhang"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Weekly conference of advanced research methods and the interpretation of research results.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "",
+                "building": "",
+                "description": "Discussion",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "DIS",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ETX 190C",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research Group Conference",
+            "subjectDesc": "Environmental Toxicology",
+            "courseNum": "190C",
+            "hidCRN": "094EC0CCEF",
+            "crn": "40621",
+            "subjectCode": "ETX"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Work experience off and on campus in all subject areas offered in the\nCollege of Agricultural and Environmental Sciences. Internships supervised by a member of the faculty.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Completion of 84 units. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "I",
+                "startTime": "",
+                "building": "",
+                "description": "Internship",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "INT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ETX 192",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Internship",
+            "subjectDesc": "Environmental Toxicology",
+            "courseNum": "192",
+            "hidCRN": "094EC0CDED",
+            "crn": "40633",
+            "subjectCode": "ETX"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Specific research project conducted under the supervision of a faculty sponsor. Experience to include experimental design, learning new techniques, data analysis and interpretation of findings.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Senior standing; minimum GPA of 3.250."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "",
+                "building": "",
+                "description": "Discussion",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "DIS",
+                "room": ""
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "",
+                "building": "",
+                "description": "Laboratory",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LAB",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ETX 194HA",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Honors Research",
+            "subjectDesc": "Environmental Toxicology",
+            "courseNum": "194HA",
+            "hidCRN": "094EC0CBEA",
+            "crn": "40654",
+            "subjectCode": "ETX"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Specific research project conducted under the supervision of a faculty sponsor. Experience to include experimental design, learning new techniques, data analysis and interpretation of findings.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Senior standing; minimum GPA of 3.250."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "",
+                "building": "",
+                "description": "Discussion",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "DIS",
+                "room": ""
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "",
+                "building": "",
+                "description": "Laboratory",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LAB",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ETX 194HB",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Honors Research",
+            "subjectDesc": "Environmental Toxicology",
+            "courseNum": "194HB",
+            "hidCRN": "094EC0C9EE",
+            "crn": "40670",
+            "subjectCode": "ETX"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Continuation of ETX 194HA & ETA 194HB.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Senior standing, minimum GPA of 3.250."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "",
+                "building": "",
+                "description": "Discussion",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "DIS",
+                "room": ""
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "",
+                "building": "",
+                "description": "Laboratory",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LAB",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ETX 194HC",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Honors Research",
+            "subjectDesc": "Environmental Toxicology",
+            "courseNum": "194HC",
+            "hidCRN": "094EC0C6EB",
+            "crn": "40685",
+            "subjectCode": "ETX"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Teaching toxicology including conducting discussion groups for regular departmental courses under direct guidance of staff.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Advanced standing in Environmental Toxicology, a related major, or the equivalent experience. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "T",
+                "startTime": "",
+                "building": "",
+                "description": "Tutorial",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "TUT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ETX 197T",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Tutoring in Environmental Toxicology",
+            "subjectDesc": "Environmental Toxicology",
+            "courseNum": "197T",
+            "hidCRN": "094EC1CEED",
+            "crn": "40703",
+            "subjectCode": "ETX"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed group study.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ETX 198",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study",
+            "subjectDesc": "Environmental Toxicology",
+            "courseNum": "198",
+            "hidCRN": "094EC1CFE6",
+            "crn": "40718",
+            "subjectCode": "ETX"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special study for advanced undergraduates.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ETX 199",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Study for Advanced Undergraduates",
+            "subjectDesc": "Environmental Toxicology",
+            "courseNum": "199",
+            "hidCRN": "094EC1CDED",
+            "crn": "40733",
+            "subjectCode": "ETX"
+        },
+        "instructor": [
+            {
+                "lastName": "Ehrlich",
+                "instructorName": "A. Ehrlich",
+                "firstName": "Allison",
+                "instructorEmail": "akehrlich@ucdavis.edu",
+                "fullName": "Allison Ehrlich"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "General principles of neurotoxicology, the cell and molecular mechanisms and health impacts of specific neurotoxicants and the contribution of neurotoxic compounds to complex eurodevelopmental disorders and neurodegenerative diseases.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": " MCP 234, VMB 234.",
+            "prereq": " Core courses in one of the following graduate programs: Pharmacology & Toxicology (PTX), Agricultural & Environmental Chemistry (AGC), Biochemistry & Molecular Biology (BMB), Cell & Developmental Biology (CDB), Immunology (IMM), Molecular Cellular & Integrative Physiology (MCP) or Neuroscience (NSC)."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TWR",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1000",
+                "building": "Vet Med 3B",
+                "description": "Lecture",
+                "buildingCode": "VM3B",
+                "saturday": false,
+                "type": "LEC",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ETX 234 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56640",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Current Topics in Neurotoxicology ",
+            "subjectDesc": "Environmental Toxicology",
+            "courseNum": "234",
+            "hidCRN": "56640",
+            "crn": "56640",
+            "subjectCode": "ETX"
+        },
+        "instructor": [
+            {
+                "lastName": "Lein",
+                "instructorName": "P. Lein",
+                "firstName": "Pamela",
+                "instructorEmail": "pjlein@ucdavis.edu",
+                "fullName": "Pamela Lein"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Comprehensive overview of forensic serology and DNA typing techniques and technologies. Strong emphasis on real-world applications, including preservation and tracking of biological evidence, detection and identification of bodily fluids, and methods to extract, quantify, and type human DNA.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "FOR 281.",
+            "prereq": " (FOR 278 or ETX 278) or (FOR 280 or ETX 280);  Or equivalent; consent of instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "WR",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1610",
+                "building": "Off Campus",
+                "description": "Lecture",
+                "buildingCode": "OFFCAM",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00000"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1900",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "WR",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "G",
+                "startTime": "1710",
+                "building": "Off Campus",
+                "description": "Discussion Laboratory",
+                "buildingCode": "OFFCAM",
+                "saturday": false,
+                "type": "D/L",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ETX 281 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "40758",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Principles & Practice of Forensic Serology & DNA Analysis",
+            "subjectDesc": "Environmental Toxicology",
+            "courseNum": "281",
+            "hidCRN": "40758",
+            "crn": "40758",
+            "subjectCode": "ETX"
+        },
+        "instructor": [
+            {
+                "lastName": "Hall",
+                "instructorName": "A. Hall",
+                "firstName": "Ashley",
+                "instructorEmail": "asmhall@ucdavis.edu",
+                "fullName": "Ashley Hall"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Current topics in environmental toxicology.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "E",
+                "startTime": "",
+                "building": "",
+                "description": "Seminar",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "SEM",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ETX 290",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Seminar",
+            "subjectDesc": "Environmental Toxicology",
+            "courseNum": "290",
+            "hidCRN": "094EC1CBE7",
+            "crn": "40759",
+            "subjectCode": "ETX"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Current topics in environmental toxicology.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "E",
+                "startTime": "1610",
+                "building": "Facility Assigned by Instr.",
+                "description": "Seminar",
+                "buildingCode": "NOFAC",
+                "saturday": false,
+                "type": "SEM",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ETX 290 010",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "010",
+            "printCRN": "40766",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Seminar",
+            "subjectDesc": "Environmental Toxicology",
+            "courseNum": "290",
+            "hidCRN": "40766",
+            "crn": "40766",
+            "subjectCode": "ETX"
+        },
+        "instructor": [
+            {
+                "lastName": "Zhang",
+                "instructorName": "Q. Zhang",
+                "firstName": "Qi",
+                "instructorEmail": "dkwzhang@ucdavis.edu",
+                "fullName": "Qi Zhang"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Presentation and critical discussion of advanced research methods and interpretation of research results. Designed primarily for graduate students.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "",
+                "building": "",
+                "description": "Lecture/Discussion",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LED",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ETX 290C",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Advanced Research Conference",
+            "subjectDesc": "Environmental Toxicology",
+            "courseNum": "290C",
+            "hidCRN": "094EC1C9EB",
+            "crn": "40775",
+            "subjectCode": "ETX"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Teaching toxicology including conducting discussion groups for regular departmental courses under direct guidance of staff.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Graduate standing in Environmental Toxicology, a related major, or the equivalent experience. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "T",
+                "startTime": "",
+                "building": "",
+                "description": "Tutorial",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "TUT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ETX 297T",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Tutoring in Environmental Toxicology",
+            "subjectDesc": "Environmental Toxicology",
+            "courseNum": "297T",
+            "hidCRN": "094EC1C7EB",
+            "crn": "40795",
+            "subjectCode": "ETX"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Teaching toxicology including conducting discussion groups for regular departmental courses under direct guidance of staff.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Graduate standing in Environmental Toxicology, a related major, or the equivalent experience. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "T",
+                "startTime": "",
+                "building": "",
+                "description": "Tutorial",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "TUT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ETX 297T 022",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "022",
+            "printCRN": "40813",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Tutoring in Environmental Toxicology",
+            "subjectDesc": "Environmental Toxicology",
+            "courseNum": "297T",
+            "hidCRN": "40813",
+            "crn": "40813",
+            "subjectCode": "ETX"
+        },
+        "instructor": [
+            {
+                "lastName": "Van Winkle",
+                "instructorName": "L. Van Winkle",
+                "firstName": "Laura",
+                "instructorEmail": "lsvanwinkle@ucdavis.edu",
+                "fullName": "Laura Van Winkle"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Group study.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ETX 298",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Group Study",
+            "subjectDesc": "Environmental Toxicology",
+            "courseNum": "298",
+            "hidCRN": "094ECECFEA",
+            "crn": "40814",
+            "subjectCode": "ETX"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Research.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ETX 299",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research",
+            "subjectDesc": "Environmental Toxicology",
+            "courseNum": "299",
+            "hidCRN": "094ECECCE7",
+            "crn": "40829",
+            "subjectCode": "ETX"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Teaching assistant training.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ETX 396",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 4,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Teaching Assistant Training Practicum",
+            "subjectDesc": "Environmental Toxicology",
+            "courseNum": "396",
+            "hidCRN": "094ECECBEF",
+            "crn": "40851",
+            "subjectCode": "ETX"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    }
+]

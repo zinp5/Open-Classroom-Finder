@@ -1,0 +1,3910 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Work experience off and on campus in all subject areas offered in the College of Agricultural & Environmental Sciences. Internship supervised by member of the faculty.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Lower division standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "I",
+                "startTime": "",
+                "building": "",
+                "description": "Internship",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "INT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ESP 092",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Internship",
+            "subjectDesc": "Environmental Science & Policy",
+            "courseNum": "092",
+            "hidCRN": "094EC2CAE6",
+            "crn": "40448",
+            "subjectCode": "ESP"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Primarily for lower division students.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ESP 098",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study",
+            "subjectDesc": "Environmental Science & Policy",
+            "courseNum": "098",
+            "hidCRN": "094EC2CBED",
+            "crn": "40453",
+            "subjectCode": "ESP"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Interdisciplinary study of diversity and change in human societies, using frameworks from anthropology, evolutionary ecology, history, archaeology, psychology, and other fields. Topics include population dynamics, subsistence transitions, family organization, disease, economics, warfare, politics, and resource conservation.",
+            "creditLimit": "",
+            "ge3": "SS,WC,WE",
+            "crossListing": "ANT 101.",
+            "prereq": " ANT 001 or ANT 002 or ESP 030 or EVE 100 or BIS 101 recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1340",
+                "building": "Maria Manetti Shrem Art Hall",
+                "description": "Lecture",
+                "buildingCode": "MMSART",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00204"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1710",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00267"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ESP 101 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "40455",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Ecology, Nature, & Society",
+            "subjectDesc": "Environmental Science & Policy",
+            "courseNum": "101",
+            "hidCRN": "40455",
+            "crn": "40455",
+            "subjectCode": "ESP"
+        },
+        "instructor": [
+            {
+                "lastName": "Moya",
+                "instructorName": "C. Moya",
+                "firstName": "Cristina",
+                "instructorEmail": "moya@ucdavis.edu",
+                "fullName": "Cristina Moya"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Interdisciplinary study of diversity and change in human societies, using frameworks from anthropology, evolutionary ecology, history, archaeology, psychology, and other fields. Topics include population dynamics, subsistence transitions, family organization, disease, economics, warfare, politics, and resource conservation.",
+            "creditLimit": "",
+            "ge3": "SS,WC,WE",
+            "crossListing": "ANT 101.",
+            "prereq": " ANT 001 or ANT 002 or ESP 030 or EVE 100 or BIS 101 recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1340",
+                "building": "Maria Manetti Shrem Art Hall",
+                "description": "Lecture",
+                "buildingCode": "MMSART",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00204"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1900",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1810",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00005"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ESP 101 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "56154",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Ecology, Nature, & Society",
+            "subjectDesc": "Environmental Science & Policy",
+            "courseNum": "101",
+            "hidCRN": "56154",
+            "crn": "56154",
+            "subjectCode": "ESP"
+        },
+        "instructor": [
+            {
+                "lastName": "Moya",
+                "instructorName": "C. Moya",
+                "firstName": "Cristina",
+                "instructorEmail": "moya@ucdavis.edu",
+                "fullName": "Cristina Moya"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to the origin and geologic evolution of ocean basins. Composition and structure of oceanic crust; marine volcanism; and deposition of marine sediments. Interpretation of geologic history of the ocean floor in terms of sea-floor spreading theory.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "GEL 150B.",
+            "prereq": " GEL 050 or (GEL 116N or ESP 116N)"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00119"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ESP 150B 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "40462",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Geological Oceanography",
+            "subjectDesc": "Environmental Science & Policy",
+            "courseNum": "150B",
+            "hidCRN": "40462",
+            "crn": "40462",
+            "subjectCode": "ESP"
+        },
+        "instructor": [
+            {
+                "lastName": "Griffin",
+                "instructorName": "A. Griffin",
+                "firstName": "Alyssa",
+                "instructorEmail": "ajgriffin@ucdavis.edu",
+                "fullName": "Alyssa Griffin"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Biology and productivity of inland waters with emphasis on the physical and chemical environment.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " BIS 002A;  BIS 002B;  (BIS 002C and ESP 100 or EVE 101 recommended.)"
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1100",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "03215"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1210",
+                "building": "Hutchison Hall",
+                "description": "Discussion",
+                "buildingCode": "HUTCH",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00102"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ESP 151 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "40463",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Limnology",
+            "subjectDesc": "Environmental Science & Policy",
+            "courseNum": "151",
+            "hidCRN": "40463",
+            "crn": "40463",
+            "subjectCode": "ESP"
+        },
+        "instructor": [
+            {
+                "lastName": "Sadro",
+                "instructorName": "S. Sadro",
+                "firstName": "Steven",
+                "instructorEmail": "ssadro@ucdavis.edu",
+                "fullName": "Steven Sadro"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Biology and productivity of inland waters with emphasis on the physical and chemical environment.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " BIS 002A;  BIS 002B;  (BIS 002C and ESP 100 or EVE 101 recommended.)"
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1100",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "03215"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1310",
+                "building": "Wickson Hall",
+                "description": "Discussion",
+                "buildingCode": "WICKSN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01038"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ESP 151 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "40464",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Limnology",
+            "subjectDesc": "Environmental Science & Policy",
+            "courseNum": "151",
+            "hidCRN": "40464",
+            "crn": "40464",
+            "subjectCode": "ESP"
+        },
+        "instructor": [
+            {
+                "lastName": "Sadro",
+                "instructorName": "S. Sadro",
+                "firstName": "Steven",
+                "instructorEmail": "ssadro@ucdavis.edu",
+                "fullName": "Steven Sadro"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Biology and productivity of inland waters with emphasis on the physical and chemical environment.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " BIS 002A;  BIS 002B;  (BIS 002C and ESP 100 or EVE 101 recommended.)"
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1100",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "03215"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1410",
+                "building": "Wickson Hall",
+                "description": "Discussion",
+                "buildingCode": "WICKSN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01038"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ESP 151 A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "40465",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Limnology",
+            "subjectDesc": "Environmental Science & Policy",
+            "courseNum": "151",
+            "hidCRN": "40465",
+            "crn": "40465",
+            "subjectCode": "ESP"
+        },
+        "instructor": [
+            {
+                "lastName": "Sadro",
+                "instructorName": "S. Sadro",
+                "firstName": "Steven",
+                "instructorEmail": "ssadro@ucdavis.edu",
+                "fullName": "Steven Sadro"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Biology and productivity of inland waters with emphasis on the physical and chemical environment.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " BIS 002A;  BIS 002B;  (BIS 002C and ESP 100 or EVE 101 recommended.)"
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1100",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "03215"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1210",
+                "building": "Wickson Hall",
+                "description": "Discussion",
+                "buildingCode": "WICKSN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01038"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ESP 151 A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "40466",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Limnology",
+            "subjectDesc": "Environmental Science & Policy",
+            "courseNum": "151",
+            "hidCRN": "40466",
+            "crn": "40466",
+            "subjectCode": "ESP"
+        },
+        "instructor": [
+            {
+                "lastName": "Sadro",
+                "instructorName": "S. Sadro",
+                "firstName": "Steven",
+                "instructorEmail": "ssadro@ucdavis.edu",
+                "fullName": "Steven Sadro"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Limnological studies of lakes, streams, and reservoirs with interpretation of aquatic ecology.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " ESP 151 { can be concurrent };  junior, senior, or graduate standing. "
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "C",
+                "startTime": "1210",
+                "building": "Hart Hall",
+                "description": "Laboratory",
+                "buildingCode": "HART",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01128"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "F",
+                "startTime": "1310",
+                "building": "Off Campus",
+                "description": "Fieldwork",
+                "buildingCode": "OFFCAM",
+                "saturday": false,
+                "type": "FWK",
+                "room": "00000"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1410",
+                "building": "Hutchison Hall",
+                "description": "Laboratory",
+                "buildingCode": "HUTCH",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00093"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ESP 151L 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "40467",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Limnology Laboratory",
+            "subjectDesc": "Environmental Science & Policy",
+            "courseNum": "151L",
+            "hidCRN": "40467",
+            "crn": "40467",
+            "subjectCode": "ESP"
+        },
+        "instructor": [
+            {
+                "lastName": "Sadro",
+                "instructorName": "S. Sadro",
+                "firstName": "Steven",
+                "instructorEmail": "ssadro@ucdavis.edu",
+                "fullName": "Steven Sadro"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Alternative models of public policymaking and application to case studies in the U.S. and California. ",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": " POL 001;  ECN 001A and STA 013 recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00006"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1310",
+                "building": "Hart Hall",
+                "description": "Discussion",
+                "buildingCode": "HART",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01130"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ESP 160 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "40468",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "The Policy Process",
+            "subjectDesc": "Environmental Science & Policy",
+            "courseNum": "160",
+            "hidCRN": "40468",
+            "crn": "40468",
+            "subjectCode": "ESP"
+        },
+        "instructor": [
+            {
+                "lastName": "Arnold",
+                "instructorName": "G. Arnold",
+                "firstName": "Gwen",
+                "instructorEmail": "gbarnold@ucdavis.edu",
+                "fullName": "Gwen Arnold"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Alternative models of public policymaking and application to case studies in the U.S. and California. ",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": " POL 001;  ECN 001A and STA 013 recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00006"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1410",
+                "building": "Hart Hall",
+                "description": "Discussion",
+                "buildingCode": "HART",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01120"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ESP 160 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "40469",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "The Policy Process",
+            "subjectDesc": "Environmental Science & Policy",
+            "courseNum": "160",
+            "hidCRN": "40469",
+            "crn": "40469",
+            "subjectCode": "ESP"
+        },
+        "instructor": [
+            {
+                "lastName": "Arnold",
+                "instructorName": "G. Arnold",
+                "firstName": "Gwen",
+                "instructorEmail": "gbarnold@ucdavis.edu",
+                "fullName": "Gwen Arnold"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Alternative models of public policymaking and application to case studies in the U.S. and California. ",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": " POL 001;  ECN 001A and STA 013 recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00006"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1510",
+                "building": "Hart Hall",
+                "description": "Discussion",
+                "buildingCode": "HART",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01120"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ESP 160 A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "40470",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "The Policy Process",
+            "subjectDesc": "Environmental Science & Policy",
+            "courseNum": "160",
+            "hidCRN": "40470",
+            "crn": "40470",
+            "subjectCode": "ESP"
+        },
+        "instructor": [
+            {
+                "lastName": "Arnold",
+                "instructorName": "G. Arnold",
+                "firstName": "Gwen",
+                "instructorEmail": "gbarnold@ucdavis.edu",
+                "fullName": "Gwen Arnold"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Alternative models of public policymaking and application to case studies in the U.S. and California. ",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": " POL 001;  ECN 001A and STA 013 recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00006"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1610",
+                "building": "Hart Hall",
+                "description": "Discussion",
+                "buildingCode": "HART",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01128"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ESP 160 A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "40471",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "The Policy Process",
+            "subjectDesc": "Environmental Science & Policy",
+            "courseNum": "160",
+            "hidCRN": "40471",
+            "crn": "40471",
+            "subjectCode": "ESP"
+        },
+        "instructor": [
+            {
+                "lastName": "Arnold",
+                "instructorName": "G. Arnold",
+                "firstName": "Gwen",
+                "instructorEmail": "gbarnold@ucdavis.edu",
+                "fullName": "Gwen Arnold"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Alternative models of public policymaking and application to case studies in the U.S. and California. ",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": " POL 001;  ECN 001A and STA 013 recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00006"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1710",
+                "building": "Hart Hall",
+                "description": "Discussion",
+                "buildingCode": "HART",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01128"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ESP 160 A05",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A05",
+            "printCRN": "40472",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "The Policy Process",
+            "subjectDesc": "Environmental Science & Policy",
+            "courseNum": "160",
+            "hidCRN": "40472",
+            "crn": "40472",
+            "subjectCode": "ESP"
+        },
+        "instructor": [
+            {
+                "lastName": "Arnold",
+                "instructorName": "G. Arnold",
+                "firstName": "Gwen",
+                "instructorEmail": "gbarnold@ucdavis.edu",
+                "fullName": "Gwen Arnold"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction for non-Law School students to some of the principal issues in environmental law and the judicial interpretation of some important environmental statutes, e.g., NEPA.",
+            "creditLimit": "",
+            "ge3": "SS,WE",
+            "crossListing": "",
+            "prereq": " Upper division standing; one course in environmental science or political science recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 20:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0900",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00267"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1930",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1810",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01003"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ESP 161 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "40473",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Environmental Law",
+            "subjectDesc": "Environmental Science & Policy",
+            "courseNum": "161",
+            "hidCRN": "40473",
+            "crn": "40473",
+            "subjectCode": "ESP"
+        },
+        "instructor": [
+            {
+                "lastName": "Winsor",
+                "instructorName": "T. Winsor",
+                "firstName": "Tracy",
+                "instructorEmail": "tlwinsor@ucdavis.edu",
+                "fullName": "Tracy Winsor"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction for non-Law School students to some of the principal issues in environmental law and the judicial interpretation of some important environmental statutes, e.g., NEPA.",
+            "creditLimit": "",
+            "ge3": "SS,WE",
+            "crossListing": "",
+            "prereq": " Upper division standing; one course in environmental science or political science recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 20:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1000",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00207"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1930",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1810",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01003"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ESP 161 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "40474",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Environmental Law",
+            "subjectDesc": "Environmental Science & Policy",
+            "courseNum": "161",
+            "hidCRN": "40474",
+            "crn": "40474",
+            "subjectCode": "ESP"
+        },
+        "instructor": [
+            {
+                "lastName": "Winsor",
+                "instructorName": "T. Winsor",
+                "firstName": "Tracy",
+                "instructorEmail": "tlwinsor@ucdavis.edu",
+                "fullName": "Tracy Winsor"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction for non-Law School students to some of the principal issues in environmental law and the judicial interpretation of some important environmental statutes, e.g., NEPA.",
+            "creditLimit": "",
+            "ge3": "SS,WE",
+            "crossListing": "",
+            "prereq": " Upper division standing; one course in environmental science or political science recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 20:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1100",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00207"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1930",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1810",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01003"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ESP 161 A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "40475",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Environmental Law",
+            "subjectDesc": "Environmental Science & Policy",
+            "courseNum": "161",
+            "hidCRN": "40475",
+            "crn": "40475",
+            "subjectCode": "ESP"
+        },
+        "instructor": [
+            {
+                "lastName": "Winsor",
+                "instructorName": "T. Winsor",
+                "firstName": "Tracy",
+                "instructorEmail": "tlwinsor@ucdavis.edu",
+                "fullName": "Tracy Winsor"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction for non-Law School students to some of the principal issues in environmental law and the judicial interpretation of some important environmental statutes, e.g., NEPA.",
+            "creditLimit": "",
+            "ge3": "SS,WE",
+            "crossListing": "",
+            "prereq": " Upper division standing; one course in environmental science or political science recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 20:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1210",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00261"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1930",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1810",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01003"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ESP 161 A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "40476",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Environmental Law",
+            "subjectDesc": "Environmental Science & Policy",
+            "courseNum": "161",
+            "hidCRN": "40476",
+            "crn": "40476",
+            "subjectCode": "ESP"
+        },
+        "instructor": [
+            {
+                "lastName": "Winsor",
+                "instructorName": "T. Winsor",
+                "firstName": "Tracy",
+                "instructorEmail": "tlwinsor@ucdavis.edu",
+                "fullName": "Tracy Winsor"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction for non-Law School students to some of the principal issues in environmental law and the judicial interpretation of some important environmental statutes, e.g., NEPA.",
+            "creditLimit": "",
+            "ge3": "SS,WE",
+            "crossListing": "",
+            "prereq": " Upper division standing; one course in environmental science or political science recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 20:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1310",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00101"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1930",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1810",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01003"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ESP 161 A05",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A05",
+            "printCRN": "40477",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Environmental Law",
+            "subjectDesc": "Environmental Science & Policy",
+            "courseNum": "161",
+            "hidCRN": "40477",
+            "crn": "40477",
+            "subjectCode": "ESP"
+        },
+        "instructor": [
+            {
+                "lastName": "Winsor",
+                "instructorName": "T. Winsor",
+                "firstName": "Tracy",
+                "instructorEmail": "tlwinsor@ucdavis.edu",
+                "fullName": "Tracy Winsor"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction for non-Law School students to some of the principal issues in environmental law and the judicial interpretation of some important environmental statutes, e.g., NEPA.",
+            "creditLimit": "",
+            "ge3": "SS,WE",
+            "crossListing": "",
+            "prereq": " Upper division standing; one course in environmental science or political science recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 20:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1410",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00101"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1930",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1810",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01003"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ESP 161 A06",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A06",
+            "printCRN": "40478",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Environmental Law",
+            "subjectDesc": "Environmental Science & Policy",
+            "courseNum": "161",
+            "hidCRN": "40478",
+            "crn": "40478",
+            "subjectCode": "ESP"
+        },
+        "instructor": [
+            {
+                "lastName": "Winsor",
+                "instructorName": "T. Winsor",
+                "firstName": "Tracy",
+                "instructorEmail": "tlwinsor@ucdavis.edu",
+                "fullName": "Tracy Winsor"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Continuation of ESP 168A. Emphasis on examination of the literature for applications of research & evaluation techniques to problems of transportation, air & water pollution, land use, and energy policy. ",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": " ESP 168A"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01218"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1100",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00159"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ESP 168B A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "40479",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Methods of Environmental Policy Evaluation",
+            "subjectDesc": "Environmental Science & Policy",
+            "courseNum": "168B",
+            "hidCRN": "40479",
+            "crn": "40479",
+            "subjectCode": "ESP"
+        },
+        "instructor": [
+            {
+                "lastName": "Cayar",
+                "instructorName": "S. Cayar",
+                "firstName": "Susan",
+                "instructorEmail": "scpike@ucdavis.edu",
+                "fullName": "Susan Cayar"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Continuation of ESP 168A. Emphasis on examination of the literature for applications of research & evaluation techniques to problems of transportation, air & water pollution, land use, and energy policy. ",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": " ESP 168A"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01218"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1210",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00159"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ESP 168B A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "40480",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Methods of Environmental Policy Evaluation",
+            "subjectDesc": "Environmental Science & Policy",
+            "courseNum": "168B",
+            "hidCRN": "40480",
+            "crn": "40480",
+            "subjectCode": "ESP"
+        },
+        "instructor": [
+            {
+                "lastName": "Cayar",
+                "instructorName": "S. Cayar",
+                "firstName": "Susan",
+                "instructorEmail": "scpike@ucdavis.edu",
+                "fullName": "Susan Cayar"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Continuation of ESP 168A. Emphasis on examination of the literature for applications of research & evaluation techniques to problems of transportation, air & water pollution, land use, and energy policy. ",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": " ESP 168A"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01218"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1310",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00159"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ESP 168B A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "40481",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Methods of Environmental Policy Evaluation",
+            "subjectDesc": "Environmental Science & Policy",
+            "courseNum": "168B",
+            "hidCRN": "40481",
+            "crn": "40481",
+            "subjectCode": "ESP"
+        },
+        "instructor": [
+            {
+                "lastName": "Cayar",
+                "instructorName": "S. Cayar",
+                "firstName": "Susan",
+                "instructorEmail": "scpike@ucdavis.edu",
+                "fullName": "Susan Cayar"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "How cities plan for growth in ways that minimize environmental harm. Standard city planning tools (general plan, zoning ordinance) and innovative new approaches. Focus on planning requirements and practices in California. Relationships between local, regional, state, and federal policy.",
+            "creditLimit": "",
+            "ge3": "SS,WE",
+            "crossListing": "",
+            "prereq": " ESP 001 or ESP 161 or ESP 179 recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1640",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01001"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0900",
+                "building": "Wickson Hall",
+                "description": "Discussion",
+                "buildingCode": "WICKSN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "02124"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ESP 171 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "40483",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Urban & Regional Planning",
+            "subjectDesc": "Environmental Science & Policy",
+            "courseNum": "171",
+            "hidCRN": "40483",
+            "crn": "40483",
+            "subjectCode": "ESP"
+        },
+        "instructor": [
+            {
+                "lastName": "Handy",
+                "instructorName": "S. Handy",
+                "firstName": "Susan",
+                "instructorEmail": "slhandy@ucdavis.edu",
+                "fullName": "Susan Handy"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "How cities plan for growth in ways that minimize environmental harm. Standard city planning tools (general plan, zoning ordinance) and innovative new approaches. Focus on planning requirements and practices in California. Relationships between local, regional, state, and federal policy.",
+            "creditLimit": "",
+            "ge3": "SS,WE",
+            "crossListing": "",
+            "prereq": " ESP 001 or ESP 161 or ESP 179 recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1640",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01001"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1000",
+                "building": "Wickson Hall",
+                "description": "Discussion",
+                "buildingCode": "WICKSN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "02124"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ESP 171 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "40484",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Urban & Regional Planning",
+            "subjectDesc": "Environmental Science & Policy",
+            "courseNum": "171",
+            "hidCRN": "40484",
+            "crn": "40484",
+            "subjectCode": "ESP"
+        },
+        "instructor": [
+            {
+                "lastName": "Handy",
+                "instructorName": "S. Handy",
+                "firstName": "Susan",
+                "instructorEmail": "slhandy@ucdavis.edu",
+                "fullName": "Susan Handy"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "How cities plan for growth in ways that minimize environmental harm. Standard city planning tools (general plan, zoning ordinance) and innovative new approaches. Focus on planning requirements and practices in California. Relationships between local, regional, state, and federal policy.",
+            "creditLimit": "",
+            "ge3": "SS,WE",
+            "crossListing": "",
+            "prereq": " ESP 001 or ESP 161 or ESP 179 recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1640",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01001"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1100",
+                "building": "Wickson Hall",
+                "description": "Discussion",
+                "buildingCode": "WICKSN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "02124"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ESP 171 A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "40485",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Urban & Regional Planning",
+            "subjectDesc": "Environmental Science & Policy",
+            "courseNum": "171",
+            "hidCRN": "40485",
+            "crn": "40485",
+            "subjectCode": "ESP"
+        },
+        "instructor": [
+            {
+                "lastName": "Handy",
+                "instructorName": "S. Handy",
+                "firstName": "Susan",
+                "instructorEmail": "slhandy@ucdavis.edu",
+                "fullName": "Susan Handy"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "How cities plan for growth in ways that minimize environmental harm. Standard city planning tools (general plan, zoning ordinance) and innovative new approaches. Focus on planning requirements and practices in California. Relationships between local, regional, state, and federal policy.",
+            "creditLimit": "",
+            "ge3": "SS,WE",
+            "crossListing": "",
+            "prereq": " ESP 001 or ESP 161 or ESP 179 recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1640",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01001"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1210",
+                "building": "Wickson Hall",
+                "description": "Discussion",
+                "buildingCode": "WICKSN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "02124"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ESP 171 A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "40486",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Urban & Regional Planning",
+            "subjectDesc": "Environmental Science & Policy",
+            "courseNum": "171",
+            "hidCRN": "40486",
+            "crn": "40486",
+            "subjectCode": "ESP"
+        },
+        "instructor": [
+            {
+                "lastName": "Handy",
+                "instructorName": "S. Handy",
+                "firstName": "Susan",
+                "instructorEmail": "slhandy@ucdavis.edu",
+                "fullName": "Susan Handy"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "How cities plan for growth in ways that minimize environmental harm. Standard city planning tools (general plan, zoning ordinance) and innovative new approaches. Focus on planning requirements and practices in California. Relationships between local, regional, state, and federal policy.",
+            "creditLimit": "",
+            "ge3": "SS,WE",
+            "crossListing": "",
+            "prereq": " ESP 001 or ESP 161 or ESP 179 recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1640",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01001"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1310",
+                "building": "Wickson Hall",
+                "description": "Discussion",
+                "buildingCode": "WICKSN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "02124"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ESP 171 A05",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A05",
+            "printCRN": "40487",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Urban & Regional Planning",
+            "subjectDesc": "Environmental Science & Policy",
+            "courseNum": "171",
+            "hidCRN": "40487",
+            "crn": "40487",
+            "subjectCode": "ESP"
+        },
+        "instructor": [
+            {
+                "lastName": "Handy",
+                "instructorName": "S. Handy",
+                "firstName": "Susan",
+                "instructorEmail": "slhandy@ucdavis.edu",
+                "fullName": "Susan Handy"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "How cities plan for growth in ways that minimize environmental harm. Standard city planning tools (general plan, zoning ordinance) and innovative new approaches. Focus on planning requirements and practices in California. Relationships between local, regional, state, and federal policy.",
+            "creditLimit": "",
+            "ge3": "SS,WE",
+            "crossListing": "",
+            "prereq": " ESP 001 or ESP 161 or ESP 179 recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1640",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01001"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1410",
+                "building": "Wickson Hall",
+                "description": "Discussion",
+                "buildingCode": "WICKSN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "02124"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ESP 171 A06",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A06",
+            "printCRN": "40488",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Urban & Regional Planning",
+            "subjectDesc": "Environmental Science & Policy",
+            "courseNum": "171",
+            "hidCRN": "40488",
+            "crn": "40488",
+            "subjectCode": "ESP"
+        },
+        "instructor": [
+            {
+                "lastName": "Handy",
+                "instructorName": "S. Handy",
+                "firstName": "Susan",
+                "instructorEmail": "slhandy@ucdavis.edu",
+                "fullName": "Susan Handy"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "How cities plan for growth in ways that minimize environmental harm. Standard city planning tools (general plan, zoning ordinance) and innovative new approaches. Focus on planning requirements and practices in California. Relationships between local, regional, state, and federal policy.",
+            "creditLimit": "",
+            "ge3": "SS,WE",
+            "crossListing": "",
+            "prereq": " ESP 001 or ESP 161 or ESP 179 recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1640",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01001"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1510",
+                "building": "Wickson Hall",
+                "description": "Discussion",
+                "buildingCode": "WICKSN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "02124"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ESP 171 A07",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A07",
+            "printCRN": "40489",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Urban & Regional Planning",
+            "subjectDesc": "Environmental Science & Policy",
+            "courseNum": "171",
+            "hidCRN": "40489",
+            "crn": "40489",
+            "subjectCode": "ESP"
+        },
+        "instructor": [
+            {
+                "lastName": "Handy",
+                "instructorName": "S. Handy",
+                "firstName": "Susan",
+                "instructorEmail": "slhandy@ucdavis.edu",
+                "fullName": "Susan Handy"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "How cities plan for growth in ways that minimize environmental harm. Standard city planning tools (general plan, zoning ordinance) and innovative new approaches. Focus on planning requirements and practices in California. Relationships between local, regional, state, and federal policy.",
+            "creditLimit": "",
+            "ge3": "SS,WE",
+            "crossListing": "",
+            "prereq": " ESP 001 or ESP 161 or ESP 179 recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1640",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01001"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1610",
+                "building": "Wickson Hall",
+                "description": "Discussion",
+                "buildingCode": "WICKSN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "02124"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ESP 171 A08",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A08",
+            "printCRN": "40490",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Urban & Regional Planning",
+            "subjectDesc": "Environmental Science & Policy",
+            "courseNum": "171",
+            "hidCRN": "40490",
+            "crn": "40490",
+            "subjectCode": "ESP"
+        },
+        "instructor": [
+            {
+                "lastName": "Handy",
+                "instructorName": "S. Handy",
+                "firstName": "Susan",
+                "instructorEmail": "slhandy@ucdavis.edu",
+                "fullName": "Susan Handy"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "How cities plan for growth in ways that minimize environmental harm. Standard city planning tools (general plan, zoning ordinance) and innovative new approaches. Focus on planning requirements and practices in California. Relationships between local, regional, state, and federal policy.",
+            "creditLimit": "",
+            "ge3": "SS,WE",
+            "crossListing": "",
+            "prereq": " ESP 001 or ESP 161 or ESP 179 recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1640",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01001"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1710",
+                "building": "Wickson Hall",
+                "description": "Discussion",
+                "buildingCode": "WICKSN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "02124"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ESP 171 A09",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A09",
+            "printCRN": "40491",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Urban & Regional Planning",
+            "subjectDesc": "Environmental Science & Policy",
+            "courseNum": "171",
+            "hidCRN": "40491",
+            "crn": "40491",
+            "subjectCode": "ESP"
+        },
+        "instructor": [
+            {
+                "lastName": "Handy",
+                "instructorName": "S. Handy",
+                "firstName": "Susan",
+                "instructorEmail": "slhandy@ucdavis.edu",
+                "fullName": "Susan Handy"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "History and frameworks of environmental justice; environmental justice policy; methods of spatial analysis. Emphasis on California and the United States.",
+            "creditLimit": "",
+            "ge3": "DD,SS,WE",
+            "crossListing": "",
+            "prereq": " ESP 001 or equivalent recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1710",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00101"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Walker Hall",
+                "description": "Lecture",
+                "buildingCode": "WALKER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01320"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ESP 174 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "40492",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Environmental Justice Policy & Practice",
+            "subjectDesc": "Environmental Science & Policy",
+            "courseNum": "174",
+            "hidCRN": "40492",
+            "crn": "40492",
+            "subjectCode": "ESP"
+        },
+        "instructor": [
+            {
+                "lastName": "Moore",
+                "instructorName": "D. Moore",
+                "firstName": "Dylan",
+                "instructorEmail": "dmoore@ucdavis.edu",
+                "fullName": "Dylan Moore"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "History and frameworks of environmental justice; environmental justice policy; methods of spatial analysis. Emphasis on California and the United States.",
+            "creditLimit": "",
+            "ge3": "DD,SS,WE",
+            "crossListing": "",
+            "prereq": " ESP 001 or equivalent recommended."
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1000",
+                "building": "Giedt",
+                "description": "Discussion",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01007"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Walker Hall",
+                "description": "Lecture",
+                "buildingCode": "WALKER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01320"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ESP 174 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "40493",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Environmental Justice Policy & Practice",
+            "subjectDesc": "Environmental Science & Policy",
+            "courseNum": "174",
+            "hidCRN": "40493",
+            "crn": "40493",
+            "subjectCode": "ESP"
+        },
+        "instructor": [
+            {
+                "lastName": "Moore",
+                "instructorName": "D. Moore",
+                "firstName": "Dylan",
+                "instructorEmail": "dmoore@ucdavis.edu",
+                "fullName": "Dylan Moore"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Economic concepts and policy issues associated with natural resources, renewable resources (ground water, forests, fisheries, and wildlife populations) and non-renewable resources (minerals and energy resources, soil).",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "ARE 175.",
+            "prereq": " ARE 100A C- or better or ECN 100AV C- or better or ECN 100A C- or better or ECN 100 C- or better"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "02218"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1210",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00003"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ESP 175 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "40494",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Natural Resource Economics",
+            "subjectDesc": "Environmental Science & Policy",
+            "courseNum": "175",
+            "hidCRN": "40494",
+            "crn": "40494",
+            "subjectCode": "ESP"
+        },
+        "instructor": [
+            {
+                "lastName": "Chen",
+                "instructorName": "M. Chen",
+                "firstName": "Mohan",
+                "instructorEmail": "mhnchen@ucdavis.edu",
+                "fullName": "Mohan Chen"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Economic concepts and policy issues associated with natural resources, renewable resources (ground water, forests, fisheries, and wildlife populations) and non-renewable resources (minerals and energy resources, soil).",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "ARE 175.",
+            "prereq": " ARE 100A C- or better or ECN 100AV C- or better or ECN 100A C- or better or ECN 100 C- or better"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "02218"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1310",
+                "building": "Teaching and Learning Complex",
+                "description": "Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "03211"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ESP 175 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "40495",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Natural Resource Economics",
+            "subjectDesc": "Environmental Science & Policy",
+            "courseNum": "175",
+            "hidCRN": "40495",
+            "crn": "40495",
+            "subjectCode": "ESP"
+        },
+        "instructor": [
+            {
+                "lastName": "Chen",
+                "instructorName": "M. Chen",
+                "firstName": "Mohan",
+                "instructorEmail": "mhnchen@ucdavis.edu",
+                "fullName": "Mohan Chen"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Continuation of ESP 191A. Teams conduct analyses of a specific issue in sustainable agriculture or food systems, prepare a critical assessment of technological, economic, environmental, and social dimensions of options for action and present their results to stakeholders.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " ESP 191A"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "",
+                "building": "",
+                "description": "Laboratory",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "LAB",
+                "room": ""
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1310",
+                "building": "Bainer Hall",
+                "description": "Lecture",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01132"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ESP 191B 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "40498",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Workshop on Food System Sustainability",
+            "subjectDesc": "Environmental Science & Policy",
+            "courseNum": "191B",
+            "hidCRN": "40498",
+            "crn": "40498",
+            "subjectCode": "ESP"
+        },
+        "instructor": [
+            {
+                "lastName": "Abou Najm",
+                "instructorName": "M. Abou Najm",
+                "firstName": "Majdi",
+                "instructorEmail": "mabounajm@ucdavis.edu",
+                "fullName": "Majdi Abou Najm"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Work experience off and on campus in all subject areas offered in the\nCollege of Agricultural and Environmental Sciences. Internships supervised by a member of the faculty.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Completion of 84 units. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "I",
+                "startTime": "",
+                "building": "",
+                "description": "Internship",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "INT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ESP 192",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Internship",
+            "subjectDesc": "Environmental Science & Policy",
+            "courseNum": "192",
+            "hidCRN": "094EC2C7E7",
+            "crn": "40499",
+            "subjectCode": "ESP"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed group study.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ESP 198",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study",
+            "subjectDesc": "Environmental Science & Policy",
+            "courseNum": "198",
+            "hidCRN": "094EC3CCEC",
+            "crn": "40522",
+            "subjectCode": "ESP"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed group study.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ESP 198",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "001",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study",
+            "subjectDesc": "Environmental Science & Policy",
+            "courseNum": "198",
+            "hidCRN": "094EC3CCED",
+            "crn": "40523",
+            "subjectCode": "ESP"
+        },
+        "instructor": [
+            {
+                "lastName": "Sih",
+                "instructorName": "A. Sih",
+                "firstName": "Andrew",
+                "instructorEmail": "asih@ucdavis.edu",
+                "fullName": "Andrew Sih"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special study for advanced undergraduates. May be taught abroad.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ESP 199",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Study for Advanced Undergraduates",
+            "subjectDesc": "Environmental Science & Policy",
+            "courseNum": "199",
+            "hidCRN": "094EC3CCE8",
+            "crn": "40526",
+            "subjectCode": "ESP"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special study for advanced undergraduates. May be taught abroad.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ESP 199",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "001",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Study for Advanced Undergraduates",
+            "subjectDesc": "Environmental Science & Policy",
+            "courseNum": "199",
+            "hidCRN": "094EC3CCE9",
+            "crn": "40527",
+            "subjectCode": "ESP"
+        },
+        "instructor": [
+            {
+                "lastName": "Meier",
+                "instructorName": "A. Meier",
+                "firstName": "Alan",
+                "instructorEmail": "akmeier@ucdavis.edu",
+                "fullName": "Alan Meier"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to selected theories of the policy process and applications to the field of environmental policy. Develops critical reading skills, understanding of policy theory, and an ability to apply multiple theories to the same phenomena.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "ECL 212A.",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Physics Building",
+                "description": "Lecture",
+                "buildingCode": "PHYSIC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00130"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1640",
+                "building": "Physics Building",
+                "description": "Discussion",
+                "buildingCode": "PHYSIC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00130"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ESP 212A 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56449",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Environmental Policy Process",
+            "subjectDesc": "Environmental Science & Policy",
+            "courseNum": "212A",
+            "hidCRN": "56449",
+            "crn": "56449",
+            "subjectCode": "ESP"
+        },
+        "instructor": [
+            {
+                "lastName": "Arnold",
+                "instructorName": "G. Arnold",
+                "firstName": "Gwen",
+                "instructorEmail": "gbarnold@ucdavis.edu",
+                "fullName": "Gwen Arnold"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Method and practice, philosophical basis, and political role of policy analysis. Reviews basic concepts from economic theory; how and why environmental problems emerge in a market economy; and tools necessary for solving environmental problems.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "ECL 212B, ENV 200B.",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1510",
+                "building": "Bainer Hall",
+                "description": "Lecture",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01060"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ESP 212B 002",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "002",
+            "printCRN": "56453",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Environmental Policy Evaluation",
+            "subjectDesc": "Environmental Science & Policy",
+            "courseNum": "212B",
+            "hidCRN": "56453",
+            "crn": "56453",
+            "subjectCode": "ESP"
+        },
+        "instructor": [
+            {
+                "lastName": "Springborn",
+                "instructorName": "M. Springborn",
+                "firstName": "Michael",
+                "instructorEmail": "mspringborn@ucdavis.edu",
+                "fullName": "Michael Springborn"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Development of externality theory, market failure concepts, welfare economics, theory of renewable and non-renewable resource use, and political economic models. Applications to policy issues regarding the agricultural/environment interface and managing resources in the public domain.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "ARE 275.",
+            "prereq": " ARE 204 or ECN 204"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1210",
+                "building": "Wellman Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LED",
+                "room": "00025"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "ESP 275 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "40531",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Economic Analysis of Resource & Environmental Policies",
+            "subjectDesc": "Environmental Science & Policy",
+            "courseNum": "275",
+            "hidCRN": "40531",
+            "crn": "40531",
+            "subjectCode": "ESP"
+        },
+        "instructor": [
+            {
+                "lastName": "Agerton",
+                "instructorName": "M. Agerton",
+                "firstName": "Mark",
+                "instructorEmail": "mjagerton@ucdavis.edu",
+                "fullName": "Mark Agerton"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed group study.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ESP 298",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study",
+            "subjectDesc": "Environmental Science & Policy",
+            "courseNum": "298",
+            "hidCRN": "094EC3CDEC",
+            "crn": "40532",
+            "subjectCode": "ESP"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Research.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Graduate standing."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ESP 299",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research",
+            "subjectDesc": "Environmental Science & Policy",
+            "courseNum": "299",
+            "hidCRN": "094EC3CDE8",
+            "crn": "40536",
+            "subjectCode": "ESP"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    }
+]

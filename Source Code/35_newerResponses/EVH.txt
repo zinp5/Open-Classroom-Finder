@@ -1,0 +1,68 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Classic and contemporary readings in environmental history, ecocriticism, environmental philosophy and ethics, geography, design, cultural anthropology, cultural studies, ecoarts, and other fields that make up the environmental humanities.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "E",
+                "startTime": "1310",
+                "building": "Voorhies Hall",
+                "description": "Seminar",
+                "buildingCode": "VRHIES",
+                "saturday": false,
+                "type": "SEM",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "EVH 200 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56229",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Interdisciplinary Readings in the Environmental Humanities",
+            "subjectDesc": "Environmental Humanities",
+            "courseNum": "200",
+            "hidCRN": "56229",
+            "crn": "56229",
+            "subjectCode": "EVH"
+        },
+        "instructor": [
+            {
+                "lastName": "Hsu",
+                "instructorName": "H. Hsu",
+                "firstName": "Hsuan",
+                "instructorEmail": "hlhsu@ucdavis.edu",
+                "fullName": "Hsuan Hsu"
+            }
+        ]
+    }
+]

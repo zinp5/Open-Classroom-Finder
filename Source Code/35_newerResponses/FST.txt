@@ -1,0 +1,4192 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Food science fundamentals. Fresh and processed food technologies; world food problems; food composition; food microbiological and toxicological safety; food laws; evaluation of acceptability and nutritional value. ",
+            "creditLimit": "Not open for credit to students who have completed any FST course, except FST 010.",
+            "ge3": "SE,VL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1510",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00129"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01001"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "FST 001 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "41849",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Principles of Food Science",
+            "subjectDesc": "Food Science & Technology",
+            "courseNum": "001",
+            "hidCRN": "41849",
+            "crn": "41849",
+            "subjectCode": "FST"
+        },
+        "instructor": [
+            {
+                "lastName": "Lungu",
+                "instructorName": "B. Lungu",
+                "firstName": "Bwalya",
+                "instructorEmail": "blungu@ucdavis.edu",
+                "fullName": "Bwalya Lungu"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Food science fundamentals. Fresh and processed food technologies; world food problems; food composition; food microbiological and toxicological safety; food laws; evaluation of acceptability and nutritional value. ",
+            "creditLimit": "Not open for credit to students who have completed any FST course, except FST 010.",
+            "ge3": "SE,VL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1510",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00151"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01001"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "FST 001 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "41850",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Principles of Food Science",
+            "subjectDesc": "Food Science & Technology",
+            "courseNum": "001",
+            "hidCRN": "41850",
+            "crn": "41850",
+            "subjectCode": "FST"
+        },
+        "instructor": [
+            {
+                "lastName": "Lungu",
+                "instructorName": "B. Lungu",
+                "firstName": "Bwalya",
+                "instructorEmail": "blungu@ucdavis.edu",
+                "fullName": "Bwalya Lungu"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Food science fundamentals. Fresh and processed food technologies; world food problems; food composition; food microbiological and toxicological safety; food laws; evaluation of acceptability and nutritional value. ",
+            "creditLimit": "Not open for credit to students who have completed any FST course, except FST 010.",
+            "ge3": "SE,VL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1710",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00267"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01001"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "FST 001 A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "41851",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Principles of Food Science",
+            "subjectDesc": "Food Science & Technology",
+            "courseNum": "001",
+            "hidCRN": "41851",
+            "crn": "41851",
+            "subjectCode": "FST"
+        },
+        "instructor": [
+            {
+                "lastName": "Lungu",
+                "instructorName": "B. Lungu",
+                "firstName": "Bwalya",
+                "instructorEmail": "blungu@ucdavis.edu",
+                "fullName": "Bwalya Lungu"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Food science fundamentals. Fresh and processed food technologies; world food problems; food composition; food microbiological and toxicological safety; food laws; evaluation of acceptability and nutritional value. ",
+            "creditLimit": "Not open for credit to students who have completed any FST course, except FST 010.",
+            "ge3": "SE,VL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1710",
+                "building": "Hart Hall",
+                "description": "Discussion",
+                "buildingCode": "HART",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01120"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01001"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "FST 001 A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "41852",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Principles of Food Science",
+            "subjectDesc": "Food Science & Technology",
+            "courseNum": "001",
+            "hidCRN": "41852",
+            "crn": "41852",
+            "subjectCode": "FST"
+        },
+        "instructor": [
+            {
+                "lastName": "Lungu",
+                "instructorName": "B. Lungu",
+                "firstName": "Bwalya",
+                "instructorEmail": "blungu@ucdavis.edu",
+                "fullName": "Bwalya Lungu"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Food science fundamentals. Fresh and processed food technologies; world food problems; food composition; food microbiological and toxicological safety; food laws; evaluation of acceptability and nutritional value. ",
+            "creditLimit": "Not open for credit to students who have completed any FST course, except FST 010.",
+            "ge3": "SE,VL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1410",
+                "building": "Social Science & Humanities",
+                "description": "Discussion",
+                "buildingCode": "SOCSCI",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00070"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01001"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "FST 001 A05",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A05",
+            "printCRN": "41853",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Principles of Food Science",
+            "subjectDesc": "Food Science & Technology",
+            "courseNum": "001",
+            "hidCRN": "41853",
+            "crn": "41853",
+            "subjectCode": "FST"
+        },
+        "instructor": [
+            {
+                "lastName": "Lungu",
+                "instructorName": "B. Lungu",
+                "firstName": "Bwalya",
+                "instructorEmail": "blungu@ucdavis.edu",
+                "fullName": "Bwalya Lungu"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Food science fundamentals. Fresh and processed food technologies; world food problems; food composition; food microbiological and toxicological safety; food laws; evaluation of acceptability and nutritional value. ",
+            "creditLimit": "Not open for credit to students who have completed any FST course, except FST 010.",
+            "ge3": "SE,VL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1410",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00117"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01001"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "FST 001 A06",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A06",
+            "printCRN": "41854",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Principles of Food Science",
+            "subjectDesc": "Food Science & Technology",
+            "courseNum": "001",
+            "hidCRN": "41854",
+            "crn": "41854",
+            "subjectCode": "FST"
+        },
+        "instructor": [
+            {
+                "lastName": "Lungu",
+                "instructorName": "B. Lungu",
+                "firstName": "Bwalya",
+                "instructorEmail": "blungu@ucdavis.edu",
+                "fullName": "Bwalya Lungu"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Food science fundamentals. Fresh and processed food technologies; world food problems; food composition; food microbiological and toxicological safety; food laws; evaluation of acceptability and nutritional value. ",
+            "creditLimit": "Not open for credit to students who have completed any FST course, except FST 010.",
+            "ge3": "SE,VL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "0900",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00159"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01001"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "FST 001 A07",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A07",
+            "printCRN": "41855",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Principles of Food Science",
+            "subjectDesc": "Food Science & Technology",
+            "courseNum": "001",
+            "hidCRN": "41855",
+            "crn": "41855",
+            "subjectCode": "FST"
+        },
+        "instructor": [
+            {
+                "lastName": "Lungu",
+                "instructorName": "B. Lungu",
+                "firstName": "Bwalya",
+                "instructorEmail": "blungu@ucdavis.edu",
+                "fullName": "Bwalya Lungu"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Food science fundamentals. Fresh and processed food technologies; world food problems; food composition; food microbiological and toxicological safety; food laws; evaluation of acceptability and nutritional value. ",
+            "creditLimit": "Not open for credit to students who have completed any FST course, except FST 010.",
+            "ge3": "SE,VL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1410",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00129"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01001"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "FST 001 A08",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A08",
+            "printCRN": "41856",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Principles of Food Science",
+            "subjectDesc": "Food Science & Technology",
+            "courseNum": "001",
+            "hidCRN": "41856",
+            "crn": "41856",
+            "subjectCode": "FST"
+        },
+        "instructor": [
+            {
+                "lastName": "Lungu",
+                "instructorName": "B. Lungu",
+                "firstName": "Bwalya",
+                "instructorEmail": "blungu@ucdavis.edu",
+                "fullName": "Bwalya Lungu"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Food science fundamentals. Fresh and processed food technologies; world food problems; food composition; food microbiological and toxicological safety; food laws; evaluation of acceptability and nutritional value. ",
+            "creditLimit": "Not open for credit to students who have completed any FST course, except FST 010.",
+            "ge3": "SE,VL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1210",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00244"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01001"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "FST 001 A09",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A09",
+            "printCRN": "41857",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Principles of Food Science",
+            "subjectDesc": "Food Science & Technology",
+            "courseNum": "001",
+            "hidCRN": "41857",
+            "crn": "41857",
+            "subjectCode": "FST"
+        },
+        "instructor": [
+            {
+                "lastName": "Lungu",
+                "instructorName": "B. Lungu",
+                "firstName": "Bwalya",
+                "instructorEmail": "blungu@ucdavis.edu",
+                "fullName": "Bwalya Lungu"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Food science fundamentals. Fresh and processed food technologies; world food problems; food composition; food microbiological and toxicological safety; food laws; evaluation of acceptability and nutritional value. ",
+            "creditLimit": "Not open for credit to students who have completed any FST course, except FST 010.",
+            "ge3": "SE,VL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1100",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00244"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01001"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "FST 001 A11",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A11",
+            "printCRN": "41859",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Principles of Food Science",
+            "subjectDesc": "Food Science & Technology",
+            "courseNum": "001",
+            "hidCRN": "41859",
+            "crn": "41859",
+            "subjectCode": "FST"
+        },
+        "instructor": [
+            {
+                "lastName": "Lungu",
+                "instructorName": "B. Lungu",
+                "firstName": "Bwalya",
+                "instructorEmail": "blungu@ucdavis.edu",
+                "fullName": "Bwalya Lungu"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Food science fundamentals. Fresh and processed food technologies; world food problems; food composition; food microbiological and toxicological safety; food laws; evaluation of acceptability and nutritional value. ",
+            "creditLimit": "Not open for credit to students who have completed any FST course, except FST 010.",
+            "ge3": "SE,VL",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1310",
+                "building": "Social Science & Humanities",
+                "description": "Discussion",
+                "buildingCode": "SOCSCI",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00070"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Giedt",
+                "description": "Lecture",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01001"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "FST 001 A12",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A12",
+            "printCRN": "41860",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Principles of Food Science",
+            "subjectDesc": "Food Science & Technology",
+            "courseNum": "001",
+            "hidCRN": "41860",
+            "crn": "41860",
+            "subjectCode": "FST"
+        },
+        "instructor": [
+            {
+                "lastName": "Lungu",
+                "instructorName": "B. Lungu",
+                "firstName": "Bwalya",
+                "instructorEmail": "blungu@ucdavis.edu",
+                "fullName": "Bwalya Lungu"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Relationship between food and culture; relationship between food and the social order; influences on eating habits and the tensions between them including identity, convenience, and responsibility; multiple disciplines and genres.",
+            "creditLimit": "",
+            "ge3": "AH,DD,SS,ACGH,WE",
+            "crossListing": "AMS 055.",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1510",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00123"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Peter A Rock Hall",
+                "description": "Lecture",
+                "buildingCode": "ROCK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00194"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "FST 055 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "41861",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Food in American Culture",
+            "subjectDesc": "Food Science & Technology",
+            "courseNum": "055",
+            "hidCRN": "41861",
+            "crn": "41861",
+            "subjectCode": "FST"
+        },
+        "instructor": [
+            {
+                "lastName": "Biltekoff",
+                "instructorName": "C. Biltekoff",
+                "firstName": "Charlotte",
+                "instructorEmail": "cbiltekoff@ucdavis.edu",
+                "fullName": "Charlotte Biltekoff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Relationship between food and culture; relationship between food and the social order; influences on eating habits and the tensions between them including identity, convenience, and responsibility; multiple disciplines and genres.",
+            "creditLimit": "",
+            "ge3": "AH,DD,SS,ACGH,WE",
+            "crossListing": "AMS 055.",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1610",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00123"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Peter A Rock Hall",
+                "description": "Lecture",
+                "buildingCode": "ROCK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00194"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "FST 055 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "41862",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Food in American Culture",
+            "subjectDesc": "Food Science & Technology",
+            "courseNum": "055",
+            "hidCRN": "41862",
+            "crn": "41862",
+            "subjectCode": "FST"
+        },
+        "instructor": [
+            {
+                "lastName": "Biltekoff",
+                "instructorName": "C. Biltekoff",
+                "firstName": "Charlotte",
+                "instructorEmail": "cbiltekoff@ucdavis.edu",
+                "fullName": "Charlotte Biltekoff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Relationship between food and culture; relationship between food and the social order; influences on eating habits and the tensions between them including identity, convenience, and responsibility; multiple disciplines and genres.",
+            "creditLimit": "",
+            "ge3": "AH,DD,SS,ACGH,WE",
+            "crossListing": "AMS 055.",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1710",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00123"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Peter A Rock Hall",
+                "description": "Lecture",
+                "buildingCode": "ROCK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00194"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "FST 055 A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "41863",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Food in American Culture",
+            "subjectDesc": "Food Science & Technology",
+            "courseNum": "055",
+            "hidCRN": "41863",
+            "crn": "41863",
+            "subjectCode": "FST"
+        },
+        "instructor": [
+            {
+                "lastName": "Biltekoff",
+                "instructorName": "C. Biltekoff",
+                "firstName": "Charlotte",
+                "instructorEmail": "cbiltekoff@ucdavis.edu",
+                "fullName": "Charlotte Biltekoff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Relationship between food and culture; relationship between food and the social order; influences on eating habits and the tensions between them including identity, convenience, and responsibility; multiple disciplines and genres.",
+            "creditLimit": "",
+            "ge3": "AH,DD,SS,ACGH,WE",
+            "crossListing": "AMS 055.",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1900",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1810",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00123"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Peter A Rock Hall",
+                "description": "Lecture",
+                "buildingCode": "ROCK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00194"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "FST 055 A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "41864",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Food in American Culture",
+            "subjectDesc": "Food Science & Technology",
+            "courseNum": "055",
+            "hidCRN": "41864",
+            "crn": "41864",
+            "subjectCode": "FST"
+        },
+        "instructor": [
+            {
+                "lastName": "Biltekoff",
+                "instructorName": "C. Biltekoff",
+                "firstName": "Charlotte",
+                "instructorEmail": "cbiltekoff@ucdavis.edu",
+                "fullName": "Charlotte Biltekoff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Relationship between food and culture; relationship between food and the social order; influences on eating habits and the tensions between them including identity, convenience, and responsibility; multiple disciplines and genres.",
+            "creditLimit": "",
+            "ge3": "AH,DD,SS,ACGH,WE",
+            "crossListing": "AMS 055.",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1510",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00123"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Peter A Rock Hall",
+                "description": "Lecture",
+                "buildingCode": "ROCK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00194"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "FST 055 A05",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A05",
+            "printCRN": "41865",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Food in American Culture",
+            "subjectDesc": "Food Science & Technology",
+            "courseNum": "055",
+            "hidCRN": "41865",
+            "crn": "41865",
+            "subjectCode": "FST"
+        },
+        "instructor": [
+            {
+                "lastName": "Biltekoff",
+                "instructorName": "C. Biltekoff",
+                "firstName": "Charlotte",
+                "instructorEmail": "cbiltekoff@ucdavis.edu",
+                "fullName": "Charlotte Biltekoff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Relationship between food and culture; relationship between food and the social order; influences on eating habits and the tensions between them including identity, convenience, and responsibility; multiple disciplines and genres.",
+            "creditLimit": "",
+            "ge3": "AH,DD,SS,ACGH,WE",
+            "crossListing": "AMS 055.",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1610",
+                "building": "Bainer Hall",
+                "description": "Discussion",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01128"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Peter A Rock Hall",
+                "description": "Lecture",
+                "buildingCode": "ROCK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00194"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "FST 055 A06",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A06",
+            "printCRN": "41866",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Food in American Culture",
+            "subjectDesc": "Food Science & Technology",
+            "courseNum": "055",
+            "hidCRN": "41866",
+            "crn": "41866",
+            "subjectCode": "FST"
+        },
+        "instructor": [
+            {
+                "lastName": "Biltekoff",
+                "instructorName": "C. Biltekoff",
+                "firstName": "Charlotte",
+                "instructorEmail": "cbiltekoff@ucdavis.edu",
+                "fullName": "Charlotte Biltekoff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Relationship between food and culture; relationship between food and the social order; influences on eating habits and the tensions between them including identity, convenience, and responsibility; multiple disciplines and genres.",
+            "creditLimit": "",
+            "ge3": "AH,DD,SS,ACGH,WE",
+            "crossListing": "AMS 055.",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1710",
+                "building": "Bainer Hall",
+                "description": "Discussion",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01128"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Peter A Rock Hall",
+                "description": "Lecture",
+                "buildingCode": "ROCK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00194"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "FST 055 A07",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A07",
+            "printCRN": "41867",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Food in American Culture",
+            "subjectDesc": "Food Science & Technology",
+            "courseNum": "055",
+            "hidCRN": "41867",
+            "crn": "41867",
+            "subjectCode": "FST"
+        },
+        "instructor": [
+            {
+                "lastName": "Biltekoff",
+                "instructorName": "C. Biltekoff",
+                "firstName": "Charlotte",
+                "instructorEmail": "cbiltekoff@ucdavis.edu",
+                "fullName": "Charlotte Biltekoff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Relationship between food and culture; relationship between food and the social order; influences on eating habits and the tensions between them including identity, convenience, and responsibility; multiple disciplines and genres.",
+            "creditLimit": "",
+            "ge3": "AH,DD,SS,ACGH,WE",
+            "crossListing": "AMS 055.",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1900",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1810",
+                "building": "Hickey Gymnasium",
+                "description": "Discussion",
+                "buildingCode": "H GYM",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00290"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Peter A Rock Hall",
+                "description": "Lecture",
+                "buildingCode": "ROCK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00194"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "FST 055 A08",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A08",
+            "printCRN": "41868",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Food in American Culture",
+            "subjectDesc": "Food Science & Technology",
+            "courseNum": "055",
+            "hidCRN": "41868",
+            "crn": "41868",
+            "subjectCode": "FST"
+        },
+        "instructor": [
+            {
+                "lastName": "Biltekoff",
+                "instructorName": "C. Biltekoff",
+                "firstName": "Charlotte",
+                "instructorEmail": "cbiltekoff@ucdavis.edu",
+                "fullName": "Charlotte Biltekoff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Relationship between food and culture; relationship between food and the social order; influences on eating habits and the tensions between them including identity, convenience, and responsibility; multiple disciplines and genres.",
+            "creditLimit": "",
+            "ge3": "AH,DD,SS,ACGH,WE",
+            "crossListing": "AMS 055.",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Peter A Rock Hall",
+                "description": "Lecture",
+                "buildingCode": "ROCK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00194"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1610",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00123"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "FST 055 A09",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A09",
+            "printCRN": "41869",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Food in American Culture",
+            "subjectDesc": "Food Science & Technology",
+            "courseNum": "055",
+            "hidCRN": "41869",
+            "crn": "41869",
+            "subjectCode": "FST"
+        },
+        "instructor": [
+            {
+                "lastName": "Biltekoff",
+                "instructorName": "C. Biltekoff",
+                "firstName": "Charlotte",
+                "instructorEmail": "cbiltekoff@ucdavis.edu",
+                "fullName": "Charlotte Biltekoff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Relationship between food and culture; relationship between food and the social order; influences on eating habits and the tensions between them including identity, convenience, and responsibility; multiple disciplines and genres.",
+            "creditLimit": "",
+            "ge3": "AH,DD,SS,ACGH,WE",
+            "crossListing": "AMS 055.",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Peter A Rock Hall",
+                "description": "Lecture",
+                "buildingCode": "ROCK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00194"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1710",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00123"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "FST 055 A10",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A10",
+            "printCRN": "41870",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Food in American Culture",
+            "subjectDesc": "Food Science & Technology",
+            "courseNum": "055",
+            "hidCRN": "41870",
+            "crn": "41870",
+            "subjectCode": "FST"
+        },
+        "instructor": [
+            {
+                "lastName": "Biltekoff",
+                "instructorName": "C. Biltekoff",
+                "firstName": "Charlotte",
+                "instructorEmail": "cbiltekoff@ucdavis.edu",
+                "fullName": "Charlotte Biltekoff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Relationship between food and culture; relationship between food and the social order; influences on eating habits and the tensions between them including identity, convenience, and responsibility; multiple disciplines and genres.",
+            "creditLimit": "",
+            "ge3": "AH,DD,SS,ACGH,WE",
+            "crossListing": "AMS 055.",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0900",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00229"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Peter A Rock Hall",
+                "description": "Lecture",
+                "buildingCode": "ROCK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00194"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "FST 055 A11",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A11",
+            "printCRN": "41871",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Food in American Culture",
+            "subjectDesc": "Food Science & Technology",
+            "courseNum": "055",
+            "hidCRN": "41871",
+            "crn": "41871",
+            "subjectCode": "FST"
+        },
+        "instructor": [
+            {
+                "lastName": "Biltekoff",
+                "instructorName": "C. Biltekoff",
+                "firstName": "Charlotte",
+                "instructorEmail": "cbiltekoff@ucdavis.edu",
+                "fullName": "Charlotte Biltekoff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Relationship between food and culture; relationship between food and the social order; influences on eating habits and the tensions between them including identity, convenience, and responsibility; multiple disciplines and genres.",
+            "creditLimit": "",
+            "ge3": "AH,DD,SS,ACGH,WE",
+            "crossListing": "AMS 055.",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1000",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00123"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Peter A Rock Hall",
+                "description": "Lecture",
+                "buildingCode": "ROCK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00194"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "FST 055 A12",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A12",
+            "printCRN": "41872",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Food in American Culture",
+            "subjectDesc": "Food Science & Technology",
+            "courseNum": "055",
+            "hidCRN": "41872",
+            "crn": "41872",
+            "subjectCode": "FST"
+        },
+        "instructor": [
+            {
+                "lastName": "Biltekoff",
+                "instructorName": "C. Biltekoff",
+                "firstName": "Charlotte",
+                "instructorEmail": "cbiltekoff@ucdavis.edu",
+                "fullName": "Charlotte Biltekoff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Relationship between food and culture; relationship between food and the social order; influences on eating habits and the tensions between them including identity, convenience, and responsibility; multiple disciplines and genres.",
+            "creditLimit": "",
+            "ge3": "AH,DD,SS,ACGH,WE",
+            "crossListing": "AMS 055.",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1100",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00123"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Peter A Rock Hall",
+                "description": "Lecture",
+                "buildingCode": "ROCK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00194"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "FST 055 A13",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A13",
+            "printCRN": "41873",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Food in American Culture",
+            "subjectDesc": "Food Science & Technology",
+            "courseNum": "055",
+            "hidCRN": "41873",
+            "crn": "41873",
+            "subjectCode": "FST"
+        },
+        "instructor": [
+            {
+                "lastName": "Biltekoff",
+                "instructorName": "C. Biltekoff",
+                "firstName": "Charlotte",
+                "instructorEmail": "cbiltekoff@ucdavis.edu",
+                "fullName": "Charlotte Biltekoff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Relationship between food and culture; relationship between food and the social order; influences on eating habits and the tensions between them including identity, convenience, and responsibility; multiple disciplines and genres.",
+            "creditLimit": "",
+            "ge3": "AH,DD,SS,ACGH,WE",
+            "crossListing": "AMS 055.",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1210",
+                "building": "Bainer Hall",
+                "description": "Discussion",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01060"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Peter A Rock Hall",
+                "description": "Lecture",
+                "buildingCode": "ROCK",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00194"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "FST 055 A14",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A14",
+            "printCRN": "41874",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Food in American Culture",
+            "subjectDesc": "Food Science & Technology",
+            "courseNum": "055",
+            "hidCRN": "41874",
+            "crn": "41874",
+            "subjectCode": "FST"
+        },
+        "instructor": [
+            {
+                "lastName": "Russek",
+                "instructorName": "A. Russek",
+                "firstName": "Audrey",
+                "instructorEmail": "asrussek@ucdavis.edu",
+                "fullName": "Audrey Russek"
+            },
+            {
+                "lastName": "Biltekoff",
+                "instructorName": "C. Biltekoff",
+                "firstName": "Charlotte",
+                "instructorEmail": "cbiltekoff@ucdavis.edu",
+                "fullName": "Charlotte Biltekoff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special study for undergraduates.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "FST 099",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Study for Undergraduates",
+            "subjectDesc": "Food Science & Technology",
+            "courseNum": "099",
+            "hidCRN": "094FCEC9EB",
+            "crn": "41875",
+            "subjectCode": "FST"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Cultural and morphological characteristics of microorganisms involved in food spoilage, in foodborne disease, and food fermentation. Analysis of microbiological quality of foods. May be taught abroad.",
+            "creditLimit": "",
+            "ge3": "QL,SE,VL,WE",
+            "crossListing": "",
+            "prereq": " BIS 002A;  BIS 103;  FST 104"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00119"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "C",
+                "startTime": "1310",
+                "building": "RMI South Lab Bldg",
+                "description": "Laboratory",
+                "buildingCode": "RMISOU",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01220"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0900",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00119"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "FST 104L A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "41911",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Food Microbiology Laboratory",
+            "subjectDesc": "Food Science & Technology",
+            "courseNum": "104L",
+            "hidCRN": "41911",
+            "crn": "41911",
+            "subjectCode": "FST"
+        },
+        "instructor": [
+            {
+                "lastName": "Mills",
+                "instructorName": "D. Mills",
+                "firstName": "David",
+                "instructorEmail": "damills@ucdavis.edu",
+                "fullName": "David Mills"
+            },
+            {
+                "lastName": "Marco",
+                "instructorName": "M. Marco",
+                "firstName": "Maria",
+                "instructorEmail": "mlmarco@ucdavis.edu",
+                "fullName": "Maria Marco"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Cultural and morphological characteristics of microorganisms involved in food spoilage, in foodborne disease, and food fermentation. Analysis of microbiological quality of foods. May be taught abroad.",
+            "creditLimit": "",
+            "ge3": "QL,SE,VL,WE",
+            "crossListing": "",
+            "prereq": " BIS 002A;  BIS 103;  FST 104"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00119"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0900",
+                "building": "RMI South Lab Bldg",
+                "description": "Laboratory",
+                "buildingCode": "RMISOU",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01220"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0900",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00119"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "FST 104L A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "41912",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Food Microbiology Laboratory",
+            "subjectDesc": "Food Science & Technology",
+            "courseNum": "104L",
+            "hidCRN": "41912",
+            "crn": "41912",
+            "subjectCode": "FST"
+        },
+        "instructor": [
+            {
+                "lastName": "Mills",
+                "instructorName": "D. Mills",
+                "firstName": "David",
+                "instructorEmail": "damills@ucdavis.edu",
+                "fullName": "David Mills"
+            },
+            {
+                "lastName": "Marco",
+                "instructorName": "M. Marco",
+                "firstName": "Maria",
+                "instructorEmail": "mlmarco@ucdavis.edu",
+                "fullName": "Maria Marco"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Cultural and morphological characteristics of microorganisms involved in food spoilage, in foodborne disease, and food fermentation. Analysis of microbiological quality of foods. May be taught abroad.",
+            "creditLimit": "",
+            "ge3": "QL,SE,VL,WE",
+            "crossListing": "",
+            "prereq": " BIS 002A;  BIS 103;  FST 104"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00119"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "C",
+                "startTime": "1310",
+                "building": "RMI South Lab Bldg",
+                "description": "Laboratory",
+                "buildingCode": "RMISOU",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01220"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0900",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00119"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "FST 104L A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "41913",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Food Microbiology Laboratory",
+            "subjectDesc": "Food Science & Technology",
+            "courseNum": "104L",
+            "hidCRN": "41913",
+            "crn": "41913",
+            "subjectCode": "FST"
+        },
+        "instructor": [
+            {
+                "lastName": "Mills",
+                "instructorName": "D. Mills",
+                "firstName": "David",
+                "instructorEmail": "damills@ucdavis.edu",
+                "fullName": "David Mills"
+            },
+            {
+                "lastName": "Marco",
+                "instructorName": "M. Marco",
+                "firstName": "Maria",
+                "instructorEmail": "mlmarco@ucdavis.edu",
+                "fullName": "Maria Marco"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Cultural and morphological characteristics of microorganisms involved in food spoilage, in foodborne disease, and food fermentation. Analysis of microbiological quality of foods. May be taught abroad.",
+            "creditLimit": "",
+            "ge3": "QL,SE,VL,WE",
+            "crossListing": "",
+            "prereq": " BIS 002A;  BIS 103;  FST 104"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00119"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0900",
+                "building": "RMI South Lab Bldg",
+                "description": "Laboratory",
+                "buildingCode": "RMISOU",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00000"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "0950",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "0900",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00119"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "FST 104L A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "41914",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Food Microbiology Laboratory",
+            "subjectDesc": "Food Science & Technology",
+            "courseNum": "104L",
+            "hidCRN": "41914",
+            "crn": "41914",
+            "subjectCode": "FST"
+        },
+        "instructor": [
+            {
+                "lastName": "Mills",
+                "instructorName": "D. Mills",
+                "firstName": "David",
+                "instructorEmail": "damills@ucdavis.edu",
+                "fullName": "David Mills"
+            },
+            {
+                "lastName": "Marco",
+                "instructorName": "M. Marco",
+                "firstName": "Maria",
+                "instructorEmail": "mlmarco@ucdavis.edu",
+                "fullName": "Maria Marco"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Laboratory exercises to gain experience with common food processing operations at the bench and pilot plant scales.",
+            "creditLimit": "",
+            "ge3": "QL,SE,SL,VL",
+            "crossListing": "",
+            "prereq": " FST 110 { can be concurrent }"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1100",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00223"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1630",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1340",
+                "building": "RMI Sensory Lab Bldg",
+                "description": "Laboratory",
+                "buildingCode": "RMISEN",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "FST 110L A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "41918",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Food Processing Laboratory",
+            "subjectDesc": "Food Science & Technology",
+            "courseNum": "110L",
+            "hidCRN": "41918",
+            "crn": "41918",
+            "subjectCode": "FST"
+        },
+        "instructor": [
+            {
+                "lastName": "Simmons",
+                "instructorName": "C. Simmons",
+                "firstName": "Christopher",
+                "instructorEmail": "cwsimmons@ucdavis.edu",
+                "fullName": "Christopher Simmons"
+            },
+            {
+                "lastName": "Bornhorst",
+                "instructorName": "G. Bornhorst",
+                "firstName": "Gail",
+                "instructorEmail": "gbornhorst@ucdavis.edu",
+                "fullName": "Gail Bornhorst"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Laboratory exercises to gain experience with common food processing operations at the bench and pilot plant scales.",
+            "creditLimit": "",
+            "ge3": "QL,SE,SL,VL",
+            "crossListing": "",
+            "prereq": " FST 110 { can be concurrent }"
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1310",
+                "building": "RMI Sensory Lab Bldg",
+                "description": "Laboratory",
+                "buildingCode": "RMISEN",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00000"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1100",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00223"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "FST 110L A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "41919",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Food Processing Laboratory",
+            "subjectDesc": "Food Science & Technology",
+            "courseNum": "110L",
+            "hidCRN": "41919",
+            "crn": "41919",
+            "subjectCode": "FST"
+        },
+        "instructor": [
+            {
+                "lastName": "Simmons",
+                "instructorName": "C. Simmons",
+                "firstName": "Christopher",
+                "instructorEmail": "cwsimmons@ucdavis.edu",
+                "fullName": "Christopher Simmons"
+            },
+            {
+                "lastName": "Bornhorst",
+                "instructorName": "G. Bornhorst",
+                "firstName": "Gail",
+                "instructorEmail": "gbornhorst@ucdavis.edu",
+                "fullName": "Gail Bornhorst"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Laboratory exercises to gain experience with common food processing operations at the bench and pilot plant scales.",
+            "creditLimit": "",
+            "ge3": "QL,SE,SL,VL",
+            "crossListing": "",
+            "prereq": " FST 110 { can be concurrent }"
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "0900",
+                "building": "RMI Sensory Lab Bldg",
+                "description": "Laboratory",
+                "buildingCode": "RMISEN",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00000"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "D",
+                "startTime": "1100",
+                "building": "Olson Hall",
+                "description": "Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00223"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "FST 110L A05",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A05",
+            "printCRN": "41920",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Food Processing Laboratory",
+            "subjectDesc": "Food Science & Technology",
+            "courseNum": "110L",
+            "hidCRN": "41920",
+            "crn": "41920",
+            "subjectCode": "FST"
+        },
+        "instructor": [
+            {
+                "lastName": "Simmons",
+                "instructorName": "C. Simmons",
+                "firstName": "Christopher",
+                "instructorEmail": "cwsimmons@ucdavis.edu",
+                "fullName": "Christopher Simmons"
+            },
+            {
+                "lastName": "Bornhorst",
+                "instructorName": "G. Bornhorst",
+                "firstName": "Gail",
+                "instructorEmail": "gbornhorst@ucdavis.edu",
+                "fullName": "Gail Bornhorst"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Physiology, biochemistry, and genetics of microorganisms important in food fermentations. How microorganisms are used in fermentations and how raw materials are converted into finished fermented foods and beverages.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "VEN 114.",
+            "prereq": " BIS 103;  MIC 102;  or Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1100",
+                "building": "Maria Manetti Shrem Art Hall",
+                "description": "Lecture",
+                "buildingCode": "MMSART",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00217"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "FST 114 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "41921",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Fermented Foods",
+            "subjectDesc": "Food Science & Technology",
+            "courseNum": "114",
+            "hidCRN": "41921",
+            "crn": "41921",
+            "subjectCode": "FST"
+        },
+        "instructor": [
+            {
+                "lastName": "Mills",
+                "instructorName": "D. Mills",
+                "firstName": "David",
+                "instructorEmail": "damills@ucdavis.edu",
+                "fullName": "David Mills"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Principles of physical, chemical and catalytic properties of enzymes and their importance. Purification, characterization, and quantitative evaluation of reaction conditions on activity are stressed. Specificity and mechanism of action illustrated by use of selected enzymes. (Former course BCP 123.)",
+            "creditLimit": "",
+            "ge3": "QL,SE,VL",
+            "crossListing": "",
+            "prereq": " FST 123L { can be concurrent };  BIS 102;  BIS 103"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Wickson Hall",
+                "description": "Lecture",
+                "buildingCode": "WICKSN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "01020"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "FST 123 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "41922",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introduction to Enzymology",
+            "subjectDesc": "Food Science & Technology",
+            "courseNum": "123",
+            "hidCRN": "41922",
+            "crn": "41922",
+            "subjectCode": "FST"
+        },
+        "instructor": [
+            {
+                "lastName": "Taha",
+                "instructorName": "A. Taha",
+                "firstName": "Ameer",
+                "instructorEmail": "ataha@ucdavis.edu",
+                "fullName": "Ameer Taha"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Chemistry and biochemistry of toxins occurring in foods, including plant and animal toxins, intentional and unintentional food additives. The assessment of food safety and toxic hazards.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "ETX 128.",
+            "prereq": " BIS 102;  BIS 103"
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MWF",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1000",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00147"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "FST 128 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "41925",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Food Toxicology",
+            "subjectDesc": "Food Science & Technology",
+            "courseNum": "128",
+            "hidCRN": "41925",
+            "crn": "41925",
+            "subjectCode": "FST"
+        },
+        "instructor": [
+            {
+                "lastName": "Nicklisch",
+                "instructorName": "S. Nicklisch",
+                "firstName": "Sascha",
+                "instructorEmail": "nicklisch@ucdavis.edu",
+                "fullName": "Sascha Nicklisch"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Product implementation stage of food product development including\npreliminary product description, prototype development, product testing, and formal presentation of a new product development.",
+            "creditLimit": "",
+            "ge3": "OL,SE,VL",
+            "crossListing": "",
+            "prereq": " FST 050;  FST 103;  FST 104;  FST 110"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "C",
+                "startTime": "1410",
+                "building": "RMI Sensory Lab Bldg",
+                "description": "Laboratory",
+                "buildingCode": "RMISEN",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00000"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MF",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "RMI Sensory Lab Bldg",
+                "description": "Lecture",
+                "buildingCode": "RMISEN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00000"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1210",
+                "building": "Giedt",
+                "description": "Discussion",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01006"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "FST 160 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "41927",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Food Product Development",
+            "subjectDesc": "Food Science & Technology",
+            "courseNum": "160",
+            "hidCRN": "41927",
+            "crn": "41927",
+            "subjectCode": "FST"
+        },
+        "instructor": [
+            {
+                "lastName": "Gravelle",
+                "instructorName": "A. Gravelle",
+                "firstName": "Andrew",
+                "instructorEmail": "agravelle@ucdavis.edu",
+                "fullName": "Andrew Gravelle"
+            },
+            {
+                "lastName": "Guinard",
+                "instructorName": "J. Guinard",
+                "firstName": "Jean-Xavier",
+                "instructorEmail": "jxguinard@ucdavis.edu",
+                "fullName": "Jean-Xavier Guinard"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Product implementation stage of food product development including\npreliminary product description, prototype development, product testing, and formal presentation of a new product development.",
+            "creditLimit": "",
+            "ge3": "OL,SE,VL",
+            "crossListing": "",
+            "prereq": " FST 050;  FST 103;  FST 104;  FST 110"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MF",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "RMI Sensory Lab Bldg",
+                "description": "Lecture",
+                "buildingCode": "RMISEN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00000"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1730",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1440",
+                "building": "RMI Sensory Lab Bldg",
+                "description": "Laboratory",
+                "buildingCode": "RMISEN",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00000"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1210",
+                "building": "Giedt",
+                "description": "Discussion",
+                "buildingCode": "GIEDT",
+                "saturday": false,
+                "type": "DIS",
+                "room": "01006"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "FST 160 A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "41929",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Food Product Development",
+            "subjectDesc": "Food Science & Technology",
+            "courseNum": "160",
+            "hidCRN": "41929",
+            "crn": "41929",
+            "subjectCode": "FST"
+        },
+        "instructor": [
+            {
+                "lastName": "Gravelle",
+                "instructorName": "A. Gravelle",
+                "firstName": "Andrew",
+                "instructorEmail": "agravelle@ucdavis.edu",
+                "fullName": "Andrew Gravelle"
+            },
+            {
+                "lastName": "Guinard",
+                "instructorName": "J. Guinard",
+                "firstName": "Jean-Xavier",
+                "instructorEmail": "jxguinard@ucdavis.edu",
+                "fullName": "Jean-Xavier Guinard"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Selected topics presented by students on recent advances in food science and technology. Reports and discussions concerning oral and written presentations, literature sources and career opportunities.",
+            "creditLimit": "",
+            "ge3": "OL,SE",
+            "crossListing": "",
+            "prereq": " Senior standing or consent of instructor.  "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1430",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "E",
+                "startTime": "1340",
+                "building": "RMI Sensory Lab Bldg",
+                "description": "Seminar",
+                "buildingCode": "RMISEN",
+                "saturday": false,
+                "type": "SEM",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "10 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "FST 190 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "41930",
+            "unitsHigh": 0,
+            "dropDate": "April, 11 2025 00:00:00",
+            "title": "Senior Seminar",
+            "subjectDesc": "Food Science & Technology",
+            "courseNum": "190",
+            "hidCRN": "41930",
+            "crn": "41930",
+            "subjectCode": "FST"
+        },
+        "instructor": [
+            {
+                "lastName": "Simmons",
+                "instructorName": "C. Simmons",
+                "firstName": "Christopher",
+                "instructorEmail": "cwsimmons@ucdavis.edu",
+                "fullName": "Christopher Simmons"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Work experience on or off campus in the practical application of food science.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "I",
+                "startTime": "",
+                "building": "",
+                "description": "Internship",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "INT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "FST 192",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Internship for Advanced Undergraduates",
+            "subjectDesc": "Food Science & Technology",
+            "courseNum": "192",
+            "hidCRN": "094FCFCDEF",
+            "crn": "41931",
+            "subjectCode": "FST"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed group study. May be taught abroad.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "FST 198",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study",
+            "subjectDesc": "Food Science & Technology",
+            "courseNum": "198",
+            "hidCRN": "094FCFC8EB",
+            "crn": "41965",
+            "subjectCode": "FST"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special study for advanced undergraduates. May be taught abroad.",
+            "creditLimit": "",
+            "ge3": "SE",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "FST 199",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Study for Advanced Undergraduates",
+            "subjectDesc": "Food Science & Technology",
+            "courseNum": "199",
+            "hidCRN": "094CC6CEEC",
+            "crn": "42002",
+            "subjectCode": "FST"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Principles and recent developments in food microbiology. Mechanisms of foodborne disease, pathogen detection, parameters of microbial growth and control in foods, intestinal microbiology including probiotics and prebiotics, and the microbiology of food and beverage fermentations. ",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Undergraduate level coursework in microbiology, or consent of instructor.\n"
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1340",
+                "building": "Hunt",
+                "description": "Lecture",
+                "buildingCode": "HUNT",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00110"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1210",
+                "building": "Physics Building",
+                "description": "Discussion",
+                "buildingCode": "PHYSIC",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00140"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "FST 204 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "42038",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Advanced Food Microbiology",
+            "subjectDesc": "Food Science & Technology",
+            "courseNum": "204",
+            "hidCRN": "42038",
+            "crn": "42038",
+            "subjectCode": "FST"
+        },
+        "instructor": [
+            {
+                "lastName": "Marco",
+                "instructorName": "M. Marco",
+                "firstName": "Maria",
+                "instructorEmail": "mlmarco@ucdavis.edu",
+                "fullName": "Maria Marco"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Seminar.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "E",
+                "startTime": "1210",
+                "building": "RMI South Lab Bldg",
+                "description": "Seminar",
+                "buildingCode": "RMISOU",
+                "saturday": false,
+                "type": "SEM",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "FST 290 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "42040",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Seminar",
+            "subjectDesc": "Food Science & Technology",
+            "courseNum": "290",
+            "hidCRN": "42040",
+            "crn": "42040",
+            "subjectCode": "FST"
+        },
+        "instructor": [
+            {
+                "lastName": "Nitin",
+                "instructorName": "N. Nitin",
+                "firstName": "Nitin",
+                "instructorEmail": "nnitin@ucdavis.edu",
+                "fullName": "Nitin Nitin"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Critical presentation and evaluation of original research by graduate students. Planning of research programs and proposals. Discussion led by individual major instructors for their research group.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Graduate standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "",
+                "building": "",
+                "description": "Discussion",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "DIS",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "FST 290C",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Advanced Research Conference",
+            "subjectDesc": "Food Science & Technology",
+            "courseNum": "290C",
+            "hidCRN": "094CC6CAEC",
+            "crn": "42042",
+            "subjectCode": "FST"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Oral presentation of student's original research, discussion, and critical evaluation.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " FST 290;  Completion of at least one quarter of FST 290. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "E",
+                "startTime": "1610",
+                "building": "RMI South Lab Bldg",
+                "description": "Seminar",
+                "buildingCode": "RMISOU",
+                "saturday": false,
+                "type": "SEM",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "FST 291 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "42076",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Advanced Food Science Seminar",
+            "subjectDesc": "Food Science & Technology",
+            "courseNum": "291",
+            "hidCRN": "42076",
+            "crn": "42076",
+            "subjectCode": "FST"
+        },
+        "instructor": [
+            {
+                "lastName": "Gravelle",
+                "instructorName": "A. Gravelle",
+                "firstName": "Andrew",
+                "instructorEmail": "agravelle@ucdavis.edu",
+                "fullName": "Andrew Gravelle"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Group study.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "FST 298",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Group Study",
+            "subjectDesc": "Food Science & Technology",
+            "courseNum": "298",
+            "hidCRN": "094CC6C9E9",
+            "crn": "42077",
+            "subjectCode": "FST"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Group study.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "",
+                "startTime": "",
+                "building": "",
+                "description": "",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "FST 298",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "006",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Group Study",
+            "subjectDesc": "Food Science & Technology",
+            "courseNum": "298",
+            "hidCRN": "094CC6C6EC",
+            "crn": "42082",
+            "subjectCode": "FST"
+        },
+        "instructor": [
+            {
+                "lastName": "",
+                "instructorName": ". ",
+                "firstName": "",
+                "instructorEmail": "",
+                "fullName": " "
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Research.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Graduate standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "FST 299",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research",
+            "subjectDesc": "Food Science & Technology",
+            "courseNum": "299",
+            "hidCRN": "094CC7CFEE",
+            "crn": "42110",
+            "subjectCode": "FST"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Teaching assistant training.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Graduate standing."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "FST 396",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 4,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Teaching Assistant Training Practicum",
+            "subjectDesc": "Food Science & Technology",
+            "courseNum": "396",
+            "hidCRN": "094CC7CAE9",
+            "crn": "42147",
+            "subjectCode": "FST"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    }
+]

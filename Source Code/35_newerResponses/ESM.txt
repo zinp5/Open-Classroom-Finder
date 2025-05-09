@@ -1,0 +1,650 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Instrumentation and methods for environmental and ecological monitoring; GPS, sensors, datalogging, and GIS. Wide range of measurement techniques for environmental parameters. ",
+            "creditLimit": "",
+            "ge3": "SE,SL",
+            "crossListing": "",
+            "prereq": " (MAT 017B or MAT 016B or MAT 019C or MAT 021B);  (STA 013 or STA 013Y or STA 100);  ESM 120;  (ESP 106 { can be concurrent } or LDA 150 { can be concurrent } or ABT 150 { can be concurrent })"
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1050",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "M",
+                "wednesday": false,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "1000",
+                "building": "Bainer Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "BAINER",
+                "saturday": false,
+                "type": "LED",
+                "room": "01132"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "F",
+                "startTime": "",
+                "building": "",
+                "description": "Fieldwork",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "FWK",
+                "room": ""
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1410",
+                "building": "Plant&Environmental Sci Bldg",
+                "description": "Lecture/Discussion",
+                "buildingCode": "PLESC",
+                "saturday": false,
+                "type": "LED",
+                "room": "01149"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1510",
+                "building": "Plant&Environmental Sci Bldg",
+                "description": "Laboratory",
+                "buildingCode": "PLESC",
+                "saturday": false,
+                "type": "LAB",
+                "room": "01149"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ESM 108 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "40405",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Environmental Monitoring",
+            "subjectDesc": "Environmental Sci & Management",
+            "courseNum": "108",
+            "hidCRN": "40405",
+            "crn": "40405",
+            "subjectCode": "ESM"
+        },
+        "instructor": [
+            {
+                "lastName": "Abou Najm",
+                "instructorName": "M. Abou Najm",
+                "firstName": "Majdi",
+                "instructorEmail": "mabounajm@ucdavis.edu",
+                "fullName": "Majdi Abou Najm"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Role of water as an essential natural resource in contemporary society. Aspects of the scientific method, including descriptions of natural phenomena and underlying physical causes. Water for cities, agriculture, industry, wildlife and recreation; case studies of water management.",
+            "creditLimit": "",
+            "ge3": "QL,SE,SL",
+            "crossListing": "",
+            "prereq": " PHY 010 or GEL 001"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1610",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00184"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1610",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00103"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ESM 121 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "56008",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Water Science & Management",
+            "subjectDesc": "Environmental Sci & Management",
+            "courseNum": "121",
+            "hidCRN": "56008",
+            "crn": "56008",
+            "subjectCode": "ESM"
+        },
+        "instructor": [
+            {
+                "lastName": "Sandoval Solis",
+                "instructorName": "S. Sandoval Solis",
+                "firstName": "Samuel",
+                "instructorEmail": "samsandoval@ucdavis.edu",
+                "fullName": "Samuel Sandoval Solis"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Role of water as an essential natural resource in contemporary society. Aspects of the scientific method, including descriptions of natural phenomena and underlying physical causes. Water for cities, agriculture, industry, wildlife and recreation; case studies of water management.",
+            "creditLimit": "",
+            "ge3": "QL,SE,SL",
+            "crossListing": "",
+            "prereq": " PHY 010 or GEL 001"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1610",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00184"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1510",
+                "building": "Social Science & Humanities",
+                "description": "Discussion",
+                "buildingCode": "SOCSCI",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00080"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ESM 121 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "56010",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Water Science & Management",
+            "subjectDesc": "Environmental Sci & Management",
+            "courseNum": "121",
+            "hidCRN": "56010",
+            "crn": "56010",
+            "subjectCode": "ESM"
+        },
+        "instructor": [
+            {
+                "lastName": "Sandoval Solis",
+                "instructorName": "S. Sandoval Solis",
+                "firstName": "Samuel",
+                "instructorEmail": "samsandoval@ucdavis.edu",
+                "fullName": "Samuel Sandoval Solis"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Role of water as an essential natural resource in contemporary society. Aspects of the scientific method, including descriptions of natural phenomena and underlying physical causes. Water for cities, agriculture, industry, wildlife and recreation; case studies of water management.",
+            "creditLimit": "",
+            "ge3": "QL,SE,SL",
+            "crossListing": "",
+            "prereq": " PHY 010 or GEL 001"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1610",
+                "building": "Young Hall",
+                "description": "Lecture",
+                "buildingCode": "YOUNG",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00184"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1710",
+                "building": "Hunt",
+                "description": "Discussion",
+                "buildingCode": "HUNT",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00110"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "ESM 121 A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "56012",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Water Science & Management",
+            "subjectDesc": "Environmental Sci & Management",
+            "courseNum": "121",
+            "hidCRN": "56012",
+            "crn": "56012",
+            "subjectCode": "ESM"
+        },
+        "instructor": [
+            {
+                "lastName": "Sandoval Solis",
+                "instructorName": "S. Sandoval Solis",
+                "firstName": "Samuel",
+                "instructorEmail": "samsandoval@ucdavis.edu",
+                "fullName": "Samuel Sandoval Solis"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Work experience off and on campus in resource sciences. Internship supervised by a member of the faculty.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Completion of 84 units. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "I",
+                "startTime": "",
+                "building": "",
+                "description": "Internship",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "INT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ESM 192",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Internship",
+            "subjectDesc": "Environmental Sci & Management",
+            "courseNum": "192",
+            "hidCRN": "094EC2CEE9",
+            "crn": "40407",
+            "subjectCode": "ESM"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Practical aspects of environmental improvement through integrated analyses of contemporary issues or problems associated with advocacy, regulation, science and resource management from the perspectives of the physical and ecological sciences and current policy/management. ",
+            "creditLimit": "",
+            "ge3": "SE,SS",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Senior status in Environmental Science & Management major or other environmental science major (e.g. Environmental Resource Science; Environmental Biology & Management; Environmental Toxicology; Environmental Policy Analysis & Planning; Wildlife, Fish, & Conservation Biology; Hydrologic Science). "
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1310",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture/Discussion",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LED",
+                "room": "02218"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "ESM 195 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "40440",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Integrating Environmental Science & Management",
+            "subjectDesc": "Environmental Sci & Management",
+            "courseNum": "195",
+            "hidCRN": "40440",
+            "crn": "40440",
+            "subjectCode": "ESM"
+        },
+        "instructor": [
+            {
+                "lastName": "Dong",
+                "instructorName": "X. Dong",
+                "firstName": "Xiaoli",
+                "instructorEmail": "xldong@ucdavis.edu",
+                "fullName": "Xiaoli Dong"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Practical aspects of environmental improvement through integrated analyses of contemporary issues or problems associated with advocacy, regulation, science and resource management from the perspectives of the physical and ecological sciences and current policy/management. ",
+            "creditLimit": "",
+            "ge3": "SE,SS",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Senior status in Environmental Science & Management major or other environmental science major (e.g. Environmental Resource Science; Environmental Biology & Management; Environmental Toxicology; Environmental Policy Analysis & Planning; Wildlife, Fish, & Conservation Biology; Hydrologic Science). "
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "B",
+                "startTime": "1410",
+                "building": "Shields Library",
+                "description": "Lecture/Discussion",
+                "buildingCode": "SHLDS",
+                "saturday": false,
+                "type": "LED",
+                "room": "00167"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 2,
+            "reservedSeating": false,
+            "shortDesc": "ESM 195 002",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "002",
+            "printCRN": "40441",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Integrating Environmental Science & Management",
+            "subjectDesc": "Environmental Sci & Management",
+            "courseNum": "195",
+            "hidCRN": "40441",
+            "crn": "40441",
+            "subjectCode": "ESM"
+        },
+        "instructor": [
+            {
+                "lastName": "Dong",
+                "instructorName": "X. Dong",
+                "firstName": "Xiaoli",
+                "instructorEmail": "xldong@ucdavis.edu",
+                "fullName": "Xiaoli Dong"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special study for advanced undergraduates.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "ESM 199",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Study for Advanced Undergraduates",
+            "subjectDesc": "Environmental Sci & Management",
+            "courseNum": "199",
+            "hidCRN": "094EC2CAEA",
+            "crn": "40444",
+            "subjectCode": "ESM"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    }
+]

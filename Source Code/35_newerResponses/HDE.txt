@@ -1,0 +1,2188 @@
+[
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Vocabulary, structure/function of reproductive system; sexual response; pre-natal development; pregnancy and childbirth; development of sexuality; rape and sexual assault; birth control; sexually transmitted diseases; homosexuality; establishing/maintaining intimacy; sexual dysfunctions; communication; enhancing sexual interaction, cultural differences in attitudes towards sexuality.",
+            "creditLimit": "",
+            "ge3": "DD,SS,ACGH",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 18:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1640",
+                "building": "Khaira Lecture Hall",
+                "description": "Lecture",
+                "buildingCode": "KHAIRA",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00123"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "HDE 012 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "42994",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Human Sexuality",
+            "subjectDesc": "Human Development",
+            "courseNum": "012",
+            "hidCRN": "42994",
+            "crn": "42994",
+            "subjectCode": "HDE"
+        },
+        "instructor": [
+            {
+                "lastName": "Rapalyea",
+                "instructorName": "L. Rapalyea",
+                "firstName": "Lisa",
+                "instructorEmail": "llrapalyea@ucdavis.edu",
+                "fullName": "Lisa Rapalyea"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Supervised internship, off campus and on campus, in community and institutional setting. Involves progressively greater (supervised) participation in program delivery or assessment.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Field work experience or at least one course related to fieldwork assignment (e.g. HDE 100A, HDE 100B, HDE 140 or HDE 140L)."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "I",
+                "startTime": "",
+                "building": "",
+                "description": "Internship",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "INT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "HDE 092",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Internship",
+            "subjectDesc": "Human Development",
+            "courseNum": "092",
+            "hidCRN": "094CCFC7EB",
+            "crn": "42995",
+            "subjectCode": "HDE"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Directed group study for undergraduates.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "HDE 098",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Directed Group Study for Undergraduates",
+            "subjectDesc": "Human Development",
+            "courseNum": "098",
+            "hidCRN": "094DC6CFEE",
+            "crn": "43010",
+            "subjectCode": "HDE"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special study for undergraduates.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "HDE 099",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Study for Undergraduates",
+            "subjectDesc": "Human Development",
+            "courseNum": "099",
+            "hidCRN": "094DC6CFEF",
+            "crn": "43011",
+            "subjectCode": "HDE"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Interplay of biological and social-cultural factors in the emotional, cognitive and social development from middle childhood through adolescence.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " (HDE 100A or HDE 100AV or PSC 140 or PSC 140V or PSC 140Y);  (PSC 001 or PSC 001V or PSC 001Y)"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 20:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2100",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1910",
+                "building": "Max Kleiber Hall",
+                "description": "Lecture",
+                "buildingCode": "KLEIBR",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00003"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "HDE 100B 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "43030",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Middle Childhood & Adolescence",
+            "subjectDesc": "Human Development",
+            "courseNum": "100B",
+            "hidCRN": "43030",
+            "crn": "43030",
+            "subjectCode": "HDE"
+        },
+        "instructor": [
+            {
+                "lastName": "Gonzalez",
+                "instructorName": "H. Gonzalez",
+                "firstName": "Henry",
+                "instructorEmail": "hgonzalez@ucdavis.edu",
+                "fullName": "Henry Gonzalez"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Development during early, middle, and late adulthood; biological, cognitive, and psycho-social aspects of adult development. Emphasis on normative patterns of development which characterize \"successful aging.\"",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " PSC 001 or PSC 001Y or PSC 001V"
+        },
+        "finalExam": {
+            "examDate": "June, 09 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1610",
+                "building": "Max Kleiber Hall",
+                "description": "Lecture",
+                "buildingCode": "KLEIBR",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00003"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "HDE 100C 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "43031",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Adulthood & Aging",
+            "subjectDesc": "Human Development",
+            "courseNum": "100C",
+            "hidCRN": "43031",
+            "crn": "43031",
+            "subjectCode": "HDE"
+        },
+        "instructor": [
+            {
+                "lastName": "Hollis",
+                "instructorName": "N. Hollis",
+                "firstName": "Nicole",
+                "instructorEmail": "ndhollis@ucdavis.edu",
+                "fullName": "Nicole Hollis"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Children's social contexts (e.g., family, peers, school, neighborhood, community culture), development, and environmental challenges (e.g., poverty, maltreatment) from birth through adolescence.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " HDE 100A or HDE 100AV or HDE 100B or PSC 140 or PSC 140Y or PSC 140V"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1330",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00006"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "HDE 104 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "43032",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Children in Families, Schools, Communities ",
+            "subjectDesc": "Human Development",
+            "courseNum": "104",
+            "hidCRN": "43032",
+            "crn": "43032",
+            "subjectCode": "HDE"
+        },
+        "instructor": [
+            {
+                "lastName": "Iaccopucci",
+                "instructorName": "A. Iaccopucci",
+                "firstName": "Anne",
+                "instructorEmail": "amiaccopucci@ucdavis.edu",
+                "fullName": "Anne Iaccopucci"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Theories and research associated with stressors affecting family functioning throughout the lifespan. Normative transitions and non-normative stressors, family services and family based policies and interventions.",
+            "creditLimit": "",
+            "ge3": "DD,SS,WE",
+            "crossListing": "",
+            "prereq": " HDE 110 or HDE 110V"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 08:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1020",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "0900",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "03215"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "HDE 111 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "43033",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Family Stress & Resilience",
+            "subjectDesc": "Human Development",
+            "courseNum": "111",
+            "hidCRN": "43033",
+            "crn": "43033",
+            "subjectCode": "HDE"
+        },
+        "instructor": [
+            {
+                "lastName": "Hibel",
+                "instructorName": "L. Hibel",
+                "firstName": "Leah",
+                "instructorEmail": "lchibel@ucdavis.edu",
+                "fullName": "Leah Hibel"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Scientific process, research designs, and experimental controls; APA manuscript style and scientific writing; statistical analysis and interpretation of results. Laboratory exercises to collect data, analyze and interpret results, and write scientific papers. ",
+            "creditLimit": "",
+            "ge3": "QL,SS,WE",
+            "crossListing": "",
+            "prereq": " STA 013 or STA 013Y or STA 013V or STA 100 or EDU 114 or PSC 041 or (SOC 046A,  SOC 046B)"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1410",
+                "building": "Hutchison Hall",
+                "description": "Laboratory",
+                "buildingCode": "HUTCH",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00075"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "03215"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "HDE 120 A01",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A01",
+            "printCRN": "43034",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research Methods in Human Development",
+            "subjectDesc": "Human Development",
+            "courseNum": "120",
+            "hidCRN": "43034",
+            "crn": "43034",
+            "subjectCode": "HDE"
+        },
+        "instructor": [
+            {
+                "lastName": "Huo",
+                "instructorName": "M. Huo",
+                "firstName": "Meng",
+                "instructorEmail": "mmhuo@ucdavis.edu",
+                "fullName": "Meng Huo"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Scientific process, research designs, and experimental controls; APA manuscript style and scientific writing; statistical analysis and interpretation of results. Laboratory exercises to collect data, analyze and interpret results, and write scientific papers. ",
+            "creditLimit": "",
+            "ge3": "QL,SS,WE",
+            "crossListing": "",
+            "prereq": " STA 013 or STA 013Y or STA 013V or STA 100 or EDU 114 or PSC 041 or (SOC 046A,  SOC 046B)"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2000",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "T",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1710",
+                "building": "Hutchison Hall",
+                "description": "Laboratory",
+                "buildingCode": "HUTCH",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00075"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "03215"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "HDE 120 A02",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A02",
+            "printCRN": "43035",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research Methods in Human Development",
+            "subjectDesc": "Human Development",
+            "courseNum": "120",
+            "hidCRN": "43035",
+            "crn": "43035",
+            "subjectCode": "HDE"
+        },
+        "instructor": [
+            {
+                "lastName": "Huo",
+                "instructorName": "M. Huo",
+                "firstName": "Meng",
+                "instructorEmail": "mmhuo@ucdavis.edu",
+                "fullName": "Meng Huo"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Scientific process, research designs, and experimental controls; APA manuscript style and scientific writing; statistical analysis and interpretation of results. Laboratory exercises to collect data, analyze and interpret results, and write scientific papers. ",
+            "creditLimit": "",
+            "ge3": "QL,SS,WE",
+            "crossListing": "",
+            "prereq": " STA 013 or STA 013Y or STA 013V or STA 100 or EDU 114 or PSC 041 or (SOC 046A,  SOC 046B)"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "03215"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1700",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1410",
+                "building": "Hutchison Hall",
+                "description": "Laboratory",
+                "buildingCode": "HUTCH",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00075"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "HDE 120 A03",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A03",
+            "printCRN": "43036",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research Methods in Human Development",
+            "subjectDesc": "Human Development",
+            "courseNum": "120",
+            "hidCRN": "43036",
+            "crn": "43036",
+            "subjectCode": "HDE"
+        },
+        "instructor": [
+            {
+                "lastName": "Huo",
+                "instructorName": "M. Huo",
+                "firstName": "Meng",
+                "instructorEmail": "mmhuo@ucdavis.edu",
+                "fullName": "Meng Huo"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Scientific process, research designs, and experimental controls; APA manuscript style and scientific writing; statistical analysis and interpretation of results. Laboratory exercises to collect data, analyze and interpret results, and write scientific papers. ",
+            "creditLimit": "",
+            "ge3": "QL,SS,WE",
+            "crossListing": "",
+            "prereq": " STA 013 or STA 013Y or STA 013V or STA 100 or EDU 114 or PSC 041 or (SOC 046A,  SOC 046B)"
+        },
+        "finalExam": {
+            "examDate": "June, 12 2025 10:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1900",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "1610",
+                "building": "Hutchison Hall",
+                "description": "Laboratory",
+                "buildingCode": "HUTCH",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00075"
+            },
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": true,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TR",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1030",
+                "building": "Teaching and Learning Complex",
+                "description": "Lecture",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "LEC",
+                "room": "03215"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 5,
+            "reservedSeating": false,
+            "shortDesc": "HDE 120 A04",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "A04",
+            "printCRN": "43037",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research Methods in Human Development",
+            "subjectDesc": "Human Development",
+            "courseNum": "120",
+            "hidCRN": "43037",
+            "crn": "43037",
+            "subjectCode": "HDE"
+        },
+        "instructor": [
+            {
+                "lastName": "Huo",
+                "instructorName": "M. Huo",
+                "firstName": "Meng",
+                "instructorEmail": "mmhuo@ucdavis.edu",
+                "fullName": "Meng Huo"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Positive developmental trajectories from womb to tomb. Developmental process of thriving (e.g., happiness, life satisfaction, wisdom) and the factors that support thriving.",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": " HDE 100A or HDE 100AV or HDE 100B or HDE 100C"
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 20:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "2000",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "0",
+                "startTime": "1810",
+                "building": "Online Learning Activity",
+                "description": "World Wide Web Virtual Lecture",
+                "buildingCode": "ONLINE",
+                "saturday": false,
+                "type": "WVL",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "HDE 131V 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "56034",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Thriving Across the Lifespan",
+            "subjectDesc": "Human Development",
+            "courseNum": "131V",
+            "hidCRN": "56034",
+            "crn": "56034",
+            "subjectCode": "HDE"
+        },
+        "instructor": [
+            {
+                "lastName": "Hernandez",
+                "instructorName": "M. Hernandez",
+                "firstName": "Maciel",
+                "instructorEmail": "mmhernandez@ucdavis.edu",
+                "fullName": "Maciel Hernandez"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Development of health-related behaviors and physical and mental health outcomes across the lifespan. Coping strategies and behaviors such as nutrition, physical activity, technology, substance use/abuse, and social and cognitive engagement, as related to developmental stage.",
+            "creditLimit": "",
+            "ge3": "SS",
+            "crossListing": "",
+            "prereq": " NPB 011 or NUT 010 or NUT 010V or NUT 010Y or SAS 013 or HDE 100A or HDE 100AV or HDE 100B or HDE 100C"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": true,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "F",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00006"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "HDE 135 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "43040",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Health Behaviors Across the Lifespan",
+            "subjectDesc": "Human Development",
+            "courseNum": "135",
+            "hidCRN": "43040",
+            "crn": "43040",
+            "subjectCode": "HDE"
+        },
+        "instructor": [
+            {
+                "lastName": "Falbe",
+                "instructorName": "J. Falbe",
+                "firstName": "Jennifer",
+                "instructorEmail": "jfalbe@ucdavis.edu",
+                "fullName": "Jennifer Falbe"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Application of theories of learning and development to interaction with infants, toddlers, and preschoolers at Early Childhood Laboratory. Applied skills in communication, guidance and curriculum.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " HDE 100A;  Consent of Instructor.  To enroll, students must contact the Internship Coordinator in 1303 Hart Hall."
+        },
+        "finalExam": {
+            "examDate": "June, 10 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1500",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1310",
+                "building": "",
+                "description": "Discussion",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "DIS",
+                "room": ""
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "",
+                "building": "Facility Assigned by Instr.",
+                "description": "Laboratory",
+                "buildingCode": "NOFAC",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "HDE 140L",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Laboratory in Early Childhood",
+            "subjectDesc": "Human Development",
+            "courseNum": "140L",
+            "hidCRN": "094DC6CAEF",
+            "crn": "43041",
+            "subjectCode": "HDE"
+        },
+        "instructor": [
+            {
+                "lastName": "Gonzalez",
+                "instructorName": "J. Gonzalez",
+                "firstName": "Jennifer",
+                "instructorEmail": "jsgonzalez@ucdavis.edu",
+                "fullName": "Jennifer Gonzalez"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Application of theories of learning and development to interaction with infants, toddlers, and preschoolers at Early Childhood Laboratory. Applied skills in communication, guidance and curriculum.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " HDE 100A;  Consent of Instructor.  To enroll, students must contact the Internship Coordinator in 1303 Hart Hall."
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1610",
+                "building": "Off Campus",
+                "description": "Discussion",
+                "buildingCode": "OFFCAM",
+                "saturday": false,
+                "type": "DIS",
+                "room": ""
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "",
+                "building": "Facility Assigned by Instr.",
+                "description": "Laboratory",
+                "buildingCode": "NOFAC",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "HDE 140L",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "002",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Laboratory in Early Childhood",
+            "subjectDesc": "Human Development",
+            "courseNum": "140L",
+            "hidCRN": "094DC6CAEC",
+            "crn": "43042",
+            "subjectCode": "HDE"
+        },
+        "instructor": [
+            {
+                "lastName": "Ganaden",
+                "instructorName": "D. Ganaden",
+                "firstName": "Dana",
+                "instructorEmail": "dganaden@ucdavis.edu",
+                "fullName": "Dana Ganaden"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Application of theories of learning and development to interaction with infants, toddlers, and preschoolers at Early Childhood Laboratory. Applied skills in communication, guidance and curriculum.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " HDE 100A;  Consent of Instructor.  To enroll, students must contact the Internship Coordinator in 1303 Hart Hall."
+        },
+        "finalExam": {
+            "examDate": "June, 11 2025 15:30:00"
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "1610",
+                "building": "Wellman Hall",
+                "description": "Discussion",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "DIS",
+                "room": "00229"
+            },
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "C",
+                "startTime": "",
+                "building": "Facility Assigned by Instr.",
+                "description": "Laboratory",
+                "buildingCode": "NOFAC",
+                "saturday": false,
+                "type": "LAB",
+                "room": "00000"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "HDE 140L",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "003",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Laboratory in Early Childhood",
+            "subjectDesc": "Human Development",
+            "courseNum": "140L",
+            "hidCRN": "094DC6CAED",
+            "crn": "43043",
+            "subjectCode": "HDE"
+        },
+        "instructor": [
+            {
+                "lastName": "Anderson",
+                "instructorName": "H. Anderson",
+                "firstName": "Hannah",
+                "instructorEmail": "hmminter@ucdavis.edu",
+                "fullName": "Hannah Anderson"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Study of children's affective, cognitive and social development within the context of family/school environments, hospitals and foster group homes.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " HDE 100A or HDE 100AV or HDE 100B;  and Consent of Instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1800",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "1610",
+                "building": "Olson Hall",
+                "description": "Variable",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "VAR",
+                "room": "00106"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "HDE 141",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "001",
+            "printCRN": "@",
+            "unitsHigh": 6,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Field Study With Children & Adolescents",
+            "subjectDesc": "Human Development",
+            "courseNum": "141",
+            "hidCRN": "094DC6CAEA",
+            "crn": "43044",
+            "subjectCode": "HDE"
+        },
+        "instructor": [
+            {
+                "lastName": "Iaccopucci",
+                "instructorName": "A. Iaccopucci",
+                "firstName": "Anne",
+                "instructorEmail": "amiaccopucci@ucdavis.edu",
+                "fullName": "Anne Iaccopucci"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "How the social context affects adult development and aging. Emphasis on demography, social policy, culture, and adaptation. Oral histories as class projects.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " HDE 100C"
+        },
+        "finalExam": {
+            "examDate": "June, 06 2025 13:00:00"
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1400",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "A",
+                "startTime": "1210",
+                "building": "Olson Hall",
+                "description": "Lecture",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00158"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "HDE 160 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55610",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Social Aspects of Aging",
+            "subjectDesc": "Human Development",
+            "courseNum": "160",
+            "hidCRN": "55610",
+            "crn": "55610",
+            "subjectCode": "HDE"
+        },
+        "instructor": [
+            {
+                "lastName": "Huo",
+                "instructorName": "M. Huo",
+                "firstName": "Meng",
+                "instructorEmail": "mmhuo@ucdavis.edu",
+                "fullName": "Meng Huo"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Instructors lead discussions with undergraduate students who involve themselves in a research project. Research papers are reviewed and aspects of project proposals developed out of class are presented and evaluated.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Involvement in ongoing research; consent of instructor. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "",
+                "building": "",
+                "description": "Discussion",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "DIS",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "HDE 190C",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Introductory Research Conference",
+            "subjectDesc": "Human Development",
+            "courseNum": "190C",
+            "hidCRN": "094DC6CAE8",
+            "crn": "43046",
+            "subjectCode": "HDE"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Supervised internship off and on campus, in community, and institutional\nsettings.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Upper division standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "I",
+                "startTime": "",
+                "building": "",
+                "description": "Internship",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "INT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "HDE 192",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Internship ",
+            "subjectDesc": "Human Development",
+            "courseNum": "192",
+            "hidCRN": "094DC6C8EF",
+            "crn": "43061",
+            "subjectCode": "HDE"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Assist the instructor of a Human Development course by tutoring individual students or small groups of students, leading voluntary discussion groups, or organizing other voluntary activities.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Upper division standing & completion of course to be tutored."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "",
+                "startTime": "",
+                "building": "",
+                "description": "",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "HDE 197T",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Peer Tutoring in Human Development",
+            "subjectDesc": "Human Development",
+            "courseNum": "197T",
+            "hidCRN": "094DC6C6E7",
+            "crn": "43089",
+            "subjectCode": "HDE"
+        },
+        "instructor": [
+            {
+                "lastName": "",
+                "instructorName": ". ",
+                "firstName": "",
+                "instructorEmail": "",
+                "fullName": " "
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Special study for advanced undergraduates.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "HDE 199",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Special Study for Advanced Undergraduates",
+            "subjectDesc": "Human Development",
+            "courseNum": "199",
+            "hidCRN": "094DC6C7EF",
+            "crn": "43091",
+            "subjectCode": "HDE"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Theory and research focusing on social, personality, cognitive, and biological development from early to late adulthood. Emphasis is on theory development and continuity and change.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1150",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "MW",
+                "wednesday": true,
+                "monday": true,
+                "meetCode": "B",
+                "startTime": "1000",
+                "building": "Olson Hall",
+                "description": "Lecture/Discussion",
+                "buildingCode": "OLSON",
+                "saturday": false,
+                "type": "LED",
+                "room": "00207"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "HDE 200C 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "43130",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Development in Adulthood",
+            "subjectDesc": "Human Development",
+            "courseNum": "200C",
+            "hidCRN": "43130",
+            "crn": "43130",
+            "subjectCode": "HDE"
+        },
+        "instructor": [
+            {
+                "lastName": "Miller",
+                "instructorName": "L. Miller",
+                "firstName": "Lisa",
+                "instructorEmail": "lmsmiller@ucdavis.edu",
+                "fullName": "Lisa Miller"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Introduction to longitudinal data manipulation, organization, description, and modeling in the multilevel modeling and structural equation modeling frameworks.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " PSC 204B;  Or equivalent graduate courses in statistics or consent of instructor; familiarity with multiple regression and the basics of matrix algebra."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1600",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "W",
+                "wednesday": true,
+                "monday": false,
+                "meetCode": "A",
+                "startTime": "1310",
+                "building": "Wellman Hall",
+                "description": "Lecture",
+                "buildingCode": "WELLMN",
+                "saturday": false,
+                "type": "LEC",
+                "room": "00235"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 4,
+            "reservedSeating": false,
+            "shortDesc": "HDE 205 001",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "001",
+            "printCRN": "55611",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Longitudinal Data Analysis",
+            "subjectDesc": "Human Development",
+            "courseNum": "205",
+            "hidCRN": "55611",
+            "crn": "55611",
+            "subjectCode": "HDE"
+        },
+        "instructor": [
+            {
+                "lastName": "Liu",
+                "instructorName": "S. Liu",
+                "firstName": "Siwei",
+                "instructorEmail": "sweliu@ucdavis.edu",
+                "fullName": "Siwei Liu"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Discussion and evaluation of theories, research, and issues in human development. Different topics each quarter.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "E",
+                "startTime": "",
+                "building": "",
+                "description": "Seminar",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "SEM",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 3,
+            "reservedSeating": false,
+            "shortDesc": "HDE 290",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Seminar",
+            "subjectDesc": "Human Development",
+            "courseNum": "290",
+            "hidCRN": "094DC7CDEC",
+            "crn": "43132",
+            "subjectCode": "HDE"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Supervising instructors lead research discussions with their graduate students. Research papers are reviewed and project proposals are presented and evaluated. ",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of Instructor.  Graduate standing. "
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "D",
+                "startTime": "",
+                "building": "",
+                "description": "Discussion",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "DIS",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "HDE 290C",
+            "gradeMode": "",
+            "unitsInd": "",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 0,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research Conference",
+            "subjectDesc": "Human Development",
+            "courseNum": "290C",
+            "hidCRN": "094DC7CDED",
+            "crn": "43133",
+            "subjectCode": "HDE"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Individually designed supervised internship, off campus, in community or institutional setting. Developed with advice of faculty mentor.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Consent of faculty (internship sponsor) and satisfactory completion of placement relevant course work, for example: EDU 213, EDU 216; HDE 222, HDE 242; LAW 272, LAW 273."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "I",
+                "startTime": "",
+                "building": "",
+                "description": "Internship",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "INT",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "HDE 292",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Graduate Internship",
+            "subjectDesc": "Human Development",
+            "courseNum": "292",
+            "hidCRN": "094DC7C8E9",
+            "crn": "43167",
+            "subjectCode": "HDE"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Group study.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": true,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "1300",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "R",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "1210",
+                "building": "Teaching and Learning Complex",
+                "description": "Variable",
+                "buildingCode": "TLC",
+                "saturday": false,
+                "type": "VAR",
+                "room": "03211"
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "HDE 298",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "001",
+            "printCRN": "@",
+            "unitsHigh": 5,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Group Study ",
+            "subjectDesc": "Human Development",
+            "courseNum": "298",
+            "hidCRN": "094DC7C6ED",
+            "crn": "43183",
+            "subjectCode": "HDE"
+        },
+        "instructor": [
+            {
+                "lastName": "Trzesniewski",
+                "instructorName": "K. Trzesniewski",
+                "firstName": "Kali",
+                "instructorEmail": "ktrz@ucdavis.edu",
+                "fullName": "Kali Trzesniewski"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Research.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": ""
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "HDE 299",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 12,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Research",
+            "subjectDesc": "Human Development",
+            "courseNum": "299",
+            "hidCRN": "094DC7C6EA",
+            "crn": "43184",
+            "subjectCode": "HDE"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    },
+    {
+        "courseDepartmentNotes": [],
+        "courseSubjectNotes": [],
+        "icmsData": {
+            "newDescription": "Teaching assistant training.",
+            "creditLimit": "",
+            "ge3": "",
+            "crossListing": "",
+            "prereq": " Graduate standing."
+        },
+        "finalExam": {
+            "examDate": ""
+        },
+        "meeting": [
+            {
+                "thursday": false,
+                "sunday": false,
+                "startDate": "March, 31 2025 00:00:00",
+                "endTime": "",
+                "tuesday": false,
+                "friday": false,
+                "endDate": "June, 05 2025 00:00:00",
+                "daysString": "TBA",
+                "wednesday": false,
+                "monday": false,
+                "meetCode": "V",
+                "startTime": "",
+                "building": "",
+                "description": "Variable",
+                "buildingCode": "",
+                "saturday": false,
+                "type": "VAR",
+                "room": ""
+            }
+        ],
+        "crnNotes": [],
+        "importantNotes": [],
+        "course": {
+            "termCode": "202503",
+            "dropDesc": "20 Day Drop",
+            "unitsLow": 1,
+            "reservedSeating": false,
+            "shortDesc": "HDE 396",
+            "gradeMode": "",
+            "unitsInd": "TO",
+            "seqNum": "000",
+            "printCRN": "@",
+            "unitsHigh": 4,
+            "dropDate": "April, 25 2025 00:00:00",
+            "title": "Teaching Assistant Training Practicum",
+            "subjectDesc": "Human Development",
+            "courseNum": "396",
+            "hidCRN": "094DC4CFE9",
+            "crn": "43217",
+            "subjectCode": "HDE"
+        },
+        "instructor": [
+            {
+                "lastName": "The Staff",
+                "instructorName": ".. The Staff",
+                "firstName": ".",
+                "instructorEmail": "",
+                "fullName": ". The Staff"
+            }
+        ]
+    }
+]
