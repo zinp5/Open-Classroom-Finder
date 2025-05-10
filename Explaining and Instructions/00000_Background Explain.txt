@@ -17,7 +17,7 @@ the cleaned can be displayed using python
 
 
 ------------------ basic html grabbing -----------------
-as said earlier, i use requests (and a healthy amount of chatgpt)
+as said earlier, i use requests
 
 Simply find the url you want to go to and make a request to it.
 
