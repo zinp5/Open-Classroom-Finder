@@ -27,7 +27,7 @@ print desired class
 2. (Parse course title html) Run "CourseTitlesParse.cpp", pipe "rawcoursetitles.txt" as input, pipe output to "CourseNamesParsed.txt" to folder of "LoopForSchedBuilderSearch.py"
 
 3. (Search schedule builder and grab time html's) Run "LoopForSchedBuildSearch.py" with "CourseNamesParsed.txt" in the same folder. Output will be in folder named "responses".
-		"responses" must exist before running. in the "responses" folder, there will be individual output for each course name
+		"responses" must exist before running. in the "responses" folder, the program will make individual output for each course name
 
 4. (Combine raw schedule response html) Run "UnparsedFileCombiner.py", manually edit input folderpath to wherever "responses" exists. Output file "UnparsedCombined.txt" will be placed in same folder as "UnparsedFileCombiner.py"
 
